@@ -1,0 +1,509 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+
+    margin: 0;
+    padding: 0;
+
+    font-family:
+        Inter,
+        Arial,
+        sans-serif;
+
+    background:
+        #0f172a;
+
+    color:
+        #f8fafc;
+}
+
+
+.container {
+
+    width: 90%;
+    max-width: 1200px;
+
+    margin:
+        auto;
+
+    padding:
+        30px 0;
+
+}
+
+
+
+/* NAVBAR */
+
+nav {
+
+    background:
+        #111827;
+
+    padding:
+        18px 30px;
+
+    display:
+        flex;
+
+    gap:
+        30px;
+
+    border-bottom:
+        1px solid #1e293b;
+
+}
+
+
+nav a {
+
+    color:
+        #94a3b8;
+
+    text-decoration:
+        none;
+
+    font-weight:
+        600;
+
+    transition:
+        .2s;
+
+}
+
+
+nav a:hover {
+
+    color:
+        #38bdf8;
+
+}
+
+
+
+/* HEADINGS */
+
+h1 {
+
+    font-size:
+        32px;
+
+    margin-bottom:
+        8px;
+
+}
+
+
+h2 {
+
+    margin-top:
+        10px;
+    margin-left:
+        5px;
+}
+
+
+p {
+
+    color:
+        #94a3b8;
+
+}
+
+
+
+/* CARDS */
+
+
+.stats {
+
+    display:
+        flex;
+
+    gap:
+        20px;
+
+    margin:
+        25px 0;
+
+}
+
+
+.card {
+
+    background:
+        #1e293b;
+
+    padding:
+        25px;
+
+    border-radius:
+        14px;
+
+    flex:
+        1;
+
+    border:
+        1px solid #334155;
+
+    box-shadow:
+        0 10px 25px rgba(0, 0, 0, .2);
+
+}
+
+
+.card h2 {
+
+    margin:
+        0;
+
+    font-size:
+        42px;
+
+    color:
+        #38bdf8;
+
+}
+
+
+
+/* SEARCH */
+
+
+form {
+
+    display:
+        flex;
+
+    gap:
+        10px;
+
+    margin:
+        25px 0;
+
+}
+
+
+input[type="text"] {
+
+    flex:
+        1;
+
+    padding:
+        14px;
+
+    border-radius:
+        8px;
+
+    border:
+        1px solid #334155;
+
+    background:
+        #1e293b;
+
+    color:
+        white;
+
+    font-size:
+        16px;
+
+}
+
+
+
+button {
+
+    padding:
+        14px 25px;
+
+    border:
+        none;
+
+    border-radius:
+        8px;
+
+    background:
+        #0284c7;
+
+    color:
+        white;
+
+    font-weight:
+        bold;
+
+    cursor:
+        pointer;
+
+}
+
+
+button:hover {
+
+    background:
+        #0369a1;
+
+}
+
+
+
+
+/* TABLES */
+
+
+table {
+
+    width:
+        100%;
+
+    border-collapse:
+        collapse;
+
+    background:
+        #1e293b;
+
+    border-radius:
+        12px;
+
+    overflow:
+        hidden;
+
+}
+
+
+th {
+
+    background:
+        #334155;
+
+    padding:
+        15px;
+
+    text-align:
+        left;
+
+}
+
+
+td {
+
+    padding:
+        14px;
+
+    border-bottom:
+        1px solid #334155;
+
+}
+
+
+tr:hover {
+
+    background:
+        #273449;
+
+}
+
+
+
+/* LINKS */
+
+
+a {
+
+    color:
+        #38bdf8;
+
+}
+
+
+
+/* GRADES */
+
+
+.grade {
+
+    padding:
+        5px 12px;
+
+    border-radius:
+        20px;
+
+    font-weight:
+        bold;
+
+}
+
+
+.grade-A {
+
+    background:
+        #16a34a;
+
+}
+
+
+.grade-B {
+
+    background:
+        #eab308;
+
+    color:
+        black;
+
+}
+
+
+.grade-C {
+
+    background:
+        #dc2626;
+
+}
+
+
+
+/* MOBILE */
+
+
+@media(max-width:700px) {
+
+    .stats {
+
+        flex-direction:
+            column;
+
+    }
+
+
+    form {
+
+        flex-direction:
+            column;
+
+    }
+
+
+    table {
+
+        font-size:
+            14px;
+
+    }
+
+}
+
+.app {
+
+    display: flex;
+    min-height: 100vh;
+
+}
+
+
+.sidebar {
+
+    width: 240px;
+
+    background: #5b7ec8;
+
+    padding: 25px;
+
+    border-right:
+        1px solid #334155;
+
+}
+
+
+.sidebar h2 {
+
+    color: #38bdf8;
+
+    margin-bottom: 30px;
+
+}
+
+
+.sidebar a {
+
+    display: block;
+
+    padding: 12px;
+
+    margin-bottom: 10px;
+
+    border-radius: 8px;
+
+}
+
+
+.sidebar a:hover {
+
+    background: #1e293b;
+
+}
+
+
+.content {
+
+    flex: 1;
+
+    padding: 30px;
+
+}
+
+
+.channels {
+
+    display: flex;
+    height: 100%;
+
+}
+
+
+.channels aside {
+
+    width: 220px;
+
+    background: #111827;
+
+    padding: 20px;
+
+    border-radius: 8px;
+
+}
+
+
+.channel {
+
+    margin-bottom: 10px;
+
+}
+
+
+.channel a {
+
+    color: #ffffff;
+
+    text-decoration: none;
+
+    font-weight: bold;
+
+}
+
+
+.channel a:hover {
+
+    color: #4da3ff;
+
+}
+
+
+.channel p {
+
+    color: #888;
+
+    font-size: 12px;
+
+}

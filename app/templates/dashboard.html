@@ -1,0 +1,96 @@
+{% extends "base.html" %}
+
+
+{% block title %}
+Dashboard
+{% endblock %}
+
+
+{% block content %}
+
+<h1>
+    Restaurant Inspection Dashboard
+</h1>
+<p>
+    Browse the latest inspsections and search inspection history by restaurant.
+</p>
+
+
+
+<div class="stats">
+
+    <div class="card">
+        <h2>{{total}}</h2>
+        <p>Inspections</p>
+    </div>
+
+
+    <div class="card">
+        <h2>{{sources|length}}</h2>
+        <p>Sources</p>
+    </div>
+
+</div>
+<form action="/restaurant" method="get">
+
+
+    <input type="text" name="name" placeholder="Search for a restaurant...">
+
+    <button type="submit">
+        Search
+    </button>
+
+</form>
+<h2>
+    Latest Inspections
+</h2>
+
+
+<table>
+
+    <tr>
+        <th>Restaurant</th>
+        <th>Date</th>
+        <th>Score</th>
+        <th>Grade</th>
+        <th>Source</th>
+        <th>Inspector</th>
+    </tr>
+
+
+    {% for item in inspections %}
+
+    <tr>
+
+        <td>
+            <a href="/restaurant?name={{item[0]}}">
+                {{item[0]}}
+            </a>
+        </td>
+
+        <td>{{item[1]}}</td>
+
+        <td>{{item[2]}}</td>
+
+        <td>
+            <span class="grade grade-{{item[3]}}">
+                {{item[3]}}
+            </span>
+        </td>
+
+        <td>{{item[4]}}</td>
+
+        <td>
+            <a href="/inspector?inspector_id={{item[5]}}">
+                {{item[5]}}
+            </a>
+        </td>
+
+    </tr>
+
+    {% endfor %}
+
+
+</table>
+
+{% endblock %}

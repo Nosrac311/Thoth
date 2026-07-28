@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+
+
+{% block title %}
+Inspector {{inspector_id}}
+{% endblock %}
+
+
+{% block content %}
+
+<h1>
+    Inspector {{inspector_id}}
+</h1>
+
+
+<div class="card">
+
+    <h2>
+        Statistics
+    </h2>
+
+    <p>
+        Total Inspections: {{stats[1]}}
+    </p>
+
+    <p>
+        Average Score: {{stats[2]}}
+    </p>
+
+</div>
+
+
+<div class="card">
+
+    <h2>
+        Recent Inspections
+    </h2>
+
+
+    <table>
+
+        <tr>
+            <th>Restaurant</th>
+            <th>Date</th>
+            <th>Score</th>
+            <th>Grade</th>
+        </tr>
+
+
+        {% for row in history %}
+
+        <tr>
+
+            <td>{{row[0]}}</td>
+            <td>{{row[1]}}</td>
+            <td>{{row[2]}}</td>
+            <td>{{row[3]}}</td>
+
+        </tr>
+
+        {% endfor %}
+
+
+    </table>
+
+</div>
+
+
+{% endblock %}
