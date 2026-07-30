@@ -10,6 +10,20 @@ def run_bot_process():
 
 def run_dashboard_process():
 
+    import os
+    import sys
+
+    base = os.path.dirname(
+        os.path.dirname(
+            os.path.abspath(__file__)
+        )
+    )
+
+    os.chdir(base)
+
+    if base not in sys.path:
+        sys.path.insert(0, base)
+
     from app.api import run_dashboard
 
     run_dashboard()

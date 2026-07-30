@@ -6,8 +6,6 @@ import multiprocessing
 from launcher.manager import ServiceManager
 from database import initialize_database
 
-initialize_database()
-
 
 manager = ServiceManager()
 
@@ -32,5 +30,7 @@ signal.signal(
 if __name__ == "__main__":
 
     multiprocessing.freeze_support()
+
+    initialize_database()
 
     main()

@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-from config import TOKEN
+from config import DISCORD_TOKEN
 from views.ticket_view import TicketView
 from monitor import monitor
 
@@ -117,7 +117,7 @@ async def main():
     print("Launching Discord connection")
 
     bot_task = asyncio.create_task(
-        bot.start(TOKEN)
+        bot.start(DISCORD_TOKEN)
     )
 
     await shutdown_event.wait()

@@ -1,9 +1,11 @@
 import os
+from dotenv import load_dotenv
 WATCHED_RESTAURANTS = {"KICKBACK JACK'S", "KICK BACK JACK'S"}
 NOTIFICATION_CHANNEL_ID = 1524147758628475063
 
+load_dotenv()
 
-DISCORD_TOKEN = os.getenv("DISCOR_TOKEN")
+DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 
 COUNTIES = {
     "PITT": {

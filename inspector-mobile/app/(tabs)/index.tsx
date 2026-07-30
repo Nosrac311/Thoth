@@ -9,7 +9,7 @@ import {
 } from "react-native";
 
 
-const API_URL = "http://192.168.0.4:8000";
+const API_URL = "https://thoth-u72b.onrender.com";
 
 type Inspection = {
   restaurant: string;

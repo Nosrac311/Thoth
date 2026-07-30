@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "inspector-mobile",
+    "name": "Thoth inspector",
     "slug": "inspector-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -9,7 +9,12 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifer": "com.nosrac.thothinspector",
+      "bundleIdentifier": "com.hagpag.inspectormobile",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -19,7 +24,8 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.hagpag.inspectormobile"
     },
     "web": {
       "output": "static",
@@ -43,6 +49,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "b68d0072-fb2e-4e53-a33f-80541deae079"
+      }
+    },
+    "owner": "hagpag"
   }
 }
