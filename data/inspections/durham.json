@@ -1,0 +1,6347 @@
+[
+  {
+    "id": "4032420363",
+    "date": "2026-09-29",
+    "name": "BROAD STREET CHILDREN'S COTTAGE",
+    "inspector_id": "3367",
+    "score": "12",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020988",
+    "date": "2026-09-29",
+    "name": "CIRCLE K #2723442 LITTLE CAESARS#2724245",
+    "inspector_id": "3229",
+    "score": "94.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032200039",
+    "date": "2026-09-29",
+    "name": "COMFORT INN",
+    "inspector_id": "3096",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430968",
+    "date": "2026-09-29",
+    "name": "CORNWALLIS GROUP HOME",
+    "inspector_id": "3547",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013200",
+    "date": "2026-09-29",
+    "name": "FARMSIDE KITCHEN",
+    "inspector_id": "3129",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013154",
+    "date": "2026-09-29",
+    "name": "FIREHOUSE SUBS",
+    "inspector_id": "3129",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011771",
+    "date": "2026-09-29",
+    "name": "JOE VAN GOGH",
+    "inspector_id": "3367",
+    "score": "94.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032440116",
+    "date": "2026-09-29",
+    "name": "KESTREL HEIGHTS",
+    "inspector_id": "2503",
+    "score": "98.50",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013039",
+    "date": "2026-09-29",
+    "name": "KICKBACK JACKS",
+    "inspector_id": "3547",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013219",
+    "date": "2026-09-29",
+    "name": "KWIK WOK",
+    "inspector_id": "3229",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110082",
+    "date": "2026-09-29",
+    "name": "LYONS FARM ELEMENTARY SCHOOL LUNCHROOM",
+    "inspector_id": "3457",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420626",
+    "date": "2026-09-29",
+    "name": "LYONS FARM ELEMENTARY SCHOOL PRE K",
+    "inspector_id": "3457",
+    "score": "5",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420271",
+    "date": "2026-09-29",
+    "name": "PRIMROSE SCHOOL AT HOPE VALLEY",
+    "inspector_id": "2574",
+    "score": "11",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013537",
+    "date": "2026-09-29",
+    "name": "SHEETZ #776",
+    "inspector_id": "3457",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013601",
+    "date": "2026-09-29",
+    "name": "SUBWAY #11873",
+    "inspector_id": "3229",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011454",
+    "date": "2026-09-29",
+    "name": "SUBWAY, TRIANGLE #12718",
+    "inspector_id": "2828",
+    "score": "94",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420370",
+    "date": "2026-09-28",
+    "name": "AL-HUDA ACADEMY",
+    "inspector_id": "3457",
+    "score": "10",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012615",
+    "date": "2026-09-28",
+    "name": "ALPACA",
+    "inspector_id": "3328",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013541",
+    "date": "2026-09-28",
+    "name": "ANGIE'S JAMAICAN GRILL",
+    "inspector_id": "3457",
+    "score": "93",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110002",
+    "date": "2026-09-28",
+    "name": "BURTON SCHOOL LUNCHROOM",
+    "inspector_id": "3229",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430709",
+    "date": "2026-09-28",
+    "name": "CARING HANDS PEBBLESTONE",
+    "inspector_id": "3229",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110006",
+    "date": "2026-09-28",
+    "name": "DURHAM SCHOOL OF THE ARTS",
+    "inspector_id": "3547",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110070",
+    "date": "2026-09-28",
+    "name": "DURHAM SCHOOL OF THE ARTS MIDDLE SCHOOL BUILDING",
+    "inspector_id": "3547",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012506",
+    "date": "2026-09-28",
+    "name": "HAPPY + HALE",
+    "inspector_id": "3328",
+    "score": "95",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300113",
+    "date": "2026-09-28",
+    "name": "HARRIS TEETER #491 MEAT/SEAFOOD",
+    "inspector_id": "3367",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420390",
+    "date": "2026-09-28",
+    "name": "MCCLAMMY'S KIDS ACADEMY/ AM",
+    "inspector_id": "3129",
+    "score": "2",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032440540",
+    "date": "2026-09-28",
+    "name": "NC GOOD BETTER BEST ACADEMY",
+    "inspector_id": "3457",
+    "score": "100",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110105",
+    "date": "2026-09-28",
+    "name": "RESEARCH TRIANGLE CHARTER ACADEMY LUNCHROOM",
+    "inspector_id": "3457",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021086",
+    "date": "2026-09-26",
+    "name": "EAST DUKE CONCESSIONS STAND # 114",
+    "inspector_id": "3328",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021087",
+    "date": "2026-09-26",
+    "name": "EAST DUKE CONCESSIONS STAND #113",
+    "inspector_id": "3328",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032060190",
+    "date": "2026-09-26",
+    "name": "EAST DUKE CONCESSIONS STAND #124",
+    "inspector_id": "3328",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030030",
+    "date": "2026-09-26",
+    "name": "SOUTHERN HARVEST MOBILE KITCHEN /SPROUT CAFE",
+    "inspector_id": "3547",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032060172",
+    "date": "2026-09-26",
+    "name": "WEST DUKE CONCESSIONS STAND# 129",
+    "inspector_id": "3547",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032060171",
+    "date": "2026-09-26",
+    "name": "WEST DUKE CONCESSIONS STAND#135",
+    "inspector_id": "3547",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420007",
+    "date": "2026-09-25",
+    "name": "BRIGHT HORIZONS AT NORTH DURHAM",
+    "inspector_id": "3129",
+    "score": "2",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013419",
+    "date": "2026-09-25",
+    "name": "CHECKERS #3881",
+    "inspector_id": "3367",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420644",
+    "date": "2026-09-25",
+    "name": "CHILDCARE NETWORK #166",
+    "inspector_id": "2828",
+    "score": "8",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012600",
+    "date": "2026-09-25",
+    "name": "COCOA CINNAMON",
+    "inspector_id": "3328",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013213",
+    "date": "2026-09-25",
+    "name": "DUNKIN DONUTS #353845",
+    "inspector_id": "2242",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013466",
+    "date": "2026-09-25",
+    "name": "PUBLIX #1817 - DELI",
+    "inspector_id": "3457",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032302568",
+    "date": "2026-09-25",
+    "name": "PUBLIX #1817 - MEAT MARKET",
+    "inspector_id": "3457",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021353",
+    "date": "2026-09-25",
+    "name": "PUBLIX #1817 - PRODUCE",
+    "inspector_id": "3457",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021386",
+    "date": "2026-09-25",
+    "name": "PUBLIX #1817 - SEAFOOD MARKET",
+    "inspector_id": "3457",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030997",
+    "date": "2026-09-25",
+    "name": "SEMAJ'S KITCHEN & CATERING SERVICE",
+    "inspector_id": "2574",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011626",
+    "date": "2026-09-25",
+    "name": "SUPER TARGET DELI 2069",
+    "inspector_id": "3367",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420608",
+    "date": "2026-09-25",
+    "name": "THE PLAYHOUSE EARLY ACADEMY",
+    "inspector_id": "3367",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430697",
+    "date": "2026-09-23",
+    "name": "ATHENS PLACE",
+    "inspector_id": "3229",
+    "score": "1",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010749",
+    "date": "2026-09-23",
+    "name": "BISCUITVILLE  160",
+    "inspector_id": "3367",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011048",
+    "date": "2026-09-23",
+    "name": "CHICK-FIL-A",
+    "inspector_id": "3129",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011724",
+    "date": "2026-09-23",
+    "name": "CHINA KITCHEN",
+    "inspector_id": "3457",
+    "score": "92.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012200",
+    "date": "2026-09-23",
+    "name": "CHIPOTLE MEXICAN GRILL",
+    "inspector_id": "2085",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021328",
+    "date": "2026-09-23",
+    "name": "COMMUNITY COOKS / HOMEGROWN DURM",
+    "inspector_id": "2574",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530045",
+    "date": "2026-09-23",
+    "name": "DUKE UNIVERSITY AQUATIC CTR DIVE",
+    "inspector_id": "3400",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530044",
+    "date": "2026-09-23",
+    "name": "DUKE UNIVERSITY AQUATIC CTR LAP",
+    "inspector_id": "3400",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530042",
+    "date": "2026-09-23",
+    "name": "DUKE UNIVERSITY-BRODIE EAST CAMPUS",
+    "inspector_id": "3400",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013787",
+    "date": "2026-09-23",
+    "name": "EAST OF TEXAS",
+    "inspector_id": "2828",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012212",
+    "date": "2026-09-23",
+    "name": "EL CORRAL MEXICAN RESTAURANT INC",
+    "inspector_id": "3367",
+    "score": "92",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110049",
+    "date": "2026-09-23",
+    "name": "FOREST VIEW LUNCHROOM",
+    "inspector_id": "3096",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012150",
+    "date": "2026-09-23",
+    "name": "HAMPTON INN & SUITES",
+    "inspector_id": "3547",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430119",
+    "date": "2026-09-23",
+    "name": "NIXON PLACE",
+    "inspector_id": "3229",
+    "score": "2",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430160",
+    "date": "2026-09-23",
+    "name": "THE SHERMAN HOUSE",
+    "inspector_id": "3229",
+    "score": "1",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012040",
+    "date": "2026-09-23",
+    "name": "WAFFLE HOUSE #844",
+    "inspector_id": "3457",
+    "score": "93",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430171",
+    "date": "2026-09-23",
+    "name": "WINBURN",
+    "inspector_id": "3229",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012516",
+    "date": "2026-09-22",
+    "name": "AKASHI",
+    "inspector_id": "3457",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032440131",
+    "date": "2026-09-22",
+    "name": "AL-HUDA ACADEMY",
+    "inspector_id": "3457",
+    "score": "98",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420370",
+    "date": "2026-09-22",
+    "name": "AL-HUDA ACADEMY",
+    "inspector_id": "3457",
+    "score": "10",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013701",
+    "date": "2026-09-22",
+    "name": "ASIAN KITCHEN",
+    "inspector_id": "3328",
+    "score": "81",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430986",
+    "date": "2026-09-22",
+    "name": "BRIDGING THE GAP - POPLAR ST",
+    "inspector_id": "3229",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430984",
+    "date": "2026-09-22",
+    "name": "BRIDGING THE GAP - TURKEY OAK",
+    "inspector_id": "3229",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430985",
+    "date": "2026-09-22",
+    "name": "BRIDGING THE GAP - WELL WATER",
+    "inspector_id": "3229",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012340",
+    "date": "2026-09-22",
+    "name": "COOK OUT",
+    "inspector_id": "3096",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430672",
+    "date": "2026-09-22",
+    "name": "FAYETTEVILLE STCOMM LIVING HOME @ N MAPLE",
+    "inspector_id": "3547",
+    "score": "2",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110071",
+    "date": "2026-09-22",
+    "name": "LAKEWOOD MONTESSORI SCHOOL LUNCHROOM",
+    "inspector_id": "3328",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110047",
+    "date": "2026-09-22",
+    "name": "LITTLE RIVER LUNCHROOM",
+    "inspector_id": "3129",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110023",
+    "date": "2026-09-22",
+    "name": "LOWES GROVE MIDDLE SCHOOL LUNCHROOM",
+    "inspector_id": "3457",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420094",
+    "date": "2026-09-22",
+    "name": "PRIMARY COLORS EARLY LEARNING CENTER",
+    "inspector_id": "3096",
+    "score": "31",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110011",
+    "date": "2026-09-22",
+    "name": "SHERWOOD GITHENS MIDDLE SCHOOL LUNCH",
+    "inspector_id": "2242",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032500117",
+    "date": "2026-09-22",
+    "name": "SOUTH SQUARE TOWNHOMES",
+    "inspector_id": "3310",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012138",
+    "date": "2026-09-21",
+    "name": "BULL AND BEAN, LLC",
+    "inspector_id": "3096",
+    "score": "88",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032060223",
+    "date": "2026-09-21",
+    "name": "CHEF'S KITCHEN",
+    "inspector_id": "3328",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032060147",
+    "date": "2026-09-21",
+    "name": "DUKE WEST UNION FARMSTEAD/SPROUT",
+    "inspector_id": "3328",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032440043",
+    "date": "2026-09-21",
+    "name": "GEORGE WATTS SCHOOL",
+    "inspector_id": "3547",
+    "score": "96",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531067",
+    "date": "2026-09-21",
+    "name": "HILTON GARDEN INN RTP",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010913",
+    "date": "2026-09-21",
+    "name": "JAMES JOYCE",
+    "inspector_id": "3547",
+    "score": "94",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013130",
+    "date": "2026-09-21",
+    "name": "NEOMONDE MEDITERRANEAN",
+    "inspector_id": "3547",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032440554",
+    "date": "2026-09-21",
+    "name": "NORTHERN HIGH SCHOOL",
+    "inspector_id": "3129",
+    "score": "94",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013061",
+    "date": "2026-09-21",
+    "name": "PINEY POINTE SEAFOOD",
+    "inspector_id": "3457",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012578",
+    "date": "2026-09-21",
+    "name": "POPS BACKDOOR SOUTH",
+    "inspector_id": "3096",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011638",
+    "date": "2026-09-21",
+    "name": "PULCINELLA",
+    "inspector_id": "3367",
+    "score": "92",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012172",
+    "date": "2026-09-21",
+    "name": "TROPICAL SMOOTHIE CAFE",
+    "inspector_id": "3457",
+    "score": "92",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530262",
+    "date": "2026-09-21",
+    "name": "UNITED THERAPEUTICS",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020085",
+    "date": "2026-09-18",
+    "name": "AFC ZENSHI",
+    "inspector_id": "3129",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013616",
+    "date": "2026-09-18",
+    "name": "BOXCAR BAR AND ARCADE",
+    "inspector_id": "3547",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420644",
+    "date": "2026-09-18",
+    "name": "CHILDCARE NETWORK #166",
+    "inspector_id": "2828",
+    "score": "27",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420155",
+    "date": "2026-09-18",
+    "name": "CREATIVE SCHOOL AT DAVIS PARK",
+    "inspector_id": "3457",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530077",
+    "date": "2026-09-18",
+    "name": "DOUBLETREE BY HILTON RDU AT RTP",
+    "inspector_id": "3496",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013722",
+    "date": "2026-09-18",
+    "name": "DRIFT COFFEE AND KITCHEN",
+    "inspector_id": "3457",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430753",
+    "date": "2026-09-18",
+    "name": "DURHAM WOMEN'S HALFWAY HOUSE",
+    "inspector_id": "2574",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030946",
+    "date": "2026-09-18",
+    "name": "GOOD 4 THE SOUL W / HOME GROWN DURM COMMISSARY",
+    "inspector_id": "3547",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430086",
+    "date": "2026-09-18",
+    "name": "HARVEST OF HOPE",
+    "inspector_id": "2574",
+    "score": "13",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430100",
+    "date": "2026-09-18",
+    "name": "KENWOOD DRIVE HOME",
+    "inspector_id": "3129",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110103",
+    "date": "2026-09-18",
+    "name": "MURRAY-MASSENBURG ELEMENTARY PUBLIC LUNCHROOM",
+    "inspector_id": "3457",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420059",
+    "date": "2026-09-18",
+    "name": "NINTH STREET KIN/ AM",
+    "inspector_id": "3547",
+    "score": "5",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013579",
+    "date": "2026-09-18",
+    "name": "PUBLIX  #1888 - DELI",
+    "inspector_id": "3129",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011397",
+    "date": "2026-09-18",
+    "name": "PUBLIX #1888 - MEAT & SEAFOOD MARKET",
+    "inspector_id": "3129",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012026",
+    "date": "2026-09-18",
+    "name": "TOBACCO ROAD SPORTS CAFE",
+    "inspector_id": "2503",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032431001",
+    "date": "2026-09-17",
+    "name": "ABANJAAH FAMILY CARE HOME",
+    "inspector_id": "3457",
+    "score": "5",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420602",
+    "date": "2026-09-17",
+    "name": "ABUNDANT LOVE CHRISTIAN DAYCARE",
+    "inspector_id": "2828",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530322",
+    "date": "2026-09-17",
+    "name": "BRIGHTLEAF ON MAIN",
+    "inspector_id": "2303",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032450002",
+    "date": "2026-09-17",
+    "name": "DURHAM CO DETENTION FACILITY",
+    "inspector_id": "2242",
+    "score": "13",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013565",
+    "date": "2026-09-17",
+    "name": "EMMY SQUARED PIZZA",
+    "inspector_id": "2574",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032200125",
+    "date": "2026-09-17",
+    "name": "EXTENDED STAY AMERICA #1570",
+    "inspector_id": "2503",
+    "score": "91",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531109",
+    "date": "2026-09-17",
+    "name": "HAVEN AT RTP",
+    "inspector_id": "3310",
+    "score": "10",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032200154",
+    "date": "2026-09-17",
+    "name": "HOMEWOOD SUITES LODGING",
+    "inspector_id": "3096",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011588",
+    "date": "2026-09-16",
+    "name": "CAROLINA ALE HOUSE",
+    "inspector_id": "3096",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032302571",
+    "date": "2026-09-16",
+    "name": "DURHAM AFRICAN AND CARIBBEAN MARKET",
+    "inspector_id": "2503",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530281",
+    "date": "2026-09-16",
+    "name": "HYATT PLACE - POOL",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013511",
+    "date": "2026-09-16",
+    "name": "INDIA GATE RESTAURANT",
+    "inspector_id": "3367",
+    "score": "94.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013721",
+    "date": "2026-09-16",
+    "name": "KABAB AND CURRY",
+    "inspector_id": "3328",
+    "score": "94",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530034",
+    "date": "2026-09-16",
+    "name": "MAA DUKE FOREST",
+    "inspector_id": "3400",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531186",
+    "date": "2026-09-16",
+    "name": "MAIZON DURHAM",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013406",
+    "date": "2026-09-16",
+    "name": "QUEENY'S RESTAURANT",
+    "inspector_id": "3547",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032200092",
+    "date": "2026-09-16",
+    "name": "SPRINGHILL SUITES RTP",
+    "inspector_id": "2242",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013806",
+    "date": "2026-09-15",
+    "name": "ADAM'S MEDITERRANEAN GRILL ALSTON AVE",
+    "inspector_id": "2828",
+    "score": "88",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032501088",
+    "date": "2026-09-15",
+    "name": "AVENTURA RTP - PHASE II",
+    "inspector_id": "2585",
+    "score": "2",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110001",
+    "date": "2026-09-15",
+    "name": "BROGDEN MIDDLE LUNCHROOM",
+    "inspector_id": "3547",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013186",
+    "date": "2026-09-15",
+    "name": "CAFE 300/ THRIVE KITCHEN",
+    "inspector_id": "3547",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020507",
+    "date": "2026-09-15",
+    "name": "CAPITAL SEAFOOD",
+    "inspector_id": "3229",
+    "score": "91",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011707",
+    "date": "2026-09-15",
+    "name": "CARRABBAS ITALIAN GRILL",
+    "inspector_id": "3096",
+    "score": "93.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012447",
+    "date": "2026-09-15",
+    "name": "CHUBBYS TACOS",
+    "inspector_id": "3367",
+    "score": "85.50",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032050007",
+    "date": "2026-09-15",
+    "name": "GORMAN CHRISTIAN ACADEMY",
+    "inspector_id": "3129",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110052",
+    "date": "2026-09-15",
+    "name": "HILLSIDE LUNCHROOM",
+    "inspector_id": "3457",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110020",
+    "date": "2026-09-15",
+    "name": "JORDAN HIGH SCHOOL LUNCHROOM",
+    "inspector_id": "3367",
+    "score": "91",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032031077",
+    "date": "2026-09-15",
+    "name": "KYA BAAT HAI !",
+    "inspector_id": "3328",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420610",
+    "date": "2026-09-15",
+    "name": "LITTLE KIDZ PRESCHOOL",
+    "inspector_id": "3367",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032440150",
+    "date": "2026-09-15",
+    "name": "MONTESSORI FARM SCHOOL",
+    "inspector_id": "3547",
+    "score": "100",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013022",
+    "date": "2026-09-15",
+    "name": "PANERA BREAD #1993",
+    "inspector_id": "3129",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110061",
+    "date": "2026-09-15",
+    "name": "W G PEARSON SCHOOL LUNCHROOM",
+    "inspector_id": "3457",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032611217",
+    "date": "2026-09-14",
+    "name": "BELLABROW MICROBLADING - LEEA CARVER",
+    "inspector_id": "3229",
+    "score": "",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013737",
+    "date": "2026-09-14",
+    "name": "DINO'S PIZZA",
+    "inspector_id": "3096",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012171",
+    "date": "2026-09-14",
+    "name": "DOUBLETREE BY HILTON RTP FOODSERVICE",
+    "inspector_id": "3457",
+    "score": "90",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032060145",
+    "date": "2026-09-14",
+    "name": "DUKE WEST UNION JB'S ROAST & CHOPS",
+    "inspector_id": "3328",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020451",
+    "date": "2026-09-14",
+    "name": "FOOD MART  16  THE",
+    "inspector_id": "3457",
+    "score": "94",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531096",
+    "date": "2026-09-14",
+    "name": "HAMPTON INN & SUITES CHAPEL HILL/DURHAM",
+    "inspector_id": "3310",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420375",
+    "date": "2026-09-14",
+    "name": "HILLANDALE ELEMENTARY SCHOOL PRE K",
+    "inspector_id": "3129",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110050",
+    "date": "2026-09-14",
+    "name": "HILLANDALE SCHOOL LUNCHROOM",
+    "inspector_id": "3129",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013702",
+    "date": "2026-09-14",
+    "name": "HOPE CAFE",
+    "inspector_id": "3367",
+    "score": "91",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012352",
+    "date": "2026-09-14",
+    "name": "LOS TRES MEXICAN RESTAURANT",
+    "inspector_id": "3457",
+    "score": "91.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530293",
+    "date": "2026-09-14",
+    "name": "PAUL J RIZZO CONFERENCE CENTER",
+    "inspector_id": "3310",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531024",
+    "date": "2026-09-14",
+    "name": "REPUBLIC FLATS",
+    "inspector_id": "3310",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012223",
+    "date": "2026-09-14",
+    "name": "SAKE BOMB",
+    "inspector_id": "3096",
+    "score": "94",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012631",
+    "date": "2026-09-14",
+    "name": "SHUCKIN SHACK OYSTER BAR",
+    "inspector_id": "2242",
+    "score": "90",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110039",
+    "date": "2026-09-14",
+    "name": "SOUTHWEST ELEMENTARY LUNCHROOM",
+    "inspector_id": "3367",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420002",
+    "date": "2026-09-14",
+    "name": "THE ASBURY PRE SCHOOL/ AM",
+    "inspector_id": "3547",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531114",
+    "date": "2026-09-11",
+    "name": "AUBURN SWIM CLUB MAIN",
+    "inspector_id": "2585",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032541115",
+    "date": "2026-09-11",
+    "name": "AUBURN SWIM CLUB WADING",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013800",
+    "date": "2026-09-11",
+    "name": "JERSEY MIKE'S SUBS",
+    "inspector_id": "3457",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021378",
+    "date": "2026-09-11",
+    "name": "MANGO INDIAN GRILL",
+    "inspector_id": "3547",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021417",
+    "date": "2026-09-11",
+    "name": "PATTY BOY",
+    "inspector_id": "3547",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032060231",
+    "date": "2026-09-11",
+    "name": "PENN AND PROPER",
+    "inspector_id": "2242",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012495",
+    "date": "2026-09-11",
+    "name": "STARBUCKS COFFEE 23693",
+    "inspector_id": "3129",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010238",
+    "date": "2026-09-11",
+    "name": "TROPICAL SMOOTHIE CAFE",
+    "inspector_id": "3129",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010886",
+    "date": "2026-09-11",
+    "name": "WAFFLE HOUSE",
+    "inspector_id": "3367",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032400051",
+    "date": "2026-09-10",
+    "name": "ACCORDIUS HEALTH AT ROSE MANOR",
+    "inspector_id": "3129",
+    "score": "98.50",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012156",
+    "date": "2026-09-10",
+    "name": "BUFFALO WILD WINGS",
+    "inspector_id": "3457",
+    "score": "92.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032400036",
+    "date": "2026-09-10",
+    "name": "CEDARS OF CHAPEL HILL",
+    "inspector_id": "3367",
+    "score": "98",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010899",
+    "date": "2026-09-10",
+    "name": "CRACKER BARREL  345",
+    "inspector_id": "3367",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531078",
+    "date": "2026-09-10",
+    "name": "CROWNE AT 501",
+    "inspector_id": "3310",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430074",
+    "date": "2026-09-10",
+    "name": "DURHAM MEN'S HALFWAY HOUSE",
+    "inspector_id": "3457",
+    "score": "5",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110009",
+    "date": "2026-09-10",
+    "name": "ENO VALLEY SCHOOL LUNCHROOM",
+    "inspector_id": "3129",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013626",
+    "date": "2026-09-10",
+    "name": "GOSSIP TEA LOUNGE",
+    "inspector_id": "3096",
+    "score": "91",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420262",
+    "date": "2026-09-10",
+    "name": "NEW LIFE CHILD DEVELOPMENT",
+    "inspector_id": "2828",
+    "score": "11",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530166",
+    "date": "2026-09-10",
+    "name": "THE MORGAN AT CHAPEL HILL",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420633",
+    "date": "2026-09-09",
+    "name": "CREATIVE CARE EARLY LEARNING ACADEMY",
+    "inspector_id": "3367",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013815",
+    "date": "2026-09-09",
+    "name": "FLAMING HILLS",
+    "inspector_id": "3367",
+    "score": "94",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032050009",
+    "date": "2026-09-09",
+    "name": "LIBERTY BAPTIST CHURCH SCHOOL LUNCH ROOM",
+    "inspector_id": "3129",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420143",
+    "date": "2026-09-09",
+    "name": "LIBERTY BAPTIST DAY CARE",
+    "inspector_id": "3129",
+    "score": "2",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110026",
+    "date": "2026-09-09",
+    "name": "MOREHEAD LUNCHROOM",
+    "inspector_id": "2503",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013618",
+    "date": "2026-09-09",
+    "name": "THAI ANGLE RESTAURANT",
+    "inspector_id": "2503",
+    "score": "87",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531172",
+    "date": "2026-09-08",
+    "name": "ASCEND BRIGHTLEAF APARTMENTS",
+    "inspector_id": "3310",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530092",
+    "date": "2026-09-08",
+    "name": "BARTLETT RESERVE",
+    "inspector_id": "2585",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013006",
+    "date": "2026-09-08",
+    "name": "BLAZE PIZZA",
+    "inspector_id": "3096",
+    "score": "95",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420018",
+    "date": "2026-09-08",
+    "name": "CHILDREN FIRST DAY CARE",
+    "inspector_id": "1838",
+    "score": "2",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013392",
+    "date": "2026-09-08",
+    "name": "CHURCH'S CHICKEN",
+    "inspector_id": "3229",
+    "score": "95",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531176",
+    "date": "2026-09-08",
+    "name": "COTTAGES AT BRIGHTLEAF",
+    "inspector_id": "3310",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110033",
+    "date": "2026-09-08",
+    "name": "E K POWE SCHOOL LUNCHROOM",
+    "inspector_id": "3367",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531259",
+    "date": "2026-09-08",
+    "name": "GRIFFIN DURHAM",
+    "inspector_id": "2303",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013552",
+    "date": "2026-09-08",
+    "name": "KIICHI RAMEN & BAR",
+    "inspector_id": "3328",
+    "score": "92",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420060",
+    "date": "2026-09-08",
+    "name": "KIN TOO/ AM",
+    "inspector_id": "3367",
+    "score": "2",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013712",
+    "date": "2026-09-08",
+    "name": "LA BUENA VIDA",
+    "inspector_id": "3096",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013714",
+    "date": "2026-09-08",
+    "name": "SOLISTA DURHAM",
+    "inspector_id": "3096",
+    "score": "95",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011498",
+    "date": "2026-09-08",
+    "name": "TEXAS ROADHOUSE",
+    "inspector_id": "3367",
+    "score": "92.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013593",
+    "date": "2026-09-08",
+    "name": "THE TIPSY BULL",
+    "inspector_id": "3229",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032731177",
+    "date": "2026-09-05",
+    "name": "DUKE FOOTBALL 2026 - ALPACA PERUVIAN CHICKEN",
+    "inspector_id": "2503",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032731176",
+    "date": "2026-09-05",
+    "name": "DUKE FOOTBALL 2026 - BLUE DEVIL CONCESSIONS YOH",
+    "inspector_id": "2503",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032731179",
+    "date": "2026-09-05",
+    "name": "DUKE FOOTBALL 2026 - PHILLY CHEESESTEAK CONCESSION",
+    "inspector_id": "2503",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530269",
+    "date": "2026-09-04",
+    "name": "BERKSHIRE NINTH STREET",
+    "inspector_id": "2585",
+    "score": "2",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010058",
+    "date": "2026-09-04",
+    "name": "CHILI'S  115",
+    "inspector_id": "3367",
+    "score": "93.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420633",
+    "date": "2026-09-04",
+    "name": "CREATIVE CARE EARLY LEARNING ACADEMY",
+    "inspector_id": "3367",
+    "score": "12",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010084",
+    "date": "2026-09-04",
+    "name": "DEVINE'S RESTAURANT",
+    "inspector_id": "2503",
+    "score": "86.50",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032031539",
+    "date": "2026-09-04",
+    "name": "EL SAZON MI DE HUASTECA / THE HOUSE COMMISSARY",
+    "inspector_id": "2574",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013596",
+    "date": "2026-09-04",
+    "name": "FONDA LUPITA",
+    "inspector_id": "2242",
+    "score": "91",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530238",
+    "date": "2026-09-04",
+    "name": "HAWTHORNE DAVIS PARK",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030583",
+    "date": "2026-09-04",
+    "name": "HOW BOUT BURGER/ THE KITCHEN ARCHIVE",
+    "inspector_id": "2574",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530188",
+    "date": "2026-09-04",
+    "name": "LENOX AT PATTERSON PLACE",
+    "inspector_id": "2112",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032031086",
+    "date": "2026-09-04",
+    "name": "LOS PARCEROS REAL COLOMBIAN CUISINE MFU / TKA",
+    "inspector_id": "2574",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420378",
+    "date": "2026-09-04",
+    "name": "SANDY RIDGE ELEMENTARY SCHOOL PRE K",
+    "inspector_id": "3129",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110067",
+    "date": "2026-09-04",
+    "name": "SANDY RIDGE SCHOOL LUNCHROOM",
+    "inspector_id": "3129",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013730",
+    "date": "2026-09-03",
+    "name": "ABOL ETHIOPIAN RESTAURANT",
+    "inspector_id": "2503",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032611219",
+    "date": "2026-09-03",
+    "name": "BEER TOOTH TAPROOM- CATHERYNE CHIANG",
+    "inspector_id": "3328",
+    "score": "",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531238",
+    "date": "2026-09-03",
+    "name": "CARPENTER FALLS",
+    "inspector_id": "2585",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032611216",
+    "date": "2026-09-03",
+    "name": "CATTAIL TATTOO COLLECTIVE- SAMANTHA NAWRATH",
+    "inspector_id": "3328",
+    "score": "",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013397",
+    "date": "2026-09-03",
+    "name": "FIVE GUYS",
+    "inspector_id": "3096",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530188",
+    "date": "2026-09-03",
+    "name": "LENOX AT PATTERSON PLACE",
+    "inspector_id": "3310",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530123",
+    "date": "2026-09-03",
+    "name": "SPRINGFIELD APTS",
+    "inspector_id": "3310",
+    "score": "8",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530147",
+    "date": "2026-09-03",
+    "name": "THE SAWYER",
+    "inspector_id": "3400",
+    "score": "18",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530257",
+    "date": "2026-09-03",
+    "name": "TRINITY COMMONS OUTDOOR POOL",
+    "inspector_id": "2303",
+    "score": "10",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032550053",
+    "date": "2026-09-03",
+    "name": "TRINITY COMMONS SPA",
+    "inspector_id": "2303",
+    "score": "18",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032550054",
+    "date": "2026-09-03",
+    "name": "TRINITY COMMONS SWIM SPA",
+    "inspector_id": "2303",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530313",
+    "date": "2026-09-02",
+    "name": "54 STATION APARTMENTS",
+    "inspector_id": "3400",
+    "score": "12",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013587",
+    "date": "2026-09-02",
+    "name": "ATOMIC CLOCK BREWING COMPANY",
+    "inspector_id": "3547",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010624",
+    "date": "2026-09-02",
+    "name": "BLEU OLIVE",
+    "inspector_id": "3367",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531004",
+    "date": "2026-09-02",
+    "name": "BRIZO LUXURY APARTMENTS",
+    "inspector_id": "2303",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012215",
+    "date": "2026-09-02",
+    "name": "COCOA CINNAMON",
+    "inspector_id": "3547",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530003",
+    "date": "2026-09-02",
+    "name": "CORTLAND AT RTP",
+    "inspector_id": "3400",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531122",
+    "date": "2026-09-02",
+    "name": "FIVE OAKS MAIN",
+    "inspector_id": "2303",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032541122",
+    "date": "2026-09-02",
+    "name": "FIVE OAKS WADING",
+    "inspector_id": "2303",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110051",
+    "date": "2026-09-02",
+    "name": "GEORGE WATTS LUNCHROOM",
+    "inspector_id": "3547",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530238",
+    "date": "2026-09-02",
+    "name": "HAWTHORNE DAVIS PARK",
+    "inspector_id": "2303",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420011",
+    "date": "2026-09-01",
+    "name": "BROWN'S EARLY LEARNING SCHOOL",
+    "inspector_id": "2828",
+    "score": "2",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013403",
+    "date": "2026-09-01",
+    "name": "BURGER KING #5568",
+    "inspector_id": "3096",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032400001",
+    "date": "2026-09-01",
+    "name": "CARVER LIVING CENTER",
+    "inspector_id": "3129",
+    "score": "94.50",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420018",
+    "date": "2026-09-01",
+    "name": "CHILDREN FIRST DAY CARE",
+    "inspector_id": "1838",
+    "score": "8",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110060",
+    "date": "2026-09-01",
+    "name": "CREEKSIDE ELEMENTARY",
+    "inspector_id": "2242",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020724",
+    "date": "2026-09-01",
+    "name": "DOMINO'S PIZZA",
+    "inspector_id": "3096",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013211",
+    "date": "2026-09-01",
+    "name": "DUNKIN DONUTS BASKIN ROBBINS",
+    "inspector_id": "3367",
+    "score": "95",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110010",
+    "date": "2026-09-01",
+    "name": "FAYETTEVILLE STREET ELEM LUNCHROOM",
+    "inspector_id": "3547",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300082",
+    "date": "2026-09-01",
+    "name": "FOOD LION MEAT MARKET  2593",
+    "inspector_id": "3547",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531269",
+    "date": "2026-09-01",
+    "name": "INDIGO APARTMENTS",
+    "inspector_id": "3310",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531091",
+    "date": "2026-09-01",
+    "name": "J 501 ESTATES",
+    "inspector_id": "2303",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531124",
+    "date": "2026-09-01",
+    "name": "JORDAN AT SOUTHPOINT",
+    "inspector_id": "2303",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300104",
+    "date": "2026-09-01",
+    "name": "LI MING'S GLOBAL MART (MEAT MARKET)",
+    "inspector_id": "3096",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013692",
+    "date": "2026-09-01",
+    "name": "SALSA BRAVA",
+    "inspector_id": "3229",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032060047",
+    "date": "2026-09-01",
+    "name": "TWINNIES CAFE",
+    "inspector_id": "3328",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032400032",
+    "date": "2026-08-31",
+    "name": "BROOKDALE DURHAM",
+    "inspector_id": "3129",
+    "score": "94",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013753",
+    "date": "2026-08-31",
+    "name": "BUBBAKOO'S BURRITOS #390",
+    "inspector_id": "2242",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013210",
+    "date": "2026-08-31",
+    "name": "CHO SUN OK KOREAN BBQ",
+    "inspector_id": "3457",
+    "score": "90",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013792",
+    "date": "2026-08-31",
+    "name": "COMPARE FOODS DELI",
+    "inspector_id": "3547",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020529",
+    "date": "2026-08-31",
+    "name": "COOK OUT MIAMI BLVD  21",
+    "inspector_id": "3229",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011148",
+    "date": "2026-08-31",
+    "name": "COSTCO  FOOD COURT 249",
+    "inspector_id": "3547",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013640",
+    "date": "2026-08-31",
+    "name": "EL TESORO MEXICAN GRILL",
+    "inspector_id": "3367",
+    "score": "85.50",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110046",
+    "date": "2026-08-31",
+    "name": "GLENN SCHOOL LUNCHROOM",
+    "inspector_id": "3229",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013347",
+    "date": "2026-08-31",
+    "name": "JERSEY MIKE'S SUBS",
+    "inspector_id": "3096",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420060",
+    "date": "2026-08-31",
+    "name": "KIN TOO/ AM",
+    "inspector_id": "3367",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032210004",
+    "date": "2026-08-31",
+    "name": "MOREHEAD MANOR",
+    "inspector_id": "2503",
+    "score": "98.50",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013041",
+    "date": "2026-08-31",
+    "name": "SLEEP INN RDU",
+    "inspector_id": "3457",
+    "score": "89.50",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032611215",
+    "date": "2026-08-31",
+    "name": "WANDERLUX SALON SUITES - KATHLEEN MCGHEE",
+    "inspector_id": "1801",
+    "score": "",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020609",
+    "date": "2026-08-31",
+    "name": "WHOLE FOODS PRODUCE",
+    "inspector_id": "3328",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020615",
+    "date": "2026-08-31",
+    "name": "WHOLE FOODS SPECIALITY",
+    "inspector_id": "3328",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110037",
+    "date": "2026-08-31",
+    "name": "Y E SMITH",
+    "inspector_id": "3096",
+    "score": "95",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032031044",
+    "date": "2026-08-30",
+    "name": "ANGIE'S JAMAICAN GRILL MFU",
+    "inspector_id": "3457",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032734080",
+    "date": "2026-08-30",
+    "name": "BLACK AUGUST IN THE PARK - BIGGIES SOUTHERN SOUL",
+    "inspector_id": "3457",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030952",
+    "date": "2026-08-30",
+    "name": "CHOPHOUSE BBQ & CATERING FOOD TRAILER W/ THE COOKE",
+    "inspector_id": "2574",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030370",
+    "date": "2026-08-30",
+    "name": "R & B GRILL / THE COOKERY",
+    "inspector_id": "2574",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030603",
+    "date": "2026-08-30",
+    "name": "SECOND HELPINGS NC/ THE HOUSE COMMISSARY",
+    "inspector_id": "2574",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030973",
+    "date": "2026-08-30",
+    "name": "WEIZZIE'S COUNTRY KITCHEN W/ THE HOUSE COMMISSARY",
+    "inspector_id": "3457",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032031070",
+    "date": "2026-08-29",
+    "name": "TACOS KARLITA",
+    "inspector_id": "2574",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030968",
+    "date": "2026-08-28",
+    "name": "AMA'GEES JAMAICAN CUISINE #2",
+    "inspector_id": "2574",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531118",
+    "date": "2026-08-28",
+    "name": "BRIGHTWOOD TRAILS",
+    "inspector_id": "3496",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530309",
+    "date": "2026-08-28",
+    "name": "BULL HOUSE APARTMENTS",
+    "inspector_id": "3400",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010653",
+    "date": "2026-08-28",
+    "name": "INTERNATIONAL DELIGHTS",
+    "inspector_id": "3367",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032480011",
+    "date": "2026-08-25",
+    "name": "ADULT DAY CENTER AT THE LEVIN JCC",
+    "inspector_id": "3328",
+    "score": "7",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530180",
+    "date": "2026-08-25",
+    "name": "AVENTURA RTP - INDOOR",
+    "inspector_id": "2585",
+    "score": "2",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010449",
+    "date": "2026-08-25",
+    "name": "BOJANGLES #13",
+    "inspector_id": "3367",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032400031",
+    "date": "2026-08-25",
+    "name": "DURHAM RIDGE ASSISTED LIVING",
+    "inspector_id": "3229",
+    "score": "93",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020923",
+    "date": "2026-08-25",
+    "name": "FOOD LION PRODUCE  #939",
+    "inspector_id": "3328",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420621",
+    "date": "2026-08-25",
+    "name": "KATE'S KORNER LEARNING CENTER",
+    "inspector_id": "2828",
+    "score": "8",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110102",
+    "date": "2026-08-25",
+    "name": "KIPP DURHAM COLLEGE PREP",
+    "inspector_id": "1838",
+    "score": "93",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030996",
+    "date": "2026-08-25",
+    "name": "LA TAQUERIA DOMINGUEZ LLC / HOMEGROWN DURM",
+    "inspector_id": "3367",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530159",
+    "date": "2026-08-25",
+    "name": "MAA PATTERSON",
+    "inspector_id": "3310",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021310",
+    "date": "2026-08-25",
+    "name": "MARGUERITES CATERING / TRIANGLE FUEL KITCHEN/TKA",
+    "inspector_id": "3129",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531010",
+    "date": "2026-08-25",
+    "name": "THE RESERVE AT PATTERSON PLACE",
+    "inspector_id": "3310",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012197",
+    "date": "2026-08-25",
+    "name": "THREE SEASONS CATERING",
+    "inspector_id": "3367",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011818",
+    "date": "2026-08-25",
+    "name": "TOAST",
+    "inspector_id": "3457",
+    "score": "95",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032162512",
+    "date": "2026-08-25",
+    "name": "TREYBURN REHABILITATION CENTER IFS",
+    "inspector_id": "3129",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013523",
+    "date": "2026-08-24",
+    "name": "ANJAPPAR CHETTINAD - BAR & GRILL",
+    "inspector_id": "3457",
+    "score": "90",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531221",
+    "date": "2026-08-24",
+    "name": "CAMDEN DURHAM",
+    "inspector_id": "3310",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013002",
+    "date": "2026-08-24",
+    "name": "CHIPOTLE MEXICAN GRILL",
+    "inspector_id": "3129",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012262",
+    "date": "2026-08-24",
+    "name": "DRAGON INN",
+    "inspector_id": "3096",
+    "score": "92.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300115",
+    "date": "2026-08-24",
+    "name": "HARRIS TEETER #492 MEAT/SEAFOOD",
+    "inspector_id": "3367",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013310",
+    "date": "2026-08-24",
+    "name": "HEAVENLY BUFFALOES",
+    "inspector_id": "3367",
+    "score": "94.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012474",
+    "date": "2026-08-24",
+    "name": "HOMEWOOD SUITES FOODSERVICE",
+    "inspector_id": "3096",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013259",
+    "date": "2026-08-24",
+    "name": "LULUBANGBANG",
+    "inspector_id": "2503",
+    "score": "92.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012560",
+    "date": "2026-08-24",
+    "name": "MEDITERRASIAN BISTRO",
+    "inspector_id": "2242",
+    "score": "93",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013412",
+    "date": "2026-08-24",
+    "name": "NEW WORLD CAFE DURHAM",
+    "inspector_id": "3457",
+    "score": "95",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110034",
+    "date": "2026-08-24",
+    "name": "RIVERSIDE SCHOOL LUNCHROOM",
+    "inspector_id": "3096",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012631",
+    "date": "2026-08-24",
+    "name": "SHUCKIN SHACK OYSTER BAR",
+    "inspector_id": "3328",
+    "score": "87.50",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032611146",
+    "date": "2026-08-24",
+    "name": "TATTOOS BY PATRICK MOSELEY",
+    "inspector_id": "2828",
+    "score": "",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032040553",
+    "date": "2026-08-22",
+    "name": "THE PUSHCART / HOMEGROWN DURM",
+    "inspector_id": "2574",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013613",
+    "date": "2026-08-21",
+    "name": "BIG BAD BREAKFAST RESTAURANT",
+    "inspector_id": "3367",
+    "score": "90",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010036",
+    "date": "2026-08-21",
+    "name": "BOJANGLES #8",
+    "inspector_id": "3367",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420645",
+    "date": "2026-08-21",
+    "name": "CHILDCARE NETWORK #57",
+    "inspector_id": "3547",
+    "score": "12",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021135",
+    "date": "2026-08-21",
+    "name": "EX VOTO COCINA NIXTAMAL",
+    "inspector_id": "3547",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430244",
+    "date": "2026-08-21",
+    "name": "JACE HEALTHCARE SERVICES",
+    "inspector_id": "3129",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032153345",
+    "date": "2026-08-21",
+    "name": "RICOS TACOS COMMISSARY",
+    "inspector_id": "2574",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021359",
+    "date": "2026-08-21",
+    "name": "SAKE JAPAN",
+    "inspector_id": "3457",
+    "score": "82.50",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012241",
+    "date": "2026-08-21",
+    "name": "TACO BELL",
+    "inspector_id": "2574",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420037",
+    "date": "2026-08-20",
+    "name": "BRIGHT HORIZONS AT RTP SO-HI",
+    "inspector_id": "3457",
+    "score": "8",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032611218",
+    "date": "2026-08-20",
+    "name": "CREATIVE TATTOO - ABIGAIL ROBERTSON",
+    "inspector_id": "3229",
+    "score": "",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032031043",
+    "date": "2026-08-20",
+    "name": "EL REY DEL TACO #3",
+    "inspector_id": "3367",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032440571",
+    "date": "2026-08-20",
+    "name": "GLOBAL SCHOLARS ACADEMY",
+    "inspector_id": "3547",
+    "score": "97",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012481",
+    "date": "2026-08-20",
+    "name": "ITALIAN PIZZERIA SANDWICH",
+    "inspector_id": "3367",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530159",
+    "date": "2026-08-20",
+    "name": "MAA PATTERSON",
+    "inspector_id": "3310",
+    "score": "12",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013296",
+    "date": "2026-08-20",
+    "name": "MI PEQUENO HONDURAS",
+    "inspector_id": "3547",
+    "score": "90.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013336",
+    "date": "2026-08-20",
+    "name": "POPEYES",
+    "inspector_id": "3367",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010604",
+    "date": "2026-08-20",
+    "name": "QUALITY MART #34",
+    "inspector_id": "2503",
+    "score": "95",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011332",
+    "date": "2026-08-20",
+    "name": "RANDY'S PIZZA",
+    "inspector_id": "2503",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430138",
+    "date": "2026-08-20",
+    "name": "ROSE'S CASTLE RESIDENTIAL SERVICES, INC",
+    "inspector_id": "3457",
+    "score": "8",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013084",
+    "date": "2026-08-20",
+    "name": "SPROUTS #543 DELI",
+    "inspector_id": "2242",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300902",
+    "date": "2026-08-20",
+    "name": "SPROUTS #543 MEAT MARKET",
+    "inspector_id": "2242",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030765",
+    "date": "2026-08-20",
+    "name": "TAQUERIA Y PUPUSERIA JAZMINE Y ASUSENA / JOES COMM",
+    "inspector_id": "3367",
+    "score": "93.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013248",
+    "date": "2026-08-20",
+    "name": "ZENFISH",
+    "inspector_id": "2242",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530285",
+    "date": "2026-08-19",
+    "name": "ALOFT DURHAM DOWNTOWN",
+    "inspector_id": "3400",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012151",
+    "date": "2026-08-19",
+    "name": "BOJANGLE'S TRIARC FOOD SYSTEMS INC",
+    "inspector_id": "3457",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010045",
+    "date": "2026-08-19",
+    "name": "BULLOCK'S BAR B CUE",
+    "inspector_id": "3367",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013676",
+    "date": "2026-08-19",
+    "name": "CHIPOTLE MEXICAN GRILL #5479",
+    "inspector_id": "3052",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013655",
+    "date": "2026-08-19",
+    "name": "CURRY UP NOW",
+    "inspector_id": "3096",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420292",
+    "date": "2026-08-19",
+    "name": "FELLOWSHIP BAPTIST DAY CARE",
+    "inspector_id": "3229",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013691",
+    "date": "2026-08-19",
+    "name": "HATCH BURRITOS",
+    "inspector_id": "3547",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013681",
+    "date": "2026-08-19",
+    "name": "HI NOODLES",
+    "inspector_id": "2574",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011044",
+    "date": "2026-08-19",
+    "name": "HONG KONG CHINESE REST",
+    "inspector_id": "3367",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012088",
+    "date": "2026-08-19",
+    "name": "LI MING'S GLOBAL MART (CAFE)",
+    "inspector_id": "2574",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012375",
+    "date": "2026-08-19",
+    "name": "MI PERU PERUVIAN CUISINE",
+    "inspector_id": "3096",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012406",
+    "date": "2026-08-19",
+    "name": "NZINGA'S BREAKFAST CAFE",
+    "inspector_id": "3457",
+    "score": "93",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032400010",
+    "date": "2026-08-19",
+    "name": "PETTIGREW REHABILITATION CTR",
+    "inspector_id": "3547",
+    "score": "96.50",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012056",
+    "date": "2026-08-19",
+    "name": "RICKY'S NY PIZZA",
+    "inspector_id": "3129",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010743",
+    "date": "2026-08-19",
+    "name": "TACO BELL",
+    "inspector_id": "3129",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013661",
+    "date": "2026-08-19",
+    "name": "VICI RISTOBAR",
+    "inspector_id": "3052",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013764",
+    "date": "2026-08-18",
+    "name": "CAPITAL ONE SOUTHPOINT CAFE",
+    "inspector_id": "3052",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032031083",
+    "date": "2026-08-18",
+    "name": "DELICIAS SHAI",
+    "inspector_id": "3129",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032410002",
+    "date": "2026-08-18",
+    "name": "DUKE REGIONAL HOSPITAL",
+    "inspector_id": "3547",
+    "score": "95.50",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530177",
+    "date": "2026-08-18",
+    "name": "HOMEWOOD SUITES (RTP) POOL",
+    "inspector_id": "3400",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110045",
+    "date": "2026-08-18",
+    "name": "OAK GROVE SCHOOL LUNCHROOM",
+    "inspector_id": "3229",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032410010",
+    "date": "2026-08-18",
+    "name": "SELECT SPECIALTY HOSPITAL DURHAM",
+    "inspector_id": "1838",
+    "score": "99.50",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013372",
+    "date": "2026-08-18",
+    "name": "SHO NUFF AT BROAD",
+    "inspector_id": "3367",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021435",
+    "date": "2026-08-18",
+    "name": "SOUL PLATES HOSPITALITY GROUP CATERING /THE COOKER",
+    "inspector_id": "2574",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013700",
+    "date": "2026-08-18",
+    "name": "TANDOORI BITES",
+    "inspector_id": "3096",
+    "score": "94",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013564",
+    "date": "2026-08-18",
+    "name": "WENDY'S #0437",
+    "inspector_id": "3129",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420012",
+    "date": "2026-08-17",
+    "name": "ACADEMY OF STARS/ AM",
+    "inspector_id": "3229",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530263",
+    "date": "2026-08-17",
+    "name": "ARTISAN AT BRIGHTLEAF",
+    "inspector_id": "3496",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021298",
+    "date": "2026-08-17",
+    "name": "BASIL THAI KITCHEN",
+    "inspector_id": "3052",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032400002",
+    "date": "2026-08-17",
+    "name": "ENO POINTE ASSISTED LIVING",
+    "inspector_id": "3129",
+    "score": "100",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032160006",
+    "date": "2026-08-17",
+    "name": "ENO POINTE ASSISTED LIVING IFS",
+    "inspector_id": "3129",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013042",
+    "date": "2026-08-17",
+    "name": "JERSEY MIKES SUBS",
+    "inspector_id": "3367",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013162",
+    "date": "2026-08-17",
+    "name": "JUICEKEYS",
+    "inspector_id": "3457",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020707",
+    "date": "2026-08-17",
+    "name": "KING'S SANDWICH SHOP",
+    "inspector_id": "3547",
+    "score": "94",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420066",
+    "date": "2026-08-17",
+    "name": "LAKEWOOD AVE CHILDRENS SCH/ AM",
+    "inspector_id": "2828",
+    "score": "7",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032501043",
+    "date": "2026-08-17",
+    "name": "LC BRIER CREEK",
+    "inspector_id": "2303",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110080",
+    "date": "2026-08-17",
+    "name": "NC SCHOOL OF SCIENCE AND MATH FS",
+    "inspector_id": "3367",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531162",
+    "date": "2026-08-17",
+    "name": "PLAT 4 AT RESEARCH TRIANGLE",
+    "inspector_id": "2303",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030976",
+    "date": "2026-08-16",
+    "name": "JOLLY SANDWICH COMPANY W/ HOMEGROWN DURM COMMISSAR",
+    "inspector_id": "2574",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030141",
+    "date": "2026-08-15",
+    "name": "PUPUSERIA & TAQUERIA / TAQUERIA ORELLANA",
+    "inspector_id": "2574",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030532",
+    "date": "2026-08-15",
+    "name": "TAQUERIA ALLENDE NL/ JOES COMMISSARY",
+    "inspector_id": "2574",
+    "score": "94",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032160027",
+    "date": "2026-08-14",
+    "name": "CEDARS OF CHAPEL HILL IFS",
+    "inspector_id": "3052",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030943",
+    "date": "2026-08-14",
+    "name": "DURHAM BEER GARDEN / THE KITCHEN ARCHIVE",
+    "inspector_id": "2574",
+    "score": "94.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531208",
+    "date": "2026-08-14",
+    "name": "EVERTON AMENITY CENTER & POOL",
+    "inspector_id": "2585",
+    "score": "8",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430926",
+    "date": "2026-08-14",
+    "name": "GORDON'S PLACE",
+    "inspector_id": "3129",
+    "score": "2",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020661",
+    "date": "2026-08-14",
+    "name": "HARRIS TEETER 224 PRODUCE",
+    "inspector_id": "3052",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010745",
+    "date": "2026-08-14",
+    "name": "KFC TACO BELL HILLSBOROUGH RD",
+    "inspector_id": "3367",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531247",
+    "date": "2026-08-14",
+    "name": "LAKESHORE",
+    "inspector_id": "2585",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032162525",
+    "date": "2026-08-14",
+    "name": "NEXT LEVEL HOSPITALITY SERVICES",
+    "inspector_id": "3129",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531264",
+    "date": "2026-08-14",
+    "name": "SHERRON FARM HOA",
+    "inspector_id": "2585",
+    "score": "2",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013810",
+    "date": "2026-08-14",
+    "name": "TAQUERIA MI PUEBLO",
+    "inspector_id": "1838",
+    "score": "83",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030598",
+    "date": "2026-08-13",
+    "name": "ANTOJITOS HONDURENOS/ ESSERS COMMISSARY",
+    "inspector_id": "2574",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530215",
+    "date": "2026-08-13",
+    "name": "AVANA 55TWELVE",
+    "inspector_id": "3496",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020532",
+    "date": "2026-08-13",
+    "name": "COOK OUT  22",
+    "inspector_id": "3367",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030711",
+    "date": "2026-08-13",
+    "name": "EL REY DEL TACO #2/ SOFIAS PIZZA",
+    "inspector_id": "3367",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030510",
+    "date": "2026-08-13",
+    "name": "EL REY DEL TACO/ SOFIA'S PIZZA",
+    "inspector_id": "3367",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531121",
+    "date": "2026-08-13",
+    "name": "FINLEY FOREST",
+    "inspector_id": "2585",
+    "score": "2",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021537",
+    "date": "2026-08-13",
+    "name": "FRANTASTIC CATERING CO.",
+    "inspector_id": "3229",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531242",
+    "date": "2026-08-13",
+    "name": "GARRETT FARMS",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013597",
+    "date": "2026-08-13",
+    "name": "GUGLHUPF BAKERY, CAFE, AND BIERGARTEN",
+    "inspector_id": "2574",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531267",
+    "date": "2026-08-13",
+    "name": "HARDSCRABBLE",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021540",
+    "date": "2026-08-13",
+    "name": "KANZO",
+    "inspector_id": "3229",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012034",
+    "date": "2026-08-13",
+    "name": "KURAMA",
+    "inspector_id": "2503",
+    "score": "92.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021375",
+    "date": "2026-08-13",
+    "name": "LITTLE CAESARS",
+    "inspector_id": "3367",
+    "score": "90",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030575",
+    "date": "2026-08-13",
+    "name": "MR WINGZ AND MRS THINGZ/ THE KITCHEN ARCHIVE",
+    "inspector_id": "1838",
+    "score": "95",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012125",
+    "date": "2026-08-13",
+    "name": "NUVOTACO",
+    "inspector_id": "3457",
+    "score": "94",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430649",
+    "date": "2026-08-13",
+    "name": "PRESTIGE ESTATES ASSISTED LIVING",
+    "inspector_id": "3129",
+    "score": "5",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030924",
+    "date": "2026-08-13",
+    "name": "RICOS TACOS #3 W RICOS TACOS COMMISSARY",
+    "inspector_id": "3129",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420670",
+    "date": "2026-08-13",
+    "name": "SPANISH FOR FUN",
+    "inspector_id": "2828",
+    "score": "5",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012153",
+    "date": "2026-08-13",
+    "name": "SPROUT CAFE",
+    "inspector_id": "3547",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013729",
+    "date": "2026-08-13",
+    "name": "TROPICAL SMOOTHIE CAFE",
+    "inspector_id": "3052",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032200078",
+    "date": "2026-08-13",
+    "name": "WINGATE INN",
+    "inspector_id": "1838",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531202",
+    "date": "2026-08-12",
+    "name": "AURA FIFTY4",
+    "inspector_id": "2303",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531182",
+    "date": "2026-08-12",
+    "name": "AVALON DURHAM",
+    "inspector_id": "2303",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013699",
+    "date": "2026-08-12",
+    "name": "BURGER KING #7216",
+    "inspector_id": "3229",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032440581",
+    "date": "2026-08-12",
+    "name": "CAROLINA COLLEGIATE HIGH SCHOOL",
+    "inspector_id": "2828",
+    "score": "100",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032160003",
+    "date": "2026-08-12",
+    "name": "CARVER LIVING CENTER IFS",
+    "inspector_id": "3129",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011342",
+    "date": "2026-08-12",
+    "name": "CHINA WOK",
+    "inspector_id": "3457",
+    "score": "90",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020987",
+    "date": "2026-08-12",
+    "name": "CIRCLE K #2723161",
+    "inspector_id": "3367",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013805",
+    "date": "2026-08-12",
+    "name": "DAME'S CHICKEN & WAFFLES",
+    "inspector_id": "2503",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021161",
+    "date": "2026-08-12",
+    "name": "DOMINO'S PIZZA #4478",
+    "inspector_id": "3547",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032450003",
+    "date": "2026-08-12",
+    "name": "DURHAM COUNTY YOUTH HOME",
+    "inspector_id": "3547",
+    "score": "11",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011942",
+    "date": "2026-08-12",
+    "name": "GRILL 46",
+    "inspector_id": "3229",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013595",
+    "date": "2026-08-12",
+    "name": "HAMPTON INN & HOME2 SUITES FOOD SERVICE",
+    "inspector_id": "3367",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013552",
+    "date": "2026-08-12",
+    "name": "KIICHI RAMEN & BAR",
+    "inspector_id": "3328",
+    "score": "80.50",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013594",
+    "date": "2026-08-12",
+    "name": "LA CASITA RESTAURANT",
+    "inspector_id": "3367",
+    "score": "92",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013600",
+    "date": "2026-08-12",
+    "name": "LA QUINTA INN & SUITES CHAPEL HILL",
+    "inspector_id": "2574",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011455",
+    "date": "2026-08-12",
+    "name": "RANDY'S PIZZA",
+    "inspector_id": "3052",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030501",
+    "date": "2026-08-12",
+    "name": "SAN PABLITO/ OBVIO",
+    "inspector_id": "1838",
+    "score": "90.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012514",
+    "date": "2026-08-12",
+    "name": "SHEETZ #611",
+    "inspector_id": "3052",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012484",
+    "date": "2026-08-12",
+    "name": "STARBUCKS COFFEE 25714",
+    "inspector_id": "3096",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420461",
+    "date": "2026-08-11",
+    "name": "ALL MY CHILDREN CHILD CARE CENTER/ AM",
+    "inspector_id": "2828",
+    "score": "5",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531052",
+    "date": "2026-08-11",
+    "name": "ATLAS DURHAM",
+    "inspector_id": "2303",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530092",
+    "date": "2026-08-11",
+    "name": "BARTLETT RESERVE",
+    "inspector_id": "2585",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013613",
+    "date": "2026-08-11",
+    "name": "BIG BAD BREAKFAST RESTAURANT",
+    "inspector_id": "3367",
+    "score": "85",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013596",
+    "date": "2026-08-11",
+    "name": "FONDA LUPITA",
+    "inspector_id": "2242",
+    "score": "87.50",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020930",
+    "date": "2026-08-11",
+    "name": "FOOD LION PRODUCE #1343",
+    "inspector_id": "3052",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012100",
+    "date": "2026-08-11",
+    "name": "GEER STREET GARDEN",
+    "inspector_id": "3547",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032022517",
+    "date": "2026-08-11",
+    "name": "HARRIS TEETER 172 STARBUCKS",
+    "inspector_id": "3096",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110055",
+    "date": "2026-08-11",
+    "name": "HOPE VALLEY LUNCHROOM",
+    "inspector_id": "3052",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420065",
+    "date": "2026-08-11",
+    "name": "LA PETITE ACADEMY",
+    "inspector_id": "3229",
+    "score": "8",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420522",
+    "date": "2026-08-11",
+    "name": "LINKING CONNECTIONS LEARNING CENTER",
+    "inspector_id": "3547",
+    "score": "2",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430907",
+    "date": "2026-08-11",
+    "name": "MORETZ MANOR TBI GROUP HOME",
+    "inspector_id": "3457",
+    "score": "11",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012096",
+    "date": "2026-08-11",
+    "name": "PIZZA INN",
+    "inspector_id": "3129",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020577",
+    "date": "2026-08-11",
+    "name": "SAMS CLUB 4831 DELI",
+    "inspector_id": "3096",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013190",
+    "date": "2026-08-11",
+    "name": "SHEETZ #676",
+    "inspector_id": "3129",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020713",
+    "date": "2026-08-11",
+    "name": "WALMART DELI 2137",
+    "inspector_id": "3096",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021432",
+    "date": "2026-08-10",
+    "name": "AFC ZENSHI @ PUBLIX #1817",
+    "inspector_id": "3457",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013817",
+    "date": "2026-08-10",
+    "name": "BELLA CATRINAS KITCHEN",
+    "inspector_id": "1838",
+    "score": "92.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020718",
+    "date": "2026-08-10",
+    "name": "DOMINO'S",
+    "inspector_id": "3367",
+    "score": "93.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110053",
+    "date": "2026-08-10",
+    "name": "EASTWAY LUNCHROOM",
+    "inspector_id": "2242",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012460",
+    "date": "2026-08-10",
+    "name": "EL CHAPIN",
+    "inspector_id": "3096",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420448",
+    "date": "2026-08-10",
+    "name": "GINGERBREAD LEARNING CENTER LLC",
+    "inspector_id": "3129",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300114",
+    "date": "2026-08-10",
+    "name": "HARRIS TEETER #497 MEAT/SEAFOOD",
+    "inspector_id": "3367",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020790",
+    "date": "2026-08-10",
+    "name": "HILLANDALE GOLF COURSE",
+    "inspector_id": "3367",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012461",
+    "date": "2026-08-10",
+    "name": "JOE VAN GOGH",
+    "inspector_id": "3052",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420066",
+    "date": "2026-08-10",
+    "name": "LAKEWOOD AVE CHILDRENS SCH/ AM",
+    "inspector_id": "2574",
+    "score": "22",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021441",
+    "date": "2026-08-10",
+    "name": "PIZZA HUT CROSS CREEK",
+    "inspector_id": "3129",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013218",
+    "date": "2026-08-10",
+    "name": "SPRINGHILL SUITES - FOOD SERVICE",
+    "inspector_id": "3457",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013811",
+    "date": "2026-08-10",
+    "name": "TROPICAL SMOOTHIE CAFE",
+    "inspector_id": "3457",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013567",
+    "date": "2026-08-10",
+    "name": "WENDY'S #0416",
+    "inspector_id": "3367",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530263",
+    "date": "2026-08-07",
+    "name": "ARTISAN AT BRIGHTLEAF",
+    "inspector_id": "3496",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013635",
+    "date": "2026-08-07",
+    "name": "BANGKOK 54",
+    "inspector_id": "3052",
+    "score": "93",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530275",
+    "date": "2026-08-07",
+    "name": "BERKSHIRE MAIN STREET",
+    "inspector_id": "3496",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032160004",
+    "date": "2026-08-07",
+    "name": "BROOKDALE MEMORY CHAPEL HILL IFS",
+    "inspector_id": "3052",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013444",
+    "date": "2026-08-07",
+    "name": "COMMON MARKET",
+    "inspector_id": "3367",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030824",
+    "date": "2026-08-07",
+    "name": "EL MACHETE / THE HOUSE COMMISSARY",
+    "inspector_id": "3129",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011801",
+    "date": "2026-08-07",
+    "name": "HILTON GARDEN INN CAFE",
+    "inspector_id": "3457",
+    "score": "93.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011278",
+    "date": "2026-08-07",
+    "name": "KANKI JAPANESE HOUSE OF STEAKS",
+    "inspector_id": "2242",
+    "score": "94",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530305",
+    "date": "2026-08-07",
+    "name": "PARK PLACE APARTMENTS",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012315",
+    "date": "2026-08-07",
+    "name": "SMASHBURGER",
+    "inspector_id": "3367",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013166",
+    "date": "2026-08-07",
+    "name": "THE OAK HOUSE AT DURHAM",
+    "inspector_id": "3457",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030791",
+    "date": "2026-08-07",
+    "name": "THE TACO TRUCK / THE HOUSE RESTAURANT AND CATER",
+    "inspector_id": "3129",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012468",
+    "date": "2026-08-07",
+    "name": "WAFFLE HOUSE",
+    "inspector_id": "3547",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013416",
+    "date": "2026-08-06",
+    "name": "AC HOTEL DURHAM - FOOD SERVICE",
+    "inspector_id": "3328",
+    "score": "92.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011796",
+    "date": "2026-08-06",
+    "name": "ALPACA",
+    "inspector_id": "3547",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032162522",
+    "date": "2026-08-06",
+    "name": "BARTLETT RESERVE SENIOR LIVING COMMUNITY",
+    "inspector_id": "3457",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032160023",
+    "date": "2026-08-06",
+    "name": "BROOKDALE AL CHAPEL HILL IFS",
+    "inspector_id": "3052",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013743",
+    "date": "2026-08-06",
+    "name": "CHINA BUFFET",
+    "inspector_id": "3096",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032154507",
+    "date": "2026-08-06",
+    "name": "CIP KITCHEN",
+    "inspector_id": "2574",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030840",
+    "date": "2026-08-06",
+    "name": "GET OFF MY QUESO / THE KITCHEN ARCHIVE",
+    "inspector_id": "2574",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013670",
+    "date": "2026-08-06",
+    "name": "KENTUCKY FRIED CHICKEN",
+    "inspector_id": "3367",
+    "score": "94",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013056",
+    "date": "2026-08-06",
+    "name": "MCDONALDS #4320",
+    "inspector_id": "3229",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021166",
+    "date": "2026-08-06",
+    "name": "NORDSTROM EBAR",
+    "inspector_id": "3457",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012167",
+    "date": "2026-08-06",
+    "name": "PANERA BREAD #1645",
+    "inspector_id": "3457",
+    "score": "94.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110035",
+    "date": "2026-08-06",
+    "name": "ROGERS HERR SCHOOL LUNCHROOM",
+    "inspector_id": "3367",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420228",
+    "date": "2026-08-06",
+    "name": "TENDERCARE LEARNING CTR/ AM",
+    "inspector_id": "3129",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011492",
+    "date": "2026-08-06",
+    "name": "THE FEDERAL",
+    "inspector_id": "3229",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032031053",
+    "date": "2026-08-05",
+    "name": "ANTOJITOS POBLANOS",
+    "inspector_id": "1838",
+    "score": "86",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531239",
+    "date": "2026-08-05",
+    "name": "BECKON",
+    "inspector_id": "2303",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032611214",
+    "date": "2026-08-05",
+    "name": "BELLA TRIO STUDIO - SAVANNAH SHAW",
+    "inspector_id": "2828",
+    "score": "",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010740",
+    "date": "2026-08-05",
+    "name": "BURGER KING",
+    "inspector_id": "3547",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012189",
+    "date": "2026-08-05",
+    "name": "BURGER KING #9653",
+    "inspector_id": "3052",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020725",
+    "date": "2026-08-05",
+    "name": "CARLIE C'S IGA (DELI)",
+    "inspector_id": "3229",
+    "score": "95",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300105",
+    "date": "2026-08-05",
+    "name": "CARLIE C'S IGA (MEAT MARKET)",
+    "inspector_id": "3229",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012274",
+    "date": "2026-08-05",
+    "name": "CHIPOTLE MEXICAN GRILL",
+    "inspector_id": "3096",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012177",
+    "date": "2026-08-05",
+    "name": "CHOP STIX CHINESE RESTAURANT",
+    "inspector_id": "3547",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531159",
+    "date": "2026-08-05",
+    "name": "ELEVATE THE PARK",
+    "inspector_id": "3496",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013331",
+    "date": "2026-08-05",
+    "name": "ESMERALDA'S CAFE",
+    "inspector_id": "3367",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021235",
+    "date": "2026-08-05",
+    "name": "HARRIS TEETER #491 STARBUCKS",
+    "inspector_id": "3052",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420189",
+    "date": "2026-08-05",
+    "name": "LOVING CARING SHARING",
+    "inspector_id": "3457",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013143",
+    "date": "2026-08-05",
+    "name": "MR SHARK",
+    "inspector_id": "3457",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420461",
+    "date": "2026-08-04",
+    "name": "ALL MY CHILDREN CHILD CARE CENTER/ AM",
+    "inspector_id": "2574",
+    "score": "14",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531052",
+    "date": "2026-08-04",
+    "name": "ATLAS DURHAM",
+    "inspector_id": "2303",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013465",
+    "date": "2026-08-04",
+    "name": "BUL BOX",
+    "inspector_id": "3096",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013509",
+    "date": "2026-08-04",
+    "name": "CLARION POINTE - RTP FOODSERVICE",
+    "inspector_id": "3457",
+    "score": "93.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110007",
+    "date": "2026-08-04",
+    "name": "EASLEY ELEMENTARY SCHOOL",
+    "inspector_id": "3129",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032160028",
+    "date": "2026-08-04",
+    "name": "EDEN SPRING LIVING CENTER IFS",
+    "inspector_id": "3457",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300056",
+    "date": "2026-08-04",
+    "name": "FOOD LION  MARKET 1099",
+    "inspector_id": "3367",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013696",
+    "date": "2026-08-04",
+    "name": "GYM TACOS 5",
+    "inspector_id": "3229",
+    "score": "95",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420522",
+    "date": "2026-08-04",
+    "name": "LINKING CONNECTIONS LEARNING CENTER",
+    "inspector_id": "3547",
+    "score": "12",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531186",
+    "date": "2026-08-04",
+    "name": "MAIZON DURHAM",
+    "inspector_id": "2303",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011847",
+    "date": "2026-08-04",
+    "name": "RANDY'S PIZZA",
+    "inspector_id": "3096",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531103",
+    "date": "2026-08-04",
+    "name": "UNSCRIPTED HOTEL",
+    "inspector_id": "3496",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530299",
+    "date": "2026-08-04",
+    "name": "WOODSTONE AT CROASDAILE FARM INDOOR",
+    "inspector_id": "3310",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021460",
+    "date": "2026-08-03",
+    "name": "DOMINOS 8904",
+    "inspector_id": "3052",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012525",
+    "date": "2026-08-03",
+    "name": "FIREHOUSE SUBS",
+    "inspector_id": "3129",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300055",
+    "date": "2026-08-03",
+    "name": "FOOD LION MEAT MARKET 274",
+    "inspector_id": "3052",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110017",
+    "date": "2026-08-03",
+    "name": "HOLT SCHOOL LUNCHROOM",
+    "inspector_id": "3129",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011921",
+    "date": "2026-08-03",
+    "name": "KFC TACO BELL",
+    "inspector_id": "1838",
+    "score": "91",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530219",
+    "date": "2026-08-03",
+    "name": "MAA ARRINGDON",
+    "inspector_id": "2585",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011642",
+    "date": "2026-08-03",
+    "name": "MCDONALDS #368",
+    "inspector_id": "3547",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013074",
+    "date": "2026-08-03",
+    "name": "PHO & POKE HOUSE",
+    "inspector_id": "3367",
+    "score": "90",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013717",
+    "date": "2026-08-03",
+    "name": "PIZZA HUT RTP",
+    "inspector_id": "3457",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013349",
+    "date": "2026-08-03",
+    "name": "REFUEL 117",
+    "inspector_id": "3367",
+    "score": "91",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032611210",
+    "date": "2026-08-03",
+    "name": "SACRED MADALA STUDIO - ADAM SAMPSON",
+    "inspector_id": "2828",
+    "score": "",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021403",
+    "date": "2026-08-03",
+    "name": "SCOOTER'S COFFEE",
+    "inspector_id": "3457",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013457",
+    "date": "2026-07-31",
+    "name": "ARBY'S",
+    "inspector_id": "3129",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013459",
+    "date": "2026-07-31",
+    "name": "ARBY'S",
+    "inspector_id": "1838",
+    "score": "93",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530321",
+    "date": "2026-07-31",
+    "name": "BLU ON FARRINGTON",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011598",
+    "date": "2026-07-31",
+    "name": "BRIGS AT THE PARK",
+    "inspector_id": "3457",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013617",
+    "date": "2026-07-31",
+    "name": "DEL TACO",
+    "inspector_id": "3457",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012332",
+    "date": "2026-07-31",
+    "name": "DURHAM REGENT",
+    "inspector_id": "3328",
+    "score": "90.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300874",
+    "date": "2026-07-31",
+    "name": "HARRIS TEETER 394 MEAT MARKET",
+    "inspector_id": "3367",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012316",
+    "date": "2026-07-31",
+    "name": "HIBACHI 88",
+    "inspector_id": "3457",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012232",
+    "date": "2026-07-31",
+    "name": "HYATT PLACE DURHAM / SOUTHPOINT",
+    "inspector_id": "3052",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012526",
+    "date": "2026-07-31",
+    "name": "MATATLAN",
+    "inspector_id": "3129",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032550052",
+    "date": "2026-07-31",
+    "name": "SPRINGHILL SUITES DURHAM CHAPEL HILL SPA",
+    "inspector_id": "2585",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021379",
+    "date": "2026-07-30",
+    "name": "BENTO NOUVEAU INC",
+    "inspector_id": "2242",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032611142",
+    "date": "2026-07-30",
+    "name": "CATTAIL TATTOO COLLECTIVE-KARAH HAMEL",
+    "inspector_id": "3328",
+    "score": "",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032611141",
+    "date": "2026-07-30",
+    "name": "CATTAIL TATTOO COLLECTIVE-LAUREN MCMINN",
+    "inspector_id": "3328",
+    "score": "",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032611143",
+    "date": "2026-07-30",
+    "name": "CATTAIL TATTOO COLLECTIVE-OLIVIER POTVIN",
+    "inspector_id": "3328",
+    "score": "",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300098",
+    "date": "2026-07-30",
+    "name": "COMPARE FOODS SUPERMARKET",
+    "inspector_id": "3457",
+    "score": "93",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011735",
+    "date": "2026-07-30",
+    "name": "DAIN'S PLACE",
+    "inspector_id": "3328",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010528",
+    "date": "2026-07-30",
+    "name": "DUKE HOSPITAL-NORTH CAFE",
+    "inspector_id": "3367",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012432",
+    "date": "2026-07-30",
+    "name": "DURHAM CO OP MARKET",
+    "inspector_id": "2503",
+    "score": "93.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013770",
+    "date": "2026-07-30",
+    "name": "E.O.'S ATHLETIC CLUB",
+    "inspector_id": "2503",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530236",
+    "date": "2026-07-30",
+    "name": "FAIRFIELD INN & SUITES -DURHAM SOUTHPOINT",
+    "inspector_id": "2585",
+    "score": "2",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013429",
+    "date": "2026-07-30",
+    "name": "FIVE GUYS",
+    "inspector_id": "1838",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020433",
+    "date": "2026-07-30",
+    "name": "FOOD LION DELI  #57",
+    "inspector_id": "3129",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300058",
+    "date": "2026-07-30",
+    "name": "FOOD LION MEAT MARKET 57",
+    "inspector_id": "3129",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020924",
+    "date": "2026-07-30",
+    "name": "FOOD LION PRODUCE #57",
+    "inspector_id": "3129",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420344",
+    "date": "2026-07-30",
+    "name": "KIDS KORNER ACADEMY",
+    "inspector_id": "3547",
+    "score": "7",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032610066",
+    "date": "2026-07-30",
+    "name": "PRINSESA AESTHETICS STUDIO- NATALIE GUILLORY",
+    "inspector_id": "3129",
+    "score": "",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021399",
+    "date": "2026-07-30",
+    "name": "RINA'S CATERING / THE HOUSE COMMISSARY",
+    "inspector_id": "2503",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530215",
+    "date": "2026-07-29",
+    "name": "AVANA 55TWELVE",
+    "inspector_id": "3496",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013399",
+    "date": "2026-07-29",
+    "name": "BURGER KING #17454",
+    "inspector_id": "1838",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012476",
+    "date": "2026-07-29",
+    "name": "COURTYARD BY MARRIOTT FS",
+    "inspector_id": "3367",
+    "score": "87.50",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531092",
+    "date": "2026-07-29",
+    "name": "CREEKSTONE AT RTP",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013554",
+    "date": "2026-07-29",
+    "name": "DUNKIN DONUT",
+    "inspector_id": "3457",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420638",
+    "date": "2026-07-29",
+    "name": "EARLY CHILDHOOD LEARNING CENTER",
+    "inspector_id": "3328",
+    "score": "15",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013090",
+    "date": "2026-07-29",
+    "name": "EL QUETZAL",
+    "inspector_id": "3052",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020549",
+    "date": "2026-07-29",
+    "name": "FOOD LION DELI  747 DELI",
+    "inspector_id": "3547",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020925",
+    "date": "2026-07-29",
+    "name": "FOOD LION PRODUCE  #747",
+    "inspector_id": "3547",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012358",
+    "date": "2026-07-29",
+    "name": "FREDDY'S FROZEN CUSTARD AND STEAKBURGERS",
+    "inspector_id": "3096",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021147",
+    "date": "2026-07-29",
+    "name": "HARRIS TEETER #493 DELI",
+    "inspector_id": "3129",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300112",
+    "date": "2026-07-29",
+    "name": "HARRIS TEETER #493 MEAT/SEAFOOD",
+    "inspector_id": "3129",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021145",
+    "date": "2026-07-29",
+    "name": "HARRIS TEETER #493 PRODUCE",
+    "inspector_id": "3129",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013156",
+    "date": "2026-07-29",
+    "name": "LIME AND LEMON INDIAN GRILL",
+    "inspector_id": "3367",
+    "score": "90.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530034",
+    "date": "2026-07-29",
+    "name": "MAA DUKE FOREST",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013777",
+    "date": "2026-07-29",
+    "name": "PUPUSERIA DONA LAURA",
+    "inspector_id": "3547",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013759",
+    "date": "2026-07-29",
+    "name": "QAMARIA YEMENI COFFEE CO.",
+    "inspector_id": "3457",
+    "score": "93",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013673",
+    "date": "2026-07-29",
+    "name": "SAL'S PIZZA RISTORANTE",
+    "inspector_id": "3457",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030352",
+    "date": "2026-07-29",
+    "name": "SALTBOX SEAFOOD JOINT/ SALTBOX SEAFOOD JOINT",
+    "inspector_id": "3229",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032160032",
+    "date": "2026-07-29",
+    "name": "SEASONS AT SOUTHPOINT IFS",
+    "inspector_id": "3052",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420113",
+    "date": "2026-07-29",
+    "name": "WEE WISDOM PRESCHOOL/ AM",
+    "inspector_id": "3229",
+    "score": "9",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012556",
+    "date": "2026-07-28",
+    "name": "CHICK-FIL-A #3490",
+    "inspector_id": "3096",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010590",
+    "date": "2026-07-28",
+    "name": "CHUCK E CHEESE",
+    "inspector_id": "3096",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013392",
+    "date": "2026-07-28",
+    "name": "CHURCH'S CHICKEN",
+    "inspector_id": "3229",
+    "score": "84.50",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013071",
+    "date": "2026-07-28",
+    "name": "DUCK DONUTS",
+    "inspector_id": "3096",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013241",
+    "date": "2026-07-28",
+    "name": "DUNKIN DONUTS",
+    "inspector_id": "3547",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012304",
+    "date": "2026-07-28",
+    "name": "FAIRFIELD INN & SUITES BY MARRIOTT  SOUTH BR",
+    "inspector_id": "3052",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011802",
+    "date": "2026-07-28",
+    "name": "FIREHOUSE SUBS # 325",
+    "inspector_id": "3367",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032611213",
+    "date": "2026-07-28",
+    "name": "INKWELL TATTOO - JAYLAH JEFFERSON",
+    "inspector_id": "3229",
+    "score": "",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011825",
+    "date": "2026-07-28",
+    "name": "LOCAL 22 KITCHEN AND BAR",
+    "inspector_id": "3547",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012443",
+    "date": "2026-07-28",
+    "name": "LUNA ROTISSERIE AND EMPANADAS",
+    "inspector_id": "3457",
+    "score": "92",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530296",
+    "date": "2026-07-28",
+    "name": "MARQUIS ELLIS CROSSING INDOOR",
+    "inspector_id": "2585",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530297",
+    "date": "2026-07-28",
+    "name": "MARQUIS ELLIS CROSSING OUTDOOR",
+    "inspector_id": "2585",
+    "score": "10",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020834",
+    "date": "2026-07-28",
+    "name": "NOSH @ JO RAE CAFE",
+    "inspector_id": "3367",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020605",
+    "date": "2026-07-28",
+    "name": "WHOLE FOODS SEAFOOD",
+    "inspector_id": "3328",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300038",
+    "date": "2026-07-28",
+    "name": "WHOLE FOODS/MEAT MARKET",
+    "inspector_id": "3328",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032162517",
+    "date": "2026-07-27",
+    "name": "ATRIA SOUTHPOINT WALK IFS",
+    "inspector_id": "3457",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020689",
+    "date": "2026-07-27",
+    "name": "AUNTIE ANNE'S",
+    "inspector_id": "3052",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032160002",
+    "date": "2026-07-27",
+    "name": "BROOKDALE DURHAM IFS",
+    "inspector_id": "3129",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011821",
+    "date": "2026-07-27",
+    "name": "BRUEGGERS BAGELS # 200",
+    "inspector_id": "3096",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032162519",
+    "date": "2026-07-27",
+    "name": "CAROLINA RESERVE OF DURHAM IFS",
+    "inspector_id": "3052",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011800",
+    "date": "2026-07-27",
+    "name": "CHIPOTLE MEXICAN GRILL",
+    "inspector_id": "3367",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012011",
+    "date": "2026-07-27",
+    "name": "ENZO'S PIZZA COMPANY",
+    "inspector_id": "3367",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013450",
+    "date": "2026-07-27",
+    "name": "GLASSHOUSE KITCHEN",
+    "inspector_id": "3229",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010152",
+    "date": "2026-07-27",
+    "name": "ITALIAN PIZZERIA",
+    "inspector_id": "3096",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300106",
+    "date": "2026-07-27",
+    "name": "LAGOS MEAT MARKET",
+    "inspector_id": "3367",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430167",
+    "date": "2026-07-27",
+    "name": "OBIE GROUP HOME",
+    "inspector_id": "3457",
+    "score": "12",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032160040",
+    "date": "2026-07-27",
+    "name": "PETTIGREW REHABILITATION CENTER",
+    "inspector_id": "3547",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030148",
+    "date": "2026-07-26",
+    "name": "COMA RICO/ TAQUERIA ORELLANA",
+    "inspector_id": "3229",
+    "score": "95",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021529",
+    "date": "2026-07-26",
+    "name": "LOCAL MISE",
+    "inspector_id": "2574",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030399",
+    "date": "2026-07-26",
+    "name": "TAQUERIA JALISCO #2/  MATATLAN",
+    "inspector_id": "3229",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420646",
+    "date": "2026-07-24",
+    "name": "CHILDCARE NETWORK #58",
+    "inspector_id": "3129",
+    "score": "3",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011597",
+    "date": "2026-07-24",
+    "name": "CIRCLE K  6330",
+    "inspector_id": "3457",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032611197",
+    "date": "2026-07-24",
+    "name": "DOGSTAR TATTOO- BRITTANY P LANG",
+    "inspector_id": "3328",
+    "score": "",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300074",
+    "date": "2026-07-24",
+    "name": "DON BECERRA'S MEAT MARKET",
+    "inspector_id": "3547",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021153",
+    "date": "2026-07-24",
+    "name": "HARRIS TEETER #492 DELI",
+    "inspector_id": "3367",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011628",
+    "date": "2026-07-24",
+    "name": "LA SUPERIOR RESTAURANT",
+    "inspector_id": "3547",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530290",
+    "date": "2026-07-24",
+    "name": "LIBERTY WAREHOUSE APARTMENTS",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420189",
+    "date": "2026-07-24",
+    "name": "LOVING CARING SHARING",
+    "inspector_id": "3457",
+    "score": "18",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530219",
+    "date": "2026-07-24",
+    "name": "MAA ARRINGDON",
+    "inspector_id": "2585",
+    "score": "26",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032570001",
+    "date": "2026-07-24",
+    "name": "PHD SWIM SCHOOL #1 PURPLE",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030552",
+    "date": "2026-07-24",
+    "name": "PUPUSERIA DONA LAURA/ PUPUSERIA DONA LAURA",
+    "inspector_id": "3052",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012624",
+    "date": "2026-07-24",
+    "name": "STARBUCKS COFFEE #50265",
+    "inspector_id": "3052",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021305",
+    "date": "2026-07-24",
+    "name": "TROPICANA SUPERMARKET DELI",
+    "inspector_id": "1838",
+    "score": "87.50",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032301000",
+    "date": "2026-07-24",
+    "name": "TROPICANA SUPERMARKET MEAT MARKET",
+    "inspector_id": "1838",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011759",
+    "date": "2026-07-23",
+    "name": "CHINA STAR",
+    "inspector_id": "3129",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010899",
+    "date": "2026-07-23",
+    "name": "CRACKER BARREL  345",
+    "inspector_id": "3367",
+    "score": "85.50",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013138",
+    "date": "2026-07-23",
+    "name": "DUNKIN DONUTS",
+    "inspector_id": "3052",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011593",
+    "date": "2026-07-23",
+    "name": "I LOVE NY PIZZA",
+    "inspector_id": "3096",
+    "score": "92.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013674",
+    "date": "2026-07-23",
+    "name": "JIMMY JOHNS #992",
+    "inspector_id": "3052",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013774",
+    "date": "2026-07-23",
+    "name": "LUTRA CAFE AND BAKERY",
+    "inspector_id": "2503",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011745",
+    "date": "2026-07-23",
+    "name": "MIL AMORES MEXICAN RESTAURANT & LATIN BAR",
+    "inspector_id": "2574",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013476",
+    "date": "2026-07-23",
+    "name": "MOXY OUTDOORS",
+    "inspector_id": "2503",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013827",
+    "date": "2026-07-23",
+    "name": "PORTILLO SPORT BAR",
+    "inspector_id": "3367",
+    "score": "94",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013052",
+    "date": "2026-07-23",
+    "name": "PUPUSERIA ANITA",
+    "inspector_id": "3547",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011476",
+    "date": "2026-07-23",
+    "name": "TARGET BAKERY DELI AND STARBUCKS T1872",
+    "inspector_id": "3096",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012445",
+    "date": "2026-07-23",
+    "name": "WAFFLE HOUSE #2218",
+    "inspector_id": "3129",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530279",
+    "date": "2026-07-23",
+    "name": "WHETSTONE APARTMENTS",
+    "inspector_id": "3310",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010034",
+    "date": "2026-07-22",
+    "name": "BOJANGLES #4",
+    "inspector_id": "3547",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020986",
+    "date": "2026-07-22",
+    "name": "CIRCLE K 2720838",
+    "inspector_id": "3547",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012371",
+    "date": "2026-07-22",
+    "name": "DASHI",
+    "inspector_id": "3328",
+    "score": "94",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020715",
+    "date": "2026-07-22",
+    "name": "DOMINO'S PIZZA",
+    "inspector_id": "3457",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020573",
+    "date": "2026-07-22",
+    "name": "FOOD LION  2589 DELI",
+    "inspector_id": "3229",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300083",
+    "date": "2026-07-22",
+    "name": "FOOD LION MEAT MARKET  2589",
+    "inspector_id": "3229",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020967",
+    "date": "2026-07-22",
+    "name": "FOOD LION PRODUCE  #2589",
+    "inspector_id": "3229",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013704",
+    "date": "2026-07-22",
+    "name": "GIFTED HANDS CUISINE",
+    "inspector_id": "3129",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030442",
+    "date": "2026-07-22",
+    "name": "LA REPUBLICA / THE KITCHEN ARCHIVE",
+    "inspector_id": "3457",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012322",
+    "date": "2026-07-22",
+    "name": "MCDONALDS",
+    "inspector_id": "3367",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013342",
+    "date": "2026-07-22",
+    "name": "MONTERREY MEXICAN GRILL #4",
+    "inspector_id": "3096",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032570002",
+    "date": "2026-07-22",
+    "name": "PHD SWIM SCHOOL #2 GREEN",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011698",
+    "date": "2026-07-22",
+    "name": "RANDY'S PIZZA",
+    "inspector_id": "3367",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011792",
+    "date": "2026-07-22",
+    "name": "SILVER SPOON",
+    "inspector_id": "3129",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013703",
+    "date": "2026-07-22",
+    "name": "STARBUCKS #83735",
+    "inspector_id": "3052",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011810",
+    "date": "2026-07-22",
+    "name": "STAYBRIDGE SUITES BREAKFAST BA",
+    "inspector_id": "3052",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530206",
+    "date": "2026-07-21",
+    "name": "AVANA ON BROAD - OFFICE",
+    "inspector_id": "2303",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531153",
+    "date": "2026-07-21",
+    "name": "AVANA ON BROAD- CABANA",
+    "inspector_id": "2303",
+    "score": "14",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011827",
+    "date": "2026-07-21",
+    "name": "BRUEGGERS BAGELS",
+    "inspector_id": "3328",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013609",
+    "date": "2026-07-21",
+    "name": "CHICKEN BEE",
+    "inspector_id": "3367",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012454",
+    "date": "2026-07-21",
+    "name": "CITY BARBEQUE",
+    "inspector_id": "1838",
+    "score": "94",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013356",
+    "date": "2026-07-21",
+    "name": "DUNKIN DONUTS",
+    "inspector_id": "3229",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020436",
+    "date": "2026-07-21",
+    "name": "FOOD LION  LLC  DELI  #939",
+    "inspector_id": "3328",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300053",
+    "date": "2026-07-21",
+    "name": "FOOD LION  MARKET 939",
+    "inspector_id": "3328",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010599",
+    "date": "2026-07-21",
+    "name": "HANDY CHINESE RESTAURANT",
+    "inspector_id": "3129",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531109",
+    "date": "2026-07-21",
+    "name": "HAVEN AT RTP",
+    "inspector_id": "2585",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032152000",
+    "date": "2026-07-21",
+    "name": "HOMEGROWN DURM COMMISSARY",
+    "inspector_id": "2574",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531060",
+    "date": "2026-07-21",
+    "name": "ICON DOWNTOWN APARTMENTS CLASSIC SIDE",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030925",
+    "date": "2026-07-21",
+    "name": "JERK BOYZ / WHERE'S THE JERK?",
+    "inspector_id": "3229",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032162526",
+    "date": "2026-07-21",
+    "name": "TERRABELLA DURHAM INST FS",
+    "inspector_id": "3096",
+    "score": "95",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032160035",
+    "date": "2026-07-21",
+    "name": "THE EMILY PROGRAM IFS DOUGLAS",
+    "inspector_id": "3367",
+    "score": "94.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531003",
+    "date": "2026-07-21",
+    "name": "VAN ALEN APARTMENTS",
+    "inspector_id": "3310",
+    "score": "12",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012532",
+    "date": "2026-07-21",
+    "name": "ZEN FISH",
+    "inspector_id": "3367",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530280",
+    "date": "2026-07-20",
+    "name": "605 WEST END APTS",
+    "inspector_id": "2585",
+    "score": "2",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013398",
+    "date": "2026-07-20",
+    "name": "BURGER KING #6882",
+    "inspector_id": "3547",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013490",
+    "date": "2026-07-20",
+    "name": "CANASTAS CHICKEN",
+    "inspector_id": "3096",
+    "score": "95",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013202",
+    "date": "2026-07-20",
+    "name": "EL HUARACHE",
+    "inspector_id": "1838",
+    "score": "91.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020922",
+    "date": "2026-07-20",
+    "name": "FOOD LION PRODUCE #234",
+    "inspector_id": "2503",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021454",
+    "date": "2026-07-20",
+    "name": "LRB PROVISIONS",
+    "inspector_id": "3367",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530034",
+    "date": "2026-07-20",
+    "name": "MAA DUKE FOREST",
+    "inspector_id": "2585",
+    "score": "12",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020488",
+    "date": "2026-07-20",
+    "name": "PAPA JOHN'S PIZZA",
+    "inspector_id": "2503",
+    "score": "90",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430929",
+    "date": "2026-07-20",
+    "name": "ROCKBRIDGE SENIOR CARE HOME",
+    "inspector_id": "3096",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011627",
+    "date": "2026-07-20",
+    "name": "SUPER TARGET FOOD AVENUE 2069",
+    "inspector_id": "3052",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032302567",
+    "date": "2026-07-20",
+    "name": "TORTILLERIA MIGUELENA",
+    "inspector_id": "3096",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010633",
+    "date": "2026-07-17",
+    "name": "BISCUITVILLE 158",
+    "inspector_id": "2574",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430960",
+    "date": "2026-07-17",
+    "name": "BREAK OUT LLC II",
+    "inspector_id": "1838",
+    "score": "2",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011216",
+    "date": "2026-07-17",
+    "name": "CHINA KING",
+    "inspector_id": "3367",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020647",
+    "date": "2026-07-17",
+    "name": "CIRCLE K # 6312",
+    "inspector_id": "3052",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032154506",
+    "date": "2026-07-17",
+    "name": "FAMILY MEAL COMMISSARY",
+    "inspector_id": "2574",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021385",
+    "date": "2026-07-17",
+    "name": "ISAACS BAGELS",
+    "inspector_id": "3457",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020353",
+    "date": "2026-07-17",
+    "name": "SPEEDWAY",
+    "inspector_id": "3457",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021108",
+    "date": "2026-07-17",
+    "name": "SPROUTS #543 PRODUCE",
+    "inspector_id": "3052",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012519",
+    "date": "2026-07-17",
+    "name": "WAFFLE HOUSE",
+    "inspector_id": "3457",
+    "score": "87",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032031053",
+    "date": "2026-07-16",
+    "name": "ANTOJITOS POBLANOS",
+    "inspector_id": "1838",
+    "score": "87.50",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032611209",
+    "date": "2026-07-16",
+    "name": "CREATIVE TATTOO SERVICE - EDDIE DAUGHERTY",
+    "inspector_id": "2828",
+    "score": "",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032611212",
+    "date": "2026-07-16",
+    "name": "CREATIVE TATTOO SERVICES - SAMANTHA CASTROVINCI",
+    "inspector_id": "2828",
+    "score": "",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032611211",
+    "date": "2026-07-16",
+    "name": "CREATIVE TATTOO SERVICES - SHAINE SMITH",
+    "inspector_id": "2828",
+    "score": "",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013222",
+    "date": "2026-07-16",
+    "name": "CURRENT CAFE",
+    "inspector_id": "3547",
+    "score": "92",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013208",
+    "date": "2026-07-16",
+    "name": "DUNKIN DONUTS",
+    "inspector_id": "3052",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013188",
+    "date": "2026-07-16",
+    "name": "DURHAM TECH COMMUNITY COLLEGE-ATC",
+    "inspector_id": "2503",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300050",
+    "date": "2026-07-16",
+    "name": "FOOD LION 1343 MEAT MARKET",
+    "inspector_id": "3328",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020434",
+    "date": "2026-07-16",
+    "name": "FOOD LION LLC  DELI  #1343",
+    "inspector_id": "3328",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430983",
+    "date": "2026-07-16",
+    "name": "GLORY GROUP HOME",
+    "inspector_id": "3229",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020872",
+    "date": "2026-07-16",
+    "name": "HARRIS TEETER 394 DELI",
+    "inspector_id": "3367",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021321",
+    "date": "2026-07-16",
+    "name": "LAS CAROLINAS FRESH MARKET",
+    "inspector_id": "3457",
+    "score": "94",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430876",
+    "date": "2026-07-16",
+    "name": "SPRINGDAILE ASSISTED LIVING",
+    "inspector_id": "3229",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530216",
+    "date": "2026-07-15",
+    "name": "ALDEN PLACE SOUTH SQUARE APTS",
+    "inspector_id": "3400",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530233",
+    "date": "2026-07-15",
+    "name": "ALDEN SOUTH SQUARE",
+    "inspector_id": "3400",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013463",
+    "date": "2026-07-15",
+    "name": "CHIPOTLE MEXICAN",
+    "inspector_id": "3457",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530161",
+    "date": "2026-07-15",
+    "name": "COURTYARD BY MARRIOTT",
+    "inspector_id": "3400",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032040114",
+    "date": "2026-07-15",
+    "name": "DANG GOOD DOGS / ESSERS COMMISSARY",
+    "inspector_id": "2574",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032150896",
+    "date": "2026-07-15",
+    "name": "ESSERS COMMISSARY",
+    "inspector_id": "2574",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530220",
+    "date": "2026-07-15",
+    "name": "HAVEN AT PATTERSON PLACE",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011743",
+    "date": "2026-07-15",
+    "name": "HOG HEAVEN",
+    "inspector_id": "3367",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020937",
+    "date": "2026-07-15",
+    "name": "TASTY STOP",
+    "inspector_id": "3129",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032500276",
+    "date": "2026-07-15",
+    "name": "THE LOFTS AT SOUTHSIDE",
+    "inspector_id": "3400",
+    "score": "14",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013816",
+    "date": "2026-07-15",
+    "name": "U NOODLES",
+    "inspector_id": "3469",
+    "score": "91",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013620",
+    "date": "2026-07-15",
+    "name": "UMSTEAD PINES GOLF & SWIM CLUB",
+    "inspector_id": "3096",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531065",
+    "date": "2026-07-15",
+    "name": "VENABLE APARTMENTS",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531068",
+    "date": "2026-07-15",
+    "name": "WILLOWDAILE APARTMENTS",
+    "inspector_id": "2585",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013320",
+    "date": "2026-07-14",
+    "name": "BAMBOO HOUSE",
+    "inspector_id": "3129",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011927",
+    "date": "2026-07-14",
+    "name": "CHINA KING",
+    "inspector_id": "3547",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013761",
+    "date": "2026-07-14",
+    "name": "CHIPOTLE MEXICAN GRILL ***",
+    "inspector_id": "1838",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013389",
+    "date": "2026-07-14",
+    "name": "CHURCH'S CHICKEN",
+    "inspector_id": "3547",
+    "score": "93.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020018",
+    "date": "2026-07-14",
+    "name": "CIRCLE K STORE #8627",
+    "inspector_id": "3052",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012339",
+    "date": "2026-07-14",
+    "name": "COMFORT INN UNIVERSITY FOOD SERVICE",
+    "inspector_id": "3096",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032531078",
+    "date": "2026-07-14",
+    "name": "CROWNE AT 501",
+    "inspector_id": "3496",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013094",
+    "date": "2026-07-14",
+    "name": "EASTCUT SANDWICH BAR",
+    "inspector_id": "3096",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021138",
+    "date": "2026-07-14",
+    "name": "EVERYTHING BAGELS",
+    "inspector_id": "3547",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020928",
+    "date": "2026-07-14",
+    "name": "FOOD LION PRODUCE #274",
+    "inspector_id": "3052",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  }
+]

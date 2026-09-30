@@ -1,0 +1,6437 @@
+[
+  {
+    "id": "3041014597",
+    "date": "2026-09-29",
+    "name": "ATRIUM HEALTH WAKE FOREST BAPTIST-HIGH POINT REST.",
+    "inspector_id": "2964",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013827",
+    "date": "2026-09-29",
+    "name": "BLUE ROCK PIZZA AND TAP",
+    "inspector_id": "3566",
+    "score": "92",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014002",
+    "date": "2026-09-29",
+    "name": "CHRISTINA GRAYS",
+    "inspector_id": "2964",
+    "score": "93",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021165",
+    "date": "2026-09-29",
+    "name": "CIRCLE K #2723788",
+    "inspector_id": "3566",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013293",
+    "date": "2026-09-29",
+    "name": "COUNTRY BBQ",
+    "inspector_id": "3095",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420389",
+    "date": "2026-09-29",
+    "name": "FAITH AND LOVE ENRICHMENT CTR",
+    "inspector_id": "1768",
+    "score": "31",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041110137",
+    "date": "2026-09-29",
+    "name": "HAYNES-INMAN EDUCATIONAL CENTER",
+    "inspector_id": "1768",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530080",
+    "date": "2026-09-29",
+    "name": "HENSON FOREST",
+    "inspector_id": "2370",
+    "score": "6",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011730",
+    "date": "2026-09-29",
+    "name": "KABUTO",
+    "inspector_id": "1958",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041160040",
+    "date": "2026-09-29",
+    "name": "LAWSONS ADULT ENRICHMENT CTR.",
+    "inspector_id": "2924",
+    "score": "90",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011381",
+    "date": "2026-09-29",
+    "name": "MCDONALDS  12583",
+    "inspector_id": "2370",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013647",
+    "date": "2026-09-29",
+    "name": "MOES SOUTHWEST GRILL #245",
+    "inspector_id": "1958",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013766",
+    "date": "2026-09-29",
+    "name": "OLIVE GARDEN 4415",
+    "inspector_id": "3095",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010827",
+    "date": "2026-09-29",
+    "name": "OUTBACK STEAKHOUSE",
+    "inspector_id": "2370",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041060057",
+    "date": "2026-09-29",
+    "name": "UNCG - CATERING KITCHEN",
+    "inspector_id": "2924",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420792",
+    "date": "2026-09-28",
+    "name": "ABG PROVIDER  SERVICES CHILD CARE   ##",
+    "inspector_id": "1588",
+    "score": "13",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041110160",
+    "date": "2026-09-28",
+    "name": "BROOKS GLOBAL STUDIES ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "1768",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012886",
+    "date": "2026-09-28",
+    "name": "CHILI'S GRILL & BAR",
+    "inspector_id": "3311",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200175",
+    "date": "2026-09-28",
+    "name": "DRURY INN & SUITES",
+    "inspector_id": "2644",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010522",
+    "date": "2026-09-28",
+    "name": "DUNKIN' DONUTS",
+    "inspector_id": "3566",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041110165",
+    "date": "2026-09-28",
+    "name": "FOUST ELEMENTARY GAMING SCHOO",
+    "inspector_id": "1768",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041300184",
+    "date": "2026-09-28",
+    "name": "FRESH MARKET  # 9  THE",
+    "inspector_id": "3311",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021536",
+    "date": "2026-09-28",
+    "name": "GOLDEN HOUR PROVISIONS",
+    "inspector_id": "2644",
+    "score": "100",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010574",
+    "date": "2026-09-28",
+    "name": "MARRIOTT COURTYARD REST.",
+    "inspector_id": "2924",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420421",
+    "date": "2026-09-28",
+    "name": "MYRA S LEARNING KIDS ACADEM LL    #",
+    "inspector_id": "1768",
+    "score": "2",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041060081",
+    "date": "2026-09-28",
+    "name": "NCA&T - 1891 BISTRO / AGGIE WINGS",
+    "inspector_id": "2924",
+    "score": "94",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014724",
+    "date": "2026-09-28",
+    "name": "PUBLIX #1658 DELI",
+    "inspector_id": "3238",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012120",
+    "date": "2026-09-28",
+    "name": "TOKYO EXPRESS",
+    "inspector_id": "3566",
+    "score": "94",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420655",
+    "date": "2026-09-25",
+    "name": "ELM STREET CENTER",
+    "inspector_id": "2644",
+    "score": "14",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020645",
+    "date": "2026-09-25",
+    "name": "FOOD LION DELI  #674",
+    "inspector_id": "2923",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041110123",
+    "date": "2026-09-25",
+    "name": "GUILFORD ELEMENTARY SCHOOL",
+    "inspector_id": "1768",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015243",
+    "date": "2026-09-25",
+    "name": "HIGH POINT DINER",
+    "inspector_id": "3238",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021500",
+    "date": "2026-09-25",
+    "name": "JERSEY MIKE'S",
+    "inspector_id": "2923",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014706",
+    "date": "2026-09-25",
+    "name": "KENTUCKY FRIED CHICKEN",
+    "inspector_id": "3136",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010148",
+    "date": "2026-09-25",
+    "name": "OAK HOLLOW GRILL",
+    "inspector_id": "3566",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020660",
+    "date": "2026-09-25",
+    "name": "PAPA JOHNS #1581",
+    "inspector_id": "3566",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420725",
+    "date": "2026-09-25",
+    "name": "PRE-K GUILFORD ELEMENTARY RM 215",
+    "inspector_id": "1768",
+    "score": "14",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420425",
+    "date": "2026-09-25",
+    "name": "PRE-K JEFFERSON ELEMENTARY",
+    "inspector_id": "1768",
+    "score": "5",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041540034",
+    "date": "2026-09-25",
+    "name": "REEDY FORK RANCH - SOUTH (WADING)",
+    "inspector_id": "2923",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014499",
+    "date": "2026-09-25",
+    "name": "SIMPLY THAI",
+    "inspector_id": "3238",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420878",
+    "date": "2026-09-25",
+    "name": "SWEET DREAMS",
+    "inspector_id": "1768",
+    "score": "6",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530027",
+    "date": "2026-09-25",
+    "name": "WINGATE BY WYNDHAM HIGH POINT",
+    "inspector_id": "2964",
+    "score": "18",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041611061",
+    "date": "2026-09-24",
+    "name": "BARBER NAILS AND BEYOND",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011013",
+    "date": "2026-09-24",
+    "name": "BISCUITVILLE #157",
+    "inspector_id": "3566",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014784",
+    "date": "2026-09-24",
+    "name": "CHINA GARDEN",
+    "inspector_id": "3238",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020210",
+    "date": "2026-09-24",
+    "name": "CIRCLE K #7955",
+    "inspector_id": "3311",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530020",
+    "date": "2026-09-24",
+    "name": "CLUB FITNESS AT OAK BRANCH",
+    "inspector_id": "3136",
+    "score": "8",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041550009",
+    "date": "2026-09-24",
+    "name": "CLUB FITNESS AT OAK BRANCH-SPA",
+    "inspector_id": "3136",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530050",
+    "date": "2026-09-24",
+    "name": "CROWNE AT JAMES LANDING I",
+    "inspector_id": "3136",
+    "score": "14",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014529",
+    "date": "2026-09-24",
+    "name": "ECOLAB CAFE",
+    "inspector_id": "3311",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012504",
+    "date": "2026-09-24",
+    "name": "FIRE & STICKS JAPANESE STEAKHOUSE",
+    "inspector_id": "3095",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200280",
+    "date": "2026-09-24",
+    "name": "FOUR POINTS BY SHERATON",
+    "inspector_id": "2964",
+    "score": "94",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530093",
+    "date": "2026-09-24",
+    "name": "KNIGHTS LANDING",
+    "inspector_id": "3311",
+    "score": "18",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011382",
+    "date": "2026-09-24",
+    "name": "MA' LUZ MEXICAN GRILL #04",
+    "inspector_id": "3566",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015187",
+    "date": "2026-09-24",
+    "name": "NATE'S 1808 GRILLE",
+    "inspector_id": "2964",
+    "score": "92.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610011",
+    "date": "2026-09-24",
+    "name": "NATHAN HALL - LEGACY IRONS TATTOO",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041110060",
+    "date": "2026-09-24",
+    "name": "NORTHWOOD ELEM. SCHOOL",
+    "inspector_id": "1768",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420522",
+    "date": "2026-09-24",
+    "name": "PRE K NORTHWOOD ELEM",
+    "inspector_id": "1768",
+    "score": "13",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420768",
+    "date": "2026-09-23",
+    "name": "AFS CHILD CARE",
+    "inspector_id": "1768",
+    "score": "0",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041431141",
+    "date": "2026-09-23",
+    "name": "BEECH ST RESIDENTIAL CARE HOME",
+    "inspector_id": "2229",
+    "score": "12",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021163",
+    "date": "2026-09-23",
+    "name": "CIRCLE K #2720426",
+    "inspector_id": "3566",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021521",
+    "date": "2026-09-23",
+    "name": "CLUCKSY CHICKEN",
+    "inspector_id": "2644",
+    "score": "94.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021472",
+    "date": "2026-09-23",
+    "name": "FIG & OLIVE MEDITERRANEAN DELI",
+    "inspector_id": "3566",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020628",
+    "date": "2026-09-23",
+    "name": "FOOD LION 1355 DELI",
+    "inspector_id": "2370",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041300085",
+    "date": "2026-09-23",
+    "name": "FOOD LION MEAT MARKET #1360",
+    "inspector_id": "3238",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430023",
+    "date": "2026-09-23",
+    "name": "FRIENDWAY GROUP HOME",
+    "inspector_id": "2229",
+    "score": "7",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430201",
+    "date": "2026-09-23",
+    "name": "JANE ST GROUP HOME",
+    "inspector_id": "2229",
+    "score": "7",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011784",
+    "date": "2026-09-23",
+    "name": "LA PIZZERIA",
+    "inspector_id": "3095",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430140",
+    "date": "2026-09-23",
+    "name": "LARKWOOD",
+    "inspector_id": "2229",
+    "score": "14",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021528",
+    "date": "2026-09-23",
+    "name": "PEPPER MOON CATERING",
+    "inspector_id": "3095",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015338",
+    "date": "2026-09-23",
+    "name": "RAISING CANES #1387",
+    "inspector_id": "1958",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430032",
+    "date": "2026-09-23",
+    "name": "RHA HEALTH SERVICES  HOLDEN GROUP HOME",
+    "inspector_id": "2229",
+    "score": "8",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430028",
+    "date": "2026-09-23",
+    "name": "RHA HEALTH SERVICES ROLLINGWOOD GROUP HOME",
+    "inspector_id": "2229",
+    "score": "8",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430029",
+    "date": "2026-09-23",
+    "name": "RHA HEALTH SERVICES WEST FRIENDLY GROUP HOME",
+    "inspector_id": "2229",
+    "score": "16",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430144",
+    "date": "2026-09-22",
+    "name": "BENTON LANE GROUP HOME",
+    "inspector_id": "2229",
+    "score": "10",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014723",
+    "date": "2026-09-22",
+    "name": "BLACK POWDER SMOKEHOUSE",
+    "inspector_id": "3238",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014954",
+    "date": "2026-09-22",
+    "name": "CHICK-FIL-A #4575",
+    "inspector_id": "2370",
+    "score": "100",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021540",
+    "date": "2026-09-22",
+    "name": "DOMINO'S PIZZA",
+    "inspector_id": "3566",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530578",
+    "date": "2026-09-22",
+    "name": "FARM AT CEDAR HOLLOW, THE",
+    "inspector_id": "2923",
+    "score": "12",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014642",
+    "date": "2026-09-22",
+    "name": "FIREHOUSE SUBS",
+    "inspector_id": "3311",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530512",
+    "date": "2026-09-22",
+    "name": "GREENSBORO AQUATIC CENTER - TRAINING POOL",
+    "inspector_id": "1948",
+    "score": "6",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530362",
+    "date": "2026-09-22",
+    "name": "GREENSBORO AQUATIC CENTER COMPETITION POOL",
+    "inspector_id": "2644",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530363",
+    "date": "2026-09-22",
+    "name": "GREENSBORO AQUATIC CENTER DIVE POOL",
+    "inspector_id": "2644",
+    "score": "8",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530361",
+    "date": "2026-09-22",
+    "name": "GREENSBORO AQUATIC CENTER WARM UP POOL",
+    "inspector_id": "1948",
+    "score": "10",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200298",
+    "date": "2026-09-22",
+    "name": "HIGH POINT ARCADIA INN",
+    "inspector_id": "1948",
+    "score": "94.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041110036",
+    "date": "2026-09-22",
+    "name": "JAMESTOWN ELEMENTARY CAFE.",
+    "inspector_id": "1768",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014384",
+    "date": "2026-09-22",
+    "name": "JERSEY MIKES SUBS",
+    "inspector_id": "2370",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430035",
+    "date": "2026-09-22",
+    "name": "LAKE BRANDT GROUP HOME",
+    "inspector_id": "2229",
+    "score": "15",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015185",
+    "date": "2026-09-22",
+    "name": "LEE'S BRASS TAPS",
+    "inspector_id": "2370",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610754",
+    "date": "2026-09-22",
+    "name": "MADISON LAWSON-GOOD NEWS ART STUDIO",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430978",
+    "date": "2026-09-22",
+    "name": "NORTHBAY GROUP HOME",
+    "inspector_id": "2229",
+    "score": "19",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013756",
+    "date": "2026-09-22",
+    "name": "SAN LUIS",
+    "inspector_id": "3566",
+    "score": "93",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014844",
+    "date": "2026-09-21",
+    "name": "ACHILLES GRILL",
+    "inspector_id": "2370",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015062",
+    "date": "2026-09-21",
+    "name": "BIG BURGER SPOT",
+    "inspector_id": "1958",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014881",
+    "date": "2026-09-21",
+    "name": "BOJANGLES RESTAURANT 2044",
+    "inspector_id": "3095",
+    "score": "93.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013383",
+    "date": "2026-09-21",
+    "name": "CARDINAL BY PETE DYE",
+    "inspector_id": "3311",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013009",
+    "date": "2026-09-21",
+    "name": "CHIPOTLE MEXICAN GRILL",
+    "inspector_id": "1958",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014510",
+    "date": "2026-09-21",
+    "name": "CICI'S PIZZA",
+    "inspector_id": "2370",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014412",
+    "date": "2026-09-21",
+    "name": "DEAR DAD'S",
+    "inspector_id": "2370",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010137",
+    "date": "2026-09-21",
+    "name": "ELIZABETH PIZZA",
+    "inspector_id": "3238",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021210",
+    "date": "2026-09-21",
+    "name": "FOOD LION #925 PRODUCE",
+    "inspector_id": "3566",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013807",
+    "date": "2026-09-21",
+    "name": "SUBWAY",
+    "inspector_id": "3311",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041260005",
+    "date": "2026-09-21",
+    "name": "TRUIST LEADERSHIP INSTITUTE",
+    "inspector_id": "1768",
+    "score": "97",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041260006",
+    "date": "2026-09-21",
+    "name": "TRUIST LEADERSHIP INSTITUTE NORTH BUILDING",
+    "inspector_id": "1768",
+    "score": "97",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013782",
+    "date": "2026-09-21",
+    "name": "US SUSHI",
+    "inspector_id": "3566",
+    "score": "92",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014926",
+    "date": "2026-09-21",
+    "name": "WINGSTOP",
+    "inspector_id": "1958",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041030245",
+    "date": "2026-09-19",
+    "name": "KIBI'S CRAZY CASSEROLE",
+    "inspector_id": "3238",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021437",
+    "date": "2026-09-18",
+    "name": "AL RASHID HALAL MEAT MARKET",
+    "inspector_id": "3238",
+    "score": "94.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015303",
+    "date": "2026-09-18",
+    "name": "CHEEZIOUS",
+    "inspector_id": "3238",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610092",
+    "date": "2026-09-18",
+    "name": "DAVID SELF - LEGACY IRONS",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610909",
+    "date": "2026-09-18",
+    "name": "JAVIER WILFONG-LEGACY IRONS TATTOO",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610194",
+    "date": "2026-09-18",
+    "name": "MITCHELL WILLARD - LEGACY IRONS TATTOO",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014872",
+    "date": "2026-09-17",
+    "name": "BISCUITVILLE #203",
+    "inspector_id": "2370",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530128",
+    "date": "2026-09-17",
+    "name": "CEDAR HOLLOW LAKES",
+    "inspector_id": "2923",
+    "score": "2",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014842",
+    "date": "2026-09-17",
+    "name": "CITY BARBEQUE 10055",
+    "inspector_id": "2370",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011354",
+    "date": "2026-09-17",
+    "name": "COOK OUT #5",
+    "inspector_id": "3566",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010665",
+    "date": "2026-09-17",
+    "name": "CRACKER BARREL #107",
+    "inspector_id": "1958",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610915",
+    "date": "2026-09-17",
+    "name": "GLAM GLOW & GRACE ESTHETICS",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430329",
+    "date": "2026-09-17",
+    "name": "GREEN ACRES GROUP HOME",
+    "inspector_id": "2229",
+    "score": "10",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021347",
+    "date": "2026-09-17",
+    "name": "HIBACHI BUBBLE",
+    "inspector_id": "3095",
+    "score": "93.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041060074",
+    "date": "2026-09-17",
+    "name": "HPU - VILLAGE JUICE",
+    "inspector_id": "2964",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041440055",
+    "date": "2026-09-17",
+    "name": "JOYNER SCHOOL",
+    "inspector_id": "1588",
+    "score": "84",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041110040",
+    "date": "2026-09-17",
+    "name": "JOYNER SCHOOL CAFE.",
+    "inspector_id": "1588",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610952",
+    "date": "2026-09-17",
+    "name": "KAITLYN DILLON-TATTOOS BY KATT",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021026",
+    "date": "2026-09-17",
+    "name": "LITTLE CAESARS #1845-02",
+    "inspector_id": "3566",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021006",
+    "date": "2026-09-17",
+    "name": "LOWES FOOD DELI  #243",
+    "inspector_id": "2923",
+    "score": "94.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041110049",
+    "date": "2026-09-17",
+    "name": "MONTLIEU  ACADEMY OF TECHNOLOGY",
+    "inspector_id": "1768",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041110065",
+    "date": "2026-09-17",
+    "name": "PARKVIEW VILLAGE ELEM.",
+    "inspector_id": "1768",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420746",
+    "date": "2026-09-17",
+    "name": "PRE-K MONTLIEU ACADEMY",
+    "inspector_id": "1768",
+    "score": "12",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530044",
+    "date": "2026-09-16",
+    "name": "GREENSBORO COLLEGE REYNOLDS POOL",
+    "inspector_id": "2924",
+    "score": "14",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530587",
+    "date": "2026-09-16",
+    "name": "HAMPTON INN & SUITES GREENSBORO",
+    "inspector_id": "2924",
+    "score": "14",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012927",
+    "date": "2026-09-16",
+    "name": "ISLAND FEST",
+    "inspector_id": "3566",
+    "score": "91",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530618",
+    "date": "2026-09-16",
+    "name": "POLO FARMS MAIN",
+    "inspector_id": "2370",
+    "score": "20",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041540130",
+    "date": "2026-09-16",
+    "name": "POLO FARMS WADING",
+    "inspector_id": "2370",
+    "score": "8",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015216",
+    "date": "2026-09-16",
+    "name": "TAMPOPO RAMEN & HIBACH",
+    "inspector_id": "1958",
+    "score": "100",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530400",
+    "date": "2026-09-16",
+    "name": "WENDOVER AT MEADOWOOD",
+    "inspector_id": "1958",
+    "score": "2",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014846",
+    "date": "2026-09-16",
+    "name": "WENDYS #623",
+    "inspector_id": "3566",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021386",
+    "date": "2026-09-15",
+    "name": "1618 ON LOCATION",
+    "inspector_id": "2370",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041060088",
+    "date": "2026-09-15",
+    "name": "BENNETT COLLEGE",
+    "inspector_id": "1948",
+    "score": "94.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041160056",
+    "date": "2026-09-15",
+    "name": "BLUMENTHAL NURSING REHAB CENTER (NON-KOS",
+    "inspector_id": "2924",
+    "score": "90",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041611058",
+    "date": "2026-09-15",
+    "name": "CACTUS NAIL SALON",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010396",
+    "date": "2026-09-15",
+    "name": "CENTER FOR CREATIVE LEADERSHIP",
+    "inspector_id": "2370",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014251",
+    "date": "2026-09-15",
+    "name": "COOK OUT",
+    "inspector_id": "1958",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011973",
+    "date": "2026-09-15",
+    "name": "DAWNS CAFE",
+    "inspector_id": "3238",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200158",
+    "date": "2026-09-15",
+    "name": "FAIRVIEW INN",
+    "inspector_id": "1948",
+    "score": "93",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021208",
+    "date": "2026-09-15",
+    "name": "FOOD LION #2146 PRODUCE",
+    "inspector_id": "3311",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020627",
+    "date": "2026-09-15",
+    "name": "FOOD LION DELI #925",
+    "inspector_id": "3566",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041400008",
+    "date": "2026-09-15",
+    "name": "FRIENDS HOME INC",
+    "inspector_id": "2964",
+    "score": "98.50",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021157",
+    "date": "2026-09-15",
+    "name": "HARRIS TEETER #280 CHEESE ISLAND/PIZZA",
+    "inspector_id": "2370",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021140",
+    "date": "2026-09-15",
+    "name": "HARRIS TEETER #64 DELI",
+    "inspector_id": "3136",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021153",
+    "date": "2026-09-15",
+    "name": "HARRIS TEETER - CHEESE ISLAND",
+    "inspector_id": "3136",
+    "score": "100",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012979",
+    "date": "2026-09-15",
+    "name": "JASONS DELI",
+    "inspector_id": "2644",
+    "score": "92",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012451",
+    "date": "2026-09-15",
+    "name": "KOBE OF JAPAN",
+    "inspector_id": "1958",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010687",
+    "date": "2026-09-15",
+    "name": "LA HACIENDA",
+    "inspector_id": "3238",
+    "score": "92.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610914",
+    "date": "2026-09-15",
+    "name": "MCKENZIE \"MAC\" WILSON-TRIED AND TRUE TATTOO",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014850",
+    "date": "2026-09-15",
+    "name": "SHEETZ #356",
+    "inspector_id": "1958",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014203",
+    "date": "2026-09-15",
+    "name": "SIR PIZZA #2",
+    "inspector_id": "3566",
+    "score": "94.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530127",
+    "date": "2026-09-14",
+    "name": "EDINBOROUGH",
+    "inspector_id": "2644",
+    "score": "12",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020633",
+    "date": "2026-09-14",
+    "name": "FOOD LION DELI #540",
+    "inspector_id": "3566",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011027",
+    "date": "2026-09-14",
+    "name": "LA HACIENDA #2",
+    "inspector_id": "3566",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200246",
+    "date": "2026-09-14",
+    "name": "RELAX INN",
+    "inspector_id": "2644",
+    "score": "94",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015037",
+    "date": "2026-09-14",
+    "name": "RODY'S TAVERN",
+    "inspector_id": "2370",
+    "score": "94",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041060060",
+    "date": "2026-09-14",
+    "name": "UNCG - FOUNTAIN VIEW DINING HALL",
+    "inspector_id": "2924",
+    "score": "93",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530091",
+    "date": "2026-09-11",
+    "name": "BRANDYWINE",
+    "inspector_id": "3136",
+    "score": "22",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041300154",
+    "date": "2026-09-11",
+    "name": "COSTCO MARKET",
+    "inspector_id": "1958",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014652",
+    "date": "2026-09-11",
+    "name": "COUNTRY BBQ EXPRESS",
+    "inspector_id": "3566",
+    "score": "93",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015360",
+    "date": "2026-09-11",
+    "name": "EMBASSY SUITES GREENSBORO",
+    "inspector_id": "2964",
+    "score": "90.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041060054",
+    "date": "2026-09-11",
+    "name": "HPU - THE POINT SPORTS GRILL",
+    "inspector_id": "2964",
+    "score": "94.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530092",
+    "date": "2026-09-11",
+    "name": "NORTHBROOK TOWNHOMES",
+    "inspector_id": "2644",
+    "score": "6",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014431",
+    "date": "2026-09-11",
+    "name": "PANERA BREAD #4975",
+    "inspector_id": "3095",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530126",
+    "date": "2026-09-11",
+    "name": "RIDGECREEK",
+    "inspector_id": "2644",
+    "score": "6",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014734",
+    "date": "2026-09-11",
+    "name": "SINGHA II THAI BISTRO",
+    "inspector_id": "3095",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013871",
+    "date": "2026-09-11",
+    "name": "SPARE TIME",
+    "inspector_id": "1958",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015340",
+    "date": "2026-09-11",
+    "name": "UMAMI STATION",
+    "inspector_id": "3566",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014548",
+    "date": "2026-09-10",
+    "name": "BLACK GINGER",
+    "inspector_id": "3311",
+    "score": "93.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530125",
+    "date": "2026-09-10",
+    "name": "BRIDFORD DOWNS",
+    "inspector_id": "3136",
+    "score": "22",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011496",
+    "date": "2026-09-10",
+    "name": "CALIFORNIA BURRITOS",
+    "inspector_id": "3566",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021342",
+    "date": "2026-09-10",
+    "name": "COMPANY'S COMING",
+    "inspector_id": "3566",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530531",
+    "date": "2026-09-10",
+    "name": "GREEN VALLEY SWIM CLUB",
+    "inspector_id": "3136",
+    "score": "22",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041540026",
+    "date": "2026-09-10",
+    "name": "GREEN VALLEY SWIM CLUB-WADE",
+    "inspector_id": "3136",
+    "score": "22",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015273",
+    "date": "2026-09-10",
+    "name": "HANGRY JOES",
+    "inspector_id": "1958",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041060082",
+    "date": "2026-09-10",
+    "name": "NCA&T - SUB CONNECTION",
+    "inspector_id": "2924",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013043",
+    "date": "2026-09-10",
+    "name": "SALSARITA'S  FRESH CANTINA",
+    "inspector_id": "3311",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012939",
+    "date": "2026-09-10",
+    "name": "SUBWAY #13806",
+    "inspector_id": "1958",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013229",
+    "date": "2026-09-08",
+    "name": "ABOVE & BEYOND CATERING - HP ELKS LODGE",
+    "inspector_id": "3566",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021517",
+    "date": "2026-09-08",
+    "name": "ATOMIC ROOSTER",
+    "inspector_id": "3566",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610686",
+    "date": "2026-09-08",
+    "name": "AUSTIN MARTIN-CORRUPTED ARTS STUDIO",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014655",
+    "date": "2026-09-08",
+    "name": "BISCUITVILLE",
+    "inspector_id": "1958",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530089",
+    "date": "2026-09-08",
+    "name": "BRIGHTWOOD FARMS MAIN POOL",
+    "inspector_id": "2644",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041540028",
+    "date": "2026-09-08",
+    "name": "BRIGHTWOOD FARMS WADING POOL",
+    "inspector_id": "2644",
+    "score": "0",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041160063",
+    "date": "2026-09-08",
+    "name": "BROOKDALE NORTHWEST GREENSBORO",
+    "inspector_id": "1948",
+    "score": "94",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530537",
+    "date": "2026-09-08",
+    "name": "COMET GREENSBORO",
+    "inspector_id": "3095",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530110",
+    "date": "2026-09-08",
+    "name": "CROWNE AT HICKORY GROVE",
+    "inspector_id": "3095",
+    "score": "6",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200152",
+    "date": "2026-09-08",
+    "name": "HILTON GARDEN INN",
+    "inspector_id": "2924",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015159",
+    "date": "2026-09-08",
+    "name": "LA COSTENITA MEXICAN CANTINA",
+    "inspector_id": "1958",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530434",
+    "date": "2026-09-08",
+    "name": "PIEDMONT PLACE APARTMENTS",
+    "inspector_id": "3311",
+    "score": "16",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021234",
+    "date": "2026-09-08",
+    "name": "PUBLIX #1582 - PRODUCE",
+    "inspector_id": "3566",
+    "score": "100",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013123",
+    "date": "2026-09-04",
+    "name": "BISCUITVILLE #132",
+    "inspector_id": "3136",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041400076",
+    "date": "2026-09-04",
+    "name": "BROOKDALE LAWNDALE PARK SENIOR LIVING",
+    "inspector_id": "1948",
+    "score": "97",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041030237",
+    "date": "2026-09-04",
+    "name": "CLASSIC COOKOUT",
+    "inspector_id": "2644",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610961",
+    "date": "2026-09-04",
+    "name": "DERAN HALL-THE PRANCING PONY-503 W MCGEE",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014426",
+    "date": "2026-09-04",
+    "name": "FAT DOG'S GRILLE AND PUB",
+    "inspector_id": "3136",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020940",
+    "date": "2026-09-04",
+    "name": "FRESH MARKET #1 DELI",
+    "inspector_id": "2923",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015362",
+    "date": "2026-09-04",
+    "name": "HARAZ COFFEE HOUSE",
+    "inspector_id": "3095",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014218",
+    "date": "2026-09-04",
+    "name": "HPU - STARBUCKS @ COTTRELL",
+    "inspector_id": "2964",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015319",
+    "date": "2026-09-04",
+    "name": "MCDONALD'S #4137",
+    "inspector_id": "2923",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014391",
+    "date": "2026-09-04",
+    "name": "OKYTO HIBACHI EXPRESS",
+    "inspector_id": "1958",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041500467",
+    "date": "2026-09-04",
+    "name": "PARK TERRACE",
+    "inspector_id": "3238",
+    "score": "28",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420756",
+    "date": "2026-09-04",
+    "name": "PRE-K PILOT ELEMENTARY",
+    "inspector_id": "1768",
+    "score": "6",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041230003",
+    "date": "2026-09-04",
+    "name": "SAINT JACQUES @ BMI",
+    "inspector_id": "2644",
+    "score": "100",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041050008",
+    "date": "2026-09-04",
+    "name": "SHINING LIGHT ACADEMY",
+    "inspector_id": "1768",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015275",
+    "date": "2026-09-04",
+    "name": "SPRINGHILL SUITES HIGH POINT FOOD SERVICE",
+    "inspector_id": "2964",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041611057",
+    "date": "2026-09-04",
+    "name": "STRANGE BEAUTY",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610962",
+    "date": "2026-09-04",
+    "name": "THOMAS COLLINS-THE PRANCING PONY-503 W MCGEE",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041611054",
+    "date": "2026-09-03",
+    "name": "BLACK ROSE COLLECTIVE",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014452",
+    "date": "2026-09-03",
+    "name": "DAVE'S ORIGINAL BACKYARD GRILL",
+    "inspector_id": "3095",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041140236",
+    "date": "2026-09-03",
+    "name": "DUDLEY HIGH SCHOOL FOOTBALL CONCESSIONS HOME SIDE",
+    "inspector_id": "2616",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041140177",
+    "date": "2026-09-03",
+    "name": "DUDLEY HIGH SCHOOL FOOTBALL CONCESSIONS VISITOR SI",
+    "inspector_id": "2616",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020682",
+    "date": "2026-09-03",
+    "name": "FOOD LION 2519 DELI",
+    "inspector_id": "3095",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020622",
+    "date": "2026-09-03",
+    "name": "FOOD LION DELI #1290",
+    "inspector_id": "3238",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041060086",
+    "date": "2026-09-03",
+    "name": "GREENSBORO COLLEGE BRITTS COFFEE AND SANDWICH",
+    "inspector_id": "2924",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014999",
+    "date": "2026-09-03",
+    "name": "HAMPTON INN AND SUITES BREAKFAST",
+    "inspector_id": "2924",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015231",
+    "date": "2026-09-03",
+    "name": "HAMPTON INN FOOD SERVICE",
+    "inspector_id": "2964",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041300176",
+    "date": "2026-09-03",
+    "name": "HARRIS TEETER #341 MEAT MARKET",
+    "inspector_id": "3566",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041060044",
+    "date": "2026-09-03",
+    "name": "HPU - UNIVERSITY GRILLE",
+    "inspector_id": "2964",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041611055",
+    "date": "2026-09-03",
+    "name": "JE SALONS",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013410",
+    "date": "2026-09-03",
+    "name": "KIOSCO MEXICAN GRILL",
+    "inspector_id": "3136",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041500068",
+    "date": "2026-09-03",
+    "name": "MASON MANOR APARTMENTS",
+    "inspector_id": "3136",
+    "score": "24",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015278",
+    "date": "2026-09-03",
+    "name": "NICK ONE STOP",
+    "inspector_id": "3311",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014020",
+    "date": "2026-09-03",
+    "name": "REAL KITCHEN & MARKET",
+    "inspector_id": "3566",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041300094",
+    "date": "2026-09-03",
+    "name": "SAMS CLUB MARKET",
+    "inspector_id": "1958",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014400",
+    "date": "2026-09-02",
+    "name": "ACC AMERICAN CAFE SOUTH CONCOURSE",
+    "inspector_id": "3311",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010047",
+    "date": "2026-09-02",
+    "name": "BISCUITVILLE",
+    "inspector_id": "2370",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012762",
+    "date": "2026-09-02",
+    "name": "BUFFALO WILD WINGS",
+    "inspector_id": "3095",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014279",
+    "date": "2026-09-02",
+    "name": "CHIPOTLE",
+    "inspector_id": "3566",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012024",
+    "date": "2026-09-02",
+    "name": "FISHBONES",
+    "inspector_id": "3136",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014359",
+    "date": "2026-09-02",
+    "name": "FREDDY'S #3208",
+    "inspector_id": "2370",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012358",
+    "date": "2026-09-02",
+    "name": "MA' LUZ MEXICAN GRILL #05",
+    "inspector_id": "3566",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015317",
+    "date": "2026-09-02",
+    "name": "MCDONALD'S #18408",
+    "inspector_id": "2644",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041431140",
+    "date": "2026-09-02",
+    "name": "NEW PATH YOUTH SERVICES",
+    "inspector_id": "2616",
+    "score": "12",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420105",
+    "date": "2026-09-02",
+    "name": "NORTH DRIVE DC (UNCG)    ##A",
+    "inspector_id": "1768",
+    "score": "12",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015215",
+    "date": "2026-09-02",
+    "name": "POLLO CAMPERO",
+    "inspector_id": "1958",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430096",
+    "date": "2026-09-02",
+    "name": "SANCTUARY HOUSE/HILLCREST HOUSE",
+    "inspector_id": "2616",
+    "score": "8",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041210017",
+    "date": "2026-09-02",
+    "name": "SEVEN OAKS B & B HOME",
+    "inspector_id": "2644",
+    "score": "100",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014484",
+    "date": "2026-09-02",
+    "name": "VAQUERO'S DINER MEXICAN GRILL",
+    "inspector_id": "3136",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011720",
+    "date": "2026-09-02",
+    "name": "WESLEY LONG CAFETERIA",
+    "inspector_id": "2924",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014161",
+    "date": "2026-09-01",
+    "name": "ADAMS PIZZA AND WINGS",
+    "inspector_id": "3238",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041160095",
+    "date": "2026-09-01",
+    "name": "ASHTON HEALTH & REHABILITATION",
+    "inspector_id": "2924",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013889",
+    "date": "2026-09-01",
+    "name": "BOJANGLES #893",
+    "inspector_id": "3095",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021441",
+    "date": "2026-09-01",
+    "name": "CARNICERIA EL KORA",
+    "inspector_id": "1958",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014621",
+    "date": "2026-09-01",
+    "name": "CHICK-FIL-A #00842",
+    "inspector_id": "3566",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020872",
+    "date": "2026-09-01",
+    "name": "CHUS EXPRESS",
+    "inspector_id": "3566",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010707",
+    "date": "2026-09-01",
+    "name": "CREEK STONE BAR & GRILLE",
+    "inspector_id": "1958",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530398",
+    "date": "2026-09-01",
+    "name": "FAIRVIEW INN",
+    "inspector_id": "1948",
+    "score": "20",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014554",
+    "date": "2026-09-01",
+    "name": "HOME SLICE NEW YORK STYLE",
+    "inspector_id": "3311",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015106",
+    "date": "2026-09-01",
+    "name": "OAK RIDGE BAGELS & DELI",
+    "inspector_id": "3311",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420838",
+    "date": "2026-09-01",
+    "name": "RISING STARZ 2",
+    "inspector_id": "2644",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610623",
+    "date": "2026-08-31",
+    "name": "AARON PATRICK - TATE STREET TATTOO COMPANY",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021436",
+    "date": "2026-08-31",
+    "name": "AFC ZENSHI @ PUBLIX STORE #1582",
+    "inspector_id": "3566",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430144",
+    "date": "2026-08-31",
+    "name": "BENTON LANE GROUP HOME",
+    "inspector_id": "2616",
+    "score": "16",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020632",
+    "date": "2026-08-31",
+    "name": "FOOD LION DELI #566",
+    "inspector_id": "3238",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021201",
+    "date": "2026-08-31",
+    "name": "FOOD LION PRODUCE #2531",
+    "inspector_id": "3238",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021275",
+    "date": "2026-08-31",
+    "name": "FUJISAN @ SAM'S CLUB",
+    "inspector_id": "1958",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430329",
+    "date": "2026-08-31",
+    "name": "GREEN ACRES GROUP HOME",
+    "inspector_id": "2616",
+    "score": "8",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430026",
+    "date": "2026-08-31",
+    "name": "GUILFORD GROUP HOME  2",
+    "inspector_id": "2616",
+    "score": "12",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015103",
+    "date": "2026-08-31",
+    "name": "MIKES VEGAN GRILL",
+    "inspector_id": "3136",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041060025",
+    "date": "2026-08-31",
+    "name": "NCA&T - WILLIAMS DINING HALL",
+    "inspector_id": "2924",
+    "score": "92.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014415",
+    "date": "2026-08-31",
+    "name": "PANERA BREAD",
+    "inspector_id": "1958",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420748",
+    "date": "2026-08-31",
+    "name": "PRE-K UNION HILL ELEMENTARY",
+    "inspector_id": "1768",
+    "score": "11",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014640",
+    "date": "2026-08-31",
+    "name": "TROPICAL SMOOTHIE CAFE               .",
+    "inspector_id": "2924",
+    "score": "90.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041440190",
+    "date": "2026-08-31",
+    "name": "UNION HILL ELEMENTARY",
+    "inspector_id": "1768",
+    "score": "92",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041110136",
+    "date": "2026-08-31",
+    "name": "UNION HILL ELEMENTARY SCHOOL",
+    "inspector_id": "1768",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041160050",
+    "date": "2026-08-31",
+    "name": "VERA SPRINGS @ HERITAGE GREEN",
+    "inspector_id": "2644",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021405",
+    "date": "2026-08-31",
+    "name": "WRIGHT BROTHERS CATERING GROUP",
+    "inspector_id": "3566",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011668",
+    "date": "2026-08-28",
+    "name": "BIZZY BEE GROCERY #1",
+    "inspector_id": "3238",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010666",
+    "date": "2026-08-28",
+    "name": "BLAIR PARK GRILL",
+    "inspector_id": "3238",
+    "score": "100",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430284",
+    "date": "2026-08-28",
+    "name": "DOBSON ST HOUSE",
+    "inspector_id": "2616",
+    "score": "11",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041110020",
+    "date": "2026-08-28",
+    "name": "FLORENCE ELEM. SCHOOL",
+    "inspector_id": "1768",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430004",
+    "date": "2026-08-28",
+    "name": "GUILFORD 1 GROUP HOME",
+    "inspector_id": "2616",
+    "score": "17",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430897",
+    "date": "2026-08-28",
+    "name": "HAPPINESS OVER HISTORY",
+    "inspector_id": "2616",
+    "score": "9",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014673",
+    "date": "2026-08-28",
+    "name": "HARBOR ONE",
+    "inspector_id": "3238",
+    "score": "100",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200260",
+    "date": "2026-08-28",
+    "name": "HIGH POINT ARCADIA INN",
+    "inspector_id": "1948",
+    "score": "90",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015361",
+    "date": "2026-08-28",
+    "name": "KWIK SUB INC DBA SUBWAY",
+    "inspector_id": "2644",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430140",
+    "date": "2026-08-28",
+    "name": "LARKWOOD",
+    "inspector_id": "2616",
+    "score": "20",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014898",
+    "date": "2026-08-28",
+    "name": "MCDONALDS",
+    "inspector_id": "3566",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014951",
+    "date": "2026-08-28",
+    "name": "TACO BELL #039728",
+    "inspector_id": "1958",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021103",
+    "date": "2026-08-28",
+    "name": "TACO STREET",
+    "inspector_id": "3566",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420142",
+    "date": "2026-08-28",
+    "name": "WESLEYAN EDUCATION CENTER",
+    "inspector_id": "1768",
+    "score": "12",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013750",
+    "date": "2026-08-27",
+    "name": "ABBOTSWOOD FOOD SERVICE",
+    "inspector_id": "2924",
+    "score": "94",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014331",
+    "date": "2026-08-27",
+    "name": "BOJANGLE'S",
+    "inspector_id": "3136",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012261",
+    "date": "2026-08-27",
+    "name": "BOJANGLES #455",
+    "inspector_id": "1958",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530530",
+    "date": "2026-08-25",
+    "name": "KING'S ARMS",
+    "inspector_id": "2370",
+    "score": "16",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530076",
+    "date": "2026-08-25",
+    "name": "LENNOX WOODS",
+    "inspector_id": "2370",
+    "score": "8",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530027",
+    "date": "2026-08-25",
+    "name": "WINGATE BY WYNDHAM HIGH POINT",
+    "inspector_id": "2964",
+    "score": "18",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021508",
+    "date": "2026-08-24",
+    "name": "ACE MINI MART-HUNT'S BROTHERS PIZZA",
+    "inspector_id": "3238",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530024",
+    "date": "2026-08-24",
+    "name": "ALLERTON PLACE APTS",
+    "inspector_id": "2616",
+    "score": "24",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013363",
+    "date": "2026-08-24",
+    "name": "CAROLINAS  DINER",
+    "inspector_id": "3311",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041030081",
+    "date": "2026-08-24",
+    "name": "CATERING COYUCA",
+    "inspector_id": "2644",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610450",
+    "date": "2026-08-24",
+    "name": "EMMANUEL CARBALHO - COSMIC INK",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020954",
+    "date": "2026-08-24",
+    "name": "FOOD LION #2127 DELI/SUSHI",
+    "inspector_id": "1876",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041300114",
+    "date": "2026-08-24",
+    "name": "FOOD LION #925",
+    "inspector_id": "3566",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014772",
+    "date": "2026-08-24",
+    "name": "JERSEY MIKE'S SUBS",
+    "inspector_id": "3095",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041060109",
+    "date": "2026-08-24",
+    "name": "NCA&T - CHICK-FIL-A",
+    "inspector_id": "2924",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041440079",
+    "date": "2026-08-24",
+    "name": "OAK RIDGE ELEM",
+    "inspector_id": "1768",
+    "score": "91",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011237",
+    "date": "2026-08-24",
+    "name": "OUTBACK #3451",
+    "inspector_id": "3566",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530124",
+    "date": "2026-08-24",
+    "name": "PARK AT OAK RIDGE",
+    "inspector_id": "3311",
+    "score": "22",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014099",
+    "date": "2026-08-24",
+    "name": "RED LOBSTER #862",
+    "inspector_id": "1958",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013796",
+    "date": "2026-08-24",
+    "name": "STARBUCKS #1078",
+    "inspector_id": "1958",
+    "score": "100",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010460",
+    "date": "2026-08-22",
+    "name": "FIRST CLASS LUXURY LOUNGE",
+    "inspector_id": "3136",
+    "score": "94.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011480",
+    "date": "2026-08-22",
+    "name": "FRIENDSHIP CLASS HOT DOGS",
+    "inspector_id": "1958",
+    "score": "100",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013211",
+    "date": "2026-08-22",
+    "name": "GEORGE K'S & IRON CHEF",
+    "inspector_id": "3136",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041030129",
+    "date": "2026-08-22",
+    "name": "TOP DAWGS MOBILE GRILL",
+    "inspector_id": "2644",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015113",
+    "date": "2026-08-21",
+    "name": "BARBERITOS",
+    "inspector_id": "3566",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015038",
+    "date": "2026-08-21",
+    "name": "BOMBOM CAFE",
+    "inspector_id": "1958",
+    "score": "100",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530420",
+    "date": "2026-08-21",
+    "name": "COURTYARD BY MARRIOTT",
+    "inspector_id": "2964",
+    "score": "22",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015208",
+    "date": "2026-08-21",
+    "name": "DUNKIN'",
+    "inspector_id": "3311",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530398",
+    "date": "2026-08-21",
+    "name": "FAIRVIEW INN",
+    "inspector_id": "1948",
+    "score": "30",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011156",
+    "date": "2026-08-21",
+    "name": "MCDONALDS #13015",
+    "inspector_id": "2259",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021339",
+    "date": "2026-08-21",
+    "name": "REGAL GREENSBORO GRANDE",
+    "inspector_id": "2259",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530123",
+    "date": "2026-08-21",
+    "name": "RETREAT AT COPPER CREEK APARTMENTS",
+    "inspector_id": "3136",
+    "score": "18",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011095",
+    "date": "2026-08-21",
+    "name": "SEDGEFIELD COUNTRY CLUB CAFE",
+    "inspector_id": "3136",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015342",
+    "date": "2026-08-21",
+    "name": "SPRINGHILL SUITES BREAKFAST",
+    "inspector_id": "2964",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014516",
+    "date": "2026-08-21",
+    "name": "STARBUCKS (@HARRIS TEETER)",
+    "inspector_id": "3566",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014493",
+    "date": "2026-08-21",
+    "name": "STARBUCKS COFFEE #50808",
+    "inspector_id": "1958",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041030275",
+    "date": "2026-08-20",
+    "name": "ALGO RICO",
+    "inspector_id": "2644",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014998",
+    "date": "2026-08-20",
+    "name": "AUNT E'S AT LA PLACE INTERNACIONAL",
+    "inspector_id": "2370",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015364",
+    "date": "2026-08-20",
+    "name": "BISCUIT KING",
+    "inspector_id": "3095",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012320",
+    "date": "2026-08-20",
+    "name": "BONEFISH GRILL",
+    "inspector_id": "3136",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014965",
+    "date": "2026-08-20",
+    "name": "CALIFORNIA BURRITOS EXPRESS",
+    "inspector_id": "3136",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012730",
+    "date": "2026-08-20",
+    "name": "CASA VALLARTAS MEXICAN & SEAFOOD GRILLE",
+    "inspector_id": "2370",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041440188",
+    "date": "2026-08-20",
+    "name": "DEAN PRUETTE SCALES SCHOOL",
+    "inspector_id": "1768",
+    "score": "97",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015013",
+    "date": "2026-08-20",
+    "name": "FIVE GUYS BURGERS & FRIES",
+    "inspector_id": "3566",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530591",
+    "date": "2026-08-20",
+    "name": "FOUR FARMS APARTMENT",
+    "inspector_id": "3311",
+    "score": "8",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041060066",
+    "date": "2026-08-20",
+    "name": "HPU - SILVER LINE DINER",
+    "inspector_id": "2964",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014334",
+    "date": "2026-08-20",
+    "name": "HPU - STARBUCKS @ SLANE",
+    "inspector_id": "2964",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041611052",
+    "date": "2026-08-20",
+    "name": "INKBIOTICS TATTOOS AND PIERCINGS",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610955",
+    "date": "2026-08-20",
+    "name": "JOSEPH NUNEZ-INKBIOTICS TATTOO AND PIERCINGS",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420716",
+    "date": "2026-08-20",
+    "name": "KIDS QUALITY TIME CHILD CARE CENTER  #",
+    "inspector_id": "2616",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420823",
+    "date": "2026-08-20",
+    "name": "KIDS QUALITY TIME CHILD CARE CENTER #2",
+    "inspector_id": "2616",
+    "score": "6",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420290",
+    "date": "2026-08-20",
+    "name": "KIDZ CAMP DAY CARE",
+    "inspector_id": "2644",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011798",
+    "date": "2026-08-20",
+    "name": "LONGHORN STEAKS #115",
+    "inspector_id": "1958",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530375",
+    "date": "2026-08-20",
+    "name": "PARK FOREST APTS",
+    "inspector_id": "2644",
+    "score": "2",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020603",
+    "date": "2026-08-20",
+    "name": "SAMS CLUB DELI #6402",
+    "inspector_id": "1958",
+    "score": "100",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530311",
+    "date": "2026-08-20",
+    "name": "SPORTSCENTER TRIAD OUTDOOR POOL",
+    "inspector_id": "1948",
+    "score": "28",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041540001",
+    "date": "2026-08-20",
+    "name": "SPORTSCENTER TRIAD OUTDOOR WADING",
+    "inspector_id": "1948",
+    "score": "16",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014938",
+    "date": "2026-08-20",
+    "name": "TACO BELL",
+    "inspector_id": "3566",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530025",
+    "date": "2026-08-19",
+    "name": "7029 WEST",
+    "inspector_id": "2616",
+    "score": "16",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015093",
+    "date": "2026-08-19",
+    "name": "BOBO CAFE",
+    "inspector_id": "2370",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200296",
+    "date": "2026-08-19",
+    "name": "BUDGET INN",
+    "inspector_id": "2644",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430836",
+    "date": "2026-08-19",
+    "name": "BUMAX HOME HEALTH CARE LLC",
+    "inspector_id": "2616",
+    "score": "25",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011258",
+    "date": "2026-08-19",
+    "name": "CHILIS #445",
+    "inspector_id": "3566",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015323",
+    "date": "2026-08-19",
+    "name": "CITY DRAGON",
+    "inspector_id": "3311",
+    "score": "94",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015316",
+    "date": "2026-08-19",
+    "name": "HAMILTON LAKES CAFE",
+    "inspector_id": "1948",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420624",
+    "date": "2026-08-19",
+    "name": "KIDS AND COMPANY DAY CARE     #",
+    "inspector_id": "1768",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012735",
+    "date": "2026-08-19",
+    "name": "LA HACIENDA MEXICAN RESTAURANT",
+    "inspector_id": "1958",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020997",
+    "date": "2026-08-19",
+    "name": "LITTLE CAESARS PIZZA 1845-0001",
+    "inspector_id": "3238",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420841",
+    "date": "2026-08-19",
+    "name": "LITTLE ONES WORLD ACADEMY AT GREENSBORO",
+    "inspector_id": "1768",
+    "score": "7",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015080",
+    "date": "2026-08-19",
+    "name": "NEW GARDEN BAGEL CO",
+    "inspector_id": "3311",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015154",
+    "date": "2026-08-19",
+    "name": "PENN STATION",
+    "inspector_id": "1958",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015341",
+    "date": "2026-08-19",
+    "name": "TOKYO EXPRESS",
+    "inspector_id": "2370",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014931",
+    "date": "2026-08-19",
+    "name": "WINGSTOP",
+    "inspector_id": "3566",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021363",
+    "date": "2026-08-18",
+    "name": "BI-RITE GALAXY GOODS - MEAT MARKET",
+    "inspector_id": "3311",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015054",
+    "date": "2026-08-18",
+    "name": "EL RINCON K-TRACHO RESTAURANT",
+    "inspector_id": "3238",
+    "score": "94",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010462",
+    "date": "2026-08-18",
+    "name": "GUSTO PIZZERIA",
+    "inspector_id": "3311",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020860",
+    "date": "2026-08-18",
+    "name": "HARRIS TEETER DELI #173",
+    "inspector_id": "3095",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014214",
+    "date": "2026-08-18",
+    "name": "MAC'S SPEED SHOP",
+    "inspector_id": "2923",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020753",
+    "date": "2026-08-18",
+    "name": "MAMA GINNA'S PIZZA",
+    "inspector_id": "2370",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530153",
+    "date": "2026-08-18",
+    "name": "MARRIOTT HOTEL INDOOR POOL",
+    "inspector_id": "2964",
+    "score": "8",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530343",
+    "date": "2026-08-18",
+    "name": "MARRIOTT HOTEL OUTDOOR POOL",
+    "inspector_id": "2964",
+    "score": "16",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610725",
+    "date": "2026-08-18",
+    "name": "MIKAELA KUNZMANN-OPALUS TATTOO",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021247",
+    "date": "2026-08-18",
+    "name": "PAINTED PLATE CATERING",
+    "inspector_id": "2370",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015079",
+    "date": "2026-08-18",
+    "name": "POPEYES",
+    "inspector_id": "3566",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041611051",
+    "date": "2026-08-18",
+    "name": "SALONS BY JC",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012224",
+    "date": "2026-08-18",
+    "name": "SHOGUN JAPANESE REST.",
+    "inspector_id": "3566",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530522",
+    "date": "2026-08-18",
+    "name": "SPARK BY HILTON",
+    "inspector_id": "1948",
+    "score": "6",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014817",
+    "date": "2026-08-18",
+    "name": "SPRINGHILL SUITES BY MARRIOTT FOOD SERVICE",
+    "inspector_id": "1948",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020946",
+    "date": "2026-08-18",
+    "name": "SUPER G MART",
+    "inspector_id": "1958",
+    "score": "90.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021067",
+    "date": "2026-08-18",
+    "name": "WALMART DELI",
+    "inspector_id": "2370",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420603",
+    "date": "2026-08-17",
+    "name": "4 EVER MEMA KINGS KIDZ    #",
+    "inspector_id": "1768",
+    "score": "9",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420703",
+    "date": "2026-08-17",
+    "name": "ALPHA ACADEMY",
+    "inspector_id": "1768",
+    "score": "6",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013212",
+    "date": "2026-08-17",
+    "name": "ASIAN WOK",
+    "inspector_id": "3311",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014828",
+    "date": "2026-08-17",
+    "name": "BAOBAO KITCHEN",
+    "inspector_id": "2370",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041300195",
+    "date": "2026-08-17",
+    "name": "CARNICERIA EL MERCADITO & TAQUERIA",
+    "inspector_id": "1958",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012727",
+    "date": "2026-08-17",
+    "name": "CENTER GROVE GRILL & SODA SHOP",
+    "inspector_id": "2370",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420028",
+    "date": "2026-08-17",
+    "name": "CHILDRENS CORNER #",
+    "inspector_id": "1588",
+    "score": "12",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041440247",
+    "date": "2026-08-17",
+    "name": "CLAXTON ELEMENTARY SCHOOL",
+    "inspector_id": "2616",
+    "score": "95",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014766",
+    "date": "2026-08-17",
+    "name": "HARMONY AT GREENSBORO RESTAURANT",
+    "inspector_id": "2924",
+    "score": "94.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010257",
+    "date": "2026-08-17",
+    "name": "HERITAGE GREENS",
+    "inspector_id": "2644",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013857",
+    "date": "2026-08-17",
+    "name": "HOMESLICE PIZZA & SUBS",
+    "inspector_id": "3311",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021063",
+    "date": "2026-08-17",
+    "name": "LOWES FOODS - PRODUCE #179",
+    "inspector_id": "3311",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013435",
+    "date": "2026-08-17",
+    "name": "Q BREAKFAST",
+    "inspector_id": "2924",
+    "score": "94",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041140357",
+    "date": "2026-08-17",
+    "name": "SOUTHWEST HIGH SCHOOL CONCESSIONS STAND",
+    "inspector_id": "1768",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014295",
+    "date": "2026-08-17",
+    "name": "THAI CORNER",
+    "inspector_id": "2370",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014374",
+    "date": "2026-08-17",
+    "name": "THE CAPTAINS CATCH",
+    "inspector_id": "1958",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015031",
+    "date": "2026-08-17",
+    "name": "TROPICAL SMOOTHIE CAFE",
+    "inspector_id": "3095",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430369",
+    "date": "2026-08-14",
+    "name": "ACT TOGETHER",
+    "inspector_id": "2616",
+    "score": "3",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020021",
+    "date": "2026-08-14",
+    "name": "AMSTAR GREENSBORO",
+    "inspector_id": "3136",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530045",
+    "date": "2026-08-14",
+    "name": "COURTYARD BY MARRIOTT HP-POOL",
+    "inspector_id": "2964",
+    "score": "16",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530084",
+    "date": "2026-08-14",
+    "name": "CYPRESS APTS, THE",
+    "inspector_id": "1948",
+    "score": "26",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021451",
+    "date": "2026-08-14",
+    "name": "DOMINO'S PIZZA",
+    "inspector_id": "3238",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420794",
+    "date": "2026-08-14",
+    "name": "EDUCATIONAL PLAYTIME TOO INC **",
+    "inspector_id": "1768",
+    "score": "15",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041300167",
+    "date": "2026-08-14",
+    "name": "FOOD LION #566 MEAT MKT.",
+    "inspector_id": "2370",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015173",
+    "date": "2026-08-14",
+    "name": "FOUR POINTS BY SHERATON RESTAURANT",
+    "inspector_id": "2964",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015314",
+    "date": "2026-08-14",
+    "name": "HABANERO MEXICAN GRILL",
+    "inspector_id": "3566",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041030246",
+    "date": "2026-08-14",
+    "name": "HUMMINGBIRD",
+    "inspector_id": "2644",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015230",
+    "date": "2026-08-14",
+    "name": "JIMMY JOHNS",
+    "inspector_id": "1958",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041500192",
+    "date": "2026-08-14",
+    "name": "LEGACY ON ELMS APTS.",
+    "inspector_id": "1876",
+    "score": "34",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530153",
+    "date": "2026-08-14",
+    "name": "MARRIOTT HOTEL INDOOR POOL",
+    "inspector_id": "2964",
+    "score": "20",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530343",
+    "date": "2026-08-14",
+    "name": "MARRIOTT HOTEL OUTDOOR POOL",
+    "inspector_id": "2964",
+    "score": "26",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014899",
+    "date": "2026-08-14",
+    "name": "MCDONALDS",
+    "inspector_id": "3566",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015029",
+    "date": "2026-08-14",
+    "name": "SUBWAY",
+    "inspector_id": "2370",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013490",
+    "date": "2026-08-14",
+    "name": "SUBWAY #21588",
+    "inspector_id": "2370",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014861",
+    "date": "2026-08-14",
+    "name": "WENDYS #621",
+    "inspector_id": "2370",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021509",
+    "date": "2026-08-13",
+    "name": "BISMILLAH HALAH MEATS MDH, INC.",
+    "inspector_id": "3566",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041440012",
+    "date": "2026-08-13",
+    "name": "BLUFORD SCHOOL",
+    "inspector_id": "2616",
+    "score": "90",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013281",
+    "date": "2026-08-13",
+    "name": "CARNICERIA EL MERCADITO & TAQUERIA",
+    "inspector_id": "1958",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530045",
+    "date": "2026-08-13",
+    "name": "COURTYARD BY MARRIOTT HP-POOL",
+    "inspector_id": "2964",
+    "score": "32",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041300115",
+    "date": "2026-08-13",
+    "name": "FOOD LION #1355",
+    "inspector_id": "2370",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014974",
+    "date": "2026-08-13",
+    "name": "FRADY'S TAPHOUSE AND EATERY",
+    "inspector_id": "3566",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020909",
+    "date": "2026-08-13",
+    "name": "HARRIS TEETER #280 MEAT MKT",
+    "inspector_id": "2370",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014026",
+    "date": "2026-08-13",
+    "name": "LA COCINA DE MAMA",
+    "inspector_id": "3238",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014657",
+    "date": "2026-08-13",
+    "name": "LOMA BONITA TAQUERIA",
+    "inspector_id": "3238",
+    "score": "94.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041030111",
+    "date": "2026-08-13",
+    "name": "MIKI BOWLS",
+    "inspector_id": "2644",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530525",
+    "date": "2026-08-13",
+    "name": "MOTEL 6",
+    "inspector_id": "1948",
+    "score": "24",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012879",
+    "date": "2026-08-13",
+    "name": "PINETOP TENNIS & SWIM CLUB",
+    "inspector_id": "2644",
+    "score": "91.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013135",
+    "date": "2026-08-13",
+    "name": "PRINT WORKS BISTRO",
+    "inspector_id": "2924",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021297",
+    "date": "2026-08-13",
+    "name": "SAVE A LOT",
+    "inspector_id": "2551",
+    "score": "94.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014555",
+    "date": "2026-08-13",
+    "name": "SYNGENTA COFFEE SHOP - BUILDING K",
+    "inspector_id": "1958",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015353",
+    "date": "2026-08-12",
+    "name": "913 WHISKEY BAR & SOUTHERN KITCHEN",
+    "inspector_id": "3607",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013808",
+    "date": "2026-08-12",
+    "name": "BURGER KING",
+    "inspector_id": "3136",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014030",
+    "date": "2026-08-12",
+    "name": "CAROLINA SAKURA",
+    "inspector_id": "3566",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530419",
+    "date": "2026-08-12",
+    "name": "GOLD'S GYM - BRASSFIELD",
+    "inspector_id": "2370",
+    "score": "6",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041550083",
+    "date": "2026-08-12",
+    "name": "GOLD'S GYM - BRASSFIELD SPA",
+    "inspector_id": "2370",
+    "score": "10",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020037",
+    "date": "2026-08-12",
+    "name": "GOLDEN TICKET CINEMAS",
+    "inspector_id": "2370",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011902",
+    "date": "2026-08-12",
+    "name": "GREENSBORO AUTO AUCTION II",
+    "inspector_id": "1958",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200275",
+    "date": "2026-08-12",
+    "name": "HAMPTON INN",
+    "inspector_id": "2924",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020874",
+    "date": "2026-08-12",
+    "name": "HARRIS TEETER DELI-BAKERY-CHEESE",
+    "inspector_id": "3566",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041431137",
+    "date": "2026-08-12",
+    "name": "MALIBU PLACE",
+    "inspector_id": "2616",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015050",
+    "date": "2026-08-12",
+    "name": "THE JUICY CRAB",
+    "inspector_id": "1958",
+    "score": "94.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021460",
+    "date": "2026-08-11",
+    "name": "7-ELEVEN #41126B",
+    "inspector_id": "3238",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012467",
+    "date": "2026-08-11",
+    "name": "BLUE WATER GRILLE",
+    "inspector_id": "3566",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014927",
+    "date": "2026-08-11",
+    "name": "CAVA",
+    "inspector_id": "1958",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012869",
+    "date": "2026-08-11",
+    "name": "CHOP HOUSE GRILL",
+    "inspector_id": "3095",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041410007",
+    "date": "2026-08-11",
+    "name": "CONE BEHAVIORAL HEALTH CTR",
+    "inspector_id": "2924",
+    "score": "95.50",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014028",
+    "date": "2026-08-11",
+    "name": "COZY BREW CAFE",
+    "inspector_id": "2370",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015257",
+    "date": "2026-08-11",
+    "name": "CURRY 'N SPICE",
+    "inspector_id": "3566",
+    "score": "94.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015308",
+    "date": "2026-08-11",
+    "name": "DELICIAS CAFE",
+    "inspector_id": "3136",
+    "score": "100",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013964",
+    "date": "2026-08-11",
+    "name": "FAIRFIELD INN HOT BREAKFAST",
+    "inspector_id": "2964",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041440246",
+    "date": "2026-08-11",
+    "name": "GATE CITY CHARTER ACADEMY",
+    "inspector_id": "2616",
+    "score": "93",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200204",
+    "date": "2026-08-11",
+    "name": "HOME 2 SUITES BY HILTON",
+    "inspector_id": "2964",
+    "score": "94",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041030150",
+    "date": "2026-08-11",
+    "name": "HOT DIGGITY DOG",
+    "inspector_id": "2644",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012005",
+    "date": "2026-08-11",
+    "name": "JAKES DINER",
+    "inspector_id": "1958",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012562",
+    "date": "2026-08-11",
+    "name": "PANCHO VILLA MEXICAN REST.",
+    "inspector_id": "3238",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021233",
+    "date": "2026-08-11",
+    "name": "PUBLIX #1582 - MEAT & SEAFOOD",
+    "inspector_id": "3566",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530197",
+    "date": "2026-08-11",
+    "name": "QUALITY INN & SUITES",
+    "inspector_id": "1948",
+    "score": "12",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010046",
+    "date": "2026-08-10",
+    "name": "BISCUIT FACTORY",
+    "inspector_id": "3566",
+    "score": "94",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420697",
+    "date": "2026-08-10",
+    "name": "BUILDING BLOCKS CHILDREN CENTER",
+    "inspector_id": "1768",
+    "score": "3",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420132",
+    "date": "2026-08-10",
+    "name": "CALVARY TRIAD ACADEMY",
+    "inspector_id": "1768",
+    "score": "7",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014952",
+    "date": "2026-08-10",
+    "name": "CELEBRATION STATION",
+    "inspector_id": "1958",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015169",
+    "date": "2026-08-10",
+    "name": "DELICIAS LOS CATRACHOS",
+    "inspector_id": "3136",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014580",
+    "date": "2026-08-10",
+    "name": "GOURMET CHINA",
+    "inspector_id": "2370",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020911",
+    "date": "2026-08-10",
+    "name": "HARRIS TEETER SEAFOOD",
+    "inspector_id": "2370",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012962",
+    "date": "2026-08-10",
+    "name": "HILTON GARDEN INN AMERICAN GRILL",
+    "inspector_id": "2924",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015359",
+    "date": "2026-08-10",
+    "name": "IHOP",
+    "inspector_id": "1958",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014837",
+    "date": "2026-08-10",
+    "name": "MR. KIRIN JAPANESE KITCHEN",
+    "inspector_id": "2370",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014743",
+    "date": "2026-08-10",
+    "name": "THAI HERB",
+    "inspector_id": "3566",
+    "score": "93.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200243",
+    "date": "2026-08-10",
+    "name": "WINGATE GREENSBORO COLISEUM",
+    "inspector_id": "2924",
+    "score": "92.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530058",
+    "date": "2026-08-07",
+    "name": "ABBINGTON PLACE APARTMENTS",
+    "inspector_id": "1958",
+    "score": "6",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021427",
+    "date": "2026-08-07",
+    "name": "AFRICAN SISTER RESTAURANT",
+    "inspector_id": "2644",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530370",
+    "date": "2026-08-07",
+    "name": "ASHLEY OAKS",
+    "inspector_id": "3095",
+    "score": "24",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530594",
+    "date": "2026-08-07",
+    "name": "FOUR SEASONS TOWNHOMES",
+    "inspector_id": "1876",
+    "score": "24",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014969",
+    "date": "2026-08-07",
+    "name": "FREEMANS GRUB & PUB",
+    "inspector_id": "3136",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020996",
+    "date": "2026-08-07",
+    "name": "FRESH MARKET PRODUCE",
+    "inspector_id": "2923",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420390",
+    "date": "2026-08-07",
+    "name": "GENERATIONED / MACEDONIA",
+    "inspector_id": "1768",
+    "score": "7",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015238",
+    "date": "2026-08-07",
+    "name": "JAMAICA COAST CATERING",
+    "inspector_id": "2644",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014476",
+    "date": "2026-08-07",
+    "name": "PANTRY FRIED CHICKEN",
+    "inspector_id": "2551",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015248",
+    "date": "2026-08-07",
+    "name": "PAR 3 GRILL",
+    "inspector_id": "2551",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530321",
+    "date": "2026-08-07",
+    "name": "PENNYBYRN @ MARYFIELD",
+    "inspector_id": "2964",
+    "score": "14",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041550066",
+    "date": "2026-08-07",
+    "name": "PENNYBYRN @ MARYFIELD",
+    "inspector_id": "2964",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420656",
+    "date": "2026-08-07",
+    "name": "PIEDMONT GLOBAL PRESCHOOL AND CHILD CARE",
+    "inspector_id": "1768",
+    "score": "6",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014703",
+    "date": "2026-08-07",
+    "name": "PLANET SMOOTHIE",
+    "inspector_id": "3566",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013631",
+    "date": "2026-08-07",
+    "name": "SAKE",
+    "inspector_id": "3566",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530370",
+    "date": "2026-08-06",
+    "name": "ASHLEY OAKS",
+    "inspector_id": "3095",
+    "score": "28",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015065",
+    "date": "2026-08-06",
+    "name": "BIG BURGER SPOT",
+    "inspector_id": "2370",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021519",
+    "date": "2026-08-06",
+    "name": "DUMPLING DELIGHT",
+    "inspector_id": "3566",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015228",
+    "date": "2026-08-06",
+    "name": "DUNKIN' 363901",
+    "inspector_id": "2923",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014435",
+    "date": "2026-08-06",
+    "name": "ELIZABETHS PIZZA",
+    "inspector_id": "3311",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020903",
+    "date": "2026-08-06",
+    "name": "FOOD LION DELI #2695",
+    "inspector_id": "2370",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011975",
+    "date": "2026-08-06",
+    "name": "HERBIES PLACE RESTAURANT",
+    "inspector_id": "2370",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530432",
+    "date": "2026-08-06",
+    "name": "HPU CENTENNIAL SQUARE II",
+    "inspector_id": "2964",
+    "score": "20",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041550085",
+    "date": "2026-08-06",
+    "name": "HPU CENTENNIAL SQUARE II - SPA",
+    "inspector_id": "2964",
+    "score": "12",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530381",
+    "date": "2026-08-06",
+    "name": "HPU GREEK VILLAGE",
+    "inspector_id": "2924",
+    "score": "22",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041550075",
+    "date": "2026-08-06",
+    "name": "HPU GREEK VILLAGE SPA",
+    "inspector_id": "2924",
+    "score": "10",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530112",
+    "date": "2026-08-06",
+    "name": "HPU MILLIS CTR POOL",
+    "inspector_id": "2964",
+    "score": "18",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530329",
+    "date": "2026-08-06",
+    "name": "HPU UNIVERSITY VILLAGE POOL",
+    "inspector_id": "2924",
+    "score": "16",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041550069",
+    "date": "2026-08-06",
+    "name": "HPU UNIVERSITY VILLAGE SPA",
+    "inspector_id": "2924",
+    "score": "8",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021526",
+    "date": "2026-08-06",
+    "name": "NONNA ROSA'S",
+    "inspector_id": "3566",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014767",
+    "date": "2026-08-05",
+    "name": "AGNI INDIAN RESTAURANT AND BAR",
+    "inspector_id": "3095",
+    "score": "92.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021463",
+    "date": "2026-08-05",
+    "name": "AL IMAN MARKET",
+    "inspector_id": "1958",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430747",
+    "date": "2026-08-05",
+    "name": "ALYSE AFL",
+    "inspector_id": "2616",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430830",
+    "date": "2026-08-05",
+    "name": "BLACKWELL HOUSE INC",
+    "inspector_id": "2616",
+    "score": "5",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041550032",
+    "date": "2026-08-05",
+    "name": "CLUB FITNESS AT GREEN VALLEY - WOMEN'S",
+    "inspector_id": "1876",
+    "score": "20",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200245",
+    "date": "2026-08-05",
+    "name": "DAYSPRING EXTENDED STAY",
+    "inspector_id": "1948",
+    "score": "90.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041400007",
+    "date": "2026-08-05",
+    "name": "FRIENDS HOME WEST",
+    "inspector_id": "2964",
+    "score": "96.50",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041431053",
+    "date": "2026-08-05",
+    "name": "HOME OF LOVE",
+    "inspector_id": "2616",
+    "score": "17",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013584",
+    "date": "2026-08-05",
+    "name": "KICKBACK JACKS #37",
+    "inspector_id": "2923",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021148",
+    "date": "2026-08-05",
+    "name": "LOWES FOODS #203 PRODUCE",
+    "inspector_id": "3311",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013661",
+    "date": "2026-08-05",
+    "name": "MOES SOUTHWEST GRILL",
+    "inspector_id": "2923",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014037",
+    "date": "2026-08-05",
+    "name": "NOOR KITCHEN & COCKTAILS",
+    "inspector_id": "1958",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015250",
+    "date": "2026-08-05",
+    "name": "PALM BERRIES",
+    "inspector_id": "2370",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021343",
+    "date": "2026-08-05",
+    "name": "PAPA JOE'S PIZZA AND SUB",
+    "inspector_id": "3238",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021362",
+    "date": "2026-08-05",
+    "name": "PIZZA HUT #39436",
+    "inspector_id": "2370",
+    "score": "94",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200286",
+    "date": "2026-08-05",
+    "name": "SPRINGHILL SUITES BY MARRIOTT",
+    "inspector_id": "1948",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012697",
+    "date": "2026-08-05",
+    "name": "SUBWAY",
+    "inspector_id": "2370",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012234",
+    "date": "2026-08-04",
+    "name": "BANK OF AMERICA CAFE",
+    "inspector_id": "3095",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015241",
+    "date": "2026-08-04",
+    "name": "CHINA BUFFET",
+    "inspector_id": "1958",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041440020",
+    "date": "2026-08-04",
+    "name": "CONE SCHOOL",
+    "inspector_id": "1588",
+    "score": "78.50",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041440176",
+    "date": "2026-08-04",
+    "name": "GIBSONVILLE ELEM",
+    "inspector_id": "2616",
+    "score": "91.50",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041500103",
+    "date": "2026-08-04",
+    "name": "HAMILTON WOODS",
+    "inspector_id": "1948",
+    "score": "10",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013041",
+    "date": "2026-08-04",
+    "name": "HARRIS TEETER #280 DELI",
+    "inspector_id": "2370",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041300091",
+    "date": "2026-08-04",
+    "name": "HARRIS TEETER MEAT MKT.",
+    "inspector_id": "3311",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020540",
+    "date": "2026-08-04",
+    "name": "HARRIS TEETER SEAFOOD",
+    "inspector_id": "3311",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013187",
+    "date": "2026-08-04",
+    "name": "HOLIDAY INN EXPRESS BREAKFAST",
+    "inspector_id": "2924",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041400080",
+    "date": "2026-08-04",
+    "name": "HOSPICE OF HIGH POINT",
+    "inspector_id": "2964",
+    "score": "98",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014745",
+    "date": "2026-08-04",
+    "name": "JAKE'S DINER",
+    "inspector_id": "2370",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430884",
+    "date": "2026-08-04",
+    "name": "K AND E FAMILY CARE HOME",
+    "inspector_id": "2616",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013919",
+    "date": "2026-08-04",
+    "name": "KENTUCKY FRIED CHICKEN",
+    "inspector_id": "2370",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420380",
+    "date": "2026-08-04",
+    "name": "KID APPEAL LEARNING CTR",
+    "inspector_id": "1768",
+    "score": "12",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041540036",
+    "date": "2026-08-04",
+    "name": "WILLOW RIDGE APARTMENTS WADING",
+    "inspector_id": "2644",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530065",
+    "date": "2026-08-04",
+    "name": "WILLOW RIDGE APTS",
+    "inspector_id": "2644",
+    "score": "10",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014606",
+    "date": "2026-08-03",
+    "name": "AMC HIGH POINT 8",
+    "inspector_id": "2644",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015259",
+    "date": "2026-08-03",
+    "name": "BANGKOK CAFE",
+    "inspector_id": "3136",
+    "score": "94.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015251",
+    "date": "2026-08-03",
+    "name": "BORRACHOSS SPORTS BAR AND GRILL",
+    "inspector_id": "3311",
+    "score": "90.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420697",
+    "date": "2026-08-03",
+    "name": "BUILDING BLOCKS CHILDREN CENTER",
+    "inspector_id": "1768",
+    "score": "34",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011935",
+    "date": "2026-08-03",
+    "name": "CAROLINAS DINER",
+    "inspector_id": "3566",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530224",
+    "date": "2026-08-03",
+    "name": "CLUB FITNESS AT GREEN VALLEY",
+    "inspector_id": "1876",
+    "score": "32",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041550032",
+    "date": "2026-08-03",
+    "name": "CLUB FITNESS AT GREEN VALLEY - WOMEN'S",
+    "inspector_id": "1876",
+    "score": "16",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014744",
+    "date": "2026-08-03",
+    "name": "COMFORT SUITES WHITSETT BREAKFAST",
+    "inspector_id": "2924",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013372",
+    "date": "2026-08-03",
+    "name": "EL CAMINO REAL",
+    "inspector_id": "1958",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014728",
+    "date": "2026-08-03",
+    "name": "FIRST WATCH",
+    "inspector_id": "1958",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041300180",
+    "date": "2026-08-03",
+    "name": "FOOD LION #2695",
+    "inspector_id": "2370",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021231",
+    "date": "2026-08-03",
+    "name": "FOOD LION #615 PRODUCE",
+    "inspector_id": "2370",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021200",
+    "date": "2026-08-03",
+    "name": "FOOD LION PRODUCE #335",
+    "inspector_id": "2370",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610657",
+    "date": "2026-08-03",
+    "name": "KRISTOPHER FREEMAN-J AND J TATTOO",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014903",
+    "date": "2026-08-03",
+    "name": "MCDONALD'S #1216",
+    "inspector_id": "3311",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041030274",
+    "date": "2026-08-03",
+    "name": "TRUCKIN WITH TIPSYZ",
+    "inspector_id": "2644",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021529",
+    "date": "2026-07-31",
+    "name": "A'LEURER LLC",
+    "inspector_id": "2644",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015302",
+    "date": "2026-07-31",
+    "name": "ARBY'S",
+    "inspector_id": "1958",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010065",
+    "date": "2026-07-31",
+    "name": "BROWN-GARDINER FOUNTAIN",
+    "inspector_id": "2923",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012713",
+    "date": "2026-07-31",
+    "name": "CRACKER BARREL #564",
+    "inspector_id": "3566",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014367",
+    "date": "2026-07-31",
+    "name": "FUNDERBURKS CATERING",
+    "inspector_id": "2923",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530341",
+    "date": "2026-07-31",
+    "name": "GARDENS @ ANTHONY HOUSE",
+    "inspector_id": "2644",
+    "score": "12",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012136",
+    "date": "2026-07-31",
+    "name": "GEORGES PIZZA",
+    "inspector_id": "3566",
+    "score": "92",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041400101",
+    "date": "2026-07-31",
+    "name": "GUILFORD HOUSE ASSISTED LIVING",
+    "inspector_id": "1948",
+    "score": "93",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530404",
+    "date": "2026-07-31",
+    "name": "HOME 2 SUITES BY HILTON",
+    "inspector_id": "2964",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200253",
+    "date": "2026-07-31",
+    "name": "HOMEWOOD SUITES GREENSBORO AT WENDOVER",
+    "inspector_id": "2964",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012620",
+    "date": "2026-07-31",
+    "name": "MARIOS PIZZA",
+    "inspector_id": "1958",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041050005",
+    "date": "2026-07-31",
+    "name": "WESLEYAN EDUCATION CENTER",
+    "inspector_id": "1768",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530004",
+    "date": "2026-07-31",
+    "name": "WESLEYAN EDUCATION CENTER",
+    "inspector_id": "1768",
+    "score": "18",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041440001",
+    "date": "2026-07-30",
+    "name": "ALDERMAN ELEMENTARY",
+    "inspector_id": "2616",
+    "score": "86.50",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041500508",
+    "date": "2026-07-30",
+    "name": "ASHLEY WOODS APARTMENTS",
+    "inspector_id": "2616",
+    "score": "24",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020017",
+    "date": "2026-07-30",
+    "name": "AVAS CUISINE CATERING",
+    "inspector_id": "2923",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015007",
+    "date": "2026-07-30",
+    "name": "BISTRO 1605",
+    "inspector_id": "3566",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013336",
+    "date": "2026-07-30",
+    "name": "COURTYARD BY MARRIOTT",
+    "inspector_id": "2964",
+    "score": "93.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420850",
+    "date": "2026-07-30",
+    "name": "CRYSTAL LIGHTS CHRISTIAN ACADEMY",
+    "inspector_id": "1768",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530120",
+    "date": "2026-07-30",
+    "name": "EDGEWATER VILLAGE APARTMENTS",
+    "inspector_id": "1958",
+    "score": "40",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041030173",
+    "date": "2026-07-30",
+    "name": "EL FARITO #2",
+    "inspector_id": "2644",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011656",
+    "date": "2026-07-30",
+    "name": "ELIZABETHS PIZZA",
+    "inspector_id": "1958",
+    "score": "100",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014423",
+    "date": "2026-07-30",
+    "name": "GREEN VALLEY PARK CONCESSIONS",
+    "inspector_id": "2370",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021152",
+    "date": "2026-07-30",
+    "name": "HARRIS TEETER #347 - STARBUCKS",
+    "inspector_id": "2370",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015179",
+    "date": "2026-07-30",
+    "name": "NY PIZZA BAR & GRILL",
+    "inspector_id": "2370",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420869",
+    "date": "2026-07-30",
+    "name": "RISING STARZ",
+    "inspector_id": "1768",
+    "score": "2",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610184",
+    "date": "2026-07-30",
+    "name": "SAMINA ATA-SAMINA'S PERM MAKEUP/HAIR AFFAIR SALON",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010019",
+    "date": "2026-07-29",
+    "name": "ARBYS #1808",
+    "inspector_id": "3566",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014394",
+    "date": "2026-07-29",
+    "name": "BOJANGLES #771",
+    "inspector_id": "3238",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420349",
+    "date": "2026-07-29",
+    "name": "BRACKEN CHILD CARE",
+    "inspector_id": "1588",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015167",
+    "date": "2026-07-29",
+    "name": "BUBBLE BEAR",
+    "inspector_id": "2370",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420684",
+    "date": "2026-07-29",
+    "name": "CADENCE ACADEMY PRESCHOOL",
+    "inspector_id": "1768",
+    "score": "8",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020969",
+    "date": "2026-07-29",
+    "name": "CHINAS BEST",
+    "inspector_id": "2923",
+    "score": "94.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013934",
+    "date": "2026-07-29",
+    "name": "COURTSIDE GRILLE",
+    "inspector_id": "2370",
+    "score": "100",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041611047",
+    "date": "2026-07-29",
+    "name": "GOLDEN SPIRAL TATTOO",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200233",
+    "date": "2026-07-29",
+    "name": "HOTEL DENIM",
+    "inspector_id": "2644",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610519",
+    "date": "2026-07-29",
+    "name": "JAMES STRONG - TATTOO PRODIGIES",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610295",
+    "date": "2026-07-29",
+    "name": "JUSTIN MANESS - GOLDEN SPIRAL TATTOO",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041300083",
+    "date": "2026-07-29",
+    "name": "LOWES FOODS #155 MARKET",
+    "inspector_id": "3311",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020431",
+    "date": "2026-07-29",
+    "name": "LOWES FOODS #155 SEAFOOD",
+    "inspector_id": "3311",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014588",
+    "date": "2026-07-29",
+    "name": "OUTBACK STEAKHOUSE",
+    "inspector_id": "1958",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012975",
+    "date": "2026-07-29",
+    "name": "PANDA EXPRESS #1273",
+    "inspector_id": "1958",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200185",
+    "date": "2026-07-29",
+    "name": "RAINBOW MOTEL",
+    "inspector_id": "2644",
+    "score": "89",
+    "grade": "B",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530528",
+    "date": "2026-07-29",
+    "name": "RESERVE AT GREENWOOD",
+    "inspector_id": "2370",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014217",
+    "date": "2026-07-29",
+    "name": "SHINKO GRILL",
+    "inspector_id": "3566",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013095",
+    "date": "2026-07-29",
+    "name": "SUBWAY #33686",
+    "inspector_id": "2551",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041300221",
+    "date": "2026-07-28",
+    "name": "AL-AQSA",
+    "inspector_id": "1958",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041500634",
+    "date": "2026-07-28",
+    "name": "ENCLAVE 38 TWENTY-TWO",
+    "inspector_id": "2923",
+    "score": "16",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014461",
+    "date": "2026-07-28",
+    "name": "FLAME BROILER #186",
+    "inspector_id": "2923",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020917",
+    "date": "2026-07-28",
+    "name": "FRESH MARKET 9  THE DELI",
+    "inspector_id": "3311",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015300",
+    "date": "2026-07-28",
+    "name": "HOOTERS",
+    "inspector_id": "3136",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420778",
+    "date": "2026-07-28",
+    "name": "HOUSE OF ANGELS LEARNING CENTER ##",
+    "inspector_id": "1588",
+    "score": "6",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013937",
+    "date": "2026-07-28",
+    "name": "ICHI SUSHI ASIAN GRILL",
+    "inspector_id": "3311",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015355",
+    "date": "2026-07-28",
+    "name": "IHOP",
+    "inspector_id": "3566",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420674",
+    "date": "2026-07-28",
+    "name": "MONAS CHILDCARE CENTER",
+    "inspector_id": "1588",
+    "score": "6",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200242",
+    "date": "2026-07-28",
+    "name": "MOTEL 6 GREENSBORO AIRPORT            -",
+    "inspector_id": "1948",
+    "score": "92",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021453",
+    "date": "2026-07-28",
+    "name": "NEW YORK BUTCHER SHOPPE",
+    "inspector_id": "2923",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021301",
+    "date": "2026-07-28",
+    "name": "PUBLIX #1658 MEAT & SEAFOOD",
+    "inspector_id": "3238",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021290",
+    "date": "2026-07-28",
+    "name": "SPROUTS FARMERS MARKET PRODUCE",
+    "inspector_id": "2370",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200270",
+    "date": "2026-07-28",
+    "name": "SUPER 8 BY WYNDHAM",
+    "inspector_id": "1948",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530056",
+    "date": "2026-07-28",
+    "name": "TERRACE AT OLDE BATTLEGROUND, THE",
+    "inspector_id": "2370",
+    "score": "22",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015003",
+    "date": "2026-07-28",
+    "name": "THE HUB",
+    "inspector_id": "2964",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015033",
+    "date": "2026-07-28",
+    "name": "TROPICAL SMOOTHIE",
+    "inspector_id": "2370",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015245",
+    "date": "2026-07-28",
+    "name": "TROPICAL SMOOTHIE CAFE",
+    "inspector_id": "1958",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014315",
+    "date": "2026-07-28",
+    "name": "UNIVERSITY KITCHEN",
+    "inspector_id": "3566",
+    "score": "90",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015246",
+    "date": "2026-07-28",
+    "name": "WINGATE BY WYNDHAM FOOD SERVICE",
+    "inspector_id": "2964",
+    "score": "90",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420100",
+    "date": "2026-07-27",
+    "name": "APPLEVILLE ACADEMY",
+    "inspector_id": "1768",
+    "score": "10",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011655",
+    "date": "2026-07-27",
+    "name": "BRUEGGERS BAGELS #203",
+    "inspector_id": "2370",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011262",
+    "date": "2026-07-27",
+    "name": "CAFE EXPRESSO",
+    "inspector_id": "2924",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530397",
+    "date": "2026-07-27",
+    "name": "CARDINAL APTS",
+    "inspector_id": "3311",
+    "score": "40",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041400115",
+    "date": "2026-07-27",
+    "name": "DAYMARK GUILFORD RESIDENTIAL TREATMENT",
+    "inspector_id": "2924",
+    "score": "98",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200059",
+    "date": "2026-07-27",
+    "name": "HOLIDAY INN EXPRESS",
+    "inspector_id": "2644",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011931",
+    "date": "2026-07-27",
+    "name": "JERSEY MIKES",
+    "inspector_id": "3238",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420776",
+    "date": "2026-07-27",
+    "name": "KINDERNOGGINS",
+    "inspector_id": "1768",
+    "score": "12",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041440074",
+    "date": "2026-07-27",
+    "name": "NORTHEAST MIDDLE SCHOOL",
+    "inspector_id": "1588",
+    "score": "78",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014418",
+    "date": "2026-07-27",
+    "name": "PANERA BREAD",
+    "inspector_id": "3311",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013893",
+    "date": "2026-07-27",
+    "name": "PEKING WOK",
+    "inspector_id": "2370",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021462",
+    "date": "2026-07-27",
+    "name": "THE LEGACY LOUNGE 25",
+    "inspector_id": "2644",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014116",
+    "date": "2026-07-24",
+    "name": "98 ASIAN BISTRO",
+    "inspector_id": "3566",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420428",
+    "date": "2026-07-24",
+    "name": "CARL CHAVIS YMCA CHILDCARE",
+    "inspector_id": "1768",
+    "score": "12",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420718",
+    "date": "2026-07-24",
+    "name": "CHILDCARE NETWORK #242",
+    "inspector_id": "1768",
+    "score": "3",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015010",
+    "date": "2026-07-24",
+    "name": "CHIPOTLE",
+    "inspector_id": "3238",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041611046",
+    "date": "2026-07-24",
+    "name": "ERANDI ART & INK LLC",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430984",
+    "date": "2026-07-24",
+    "name": "FRESH START TODAY, INC.",
+    "inspector_id": "2616",
+    "score": "2",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041431008",
+    "date": "2026-07-24",
+    "name": "FRESH START TODAY, INC/WICKER HOME",
+    "inspector_id": "2616",
+    "score": "11",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014090",
+    "date": "2026-07-24",
+    "name": "GREENSBORO AUTO AUCTION CLASSIC CAR DINER",
+    "inspector_id": "1958",
+    "score": "100",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020596",
+    "date": "2026-07-24",
+    "name": "HARRIS TEETER #173 PRODUCE",
+    "inspector_id": "3095",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014997",
+    "date": "2026-07-24",
+    "name": "INDU INDIAN GROCERY & CAFE #2",
+    "inspector_id": "3566",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021504",
+    "date": "2026-07-24",
+    "name": "LITTLE CAESARS",
+    "inspector_id": "1876",
+    "score": "94.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013215",
+    "date": "2026-07-24",
+    "name": "OLYMPIC FAMILY RESTAURANT #3",
+    "inspector_id": "3095",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041400048",
+    "date": "2026-07-24",
+    "name": "TERRA BELLA GREENSBORO",
+    "inspector_id": "1948",
+    "score": "95",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013223",
+    "date": "2026-07-24",
+    "name": "THE PALLADIUM CINEMAS",
+    "inspector_id": "3095",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013646",
+    "date": "2026-07-24",
+    "name": "WAFFLE HOUSE #1891",
+    "inspector_id": "1876",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021406",
+    "date": "2026-07-23",
+    "name": "ALSAFA INTERNATIONAL",
+    "inspector_id": "2923",
+    "score": "94",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011468",
+    "date": "2026-07-23",
+    "name": "BISCUITVILLE #166",
+    "inspector_id": "3095",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015148",
+    "date": "2026-07-23",
+    "name": "CONE HEALTH MEDCENTER GREENSBORO RESTAURANT",
+    "inspector_id": "2924",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013127",
+    "date": "2026-07-23",
+    "name": "GOLDEN DRAGON",
+    "inspector_id": "2370",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020541",
+    "date": "2026-07-23",
+    "name": "HARRIS TEETER PRODUCE #33",
+    "inspector_id": "3311",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200214",
+    "date": "2026-07-23",
+    "name": "HOMEWOOD SUITES",
+    "inspector_id": "2964",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021171",
+    "date": "2026-07-23",
+    "name": "INDU HALAL MEATS",
+    "inspector_id": "1958",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014908",
+    "date": "2026-07-23",
+    "name": "MELT KITCHEN AND BAR",
+    "inspector_id": "3311",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014687",
+    "date": "2026-07-23",
+    "name": "MOSES CONE PANERA BREAD #4998",
+    "inspector_id": "2924",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012154",
+    "date": "2026-07-23",
+    "name": "OAKCREST FAMILY RESTAURANT",
+    "inspector_id": "2370",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010532",
+    "date": "2026-07-23",
+    "name": "OSCARS FINE FOODS",
+    "inspector_id": "3238",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021424",
+    "date": "2026-07-23",
+    "name": "PANTRY FRIED CHICKEN",
+    "inspector_id": "3238",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041440256",
+    "date": "2026-07-23",
+    "name": "PEELER HAMPTON VISUAL AND PERFORMING ARTS",
+    "inspector_id": "2616",
+    "score": "94",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015225",
+    "date": "2026-07-23",
+    "name": "SANTORINI",
+    "inspector_id": "3566",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530596",
+    "date": "2026-07-22",
+    "name": "BATTLEGROUND NORTH APARTMENTS",
+    "inspector_id": "2370",
+    "score": "34",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012331",
+    "date": "2026-07-22",
+    "name": "BEST DINER",
+    "inspector_id": "3311",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015262",
+    "date": "2026-07-22",
+    "name": "DHABA RESTAURANT",
+    "inspector_id": "3238",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011677",
+    "date": "2026-07-22",
+    "name": "GOLDEN WOK",
+    "inspector_id": "1958",
+    "score": "100",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530328",
+    "date": "2026-07-22",
+    "name": "HAWTHORNE AT HORSE PEN CREEK",
+    "inspector_id": "2370",
+    "score": "32",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420539",
+    "date": "2026-07-22",
+    "name": "JUST WHAT I NEEDED CHILD CENTER #",
+    "inspector_id": "1588",
+    "score": "10",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012287",
+    "date": "2026-07-22",
+    "name": "LUBRANOS ITALIAN RESTAURANT",
+    "inspector_id": "3095",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014780",
+    "date": "2026-07-22",
+    "name": "RIO GRANDE",
+    "inspector_id": "3311",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041440091",
+    "date": "2026-07-22",
+    "name": "SEDGEFIELD SCHOOL",
+    "inspector_id": "1588",
+    "score": "87",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041110072",
+    "date": "2026-07-22",
+    "name": "SEDGEFIELD SCHOOL CAFE.",
+    "inspector_id": "1588",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013499",
+    "date": "2026-07-22",
+    "name": "TACO TORO",
+    "inspector_id": "3238",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610165",
+    "date": "2026-07-22",
+    "name": "TARON SHULER - TATTOO PRODIGIES",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041611043",
+    "date": "2026-07-22",
+    "name": "TATTOO PRODIGIES",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041611044",
+    "date": "2026-07-22",
+    "name": "TATTOO PRODIGIES",
+    "inspector_id": "1923",
+    "score": "",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021492",
+    "date": "2026-07-22",
+    "name": "WALKING TACO (EMERALD POINT)",
+    "inspector_id": "2924",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041431129",
+    "date": "2026-07-21",
+    "name": "A PLACE OF THEIR OWN TOO",
+    "inspector_id": "2616",
+    "score": "0",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015042",
+    "date": "2026-07-21",
+    "name": "ALEX'S HOUSE",
+    "inspector_id": "3566",
+    "score": "94",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430817",
+    "date": "2026-07-21",
+    "name": "BRENTWOOD GROUP HOME",
+    "inspector_id": "2616",
+    "score": "15",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021469",
+    "date": "2026-07-21",
+    "name": "CARIBOU COFFEE",
+    "inspector_id": "3095",
+    "score": "100",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420535",
+    "date": "2026-07-21",
+    "name": "D & T LEARNING ZONE",
+    "inspector_id": "1768",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020953",
+    "date": "2026-07-21",
+    "name": "FOOD LION #2146 DELI",
+    "inspector_id": "3311",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020639",
+    "date": "2026-07-21",
+    "name": "FOOD LION DELI  #32",
+    "inspector_id": "2923",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041440210",
+    "date": "2026-07-21",
+    "name": "GEORGE SIMKINS ELEMENTARY",
+    "inspector_id": "1588",
+    "score": "90.50",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041110149",
+    "date": "2026-07-21",
+    "name": "GEORGE SIMKINS ELEMENTARY SCHOOL",
+    "inspector_id": "1588",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015095",
+    "date": "2026-07-21",
+    "name": "GHASSANS",
+    "inspector_id": "3238",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010160",
+    "date": "2026-07-21",
+    "name": "GHASSANS",
+    "inspector_id": "2923",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200193",
+    "date": "2026-07-21",
+    "name": "HAMPTON INN & SUITES GREENSBORO",
+    "inspector_id": "2924",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420870",
+    "date": "2026-07-21",
+    "name": "HIGH POINT FAMILY DAY CARE",
+    "inspector_id": "1768",
+    "score": "5",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014159",
+    "date": "2026-07-21",
+    "name": "HUANG'S KITCHEN",
+    "inspector_id": "3566",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041011195",
+    "date": "2026-07-21",
+    "name": "LONGHORN STEAKS",
+    "inspector_id": "2370",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012888",
+    "date": "2026-07-21",
+    "name": "RED ROBIN GOURMET BURGERS",
+    "inspector_id": "3311",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200036",
+    "date": "2026-07-21",
+    "name": "SANDS MOTEL",
+    "inspector_id": "2644",
+    "score": "94",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013178",
+    "date": "2026-07-21",
+    "name": "STARBUCKS #14437",
+    "inspector_id": "2370",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012260",
+    "date": "2026-07-20",
+    "name": "BOJANGLES #474",
+    "inspector_id": "2370",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420809",
+    "date": "2026-07-20",
+    "name": "BRENT WOODSON CARTER CENTER",
+    "inspector_id": "1768",
+    "score": "6",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013814",
+    "date": "2026-07-20",
+    "name": "BURGER KING 797",
+    "inspector_id": "3095",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430075",
+    "date": "2026-07-20",
+    "name": "ESUCP GREENSBORO GROUP HOME",
+    "inspector_id": "2616",
+    "score": "16",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015193",
+    "date": "2026-07-20",
+    "name": "FIVE POINTS SUBS",
+    "inspector_id": "3238",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021221",
+    "date": "2026-07-20",
+    "name": "FOOD LION #2695 PRODUCE",
+    "inspector_id": "2370",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020856",
+    "date": "2026-07-20",
+    "name": "HARRIS TEETER  342 PRODUCE",
+    "inspector_id": "3311",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014422",
+    "date": "2026-07-20",
+    "name": "KICKBACK JACKS #92",
+    "inspector_id": "3095",
+    "score": "90.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041400033",
+    "date": "2026-07-20",
+    "name": "LAWSONS ADULT ENRICHMENT CTR",
+    "inspector_id": "2924",
+    "score": "90",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200060",
+    "date": "2026-07-20",
+    "name": "MARRIOTT COURTYARD",
+    "inspector_id": "2924",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015039",
+    "date": "2026-07-20",
+    "name": "MAYBERRYS",
+    "inspector_id": "3566",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013861",
+    "date": "2026-07-20",
+    "name": "PROCTOR & GAMBLE MANUFACTURING COMPANY",
+    "inspector_id": "3311",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015192",
+    "date": "2026-07-20",
+    "name": "SHIPP SUSHI CASUAL",
+    "inspector_id": "3238",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012918",
+    "date": "2026-07-20",
+    "name": "SUBWAY #18725",
+    "inspector_id": "3311",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014675",
+    "date": "2026-07-20",
+    "name": "THAI SQUARE",
+    "inspector_id": "2370",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015255",
+    "date": "2026-07-20",
+    "name": "YUMMY BUFFET AND GRILL",
+    "inspector_id": "3566",
+    "score": "90",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041012732",
+    "date": "2026-07-17",
+    "name": "BOJANGLES 750",
+    "inspector_id": "2616",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420185",
+    "date": "2026-07-17",
+    "name": "CARL C STALEY  JR C D C",
+    "inspector_id": "1768",
+    "score": "8",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041020483",
+    "date": "2026-07-17",
+    "name": "CHILDREN AND FAMILIES FIRST",
+    "inspector_id": "1768",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014328",
+    "date": "2026-07-17",
+    "name": "CLARION POINTE FOOD SERVICE",
+    "inspector_id": "2964",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021523",
+    "date": "2026-07-17",
+    "name": "CUBAN SOCIAL HOUSE",
+    "inspector_id": "2644",
+    "score": "100",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530313",
+    "date": "2026-07-17",
+    "name": "DOUBLE TREE BY HILTON GREENSBORO",
+    "inspector_id": "2964",
+    "score": "32",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041030223",
+    "date": "2026-07-17",
+    "name": "GIANNO'S PIZZA MFU",
+    "inspector_id": "1948",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014812",
+    "date": "2026-07-17",
+    "name": "HARRIS TEETER-STARBUCKS",
+    "inspector_id": "3095",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013921",
+    "date": "2026-07-17",
+    "name": "KENTUCKY FRIED CHICKEN",
+    "inspector_id": "1958",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015324",
+    "date": "2026-07-17",
+    "name": "KOOLIES",
+    "inspector_id": "2923",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021007",
+    "date": "2026-07-17",
+    "name": "LOWES FOOD FISH/MEAT MARKET",
+    "inspector_id": "2923",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021525",
+    "date": "2026-07-17",
+    "name": "RAMAZI IX FOOD & CATERING, LLC",
+    "inspector_id": "2644",
+    "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530483",
+    "date": "2026-07-17",
+    "name": "THOMAS ESTATES POOL",
+    "inspector_id": "3136",
+    "score": "28",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  }
+]

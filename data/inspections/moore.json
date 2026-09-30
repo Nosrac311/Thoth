@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "5063011158",
+    "date": "2026-09-28",
+    "name": "7 LAKES CAFE",
+    "inspector_id": "3255",
+    "score": "94",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063430045",
+    "date": "2026-09-28",
+    "name": "SAVANNAH FAMILY CARE",
+    "inspector_id": "1929",
+    "score": "2",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063013033",
+    "date": "2026-09-28",
+    "name": "SOUTHSIDE BAR AND GRILL",
+    "inspector_id": "3255",
+    "score": "98.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063030047",
+    "date": "2026-09-25",
+    "name": "BLUE SUEDE BBQ",
+    "inspector_id": "3255",
+    "score": "97.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063152002",
+    "date": "2026-09-25",
+    "name": "RED'S KITCHEN",
+    "inspector_id": "3255",
+    "score": "91.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063420912",
+    "date": "2026-09-25",
+    "name": "SOUTHERN PINES ACADEMY",
+    "inspector_id": "2922",
+    "score": "0",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063111100",
+    "date": "2026-09-25",
+    "name": "SOUTHERN PINES ELEMENTARY SCHOOL",
+    "inspector_id": "2750",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010986",
+    "date": "2026-09-25",
+    "name": "TEXAS ROADHOUSE #402",
+    "inspector_id": "2467",
+    "score": "95",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063110901",
+    "date": "2026-09-24",
+    "name": "ABERDEEN ELEMENTARY CAFETERIA",
+    "inspector_id": "2922",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063422000",
+    "date": "2026-09-24",
+    "name": "ABERDEEN ELEMENTARY SCHOOL PRE-K",
+    "inspector_id": "2922",
+    "score": "2",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011000",
+    "date": "2026-09-24",
+    "name": "BETSY'S CREPES",
+    "inspector_id": "3255",
+    "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010688",
+    "date": "2026-09-24",
+    "name": "CHILIS",
+    "inspector_id": "3255",
+    "score": "97",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063110007",
+    "date": "2026-09-24",
+    "name": "HIGH FALLS ELEMENTARY CAFETERIA",
+    "inspector_id": "2467",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063012127",
+    "date": "2026-09-23",
+    "name": "BROOKLYN  PICKLE",
+    "inspector_id": "3255",
+    "score": "97.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011065",
+    "date": "2026-09-23",
+    "name": "LA FAMILIA MEXICAN GRILL",
+    "inspector_id": "2467",
+    "score": "97",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063420106",
+    "date": "2026-09-23",
+    "name": "LEE'S EARLY LEARNING CENTER",
+    "inspector_id": "2922",
+    "score": "13",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063480000",
+    "date": "2026-09-23",
+    "name": "WOODLAND HOUSE",
+    "inspector_id": "2922",
+    "score": "4",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011209",
+    "date": "2026-09-22",
+    "name": "CHAPMAN'S FOOD & SPIRITS",
+    "inspector_id": "2467",
+    "score": "94.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063012111",
+    "date": "2026-09-22",
+    "name": "JAYA'S INDIAN CUISINE",
+    "inspector_id": "3255",
+    "score": "95.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063110900",
+    "date": "2026-09-22",
+    "name": "MCDEEDS CREEK ELEMENTARY CAFETERIA",
+    "inspector_id": "2467",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063110009",
+    "date": "2026-09-22",
+    "name": "PINECREST HIGH SCHOOL CAFETERIA",
+    "inspector_id": "3255",
+    "score": "99",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010663",
+    "date": "2026-09-22",
+    "name": "PINEHURST TRACK RESTAURANT",
+    "inspector_id": "2750",
+    "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063050000",
+    "date": "2026-09-21",
+    "name": "CALVARY CHRISTIAN SCHOOL CAFETERIA",
+    "inspector_id": "3255",
+    "score": "98.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063020005",
+    "date": "2026-09-21",
+    "name": "FOOD LION DELI 528",
+    "inspector_id": "2922",
+    "score": "98.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063300005",
+    "date": "2026-09-21",
+    "name": "FOOD LION MEAT MARKET 528",
+    "inspector_id": "2922",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063020322",
+    "date": "2026-09-21",
+    "name": "FOOD LION PRODUCE 528",
+    "inspector_id": "2922",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063030028",
+    "date": "2026-09-21",
+    "name": "SAUCY CRAVINGS",
+    "inspector_id": "3255",
+    "score": "95",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063020089",
+    "date": "2026-09-18",
+    "name": "FRESH MARKET DELI # 29",
+    "inspector_id": "3255",
+    "score": "95.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063400901",
+    "date": "2026-09-18",
+    "name": "RHA SHERWOOD PARK",
+    "inspector_id": "2922",
+    "score": "92.50",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063160901",
+    "date": "2026-09-18",
+    "name": "RHA SHERWOOD PARK KITCHEN",
+    "inspector_id": "2922",
+    "score": "96",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011080",
+    "date": "2026-09-17",
+    "name": "HEARTWOOD GRILL & RESTAURANT",
+    "inspector_id": "2467",
+    "score": "99",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010596",
+    "date": "2026-09-17",
+    "name": "ICE CREAM PARLOR  THE",
+    "inspector_id": "2467",
+    "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011076",
+    "date": "2026-09-17",
+    "name": "KUNG FU RESTAURANT",
+    "inspector_id": "2750",
+    "score": "93.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063420912",
+    "date": "2026-09-17",
+    "name": "SOUTHERN PINES ACADEMY",
+    "inspector_id": "2922",
+    "score": "19",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063430003",
+    "date": "2026-09-17",
+    "name": "YADKIN PLACE",
+    "inspector_id": "1929",
+    "score": "0",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010631",
+    "date": "2026-09-16",
+    "name": "BIBIBOP ASIAN GRILL",
+    "inspector_id": "3255",
+    "score": "94.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063440024",
+    "date": "2026-09-16",
+    "name": "NEW CENTURY MIDDLE SCHOOL",
+    "inspector_id": "2750",
+    "score": "95",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063110902",
+    "date": "2026-09-16",
+    "name": "PINEHURST ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "3255",
+    "score": "98.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063400019",
+    "date": "2026-09-16",
+    "name": "SEVEN LAKES ASSISTED LIVING & MEMORY CARE",
+    "inspector_id": "2467",
+    "score": "94",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063160021",
+    "date": "2026-09-16",
+    "name": "SEVEN LAKES ASSISTED LIVING & MEMORY CARE KITCHEN",
+    "inspector_id": "2467",
+    "score": "99",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010660",
+    "date": "2026-09-15",
+    "name": "BONEFISH GRILL 9407",
+    "inspector_id": "3255",
+    "score": "95",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063020906",
+    "date": "2026-09-15",
+    "name": "HARRIS TEETER #80 DELI/PIZZA/CHEESE",
+    "inspector_id": "2467",
+    "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063012039",
+    "date": "2026-09-14",
+    "name": "BUSABA CAFE",
+    "inspector_id": "3255",
+    "score": "91",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011115",
+    "date": "2026-09-14",
+    "name": "EL PATRON TACOS & TEQUILA",
+    "inspector_id": "2467",
+    "score": "96.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010647",
+    "date": "2026-09-14",
+    "name": "THE HABIT BURGER & GRILL",
+    "inspector_id": "2810",
+    "score": "95",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010664",
+    "date": "2026-09-11",
+    "name": "GODFATHER'S PIZZA",
+    "inspector_id": "2467",
+    "score": "95.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011135",
+    "date": "2026-09-11",
+    "name": "NATURE'S OWN",
+    "inspector_id": "3255",
+    "score": "93",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010977",
+    "date": "2026-09-11",
+    "name": "SOUTHERN PINES RETIREMENT",
+    "inspector_id": "2467",
+    "score": "93",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010352",
+    "date": "2026-09-10",
+    "name": "OUTBACK STEAKHOUSE 3452",
+    "inspector_id": "3255",
+    "score": "95",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010967",
+    "date": "2026-09-09",
+    "name": "FLYING TIGER AT CARTHAGE",
+    "inspector_id": "2467",
+    "score": "97",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063200067",
+    "date": "2026-09-09",
+    "name": "MOTEL 6",
+    "inspector_id": "2467",
+    "score": "90",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010897",
+    "date": "2026-09-09",
+    "name": "SOUTHERN WHEY",
+    "inspector_id": "3255",
+    "score": "94",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063300023",
+    "date": "2026-09-09",
+    "name": "THE FRESH MARKET MEAT DEPT",
+    "inspector_id": "3255",
+    "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063020139",
+    "date": "2026-09-08",
+    "name": "NEW YORK BUTCHER SHOPPE",
+    "inspector_id": "2467",
+    "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063420912",
+    "date": "2026-09-08",
+    "name": "SOUTHERN PINES ACADEMY",
+    "inspector_id": "2922",
+    "score": "22",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063530014",
+    "date": "2026-09-08",
+    "name": "THE ONEAL SCHOOL - YEAR-ROUND POOL",
+    "inspector_id": "2810",
+    "score": "10",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063610092",
+    "date": "2026-09-05",
+    "name": "CARSIICK TATTOOS",
+    "inspector_id": "1929",
+    "score": "",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010768",
+    "date": "2026-09-04",
+    "name": "MAXIES GRILL & TAP ROOM",
+    "inspector_id": "2467",
+    "score": "93",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010955",
+    "date": "2026-09-04",
+    "name": "SUSA SUSHI & HIBACHI",
+    "inspector_id": "2467",
+    "score": "95.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063430081",
+    "date": "2026-09-03",
+    "name": "CAROLINA'S HOME CARE - GRAHAM HOUSE",
+    "inspector_id": "2467",
+    "score": "0",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010332",
+    "date": "2026-09-03",
+    "name": "CORNERSTONE PINEHURST #9",
+    "inspector_id": "2467",
+    "score": "96.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063420059",
+    "date": "2026-09-03",
+    "name": "LIL'S CHILD CARE CENTER",
+    "inspector_id": "1642",
+    "score": "2",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010657",
+    "date": "2026-09-03",
+    "name": "NEW CHINA",
+    "inspector_id": "3255",
+    "score": "97",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010295",
+    "date": "2026-09-03",
+    "name": "NICS PIC KWIK #6",
+    "inspector_id": "2750",
+    "score": "96.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063440044",
+    "date": "2026-09-02",
+    "name": "HIGH FALLS MENNONITE SCHOOL",
+    "inspector_id": "2750",
+    "score": "97",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010485",
+    "date": "2026-09-02",
+    "name": "MCDONALDS OF ABERDEEN",
+    "inspector_id": "2750",
+    "score": "99",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063110022",
+    "date": "2026-09-02",
+    "name": "NEW CENTURY MIDDLE SCHOOL CAFETERIA",
+    "inspector_id": "1929",
+    "score": "99.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010808",
+    "date": "2026-09-02",
+    "name": "SHINJI RAMEN AND ROLL",
+    "inspector_id": "2467",
+    "score": "95.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063110015",
+    "date": "2026-09-02",
+    "name": "UNION PINES HIGH SCHOOL CAFETERIA",
+    "inspector_id": "1929",
+    "score": "99",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010629",
+    "date": "2026-09-01",
+    "name": "CHUY'S MEXICAN GRILL & CANTINA",
+    "inspector_id": "3255",
+    "score": "97",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063110030",
+    "date": "2026-09-01",
+    "name": "CRAINS CREEK MIDDLE SCHOOL CAFETERIA",
+    "inspector_id": "1929",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063020125",
+    "date": "2026-09-01",
+    "name": "FOOD LION #2181 PRODUCE DEPT",
+    "inspector_id": "3255",
+    "score": "98.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010169",
+    "date": "2026-08-31",
+    "name": "LA CATRINA",
+    "inspector_id": "2750",
+    "score": "96",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063420912",
+    "date": "2026-08-31",
+    "name": "SOUTHERN PINES ACADEMY",
+    "inspector_id": "2922",
+    "score": "37",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063012120",
+    "date": "2026-08-28",
+    "name": "EMBERS BBQ",
+    "inspector_id": "2750",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063420106",
+    "date": "2026-08-28",
+    "name": "LEE'S EARLY LEARNING CENTER",
+    "inspector_id": "2922",
+    "score": "18",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063430081",
+    "date": "2026-08-27",
+    "name": "CAROLINA'S HOME CARE - GRAHAM HOUSE",
+    "inspector_id": "2467",
+    "score": "17",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010655",
+    "date": "2026-08-27",
+    "name": "CHICKEN SALAD CHICK",
+    "inspector_id": "2922",
+    "score": "99",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063420059",
+    "date": "2026-08-27",
+    "name": "LIL'S CHILD CARE CENTER",
+    "inspector_id": "1642",
+    "score": "26",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063020145",
+    "date": "2026-08-27",
+    "name": "LITTLE CAESARS EXPRESS/MINUTEMAN KITCHEN",
+    "inspector_id": "2750",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010929",
+    "date": "2026-08-27",
+    "name": "MCDONALDS OF WHISPERING PINES",
+    "inspector_id": "3255",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011027",
+    "date": "2026-08-26",
+    "name": "HONEY BAKED HAMS",
+    "inspector_id": "2467",
+    "score": "97.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010435",
+    "date": "2026-08-26",
+    "name": "PIGGLY WIGGLY 353 DELI",
+    "inspector_id": "3255",
+    "score": "92.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063300009",
+    "date": "2026-08-26",
+    "name": "PIGGLY WIGGLY 353 MEAT DEPARTMENT",
+    "inspector_id": "3255",
+    "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011201",
+    "date": "2026-08-24",
+    "name": "BRIXX WOOD FIRED PIZZA",
+    "inspector_id": "3255",
+    "score": "93",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063400023",
+    "date": "2026-08-24",
+    "name": "BROOKEDALE SENIOR LIVING",
+    "inspector_id": "2750",
+    "score": "99",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011203",
+    "date": "2026-08-24",
+    "name": "BUGGY TOWN COFFEE",
+    "inspector_id": "3255",
+    "score": "94",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010947",
+    "date": "2026-08-24",
+    "name": "CASA GARCIA-CARTHAGE",
+    "inspector_id": "2467",
+    "score": "92",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063013031",
+    "date": "2026-08-24",
+    "name": "MAC'S BREAKFAST ANYTIME",
+    "inspector_id": "2467",
+    "score": "90",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011163",
+    "date": "2026-08-24",
+    "name": "PATTYS PANTRY",
+    "inspector_id": "2922",
+    "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063012108",
+    "date": "2026-08-21",
+    "name": "FIREHOUSE SUBS OF ABERDEEN",
+    "inspector_id": "3255",
+    "score": "93.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010659",
+    "date": "2026-08-20",
+    "name": "BURGER KING #28472",
+    "inspector_id": "1929",
+    "score": "97.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063012124",
+    "date": "2026-08-20",
+    "name": "CANCER CENTER BISTRO",
+    "inspector_id": "3255",
+    "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010892",
+    "date": "2026-08-20",
+    "name": "SANDHILLS BOWLING CENTER SNACK BAR",
+    "inspector_id": "3255",
+    "score": "98.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063014001",
+    "date": "2026-08-20",
+    "name": "TAQUERIA Y CARNICERIA EL AMIGO",
+    "inspector_id": "2467",
+    "score": "94",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063304000",
+    "date": "2026-08-20",
+    "name": "TAQUERIA Y CARNICERIA EL AMIGO MEAT MARKET",
+    "inspector_id": "2467",
+    "score": "90.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063212003",
+    "date": "2026-08-20",
+    "name": "THE OLD BUGGY INN",
+    "inspector_id": "2750",
+    "score": "100",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011054",
+    "date": "2026-08-19",
+    "name": "HARRIS TEETER #80 STARBUCKS",
+    "inspector_id": "2467",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063300910",
+    "date": "2026-08-19",
+    "name": "HARRIS TEETER MEAT MARKET #80",
+    "inspector_id": "2467",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063020905",
+    "date": "2026-08-19",
+    "name": "HARRIS TEETER PRODUCE #80",
+    "inspector_id": "2467",
+    "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011146",
+    "date": "2026-08-19",
+    "name": "LEGACY LINKS GOLF",
+    "inspector_id": "2750",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063030045",
+    "date": "2026-08-18",
+    "name": "BAREBAKEDPIZZA",
+    "inspector_id": "2750",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011049",
+    "date": "2026-08-18",
+    "name": "BOJANGLES 973",
+    "inspector_id": "2467",
+    "score": "96",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063030052",
+    "date": "2026-08-18",
+    "name": "IMPACTBURGER",
+    "inspector_id": "2750",
+    "score": "96.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063420106",
+    "date": "2026-08-18",
+    "name": "LEE'S EARLY LEARNING CENTER",
+    "inspector_id": "2922",
+    "score": "45",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063420111",
+    "date": "2026-08-18",
+    "name": "RISING STARS",
+    "inspector_id": "1929",
+    "score": "0",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011088",
+    "date": "2026-08-18",
+    "name": "WHISPERING PIES",
+    "inspector_id": "2467",
+    "score": "95",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063300313",
+    "date": "2026-08-17",
+    "name": "FOOD LION #2181 MEAT MARKET",
+    "inspector_id": "3255",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063020314",
+    "date": "2026-08-17",
+    "name": "FOOD LION DELI #2181(WHISPERING PINES)",
+    "inspector_id": "3255",
+    "score": "95.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063530002",
+    "date": "2026-08-17",
+    "name": "SEVEN LAKES HEALTH & FITNESS - YEAR-ROUND POOL",
+    "inspector_id": "1929",
+    "score": "0",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063030053",
+    "date": "2026-08-13",
+    "name": "MARISCOS Y TACOS OAXAQUENOS",
+    "inspector_id": "2467",
+    "score": "98.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011090",
+    "date": "2026-08-13",
+    "name": "RINCON JAROCHO",
+    "inspector_id": "2467",
+    "score": "95",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063030038",
+    "date": "2026-08-13",
+    "name": "TACOS PARAISO #2",
+    "inspector_id": "1929",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011130",
+    "date": "2026-08-12",
+    "name": "ORALE TACO BAR",
+    "inspector_id": "2467",
+    "score": "96.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010982",
+    "date": "2026-08-12",
+    "name": "PENICK VILLAGE HOUSE KITCHEN",
+    "inspector_id": "2467",
+    "score": "97",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063440028",
+    "date": "2026-08-12",
+    "name": "WESTMOORE ELEMENTARY SCHOOL",
+    "inspector_id": "1929",
+    "score": "95.50",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011140",
+    "date": "2026-08-11",
+    "name": "FREDDY'S FROZEN CUSTARD & STEAKBURGERS",
+    "inspector_id": "1929",
+    "score": "99",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063420082",
+    "date": "2026-08-11",
+    "name": "SHINING STARS",
+    "inspector_id": "2922",
+    "score": "7",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063420092",
+    "date": "2026-08-10",
+    "name": "COUNTRY KIDS PRE-SCHOOL AND CHILDCARE",
+    "inspector_id": "2810",
+    "score": "2",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063200044",
+    "date": "2026-08-10",
+    "name": "HAMPTON INN & SUITES",
+    "inspector_id": "2750",
+    "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010770",
+    "date": "2026-08-10",
+    "name": "NEIGHBORS COUNTRY STORE",
+    "inspector_id": "2467",
+    "score": "86.50",
+    "grade": "B",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063530002",
+    "date": "2026-08-10",
+    "name": "SEVEN LAKES HEALTH & FITNESS - YEAR-ROUND POOL",
+    "inspector_id": "1929",
+    "score": "4",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063550014",
+    "date": "2026-08-10",
+    "name": "SEVEN LAKES HEALTH AND FITNESS CENTER SPA",
+    "inspector_id": "1929",
+    "score": "0",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063012106",
+    "date": "2026-08-07",
+    "name": "CHINA KING",
+    "inspector_id": "2467",
+    "score": "94",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063420046",
+    "date": "2026-08-07",
+    "name": "MAGIC YEARS CHILD CARE",
+    "inspector_id": "2467",
+    "score": "6",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063020108",
+    "date": "2026-08-07",
+    "name": "SHEETZ #836",
+    "inspector_id": "2750",
+    "score": "99",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011166",
+    "date": "2026-08-06",
+    "name": "COMMUNITY SUBS",
+    "inspector_id": "2467",
+    "score": "99",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063020123",
+    "date": "2026-08-06",
+    "name": "PINEHURST SAND MINES HALFWAY HOUSE NO. 10",
+    "inspector_id": "2467",
+    "score": "99",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063200904",
+    "date": "2026-08-06",
+    "name": "SPRINGHILL SUITES BY MARRIOTT",
+    "inspector_id": "2922",
+    "score": "96.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011154",
+    "date": "2026-08-06",
+    "name": "WISCO TACO FOXTROT",
+    "inspector_id": "3255",
+    "score": "94.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063420012",
+    "date": "2026-08-05",
+    "name": "HELEN'S DAY CARE",
+    "inspector_id": "2922",
+    "score": "4",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063420082",
+    "date": "2026-08-05",
+    "name": "SHINING STARS",
+    "inspector_id": "2922",
+    "score": "23",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063300022",
+    "date": "2026-08-05",
+    "name": "SOUTHERN CUTS BUTCHER SHOP, LLC",
+    "inspector_id": "2467",
+    "score": "88.50",
+    "grade": "B",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063420078",
+    "date": "2026-08-04",
+    "name": "LISA'S LOVABLE #2",
+    "inspector_id": "2750",
+    "score": "10",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063012019",
+    "date": "2026-08-03",
+    "name": "CIRCLE K 2723056",
+    "inspector_id": "3255",
+    "score": "96",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063020093",
+    "date": "2026-08-03",
+    "name": "PIGGLY WIGGLY 353 PRODUCE",
+    "inspector_id": "3255",
+    "score": "92",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063030042",
+    "date": "2026-08-01",
+    "name": "LA PASADITA NC",
+    "inspector_id": "2922",
+    "score": "93.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063260003",
+    "date": "2026-07-31",
+    "name": "CAMP VICTORY AT MOORE'S KEEP",
+    "inspector_id": "2467",
+    "score": "100",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010553",
+    "date": "2026-07-31",
+    "name": "CARIBOU COFFEE",
+    "inspector_id": "2750",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010760",
+    "date": "2026-07-31",
+    "name": "DOMINOS PIZZA  #8819",
+    "inspector_id": "2750",
+    "score": "99.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011165",
+    "date": "2026-07-31",
+    "name": "PIZZA CAFE",
+    "inspector_id": "2750",
+    "score": "97",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063012031",
+    "date": "2026-07-31",
+    "name": "RESIDENCE INN FOODSERVICE",
+    "inspector_id": "3255",
+    "score": "96",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010006",
+    "date": "2026-07-30",
+    "name": "BOJANGLES  353",
+    "inspector_id": "2467",
+    "score": "92",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063021108",
+    "date": "2026-07-30",
+    "name": "HARRIS TEETER PRODUCE #212",
+    "inspector_id": "1929",
+    "score": "99.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010649",
+    "date": "2026-07-30",
+    "name": "JERSEY MIKE'S #3102",
+    "inspector_id": "3255",
+    "score": "99",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063430068",
+    "date": "2026-07-30",
+    "name": "LOWE HOUSE",
+    "inspector_id": "2750",
+    "score": "4",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010913",
+    "date": "2026-07-30",
+    "name": "STEVES PIZZA",
+    "inspector_id": "2922",
+    "score": "94.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011122",
+    "date": "2026-07-30",
+    "name": "THE WORKSHOP TAVERN",
+    "inspector_id": "2467",
+    "score": "97.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063300026",
+    "date": "2026-07-29",
+    "name": "FOOD LION  MEAT MARKET 1586",
+    "inspector_id": "2922",
+    "score": "99",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063300004",
+    "date": "2026-07-29",
+    "name": "FOOD LION #353 MEAT MARKET",
+    "inspector_id": "2750",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063020099",
+    "date": "2026-07-29",
+    "name": "FOOD LION DELI  1586",
+    "inspector_id": "2922",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063020004",
+    "date": "2026-07-29",
+    "name": "FOOD LION DELI #353",
+    "inspector_id": "2750",
+    "score": "99",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063020929",
+    "date": "2026-07-29",
+    "name": "FOOD LION STORE #1586 (PRODUCE)",
+    "inspector_id": "2922",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063012125",
+    "date": "2026-07-29",
+    "name": "SHORT STOP 71",
+    "inspector_id": "3255",
+    "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010674",
+    "date": "2026-07-29",
+    "name": "SMITHFIELDS CHICKEN N BBQ",
+    "inspector_id": "3255",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011155",
+    "date": "2026-07-28",
+    "name": "CELEBRITY INDIAN KITCHEN AND BAR",
+    "inspector_id": "2750",
+    "score": "96.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011084",
+    "date": "2026-07-28",
+    "name": "DOMINO'S PIZZA  8859",
+    "inspector_id": "3255",
+    "score": "95",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063200049",
+    "date": "2026-07-28",
+    "name": "HOMEWOOD SUITES BY HILTON",
+    "inspector_id": "3255",
+    "score": "97",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010881",
+    "date": "2026-07-28",
+    "name": "LONG HORN STEAKHOUSE 5493",
+    "inspector_id": "1929",
+    "score": "98.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063400004",
+    "date": "2026-07-28",
+    "name": "PEAK RESOURCES-PINELAKE  HEALTH CARE",
+    "inspector_id": "2467",
+    "score": "97.50",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063160013",
+    "date": "2026-07-28",
+    "name": "PINELAKE DINING ROOM KITCHEN",
+    "inspector_id": "2467",
+    "score": "93",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063510012",
+    "date": "2026-07-28",
+    "name": "SOUTHERN PINES WADING POOL - SEASONAL WADING POOL",
+    "inspector_id": "1929",
+    "score": "0",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063420915",
+    "date": "2026-07-28",
+    "name": "TASHA'S CARING & SHARING",
+    "inspector_id": "1642",
+    "score": "7",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063200054",
+    "date": "2026-07-28",
+    "name": "TOWNEPLACE SUITES BY MARRIOTT",
+    "inspector_id": "2922",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063532000",
+    "date": "2026-07-27",
+    "name": "HOLIDAY INN EXPRESS - YEAR-ROUND POOL",
+    "inspector_id": "3255",
+    "score": "8",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011208",
+    "date": "2026-07-27",
+    "name": "MCDONALDS OF PINEHURST",
+    "inspector_id": "3255",
+    "score": "97",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010051",
+    "date": "2026-07-24",
+    "name": "KENNY'S COUNTRY RESTAURANT",
+    "inspector_id": "2750",
+    "score": "98.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063420076",
+    "date": "2026-07-24",
+    "name": "LUV-A-KID MONTESSORI LEARNING CTR",
+    "inspector_id": "2922",
+    "score": "19",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063610048",
+    "date": "2026-07-23",
+    "name": "MAD INK ART STUDIO",
+    "inspector_id": "3255",
+    "score": "",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011319",
+    "date": "2026-07-22",
+    "name": "ARBY'S",
+    "inspector_id": "2750",
+    "score": "97.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063012027",
+    "date": "2026-07-22",
+    "name": "ZAXBY'S",
+    "inspector_id": "2467",
+    "score": "97",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063030029",
+    "date": "2026-07-21",
+    "name": "CARMELITA'S TACOS AND MORE",
+    "inspector_id": "2467",
+    "score": "97",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010624",
+    "date": "2026-07-21",
+    "name": "PAS PIZZA AND SUBS",
+    "inspector_id": "3255",
+    "score": "94",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011300",
+    "date": "2026-07-21",
+    "name": "PINE SCONE CAFE",
+    "inspector_id": "2467",
+    "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010913",
+    "date": "2026-07-21",
+    "name": "STEVES PIZZA",
+    "inspector_id": "2922",
+    "score": "89.50",
+    "grade": "B",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063021100",
+    "date": "2026-07-21",
+    "name": "TACOS GUERRERO",
+    "inspector_id": "2750",
+    "score": "95",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063610066",
+    "date": "2026-07-21",
+    "name": "WONDERLAND TATTOO",
+    "inspector_id": "1642",
+    "score": "",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063610089",
+    "date": "2026-07-21",
+    "name": "WONDERLAND TATTOO",
+    "inspector_id": "1642",
+    "score": "",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010006",
+    "date": "2026-07-20",
+    "name": "BOJANGLES  353",
+    "inspector_id": "2467",
+    "score": "85",
+    "grade": "B",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063532000",
+    "date": "2026-07-20",
+    "name": "HOLIDAY INN EXPRESS - YEAR-ROUND POOL",
+    "inspector_id": "3255",
+    "score": "20",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010970",
+    "date": "2026-07-20",
+    "name": "TACO BELL",
+    "inspector_id": "2922",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011167",
+    "date": "2026-07-20",
+    "name": "TERIYAKI EXPRESS JAPANESE RESTAURANT",
+    "inspector_id": "2750",
+    "score": "95",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063033006",
+    "date": "2026-07-17",
+    "name": "ANTOJITOS MAYA",
+    "inspector_id": "2922",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063200907",
+    "date": "2026-07-17",
+    "name": "CAROLINA PINE INN",
+    "inspector_id": "2750",
+    "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063021053",
+    "date": "2026-07-17",
+    "name": "CIRCLE K #2723480",
+    "inspector_id": "2467",
+    "score": "93.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011309",
+    "date": "2026-07-17",
+    "name": "FILLY AND COLTS AT WHISPERING WOODS",
+    "inspector_id": "2467",
+    "score": "98.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011307",
+    "date": "2026-07-17",
+    "name": "TROPICAL SMOOTHIE CAFE",
+    "inspector_id": "3255",
+    "score": "95.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011092",
+    "date": "2026-07-16",
+    "name": "CLEAN JUICE",
+    "inspector_id": "3255",
+    "score": "93.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063200056",
+    "date": "2026-07-16",
+    "name": "COMFORT INN",
+    "inspector_id": "2750",
+    "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010874",
+    "date": "2026-07-16",
+    "name": "FULL MOON OYSTER BAR",
+    "inspector_id": "2467",
+    "score": "97.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063200058",
+    "date": "2026-07-16",
+    "name": "RESIDENCE INN BY MARRIOTT",
+    "inspector_id": "3255",
+    "score": "94",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011134",
+    "date": "2026-07-16",
+    "name": "SOUTHERN PINES GOLF CLUB",
+    "inspector_id": "2467",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  }
+]

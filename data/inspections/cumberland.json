@@ -1,0 +1,5411 @@
+[
+  {
+    "id": "5026020339",
+    "date": "2026-09-29",
+    "name": "APPLE CRATE NATURALS CAFE",
+    "inspector_id": "3599",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026011006",
+    "date": "2026-09-29",
+    "name": "CHILI'S GRILL AND BAR    #452",
+    "inspector_id": "3257",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618182",
+    "date": "2026-09-29",
+    "name": "CHOP SHOP TATTOO",
+    "inspector_id": "3284",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618177",
+    "date": "2026-09-29",
+    "name": "CHOP SHOP TATTOO",
+    "inspector_id": "3284",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110018",
+    "date": "2026-09-29",
+    "name": "DOUGLAS BYRD SR HIGH",
+    "inspector_id": "3597",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026010288",
+    "date": "2026-09-29",
+    "name": "OLIVE GARDEN RESTAURANT #1201",
+    "inspector_id": "3599",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026550041",
+    "date": "2026-09-29",
+    "name": "RENAISSANCE DAY SPA AND ALTERNATIVE WELLNESS",
+    "inspector_id": "2891",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013710",
+    "date": "2026-09-29",
+    "name": "RUBY TUESDAY",
+    "inspector_id": "3256",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012967",
+    "date": "2026-09-29",
+    "name": "SAKURA JAPANESE RESTAURANT",
+    "inspector_id": "2248",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013864",
+    "date": "2026-09-29",
+    "name": "TAQUERIA EL REFUGIO",
+    "inspector_id": "3597",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030118",
+    "date": "2026-09-29",
+    "name": "TAQUERIA EL REFUGIO",
+    "inspector_id": "3597",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012759",
+    "date": "2026-09-29",
+    "name": "TOWNEPLACE SUITES BY MARRIOTT BREAKFAST",
+    "inspector_id": "3257",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110017",
+    "date": "2026-09-28",
+    "name": "ALGER B. WILKINS HIGH SCHOOL CAFETERIA",
+    "inspector_id": "3251",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022438",
+    "date": "2026-09-28",
+    "name": "ALL AMERICAN PIZZERIA LLC",
+    "inspector_id": "3257",
+    "score": "93",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022314",
+    "date": "2026-09-28",
+    "name": "CIRCLE K #2723144",
+    "inspector_id": "3251",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618320",
+    "date": "2026-09-28",
+    "name": "CLEOPATRA INK",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618321",
+    "date": "2026-09-28",
+    "name": "CLEOPATRA INK",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014049",
+    "date": "2026-09-28",
+    "name": "COMFORT INN WEST BREAKFAST",
+    "inspector_id": "3257",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022030",
+    "date": "2026-09-28",
+    "name": "COOK OUT #20",
+    "inspector_id": "3473",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110016",
+    "date": "2026-09-28",
+    "name": "DOUGLAS BYRD MIDDLE SCHOOL SOUTH CAMPUS CAFETERIA",
+    "inspector_id": "3251",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420153",
+    "date": "2026-09-28",
+    "name": "EOWOM CHILD CARE CENTER",
+    "inspector_id": "2248",
+    "score": "8",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110083",
+    "date": "2026-09-28",
+    "name": "GRAY'S CREEK ELEM SCH CAFE",
+    "inspector_id": "3110",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110035",
+    "date": "2026-09-28",
+    "name": "LOYD AUMAN ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "3473",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022224",
+    "date": "2026-09-28",
+    "name": "SARKU JAPAN",
+    "inspector_id": "3257",
+    "score": "94.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013608",
+    "date": "2026-09-28",
+    "name": "SUBWAY #63289",
+    "inspector_id": "2452",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026612616",
+    "date": "2026-09-28",
+    "name": "YOUNG'S INK",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013011",
+    "date": "2026-09-25",
+    "name": "BURGER KING",
+    "inspector_id": "3257",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110009",
+    "date": "2026-09-25",
+    "name": "C WAYNE COLLIER ELEM SCH CAFE",
+    "inspector_id": "3110",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420737",
+    "date": "2026-09-25",
+    "name": "C WAYNE COLLIER ELEM SCH PRE K 38 AND 39",
+    "inspector_id": "3110",
+    "score": "9",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013312",
+    "date": "2026-09-25",
+    "name": "HOKKAIDO EXPRESS",
+    "inspector_id": "3288",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420151",
+    "date": "2026-09-25",
+    "name": "INSPIRE HORIZONS ACADEMY",
+    "inspector_id": "3473",
+    "score": "42",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013370",
+    "date": "2026-09-25",
+    "name": "NOODLES & COMPANY",
+    "inspector_id": "3257",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013848",
+    "date": "2026-09-25",
+    "name": "TACO BELL #040714",
+    "inspector_id": "3288",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013376",
+    "date": "2026-09-25",
+    "name": "TAQUERIA LAS DELICIAS",
+    "inspector_id": "3251",
+    "score": "91.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440204",
+    "date": "2026-09-24",
+    "name": "ACADEMY OF UNIQUE LEARNERS",
+    "inspector_id": "3251",
+    "score": "95.50",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618319",
+    "date": "2026-09-24",
+    "name": "ASYLUM INK TATTOO & PIERCING STUDIO",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420748",
+    "date": "2026-09-24",
+    "name": "BRENTWOOD ELEM SCH NC PRE-K C-12",
+    "inspector_id": "3288",
+    "score": "2",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026430005",
+    "date": "2026-09-24",
+    "name": "BROCKETT HOUSE III",
+    "inspector_id": "3256",
+    "score": "2",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026431105",
+    "date": "2026-09-24",
+    "name": "CAROLINE'S HOUSE",
+    "inspector_id": "3256",
+    "score": "8",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026430532",
+    "date": "2026-09-24",
+    "name": "CHESTNUT HILLS GROUP HOME",
+    "inspector_id": "1061",
+    "score": "17",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110011",
+    "date": "2026-09-24",
+    "name": "CLIFFDALE ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "3473",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022042",
+    "date": "2026-09-24",
+    "name": "COOK OUT #23",
+    "inspector_id": "3251",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026020356",
+    "date": "2026-09-24",
+    "name": "CORN DOGS BY MR COW",
+    "inspector_id": "3257",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618162",
+    "date": "2026-09-24",
+    "name": "FORUM NAILS",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110077",
+    "date": "2026-09-24",
+    "name": "GALLBERRY FARM ELEM SCH CAFE",
+    "inspector_id": "3110",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420733",
+    "date": "2026-09-24",
+    "name": "GALLBERRY FARM ELEM SCH NC PRE K (RM E-47)",
+    "inspector_id": "3110",
+    "score": "10",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110032",
+    "date": "2026-09-24",
+    "name": "LEWIS CHAPEL MIDDLE SCHOOL CAFETERIA",
+    "inspector_id": "3257",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110076",
+    "date": "2026-09-24",
+    "name": "MASSEY HILL CLASSICAL HIGH SCHOOL CAFETERIA",
+    "inspector_id": "3251",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012312",
+    "date": "2026-09-24",
+    "name": "WENDY'S",
+    "inspector_id": "3288",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013838",
+    "date": "2026-09-23",
+    "name": "APPLEBEE'S #1090",
+    "inspector_id": "2412",
+    "score": "93",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026431104",
+    "date": "2026-09-23",
+    "name": "BROCKETT HOUSE #2",
+    "inspector_id": "3256",
+    "score": "2",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026430004",
+    "date": "2026-09-23",
+    "name": "BROCKETT HOUSE 1",
+    "inspector_id": "3256",
+    "score": "5",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014053",
+    "date": "2026-09-23",
+    "name": "CRAZY D'S LLC",
+    "inspector_id": "3473",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030292",
+    "date": "2026-09-23",
+    "name": "NC EMPANADAS LLC",
+    "inspector_id": "3110",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618178",
+    "date": "2026-09-23",
+    "name": "SASSY NAILS SPA",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013594",
+    "date": "2026-09-23",
+    "name": "SUSHI COURT DYF",
+    "inspector_id": "3287",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022351",
+    "date": "2026-09-23",
+    "name": "WALMART DELI/BAKERY #6879",
+    "inspector_id": "3562",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013108",
+    "date": "2026-09-22",
+    "name": "ASIAN DRAGON",
+    "inspector_id": "2452",
+    "score": "87.50",
+    "grade": "B",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026400001",
+    "date": "2026-09-22",
+    "name": "BETHESDA HEALTH CARE",
+    "inspector_id": "1061",
+    "score": "95.50",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013750",
+    "date": "2026-09-22",
+    "name": "CAPRI ITALIAN RESTAURANT & PIZZERIA",
+    "inspector_id": "3256",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012709",
+    "date": "2026-09-22",
+    "name": "CHINA GARDEN",
+    "inspector_id": "2412",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026023258",
+    "date": "2026-09-22",
+    "name": "CROWN COLISEUM 104",
+    "inspector_id": "3251",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022407",
+    "date": "2026-09-22",
+    "name": "CROWN COLISEUM STAND 101",
+    "inspector_id": "3251",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022408",
+    "date": "2026-09-22",
+    "name": "CROWN COLISEUM STAND 102",
+    "inspector_id": "3251",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022409",
+    "date": "2026-09-22",
+    "name": "CROWN COLISEUM STAND 103",
+    "inspector_id": "3251",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013928",
+    "date": "2026-09-22",
+    "name": "CULVER'S OF HOPE MILLS",
+    "inspector_id": "3288",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026010715",
+    "date": "2026-09-22",
+    "name": "HARDEE'S #1674",
+    "inspector_id": "3473",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014050",
+    "date": "2026-09-22",
+    "name": "J. STEPHENSON'S BARBECUE",
+    "inspector_id": "3110",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110073",
+    "date": "2026-09-22",
+    "name": "JOHN R GRIFFIN MIDDLE SCHOOL",
+    "inspector_id": "3288",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026011462",
+    "date": "2026-09-22",
+    "name": "PANDA WOK CHINESE RESTAURANT",
+    "inspector_id": "3473",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022483",
+    "date": "2026-09-22",
+    "name": "PIZZA HUT #2593",
+    "inspector_id": "3110",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012815",
+    "date": "2026-09-22",
+    "name": "SONIC DRIVE-IN",
+    "inspector_id": "3257",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013378",
+    "date": "2026-09-22",
+    "name": "TANDOORI BITES",
+    "inspector_id": "3257",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014026",
+    "date": "2026-09-22",
+    "name": "TROPICAL SMOOTHIE",
+    "inspector_id": "3110",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110065",
+    "date": "2026-09-22",
+    "name": "WESTOVER MIDDLE SCHOOL CAFETERIA",
+    "inspector_id": "3251",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013060",
+    "date": "2026-09-21",
+    "name": "BOJANGLES",
+    "inspector_id": "3110",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013640",
+    "date": "2026-09-21",
+    "name": "CAFFE' OPA",
+    "inspector_id": "3473",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013713",
+    "date": "2026-09-21",
+    "name": "CHINA WOK",
+    "inspector_id": "3597",
+    "score": "90.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022204",
+    "date": "2026-09-21",
+    "name": "FOOD LION DELI/BAKERY #2187",
+    "inspector_id": "3288",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026300106",
+    "date": "2026-09-21",
+    "name": "FOOD LION MEAT MARKET #2187",
+    "inspector_id": "3288",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022285",
+    "date": "2026-09-21",
+    "name": "FOOD LION PRODUCE #2187",
+    "inspector_id": "3288",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014013",
+    "date": "2026-09-21",
+    "name": "JERSEY MIKES",
+    "inspector_id": "3110",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110078",
+    "date": "2026-09-21",
+    "name": "LAKE RIM ELEMENTARY SCH CAFETERIA",
+    "inspector_id": "3473",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420150",
+    "date": "2026-09-21",
+    "name": "ROBINSON COURTS",
+    "inspector_id": "2248",
+    "score": "8",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013193",
+    "date": "2026-09-21",
+    "name": "TACO BELL #030562",
+    "inspector_id": "3597",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022304",
+    "date": "2026-09-21",
+    "name": "WALMART DELI #3411",
+    "inspector_id": "3473",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030221",
+    "date": "2026-09-20",
+    "name": "RENEA'S FISHNCHICK, LLC",
+    "inspector_id": "3288",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618151",
+    "date": "2026-09-18",
+    "name": "ALCHEMY TATTOO STUDIO",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618174",
+    "date": "2026-09-18",
+    "name": "AMERICAN TATTOO SOCIETY",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012310",
+    "date": "2026-09-18",
+    "name": "ASIAN EXPRESS",
+    "inspector_id": "3288",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022413",
+    "date": "2026-09-18",
+    "name": "CIRCLE K #2706485",
+    "inspector_id": "3288",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026023234",
+    "date": "2026-09-18",
+    "name": "HUNGRY HOWIE'S PIZZA",
+    "inspector_id": "3288",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013603",
+    "date": "2026-09-18",
+    "name": "HWY 55",
+    "inspector_id": "3251",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012669",
+    "date": "2026-09-18",
+    "name": "LINDY'S",
+    "inspector_id": "3288",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026010713",
+    "date": "2026-09-18",
+    "name": "MISTER TACO",
+    "inspector_id": "3110",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026302492",
+    "date": "2026-09-18",
+    "name": "PATE'S FARM MARKET - MEAT MARKET",
+    "inspector_id": "3473",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022491",
+    "date": "2026-09-18",
+    "name": "PATE'S FARM MARKET - PRODUCE",
+    "inspector_id": "3473",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022490",
+    "date": "2026-09-18",
+    "name": "PATE'S FARM MARKET-KITCHEN / DELI",
+    "inspector_id": "3473",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110046",
+    "date": "2026-09-18",
+    "name": "PONDEROSA ELEM SCH CAFE",
+    "inspector_id": "3251",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026020338",
+    "date": "2026-09-18",
+    "name": "WINGS  CO. RESTAURANT",
+    "inspector_id": "3257",
+    "score": "92",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420525",
+    "date": "2026-09-17",
+    "name": "CHERUBS DAY CARE CENTER",
+    "inspector_id": "3473",
+    "score": "6",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026050012",
+    "date": "2026-09-17",
+    "name": "FREEDOM CHRISTIAN ACADEMY CAFETERIA",
+    "inspector_id": "3251",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420707",
+    "date": "2026-09-17",
+    "name": "FREEDOM CHRISTIAN ACADEMY PRE-SCHOOL",
+    "inspector_id": "3251",
+    "score": "2",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022273",
+    "date": "2026-09-17",
+    "name": "FREEDOM COURTS CAFE",
+    "inspector_id": "3251",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026011240",
+    "date": "2026-09-17",
+    "name": "LOGANS ROADHOUSE 202",
+    "inspector_id": "3257",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013223",
+    "date": "2026-09-17",
+    "name": "PAD THAI CUISINE",
+    "inspector_id": "3473",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013933",
+    "date": "2026-09-17",
+    "name": "PANCAKES AND WAFFLES",
+    "inspector_id": "3110",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420768",
+    "date": "2026-09-17",
+    "name": "STEDMAN PRIMARY SCH NC PRE-K #8,9",
+    "inspector_id": "2932",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110056",
+    "date": "2026-09-17",
+    "name": "STEDMAN PRIMARY SCHOOL CAFETERIA",
+    "inspector_id": "2932",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026810938",
+    "date": "2026-09-17",
+    "name": "THE CHILDRENZ' PLACE",
+    "inspector_id": "3110",
+    "score": "10",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026400024",
+    "date": "2026-09-16",
+    "name": "CAROLINA HEALTH CARE CENTER",
+    "inspector_id": "3597",
+    "score": "97.50",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022452",
+    "date": "2026-09-16",
+    "name": "COMPARE FOODS PRODUCE",
+    "inspector_id": "3251",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026610858",
+    "date": "2026-09-16",
+    "name": "ENVISION TATTOO",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618180",
+    "date": "2026-09-16",
+    "name": "ENVISION TATTOO",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013698",
+    "date": "2026-09-16",
+    "name": "HOT FOOD CAFETERIA BY COMPARE FOODS",
+    "inspector_id": "3251",
+    "score": "94.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013273",
+    "date": "2026-09-16",
+    "name": "MIKOTO JR EXPRESS",
+    "inspector_id": "3257",
+    "score": "92",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013681",
+    "date": "2026-09-16",
+    "name": "PIZZA HUT #2568",
+    "inspector_id": "3110",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012700",
+    "date": "2026-09-16",
+    "name": "SMITHFIELD'S CHICKEN 'N BAR-B-Q",
+    "inspector_id": "3473",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013703",
+    "date": "2026-09-16",
+    "name": "SMITHFIELD'S CHICKEN 'N BAR-B-Q",
+    "inspector_id": "3110",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030389",
+    "date": "2026-09-16",
+    "name": "SOUL BOWLS,LLC",
+    "inspector_id": "3288",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026610823",
+    "date": "2026-09-16",
+    "name": "THE SIGNATURE ROSE",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026610322",
+    "date": "2026-09-16",
+    "name": "THE SIGNATURE ROSE",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013505",
+    "date": "2026-09-15",
+    "name": "ARMY CITY STEAK & GYRO",
+    "inspector_id": "3256",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026023240",
+    "date": "2026-09-15",
+    "name": "AUNTIE ANNE’S PRETZELS",
+    "inspector_id": "3257",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026431109",
+    "date": "2026-09-15",
+    "name": "BROTHERS HELPNG HANDS OF NC",
+    "inspector_id": "1061",
+    "score": "15",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026050011",
+    "date": "2026-09-15",
+    "name": "FAYETTEVILLE CHRISTIAN HIGH SCHOOL CAFETERIA",
+    "inspector_id": "3251",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014042",
+    "date": "2026-09-15",
+    "name": "FEENA'S & STEAMER'S",
+    "inspector_id": "3473",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026300093",
+    "date": "2026-09-15",
+    "name": "FOOD LION MEAT MARKET #124",
+    "inspector_id": "3597",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022306",
+    "date": "2026-09-15",
+    "name": "FOOD LION PRODUCE #124",
+    "inspector_id": "3473",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022149",
+    "date": "2026-09-15",
+    "name": "LITTLE CAESARS PIZZA",
+    "inspector_id": "3110",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014019",
+    "date": "2026-09-15",
+    "name": "MAI'S THAI EXPRESS",
+    "inspector_id": "3256",
+    "score": "93",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420252",
+    "date": "2026-09-15",
+    "name": "PANDA DAY CARE BLDG  2",
+    "inspector_id": "2248",
+    "score": "16",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026020149",
+    "date": "2026-09-15",
+    "name": "PHENIX CHINESE RESTAURANT",
+    "inspector_id": "3110",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110048",
+    "date": "2026-09-15",
+    "name": "ROCKFISH ELEM SCHOOL CAFE",
+    "inspector_id": "3110",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026020213",
+    "date": "2026-09-15",
+    "name": "WALMART DELI #1238",
+    "inspector_id": "3257",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440004",
+    "date": "2026-09-14",
+    "name": "ANNE CHESTNUTT MIDDLE SCHOOL",
+    "inspector_id": "3257",
+    "score": "94",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012859",
+    "date": "2026-09-14",
+    "name": "CHINA BUFFET AND HIBACHI",
+    "inspector_id": "3110",
+    "score": "94.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420824",
+    "date": "2026-09-14",
+    "name": "ELFLAND DAY CARE & FUN LEARNING CENTER",
+    "inspector_id": "3288",
+    "score": "13",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618318",
+    "date": "2026-09-14",
+    "name": "GUZMAN TATTOO",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110042",
+    "date": "2026-09-14",
+    "name": "MORGANTON ROAD ELEM SCHOOL CAFETERIA",
+    "inspector_id": "3256",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022123",
+    "date": "2026-09-14",
+    "name": "PAPA JOHNS PIZZA #2060",
+    "inspector_id": "3110",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420755",
+    "date": "2026-09-14",
+    "name": "SHERWOOD PARK ELEM SCH NC PRE-K C-5,C-6",
+    "inspector_id": "3288",
+    "score": "3",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110052",
+    "date": "2026-09-14",
+    "name": "SHERWOOD PARK ELEMENTARY SCHOOL",
+    "inspector_id": "3288",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026090012",
+    "date": "2026-09-14",
+    "name": "VFW POST 10630",
+    "inspector_id": "3110",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026400041",
+    "date": "2026-09-14",
+    "name": "VILLAGE GREEN HEALTH AND REHABILITATION",
+    "inspector_id": "3597",
+    "score": "95.50",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110001",
+    "date": "2026-09-11",
+    "name": "ALMA EASOM ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "3256",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030361",
+    "date": "2026-09-11",
+    "name": "BLAZIN HALAL FOOD",
+    "inspector_id": "3251",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013927",
+    "date": "2026-09-11",
+    "name": "FORSYTHE CEC NC LLC CHUCK E CHEESE STORE 3144",
+    "inspector_id": "3287",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110028",
+    "date": "2026-09-11",
+    "name": "HOWARD LEARNING ACADEMY CAFETERIA",
+    "inspector_id": "3251",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110040",
+    "date": "2026-09-11",
+    "name": "MARY MCARTHUR ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "3251",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013643",
+    "date": "2026-09-11",
+    "name": "ON AFTER PUB & GRUB",
+    "inspector_id": "3256",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026430021",
+    "date": "2026-09-11",
+    "name": "SAFE HAVEN FOR WOMEN",
+    "inspector_id": "1061",
+    "score": "2",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012742",
+    "date": "2026-09-11",
+    "name": "ZORBA'S HOPE MILLS",
+    "inspector_id": "3110",
+    "score": "93",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013903",
+    "date": "2026-09-10",
+    "name": "ANCHOR ALLIE'S",
+    "inspector_id": "3597",
+    "score": "86",
+    "grade": "B",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013965",
+    "date": "2026-09-10",
+    "name": "CHIPOTLE MEXICAN GRILL #5147",
+    "inspector_id": "3288",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618164",
+    "date": "2026-09-10",
+    "name": "CLAUDIA'S NAILS & SPA",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110031",
+    "date": "2026-09-10",
+    "name": "ED V. BALDWIN ELEM SCH CAFE",
+    "inspector_id": "3110",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420766",
+    "date": "2026-09-10",
+    "name": "ED V. BALDWIN ELEM SCH NC PRE-K B-3,C-6",
+    "inspector_id": "3110",
+    "score": "13",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420753",
+    "date": "2026-09-10",
+    "name": "ELIZABETH CASHWELL ELEM SCH NC PRE-K D-4",
+    "inspector_id": "3251",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110022",
+    "date": "2026-09-10",
+    "name": "ELIZABETH M CASHWELL ELEMENTARY",
+    "inspector_id": "3251",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026010454",
+    "date": "2026-09-10",
+    "name": "KFC",
+    "inspector_id": "3597",
+    "score": "93",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110039",
+    "date": "2026-09-10",
+    "name": "MARGARET WILLIS ELEM SCHOOL CAFETERIA",
+    "inspector_id": "2248",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420413",
+    "date": "2026-09-10",
+    "name": "SHANAS DAY CARE",
+    "inspector_id": "2248",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110079",
+    "date": "2026-09-10",
+    "name": "STONEY POINT ELEM SCH CAFE",
+    "inspector_id": "3288",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026611448",
+    "date": "2026-09-09",
+    "name": "AMERICAN TATTOO SOCIETY",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420380",
+    "date": "2026-09-09",
+    "name": "BAL PERAZIM CHILD CARE  CTR",
+    "inspector_id": "3256",
+    "score": "7",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013438",
+    "date": "2026-09-09",
+    "name": "BOWLS ON A ROLL",
+    "inspector_id": "3251",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026300073",
+    "date": "2026-09-09",
+    "name": "FOOD LION MEAT MARKET #475",
+    "inspector_id": "3256",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022307",
+    "date": "2026-09-09",
+    "name": "FOOD LION PRODUCE #475",
+    "inspector_id": "3256",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110024",
+    "date": "2026-09-09",
+    "name": "GLENDALE ACRES SCHOOL",
+    "inspector_id": "3251",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013796",
+    "date": "2026-09-09",
+    "name": "GOT CHEW GRILL & ELITE CATERING",
+    "inspector_id": "3110",
+    "score": "94.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026612584",
+    "date": "2026-09-09",
+    "name": "HARMSWAY INK",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618317",
+    "date": "2026-09-09",
+    "name": "LIBERTY INK TATTOO",
+    "inspector_id": "3284",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110075",
+    "date": "2026-09-08",
+    "name": "ALDERMAN ROAD ELEM SCH CAFE",
+    "inspector_id": "3110",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420475",
+    "date": "2026-09-08",
+    "name": "ALDERMAN ROAD PRE-K",
+    "inspector_id": "3110",
+    "score": "14",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420728",
+    "date": "2026-09-08",
+    "name": "ALPHA ACADEMY PRE-K",
+    "inspector_id": "3473",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440009",
+    "date": "2026-09-08",
+    "name": "BEREAN BAPTIST ACADEMY",
+    "inspector_id": "3287",
+    "score": "97",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026050004",
+    "date": "2026-09-08",
+    "name": "BEREAN BULLDOG CAFE",
+    "inspector_id": "3287",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022106",
+    "date": "2026-09-08",
+    "name": "BEREAN DOG HOUSE",
+    "inspector_id": "3287",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420842",
+    "date": "2026-09-08",
+    "name": "BRIGHT YOUNG MINDS ACADEMY",
+    "inspector_id": "3288",
+    "score": "10",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110014",
+    "date": "2026-09-08",
+    "name": "CUMBERLAND ROAD ELEM SCHOOL CAFETERIA",
+    "inspector_id": "3251",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420705",
+    "date": "2026-09-08",
+    "name": "GOD'S LITTLE BLESSING DAYCARE",
+    "inspector_id": "2248",
+    "score": "2",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014044",
+    "date": "2026-09-08",
+    "name": "RICE, ROOTS & ROLLS",
+    "inspector_id": "3256",
+    "score": "90",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026023244",
+    "date": "2026-09-08",
+    "name": "SHELL PETROMART",
+    "inspector_id": "3110",
+    "score": "91.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026090009",
+    "date": "2026-09-08",
+    "name": "SPRING LAKE SENIOR CENTER",
+    "inspector_id": "3256",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013187",
+    "date": "2026-09-08",
+    "name": "TACO BELL #030569",
+    "inspector_id": "3256",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026810982",
+    "date": "2026-09-08",
+    "name": "THE FAMILY TREE PRESCHOOL LLC",
+    "inspector_id": "3288",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440200",
+    "date": "2026-09-08",
+    "name": "TRUE VINE ACADEMY",
+    "inspector_id": "3257",
+    "score": "95",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013997",
+    "date": "2026-09-08",
+    "name": "TRUE VINE MINISTRIES CAFE'",
+    "inspector_id": "3257",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110066",
+    "date": "2026-09-08",
+    "name": "WESTOVER HIGH SCHOOL CAFETERIA",
+    "inspector_id": "3288",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013108",
+    "date": "2026-09-04",
+    "name": "ASIAN DRAGON",
+    "inspector_id": "3252",
+    "score": "73",
+    "grade": "C",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618167",
+    "date": "2026-09-04",
+    "name": "BEST INK 910",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026612169",
+    "date": "2026-09-04",
+    "name": "BEST INK 910",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110013",
+    "date": "2026-09-04",
+    "name": "CUMBERLAND MILLS ELEM SCH CAFETERIA",
+    "inspector_id": "3288",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026140183",
+    "date": "2026-09-04",
+    "name": "JACK BRITT HIGH SCHOOL (CONCESSIONS)",
+    "inspector_id": "3288",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026140184",
+    "date": "2026-09-04",
+    "name": "JACK BRITT MARCHING BAND BOOSTERS",
+    "inspector_id": "3288",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026610485",
+    "date": "2026-09-04",
+    "name": "LIBERTY INK TATTOO",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440066",
+    "date": "2026-09-04",
+    "name": "MORGANTON ROAD ELEM SCHOOL",
+    "inspector_id": "3288",
+    "score": "91",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013445",
+    "date": "2026-09-04",
+    "name": "OLEA MEDITERRANEAN KITCHEN",
+    "inspector_id": "3257",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026812029",
+    "date": "2026-09-04",
+    "name": "TABRA'S CHILD CARE",
+    "inspector_id": "3288",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026610342",
+    "date": "2026-09-04",
+    "name": "TRUE PIGMENTS",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110007",
+    "date": "2026-09-03",
+    "name": "BRENTWOOD ELEM SCH CAFE",
+    "inspector_id": "3288",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026150001",
+    "date": "2026-09-03",
+    "name": "CEDAR CREEK FISH FARM COMMISSARY",
+    "inspector_id": "2932",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420756",
+    "date": "2026-09-03",
+    "name": "CUMBERLAND MILLS ELEM SCH NC PRE-K #7",
+    "inspector_id": "3288",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026812037",
+    "date": "2026-09-03",
+    "name": "DREAMBOX LEARNING CENTER",
+    "inspector_id": "3473",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618316",
+    "date": "2026-09-03",
+    "name": "EXPENSIVE SKIN TATTOO STUDIO",
+    "inspector_id": "2891",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420141",
+    "date": "2026-09-03",
+    "name": "FIRST CHOICE CHILDCARE CENTER",
+    "inspector_id": "3256",
+    "score": "23",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026300092",
+    "date": "2026-09-03",
+    "name": "FOOD LION MEAT MARKET #470",
+    "inspector_id": "3473",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022294",
+    "date": "2026-09-03",
+    "name": "FOOD LION PRODUCE #470",
+    "inspector_id": "3473",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012442",
+    "date": "2026-09-03",
+    "name": "FULLER S BAR B QUE",
+    "inspector_id": "3252",
+    "score": "85.50",
+    "grade": "B",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013987",
+    "date": "2026-09-03",
+    "name": "GROUP THERAPY",
+    "inspector_id": "3257",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030412",
+    "date": "2026-09-03",
+    "name": "JAIIS SOULFOOD AND CATERING",
+    "inspector_id": "3110",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420488",
+    "date": "2026-09-03",
+    "name": "KIDZ DOMINION",
+    "inspector_id": "2248",
+    "score": "13",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030057",
+    "date": "2026-09-03",
+    "name": "LA POBLANITA",
+    "inspector_id": "3110",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013815",
+    "date": "2026-09-03",
+    "name": "MARYBILL'S CAFE",
+    "inspector_id": "3256",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026430072",
+    "date": "2026-09-03",
+    "name": "MOSS HOME",
+    "inspector_id": "1845",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618172",
+    "date": "2026-09-03",
+    "name": "NORTHMAN TATTOO",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013007",
+    "date": "2026-09-03",
+    "name": "PANERA BREAD",
+    "inspector_id": "3257",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013655",
+    "date": "2026-09-02",
+    "name": "AFGHAN KABOB",
+    "inspector_id": "3288",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026011447",
+    "date": "2026-09-02",
+    "name": "BOJANGLES #462",
+    "inspector_id": "3110",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420128",
+    "date": "2026-09-02",
+    "name": "CHILDCARE NETWORK #110",
+    "inspector_id": "3473",
+    "score": "9",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013920",
+    "date": "2026-09-02",
+    "name": "LA PATRONA BAR AND GRILL",
+    "inspector_id": "3110",
+    "score": "90.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026010470",
+    "date": "2026-09-02",
+    "name": "NEO SUSHI EXPRESS",
+    "inspector_id": "3257",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618124",
+    "date": "2026-09-02",
+    "name": "NEW ADDICTION TATTOO",
+    "inspector_id": "3284",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110006",
+    "date": "2026-09-01",
+    "name": "BENJAMIN J MARTIN ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "2452",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013809",
+    "date": "2026-09-01",
+    "name": "FREEDOM GROCERY AND GRILL INC",
+    "inspector_id": "2932",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026200175",
+    "date": "2026-09-01",
+    "name": "RESIDENCE INN BY MARRIOTT CROSS CREEK",
+    "inspector_id": "3597",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013720",
+    "date": "2026-09-01",
+    "name": "RESIDENCE INN BY MARRIOTT CROSS CREEK BREAKFAST",
+    "inspector_id": "3257",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013183",
+    "date": "2026-09-01",
+    "name": "TACO BELL #030557",
+    "inspector_id": "3473",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026010424",
+    "date": "2026-09-01",
+    "name": "WAFFLE HOUSE #728",
+    "inspector_id": "3252",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030106",
+    "date": "2026-08-31",
+    "name": "ALLISON'S FAST FOOD",
+    "inspector_id": "2452",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420842",
+    "date": "2026-08-31",
+    "name": "BRIGHT YOUNG MINDS ACADEMY",
+    "inspector_id": "3288",
+    "score": "30",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026300007",
+    "date": "2026-08-31",
+    "name": "CARLIE C'S IGA MEAT MARKET #895",
+    "inspector_id": "3256",
+    "score": "92",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012916",
+    "date": "2026-08-31",
+    "name": "CHIPOTLE MEXICAN GRILL",
+    "inspector_id": "3257",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026611294",
+    "date": "2026-08-31",
+    "name": "DA' KITCHEN INK & ARTS LLC",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026810970",
+    "date": "2026-08-31",
+    "name": "FLORES FAMILY DAY CARE HOME",
+    "inspector_id": "3251",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420705",
+    "date": "2026-08-31",
+    "name": "GOD'S LITTLE BLESSING DAYCARE",
+    "inspector_id": "2248",
+    "score": "16",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013799",
+    "date": "2026-08-31",
+    "name": "MARCO'S PIZZA 8009",
+    "inspector_id": "3287",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420624",
+    "date": "2026-08-31",
+    "name": "MARGARITA'S CHARMING DAY CARE CENTER",
+    "inspector_id": "3473",
+    "score": "8",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013823",
+    "date": "2026-08-31",
+    "name": "SHEETZ #736",
+    "inspector_id": "3597",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014012",
+    "date": "2026-08-31",
+    "name": "TASTE OF NEW YORK",
+    "inspector_id": "2248",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420505",
+    "date": "2026-08-31",
+    "name": "THE SUNSHINE HOUSE #149",
+    "inspector_id": "3251",
+    "score": "6",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030400",
+    "date": "2026-08-29",
+    "name": "COQUIS PINCHOS",
+    "inspector_id": "3288",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026033902",
+    "date": "2026-08-29",
+    "name": "POT'S PILIPINO CATERING, LLC",
+    "inspector_id": "3288",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013109",
+    "date": "2026-08-28",
+    "name": "ANA'S RESTAURANT",
+    "inspector_id": "3597",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420003",
+    "date": "2026-08-28",
+    "name": "BORDEAUX CREATIVE SCHOOL",
+    "inspector_id": "3251",
+    "score": "11",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013718",
+    "date": "2026-08-28",
+    "name": "EL ZARAPE",
+    "inspector_id": "3597",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013571",
+    "date": "2026-08-28",
+    "name": "GUSTO NAPOLETANO",
+    "inspector_id": "3288",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026023261",
+    "date": "2026-08-28",
+    "name": "HUNGRY HOWIE",
+    "inspector_id": "3473",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012855",
+    "date": "2026-08-28",
+    "name": "ICEHOUSE RESTAURANT",
+    "inspector_id": "3597",
+    "score": "93",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013781",
+    "date": "2026-08-28",
+    "name": "SOME THINGS TO BRAGG ABOUT CAFE LLC",
+    "inspector_id": "3473",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013186",
+    "date": "2026-08-28",
+    "name": "TACO BELL #030549",
+    "inspector_id": "3288",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026020351",
+    "date": "2026-08-28",
+    "name": "WAWA",
+    "inspector_id": "3288",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026430973",
+    "date": "2026-08-25",
+    "name": "CULBRETH HOME",
+    "inspector_id": "3257",
+    "score": "13",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030388",
+    "date": "2026-08-25",
+    "name": "LADY K'S CAFE",
+    "inspector_id": "3110",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026430253",
+    "date": "2026-08-25",
+    "name": "LILA BERRY COTTAGE CHILDREN'S HOME",
+    "inspector_id": "3597",
+    "score": "14",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026430160",
+    "date": "2026-08-25",
+    "name": "MCCARTNEY COTTAGE CHILDREN'S HOME",
+    "inspector_id": "3597",
+    "score": "15",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012331",
+    "date": "2026-08-24",
+    "name": "BOMBAY BISTRO",
+    "inspector_id": "3473",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026810940",
+    "date": "2026-08-24",
+    "name": "BUNDLE OF LOVE",
+    "inspector_id": "3473",
+    "score": "3",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013406",
+    "date": "2026-08-24",
+    "name": "HUNAN GARDEN",
+    "inspector_id": "3287",
+    "score": "94.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440202",
+    "date": "2026-08-24",
+    "name": "JCW THRIVE",
+    "inspector_id": "3288",
+    "score": "96.50",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026810966",
+    "date": "2026-08-24",
+    "name": "LOVING HOME CHILDCARE",
+    "inspector_id": "3473",
+    "score": "2",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013380",
+    "date": "2026-08-24",
+    "name": "MCALISTER'S DELI #1414",
+    "inspector_id": "3257",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026535000",
+    "date": "2026-08-24",
+    "name": "MCARTHUR LANDING",
+    "inspector_id": "2891",
+    "score": "6",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026810967",
+    "date": "2026-08-24",
+    "name": "NY'MA'S BUSY BEE'S FCCH",
+    "inspector_id": "3251",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618315",
+    "date": "2026-08-24",
+    "name": "PINK DAHLIA INK",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618140",
+    "date": "2026-08-24",
+    "name": "PINK DAHLIA INK",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026431064",
+    "date": "2026-08-24",
+    "name": "SERENITY THERAPEUTIC SERVICES GH II",
+    "inspector_id": "1061",
+    "score": "8",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026431079",
+    "date": "2026-08-24",
+    "name": "SERENITY THERAPEUTIC SERVICES GROUP HOME #9",
+    "inspector_id": "1061",
+    "score": "2",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420003",
+    "date": "2026-08-21",
+    "name": "BORDEAUX CREATIVE SCHOOL",
+    "inspector_id": "3251",
+    "score": "19",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618314",
+    "date": "2026-08-21",
+    "name": "CLEOPATRA INK",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618165",
+    "date": "2026-08-21",
+    "name": "EVOLUTION INK",
+    "inspector_id": "2891",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026611527",
+    "date": "2026-08-21",
+    "name": "SACRED RAVEN TATTOO SHOP",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026430062",
+    "date": "2026-08-21",
+    "name": "SINCLAIR CREST GROUP HOME #  2",
+    "inspector_id": "1845",
+    "score": "26",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012817",
+    "date": "2026-08-21",
+    "name": "SUBWAY",
+    "inspector_id": "3428",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014022",
+    "date": "2026-08-21",
+    "name": "WINGSTOP",
+    "inspector_id": "3597",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013307",
+    "date": "2026-08-21",
+    "name": "ZAXBY'S",
+    "inspector_id": "3428",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618158",
+    "date": "2026-08-20",
+    "name": "AWESOME TATTOOS",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026610714",
+    "date": "2026-08-20",
+    "name": "AWESOME TATTOOS",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030371",
+    "date": "2026-08-20",
+    "name": "BORIFLAVOR ON WHEELS",
+    "inspector_id": "3251",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618159",
+    "date": "2026-08-20",
+    "name": "BUENA VIDA STUDIO",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026010076",
+    "date": "2026-08-20",
+    "name": "CAPTAIN JERRY'S SEAFOOD",
+    "inspector_id": "3428",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030216",
+    "date": "2026-08-20",
+    "name": "DA SHARK SHACK",
+    "inspector_id": "2248",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026810943",
+    "date": "2026-08-20",
+    "name": "EACH ONE TEACH ONE",
+    "inspector_id": "3473",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026810365",
+    "date": "2026-08-20",
+    "name": "FRAN'S CHILD CARE OFF WINGATE(MAP)",
+    "inspector_id": "3251",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013926",
+    "date": "2026-08-20",
+    "name": "FREDDY'S FROZEN CUSTARD AND STEAK BURGER",
+    "inspector_id": "3288",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030316",
+    "date": "2026-08-20",
+    "name": "GOURMET GALORE BY BBEES CATERING LLC",
+    "inspector_id": "3288",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030328",
+    "date": "2026-08-20",
+    "name": "JINKS N SNIPS",
+    "inspector_id": "3597",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618313",
+    "date": "2026-08-20",
+    "name": "LECLAIR'S GENERAL STORE",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026810289",
+    "date": "2026-08-20",
+    "name": "MO'NAES TENDER CARE",
+    "inspector_id": "3473",
+    "score": "6",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013635",
+    "date": "2026-08-20",
+    "name": "MOD PIZZA",
+    "inspector_id": "3257",
+    "score": "94.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026810945",
+    "date": "2026-08-20",
+    "name": "OWL'S ACADEMY",
+    "inspector_id": "2248",
+    "score": "3",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026610640",
+    "date": "2026-08-20",
+    "name": "TC BROWS & HAIR",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026011086",
+    "date": "2026-08-20",
+    "name": "WAFFLE HOUSE #1133",
+    "inspector_id": "3288",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026011494",
+    "date": "2026-08-20",
+    "name": "WAFFLE HOUSE #1434",
+    "inspector_id": "3251",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012698",
+    "date": "2026-08-20",
+    "name": "WAFFLE HOUSE #1821",
+    "inspector_id": "3256",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022067",
+    "date": "2026-08-20",
+    "name": "WALMART DELI",
+    "inspector_id": "3256",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618312",
+    "date": "2026-08-19",
+    "name": "AMERICAN TATTOO SOCIETY",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030353",
+    "date": "2026-08-19",
+    "name": "CHICAGO  STYLE BEEF",
+    "inspector_id": "3251",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026020332",
+    "date": "2026-08-19",
+    "name": "CIRCLE K #2720456",
+    "inspector_id": "3473",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026023233",
+    "date": "2026-08-19",
+    "name": "CIRCLE K #2723017",
+    "inspector_id": "3256",
+    "score": "92",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013754",
+    "date": "2026-08-19",
+    "name": "DON RAMONS TACO SHOP",
+    "inspector_id": "2452",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022295",
+    "date": "2026-08-19",
+    "name": "FOOD LION PRODUCE #810",
+    "inspector_id": "3473",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026024065",
+    "date": "2026-08-19",
+    "name": "ISLAND BOYS MARKET",
+    "inspector_id": "3256",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440138",
+    "date": "2026-08-19",
+    "name": "LIBERTY CHRISTIAN ACADEMY",
+    "inspector_id": "3110",
+    "score": "94",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026050016",
+    "date": "2026-08-19",
+    "name": "LIBERTY CHRISTIAN ACADEMY CAFE",
+    "inspector_id": "3110",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013363",
+    "date": "2026-08-19",
+    "name": "NITA'S GRILL & DELI",
+    "inspector_id": "3473",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026610459",
+    "date": "2026-08-19",
+    "name": "SACRED RAVEN TATTOO SHOP",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014060",
+    "date": "2026-08-19",
+    "name": "SMOOTHIE KING",
+    "inspector_id": "3257",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618147",
+    "date": "2026-08-19",
+    "name": "TIMELESS TATTOO",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012540",
+    "date": "2026-08-18",
+    "name": "CICI S PIZZA #611",
+    "inspector_id": "3473",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026140145",
+    "date": "2026-08-18",
+    "name": "GCHS BASKETBALL/VOLLEYBALL ABC",
+    "inspector_id": "3110",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026140137",
+    "date": "2026-08-18",
+    "name": "GCHS FOOTBALL/SOCCER ABC & GCHS BAND BOOSTER",
+    "inspector_id": "3110",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420855",
+    "date": "2026-08-18",
+    "name": "HEARTS FOR CHILDREN CHILD CARE AND LEARNING CENTER",
+    "inspector_id": "3288",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014004",
+    "date": "2026-08-18",
+    "name": "ICHIBAN EXPRESS",
+    "inspector_id": "3288",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026011470",
+    "date": "2026-08-18",
+    "name": "KFC",
+    "inspector_id": "3597",
+    "score": "94.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022163",
+    "date": "2026-08-18",
+    "name": "LITTLE CAESARS PIZZA",
+    "inspector_id": "3257",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013084",
+    "date": "2026-08-18",
+    "name": "MI CASITA",
+    "inspector_id": "3288",
+    "score": "93.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013756",
+    "date": "2026-08-18",
+    "name": "PARKTON GRILL 2.0",
+    "inspector_id": "3251",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013998",
+    "date": "2026-08-18",
+    "name": "POPEYES LOUISIANA KITCHEN",
+    "inspector_id": "3562",
+    "score": "90",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013996",
+    "date": "2026-08-18",
+    "name": "POPEYES LOUSIANA KITCHEN",
+    "inspector_id": "3251",
+    "score": "94.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030255",
+    "date": "2026-08-18",
+    "name": "SMOKED OUT BBQ LLC",
+    "inspector_id": "3110",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013185",
+    "date": "2026-08-18",
+    "name": "TACO BELL #030554",
+    "inspector_id": "3597",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030401",
+    "date": "2026-08-18",
+    "name": "TACO STOP",
+    "inspector_id": "3110",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420782",
+    "date": "2026-08-17",
+    "name": "1ST START CHILD DEVELOPMENT CENTER",
+    "inspector_id": "2248",
+    "score": "15",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618311",
+    "date": "2026-08-17",
+    "name": "AMERICAN TATTOO SOCIETY",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026020347",
+    "date": "2026-08-17",
+    "name": "CARLIE C'S IGA DELI #830",
+    "inspector_id": "3288",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022177",
+    "date": "2026-08-17",
+    "name": "CARLIE C'S IGA PRODUCE #830",
+    "inspector_id": "3288",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022176",
+    "date": "2026-08-17",
+    "name": "CARLIE C'S IGA SEAFOOD #830",
+    "inspector_id": "3597",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022250",
+    "date": "2026-08-17",
+    "name": "CROWN FRIED CHICKEN",
+    "inspector_id": "3428",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026300105",
+    "date": "2026-08-17",
+    "name": "FOOD LION MEAT MARKET #2186",
+    "inspector_id": "3597",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026020167",
+    "date": "2026-08-17",
+    "name": "HARRIS TEETER DELI #25",
+    "inspector_id": "3562",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013959",
+    "date": "2026-08-17",
+    "name": "JAMAICAN KITCHEN",
+    "inspector_id": "3428",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026011577",
+    "date": "2026-08-17",
+    "name": "KFC",
+    "inspector_id": "3251",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026023272",
+    "date": "2026-08-17",
+    "name": "LWIN FAMILY CO, LLC DBA SUSHI WITH GUSTO",
+    "inspector_id": "3257",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013450",
+    "date": "2026-08-17",
+    "name": "SAMMIO'S FAMILY ITALIAN RESTAURANT",
+    "inspector_id": "3110",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013918",
+    "date": "2026-08-17",
+    "name": "TASTE TRELAWNY JAMAICAN CUISINE",
+    "inspector_id": "3110",
+    "score": "92.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030407",
+    "date": "2026-08-17",
+    "name": "TASTE TRELAWNY'S FOOD TRAILER",
+    "inspector_id": "3110",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022281",
+    "date": "2026-08-17",
+    "name": "THE FRESH MARKET DELI #208",
+    "inspector_id": "3257",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110002",
+    "date": "2026-08-14",
+    "name": "ANNE CHESTNUTT MIDDLE SCHOOL CAFETERIA",
+    "inspector_id": "3257",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618310",
+    "date": "2026-08-14",
+    "name": "ASYLUM INK TATTOO & PIERCING STUDIO",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013046",
+    "date": "2026-08-14",
+    "name": "CANTEEN-COMPASS USA FOOD SERVICE",
+    "inspector_id": "3597",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014062",
+    "date": "2026-08-14",
+    "name": "CHICK-FIL-A-RAMSEY STREET",
+    "inspector_id": "3428",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013617",
+    "date": "2026-08-14",
+    "name": "CRAB DU JOUR OF FAYETTEVILLE LLC",
+    "inspector_id": "3428",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013485",
+    "date": "2026-08-14",
+    "name": "HARDEE'S #1665",
+    "inspector_id": "3110",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026510016",
+    "date": "2026-08-14",
+    "name": "RONNIE CHALMERS P-POOL",
+    "inspector_id": "2891",
+    "score": "2",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026500110",
+    "date": "2026-08-14",
+    "name": "RONNIE CHALMERS POOL /   SEABROOK POOL",
+    "inspector_id": "2891",
+    "score": "2",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013902",
+    "date": "2026-08-13",
+    "name": "AGORA",
+    "inspector_id": "3428",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026612069",
+    "date": "2026-08-13",
+    "name": "BLACK HIVE INK & ARTS",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012430",
+    "date": "2026-08-13",
+    "name": "CARLIE C'S IGA DELI #840",
+    "inspector_id": "3597",
+    "score": "91.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420525",
+    "date": "2026-08-13",
+    "name": "CHERUBS DAY CARE CENTER",
+    "inspector_id": "3473",
+    "score": "20",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022474",
+    "date": "2026-08-13",
+    "name": "CIRCLE K #2704593",
+    "inspector_id": "3256",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012121",
+    "date": "2026-08-13",
+    "name": "COURTHOUSE HAPPY DELI",
+    "inspector_id": "3428",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022403",
+    "date": "2026-08-13",
+    "name": "DOMINO'S PIZZA",
+    "inspector_id": "3256",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420435",
+    "date": "2026-08-13",
+    "name": "EARLENES HOME DAY CARE",
+    "inspector_id": "3288",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030250",
+    "date": "2026-08-13",
+    "name": "JAZ-N-SOUL",
+    "inspector_id": "3110",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026530118",
+    "date": "2026-08-13",
+    "name": "JUNCTION @ RAMSEY-CARVER",
+    "inspector_id": "2891",
+    "score": "2",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026023274",
+    "date": "2026-08-13",
+    "name": "KING'S FRESH SEAFOOD LLC",
+    "inspector_id": "3251",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026810968",
+    "date": "2026-08-13",
+    "name": "MRS. B'S CHILDCARE CENTER",
+    "inspector_id": "3251",
+    "score": "2",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014002",
+    "date": "2026-08-13",
+    "name": "POPEYES LOUISANA  KITCHEN",
+    "inspector_id": "3288",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026020336",
+    "date": "2026-08-13",
+    "name": "POPEYES LOUISIANA KITCHEN",
+    "inspector_id": "3257",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013424",
+    "date": "2026-08-13",
+    "name": "SAIGON MARKET",
+    "inspector_id": "3110",
+    "score": "90",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026011158",
+    "date": "2026-08-13",
+    "name": "WAFFLE HOUSE #1170",
+    "inspector_id": "3256",
+    "score": "90",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030336",
+    "date": "2026-08-12",
+    "name": "BEST ENOUGH GOURMET STREET BITES, LLC",
+    "inspector_id": "3110",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026400001",
+    "date": "2026-08-12",
+    "name": "BETHESDA HEALTH CARE",
+    "inspector_id": "3597",
+    "score": "83",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013768",
+    "date": "2026-08-12",
+    "name": "BOONMA THAI",
+    "inspector_id": "3288",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026810529",
+    "date": "2026-08-12",
+    "name": "CARPENTER'S CHILD CARE",
+    "inspector_id": "3251",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014040",
+    "date": "2026-08-12",
+    "name": "CHECKERS SPRING LAKE",
+    "inspector_id": "3256",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440131",
+    "date": "2026-08-12",
+    "name": "GALLBERRY FARM ELEM SCHOOL",
+    "inspector_id": "3110",
+    "score": "93.50",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440165",
+    "date": "2026-08-12",
+    "name": "GRAY'S CREEK ELEM SCHOOL",
+    "inspector_id": "3110",
+    "score": "92",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026810979",
+    "date": "2026-08-12",
+    "name": "JOY CHRISTIAN EDUCATIONAL CHILD CARE",
+    "inspector_id": "3473",
+    "score": "5",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026810965",
+    "date": "2026-08-12",
+    "name": "LITTLE AGGIE'S ANGELS CHILD CARE CENTER",
+    "inspector_id": "3473",
+    "score": "6",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026500311",
+    "date": "2026-08-12",
+    "name": "NORTH STREET SPLASH PAS",
+    "inspector_id": "2891",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030313",
+    "date": "2026-08-12",
+    "name": "SO TRUCK' N GOOD",
+    "inspector_id": "3110",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013189",
+    "date": "2026-08-12",
+    "name": "TACO BELL #030547",
+    "inspector_id": "3256",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618309",
+    "date": "2026-08-12",
+    "name": "TRINITY TATTOO STUDIO",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026010460",
+    "date": "2026-08-11",
+    "name": "7 ELEVEN / LAREDO TACO COMPANY/RAISE THE ROOST",
+    "inspector_id": "3428",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026300116",
+    "date": "2026-08-11",
+    "name": "COMPARE FOODS MEAT MARKET",
+    "inspector_id": "3597",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013904",
+    "date": "2026-08-11",
+    "name": "FLYING LEGS",
+    "inspector_id": "3251",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014037",
+    "date": "2026-08-11",
+    "name": "KBAP KOREAN EATS",
+    "inspector_id": "3473",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420600",
+    "date": "2026-08-11",
+    "name": "MAMA & DAUGHTER5 DAY CARE",
+    "inspector_id": "3428",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014051",
+    "date": "2026-08-11",
+    "name": "POPEYES LOUISIANA KITCHEN",
+    "inspector_id": "3597",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013730",
+    "date": "2026-08-11",
+    "name": "REFUEL 161 (DAIRY QUEEN)",
+    "inspector_id": "3473",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440087",
+    "date": "2026-08-11",
+    "name": "SOUTH VIEW HIGH SCHOOL",
+    "inspector_id": "3110",
+    "score": "91.50",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440086",
+    "date": "2026-08-11",
+    "name": "SOUTH VIEW MIDDLE SCHOOL",
+    "inspector_id": "3110",
+    "score": "92",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420782",
+    "date": "2026-08-10",
+    "name": "1ST START CHILD DEVELOPMENT CENTER",
+    "inspector_id": "2248",
+    "score": "29",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026810520",
+    "date": "2026-08-10",
+    "name": "BILINGUAL DAYCARE",
+    "inspector_id": "3251",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022289",
+    "date": "2026-08-10",
+    "name": "FOOD LION DELI #810",
+    "inspector_id": "3597",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026300077",
+    "date": "2026-08-10",
+    "name": "FOOD LION MEAT MARKET #810",
+    "inspector_id": "3597",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030186",
+    "date": "2026-08-10",
+    "name": "G-MA FRIED RIBS AND SOUTHERN COOKING",
+    "inspector_id": "3110",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022397",
+    "date": "2026-08-10",
+    "name": "HISSHO SUSHI",
+    "inspector_id": "3257",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013553",
+    "date": "2026-08-10",
+    "name": "LEGACY 39 HOLIDAY INN & SUITES FAYETTEVILLE",
+    "inspector_id": "3597",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420725",
+    "date": "2026-08-10",
+    "name": "OVERHILLS CHILD DEVELOPMENT CENTER PHASE II",
+    "inspector_id": "3256",
+    "score": "30",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013179",
+    "date": "2026-08-10",
+    "name": "PANERA BREAD LLC",
+    "inspector_id": "3562",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013806",
+    "date": "2026-08-10",
+    "name": "PARKTON GRILL ON MAIN",
+    "inspector_id": "3110",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013714",
+    "date": "2026-08-10",
+    "name": "POINTONE AFRICAN CUISINE",
+    "inspector_id": "3251",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026300115",
+    "date": "2026-08-10",
+    "name": "SPROUTS FARMERS MARKET MEAT MARKET #542",
+    "inspector_id": "3257",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022396",
+    "date": "2026-08-10",
+    "name": "SPROUTS FARMERS MARKET PRODUCE #542",
+    "inspector_id": "3257",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014007",
+    "date": "2026-08-10",
+    "name": "THORNTON'S  HOT DIGGIDY DOG",
+    "inspector_id": "3251",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030344",
+    "date": "2026-08-09",
+    "name": "ONE BOWL ONE CUP, LLC",
+    "inspector_id": "3288",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030320",
+    "date": "2026-08-09",
+    "name": "SMOKIN DREAMS BBQ",
+    "inspector_id": "3288",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026812034",
+    "date": "2026-08-07",
+    "name": "BUZZIE BODIES EARLY LEARNING CHILD CARE, LLC",
+    "inspector_id": "3288",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026011128",
+    "date": "2026-08-07",
+    "name": "CARROTS JUICE BAR & CAFE'",
+    "inspector_id": "3256",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026500266",
+    "date": "2026-08-07",
+    "name": "COTTAGES AT CRYSTAL LAKE APARTMENTS",
+    "inspector_id": "2891",
+    "score": "14",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022206",
+    "date": "2026-08-07",
+    "name": "FOOD LION DELI #809",
+    "inspector_id": "3251",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026300074",
+    "date": "2026-08-07",
+    "name": "FOOD LION MEAT MARKET #809",
+    "inspector_id": "3251",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022299",
+    "date": "2026-08-07",
+    "name": "FOOD LION PRODUCE #809",
+    "inspector_id": "3251",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030367",
+    "date": "2026-08-07",
+    "name": "HOT DOG CENTRAL",
+    "inspector_id": "3288",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012303",
+    "date": "2026-08-07",
+    "name": "JOHN D FULLER SR RECREATION",
+    "inspector_id": "3288",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026810892",
+    "date": "2026-08-07",
+    "name": "L & W HOME DAY CARE",
+    "inspector_id": "3473",
+    "score": "3",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618307",
+    "date": "2026-08-07",
+    "name": "LUCKY DEVIL TATTOO",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618308",
+    "date": "2026-08-07",
+    "name": "LUCKY DEVIL TATTOO",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026010456",
+    "date": "2026-08-07",
+    "name": "MAIN EVENT ENTERTAINMENT",
+    "inspector_id": "3257",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012695",
+    "date": "2026-08-07",
+    "name": "PANDA EXPRESS #1710",
+    "inspector_id": "3257",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026610820",
+    "date": "2026-08-07",
+    "name": "SOUTHERN CUSTOMS TATTOO COMPANY",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026020354",
+    "date": "2026-08-06",
+    "name": "7 - ELEVEN #42622",
+    "inspector_id": "3256",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013767",
+    "date": "2026-08-06",
+    "name": "ARBY'S",
+    "inspector_id": "3428",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022234",
+    "date": "2026-08-06",
+    "name": "BJ'S WHOLESALE DELI",
+    "inspector_id": "3287",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013966",
+    "date": "2026-08-06",
+    "name": "CARIBOU COFFEE",
+    "inspector_id": "3256",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022092",
+    "date": "2026-08-06",
+    "name": "CARLIE C'S IGA DELI #5850",
+    "inspector_id": "3251",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022116",
+    "date": "2026-08-06",
+    "name": "CARLIE C'S IGA MEAT AND SEAFOOD MARKET #5850",
+    "inspector_id": "3251",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440147",
+    "date": "2026-08-06",
+    "name": "GRAY'S CREEK HIGH SCHOOL",
+    "inspector_id": "3110",
+    "score": "91.50",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440164",
+    "date": "2026-08-06",
+    "name": "GRAY'S CREEK MIDDLE SCHOOL",
+    "inspector_id": "3110",
+    "score": "93.50",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013447",
+    "date": "2026-08-06",
+    "name": "JASON'S DELI",
+    "inspector_id": "3257",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012950",
+    "date": "2026-08-06",
+    "name": "JIMMY JOHN'S",
+    "inspector_id": "3257",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026011594",
+    "date": "2026-08-06",
+    "name": "KFC",
+    "inspector_id": "3473",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012059",
+    "date": "2026-08-06",
+    "name": "WAFFLE HOUSE #1553",
+    "inspector_id": "3473",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026300103",
+    "date": "2026-08-04",
+    "name": "CARLIE C'S IGA MEAT MARKET #830",
+    "inspector_id": "3110",
+    "score": "94.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420459",
+    "date": "2026-08-04",
+    "name": "GROWING MINDS DAY CARE",
+    "inspector_id": "3251",
+    "score": "12",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012823",
+    "date": "2026-08-04",
+    "name": "INTERNATIONAL HOUSE OF PANCAKES II",
+    "inspector_id": "3473",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420860",
+    "date": "2026-08-04",
+    "name": "NEXT STEP CHILDCARE CENTER #2",
+    "inspector_id": "3110",
+    "score": "16",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013111",
+    "date": "2026-08-04",
+    "name": "THE VIETNAMESE RESTAURANT",
+    "inspector_id": "2412",
+    "score": "90",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026010439",
+    "date": "2026-08-04",
+    "name": "WENDY'S",
+    "inspector_id": "3562",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013173",
+    "date": "2026-08-04",
+    "name": "ZAXBY'S",
+    "inspector_id": "3473",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026612023",
+    "date": "2026-08-03",
+    "name": "ALCHEMY TATTOO STUDIO",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012098",
+    "date": "2026-08-03",
+    "name": "BIG T'S AT THE LAKE",
+    "inspector_id": "3110",
+    "score": "93.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013816",
+    "date": "2026-08-03",
+    "name": "CHICK-FIL-A",
+    "inspector_id": "3288",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022464",
+    "date": "2026-08-03",
+    "name": "DOMINO'S PIZZA #8952",
+    "inspector_id": "3473",
+    "score": "93",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026200115",
+    "date": "2026-08-03",
+    "name": "DOUBLETREE BY HILTON HOTEL FAYETTEVILLE",
+    "inspector_id": "2932",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026023269",
+    "date": "2026-08-03",
+    "name": "DUNKIN #363448",
+    "inspector_id": "3473",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440047",
+    "date": "2026-08-03",
+    "name": "HOPE MILLS MIDDLE SCHOOL",
+    "inspector_id": "3110",
+    "score": "90",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013893",
+    "date": "2026-08-03",
+    "name": "MCDONALD'S #16886",
+    "inspector_id": "3251",
+    "score": "93.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013346",
+    "date": "2026-08-03",
+    "name": "METRO DINER",
+    "inspector_id": "3257",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014057",
+    "date": "2026-08-03",
+    "name": "MOE'S SOUTHWEST GRILL",
+    "inspector_id": "3287",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022144",
+    "date": "2026-08-03",
+    "name": "PAPA JOHNS PIZZA #392",
+    "inspector_id": "3428",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013437",
+    "date": "2026-08-03",
+    "name": "STARBUCKS #49895",
+    "inspector_id": "3257",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013915",
+    "date": "2026-08-03",
+    "name": "STONER'S PIZZA JOINT",
+    "inspector_id": "3251",
+    "score": "92.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013562",
+    "date": "2026-08-03",
+    "name": "WAFFLE HOUSE #364",
+    "inspector_id": "3287",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420258",
+    "date": "2026-07-31",
+    "name": "ACADEME CHILD DEVELOPMENT CENTER",
+    "inspector_id": "3251",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022291",
+    "date": "2026-07-31",
+    "name": "FOOD LION DELI #2613",
+    "inspector_id": "3110",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026300098",
+    "date": "2026-07-31",
+    "name": "FOOD LION MEAT MARKET #2613",
+    "inspector_id": "3110",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013049",
+    "date": "2026-07-31",
+    "name": "GOLDEN CHINA",
+    "inspector_id": "3473",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420143",
+    "date": "2026-07-31",
+    "name": "IT TAKES A VILLAGE CHILD CARE & EDUCATIONAL CTR",
+    "inspector_id": "3256",
+    "score": "21",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026200194",
+    "date": "2026-07-31",
+    "name": "STUDIORES BY MARRIOTT",
+    "inspector_id": "3597",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026430070",
+    "date": "2026-07-30",
+    "name": "ADOLESCENT RESIDENTIAL PROGRAM-CAMPUS ONE",
+    "inspector_id": "1845",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013013",
+    "date": "2026-07-30",
+    "name": "BURGER KING #952",
+    "inspector_id": "3428",
+    "score": "94.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026160014",
+    "date": "2026-07-30",
+    "name": "CAROLINA HEALTH CARE CENTER KITCHEN",
+    "inspector_id": "3597",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014041",
+    "date": "2026-07-30",
+    "name": "COOKOUT - SKIBO INC.",
+    "inspector_id": "3597",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013948",
+    "date": "2026-07-30",
+    "name": "MENKOI RAMEN HOUSE",
+    "inspector_id": "3251",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014027",
+    "date": "2026-07-30",
+    "name": "MILLER BOYZ BBQ",
+    "inspector_id": "3110",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026610913",
+    "date": "2026-07-30",
+    "name": "NEW ADDICTION TATTOO",
+    "inspector_id": "3284",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013683",
+    "date": "2026-07-30",
+    "name": "PIZZA HUT #2564",
+    "inspector_id": "3473",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013693",
+    "date": "2026-07-30",
+    "name": "PIZZA HUT #2596",
+    "inspector_id": "2932",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013645",
+    "date": "2026-07-30",
+    "name": "STARBUCKS",
+    "inspector_id": "3473",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022272",
+    "date": "2026-07-30",
+    "name": "WALMART DELI #3600",
+    "inspector_id": "3473",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440103",
+    "date": "2026-07-30",
+    "name": "WESTOVER SR HIGH",
+    "inspector_id": "3110",
+    "score": "92",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618306",
+    "date": "2026-07-29",
+    "name": "BEST INK 910",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013663",
+    "date": "2026-07-29",
+    "name": "BRAGG DONUTS LLC DBA DUNKIN DONUTS",
+    "inspector_id": "3256",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012346",
+    "date": "2026-07-29",
+    "name": "CARLIE C'S IGA DELI #845",
+    "inspector_id": "3110",
+    "score": "93.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026023222",
+    "date": "2026-07-29",
+    "name": "CARLIE C'S IGA MEAT MARKET #845",
+    "inspector_id": "3562",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022325",
+    "date": "2026-07-29",
+    "name": "CIRCLE K #2723004",
+    "inspector_id": "3428",
+    "score": "94.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420666",
+    "date": "2026-07-29",
+    "name": "CREATIVE LEARNING ACADEMY",
+    "inspector_id": "3251",
+    "score": "9",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440024",
+    "date": "2026-07-29",
+    "name": "E E MILLER ELEM SCH",
+    "inspector_id": "3473",
+    "score": "93.50",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110068",
+    "date": "2026-07-29",
+    "name": "E E MILLER ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "3473",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013679",
+    "date": "2026-07-29",
+    "name": "PIZZA HUT #2566",
+    "inspector_id": "3256",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013191",
+    "date": "2026-07-29",
+    "name": "TACO BELL #030555",
+    "inspector_id": "3251",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013400",
+    "date": "2026-07-28",
+    "name": "CHINA STAR",
+    "inspector_id": "3110",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022326",
+    "date": "2026-07-28",
+    "name": "CIRCLE K",
+    "inspector_id": "3251",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022329",
+    "date": "2026-07-28",
+    "name": "CIRCLE K #2723047",
+    "inspector_id": "3473",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440027",
+    "date": "2026-07-28",
+    "name": "ED V. BALDWIN ELEM SCH",
+    "inspector_id": "3110",
+    "score": "91",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013885",
+    "date": "2026-07-28",
+    "name": "FIREHOUSE SUBS",
+    "inspector_id": "3251",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026010725",
+    "date": "2026-07-28",
+    "name": "FUEGO AZUL",
+    "inspector_id": "3597",
+    "score": "92",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013306",
+    "date": "2026-07-28",
+    "name": "HAMPTON INN FAYETTEVILLE FORT BREAKFAST",
+    "inspector_id": "3257",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026200063",
+    "date": "2026-07-28",
+    "name": "HAMPTON INN FAYETTEVILLE FORT LIBERTY",
+    "inspector_id": "3257",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013209",
+    "date": "2026-07-28",
+    "name": "JIMMY JOHN'S",
+    "inspector_id": "3428",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618305",
+    "date": "2026-07-28",
+    "name": "LEGENDARY LINES",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012429",
+    "date": "2026-07-28",
+    "name": "STARBUCKS #10159",
+    "inspector_id": "3251",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013995",
+    "date": "2026-07-28",
+    "name": "STARBUCKS #83729 - SPRING LAKE",
+    "inspector_id": "3256",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440102",
+    "date": "2026-07-28",
+    "name": "WESTOVER MIDDLE SCHOOL",
+    "inspector_id": "3287",
+    "score": "91",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026530112",
+    "date": "2026-07-27",
+    "name": "ADDISON RIDGE",
+    "inspector_id": "2891",
+    "score": "2",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420858",
+    "date": "2026-07-27",
+    "name": "AMIRA AMOR CHILD CARE CENTER",
+    "inspector_id": "3110",
+    "score": "16",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026023231",
+    "date": "2026-07-27",
+    "name": "CIRCLE K #2720302",
+    "inspector_id": "3473",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440211",
+    "date": "2026-07-27",
+    "name": "EMPACT ONE ACADEMY  COUNTRY CLUB",
+    "inspector_id": "2248",
+    "score": "100",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014066",
+    "date": "2026-07-27",
+    "name": "MANHATTAN DELI & GRILL",
+    "inspector_id": "1061",
+    "score": "93.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013947",
+    "date": "2026-07-27",
+    "name": "MCDONALD'S",
+    "inspector_id": "3473",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013892",
+    "date": "2026-07-27",
+    "name": "MCDONALD'S #3504",
+    "inspector_id": "3251",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026020342",
+    "date": "2026-07-27",
+    "name": "STARBUCKS #71891",
+    "inspector_id": "3562",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013356",
+    "date": "2026-07-27",
+    "name": "THE BISTRO AT COURTYARD BY MARRIOTT SPRING LAKE",
+    "inspector_id": "3256",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014067",
+    "date": "2026-07-24",
+    "name": "7-ELEVEN #42647",
+    "inspector_id": "3428",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013813",
+    "date": "2026-07-24",
+    "name": "ARBY'S",
+    "inspector_id": "3251",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013664",
+    "date": "2026-07-24",
+    "name": "BRAGG DONUTS LLC DBA DUNKIN DONUTS",
+    "inspector_id": "3257",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013686",
+    "date": "2026-07-24",
+    "name": "DUNKIN' BASKIN ROBBINS",
+    "inspector_id": "3473",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013881",
+    "date": "2026-07-24",
+    "name": "JAPAN EXPRESS",
+    "inspector_id": "3257",
+    "score": "93.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026023236",
+    "date": "2026-07-24",
+    "name": "PAPA JOHNS PIZZA",
+    "inspector_id": "3473",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420510",
+    "date": "2026-07-24",
+    "name": "SUNSHINE HOUSE  144A THE",
+    "inspector_id": "2248",
+    "score": "30",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030200",
+    "date": "2026-07-24",
+    "name": "TACO AREPA MFU #1",
+    "inspector_id": "3110",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030308",
+    "date": "2026-07-24",
+    "name": "TACO AREPA MFU #2",
+    "inspector_id": "3110",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013755",
+    "date": "2026-07-24",
+    "name": "TJR LIFE CENTER",
+    "inspector_id": "3110",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013427",
+    "date": "2026-07-24",
+    "name": "TROPICAL SMOOTHIE CAFE",
+    "inspector_id": "3251",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012330",
+    "date": "2026-07-23",
+    "name": "CHINA KING",
+    "inspector_id": "3428",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022476",
+    "date": "2026-07-23",
+    "name": "CIRCLE K #2723027",
+    "inspector_id": "3257",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026150009",
+    "date": "2026-07-23",
+    "name": "COUNTY COMMISSARY 1 LLC",
+    "inspector_id": "3428",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014001",
+    "date": "2026-07-23",
+    "name": "EGGS UP GRILL",
+    "inspector_id": "3288",
+    "score": "94.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420741",
+    "date": "2026-07-23",
+    "name": "HOME OF THE SUPER KIDZ II",
+    "inspector_id": "3251",
+    "score": "2",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013769",
+    "date": "2026-07-23",
+    "name": "MIYABI JR. EXPRESS",
+    "inspector_id": "3473",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022447",
+    "date": "2026-07-23",
+    "name": "NAPKINS",
+    "inspector_id": "3597",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026011226",
+    "date": "2026-07-23",
+    "name": "WIENER WORKS #5",
+    "inspector_id": "3288",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014020",
+    "date": "2026-07-23",
+    "name": "WINGSTOP",
+    "inspector_id": "3597",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030139",
+    "date": "2026-07-22",
+    "name": "BUS STOP MELTS",
+    "inspector_id": "3288",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013404",
+    "date": "2026-07-22",
+    "name": "CHIPOTLE MEXICAN GRILL",
+    "inspector_id": "3597",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026023245",
+    "date": "2026-07-22",
+    "name": "CIRCLE K",
+    "inspector_id": "3251",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026010466",
+    "date": "2026-07-22",
+    "name": "DUNKIN STORE #363689",
+    "inspector_id": "3256",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618302",
+    "date": "2026-07-22",
+    "name": "EMPIRE ARTISTRY & AESTHETICS",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026010210",
+    "date": "2026-07-22",
+    "name": "KFC",
+    "inspector_id": "3288",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013040",
+    "date": "2026-07-22",
+    "name": "MAC'S SPEED SHOP",
+    "inspector_id": "3287",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618303",
+    "date": "2026-07-22",
+    "name": "NORTHMAN TATTOO",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022372",
+    "date": "2026-07-22",
+    "name": "SPEEDWAY #6997",
+    "inspector_id": "3251",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026500168",
+    "date": "2026-07-22",
+    "name": "THE PARK APTS",
+    "inspector_id": "2891",
+    "score": "6",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026610677",
+    "date": "2026-07-22",
+    "name": "VICTORY TATTOO COMPANY",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618304",
+    "date": "2026-07-22",
+    "name": "VICTORY TATTOO COMPANY",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026610697",
+    "date": "2026-07-22",
+    "name": "VICTORY TATTOO COMPANY",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022480",
+    "date": "2026-07-21",
+    "name": "AUNTIE ANNE'S PRETZELS",
+    "inspector_id": "3257",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026010583",
+    "date": "2026-07-21",
+    "name": "BOJANGLES #274",
+    "inspector_id": "3251",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440012",
+    "date": "2026-07-21",
+    "name": "C WAYNE COLLIER ELEM SCHOOL",
+    "inspector_id": "3110",
+    "score": "93",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030145",
+    "date": "2026-07-21",
+    "name": "CALIFORNIA TACO",
+    "inspector_id": "3110",
+    "score": "91",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022053",
+    "date": "2026-07-21",
+    "name": "FOOD LION DELI #124",
+    "inspector_id": "3562",
+    "score": "90",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618145",
+    "date": "2026-07-21",
+    "name": "INK'D OUT TATTOO",
+    "inspector_id": "3299",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014009",
+    "date": "2026-07-21",
+    "name": "KOKO CK",
+    "inspector_id": "3597",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022482",
+    "date": "2026-07-21",
+    "name": "PIZZA HUT #2567",
+    "inspector_id": "3473",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013900",
+    "date": "2026-07-21",
+    "name": "SUBWAY 17578",
+    "inspector_id": "3473",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420726",
+    "date": "2026-07-21",
+    "name": "SUGAR BABIES",
+    "inspector_id": "3287",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013977",
+    "date": "2026-07-20",
+    "name": "7 - ELEVEN   #42367",
+    "inspector_id": "3256",
+    "score": "90",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022199",
+    "date": "2026-07-20",
+    "name": "FOOD LION DELI/BAKERY #2186",
+    "inspector_id": "3288",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013777",
+    "date": "2026-07-20",
+    "name": "HWY 55 BURGERS, SHAKES AND FRIES",
+    "inspector_id": "3288",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026610615",
+    "date": "2026-07-20",
+    "name": "INK WELL",
+    "inspector_id": "2412",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014035",
+    "date": "2026-07-20",
+    "name": "JERSEY MIKE'S SUBS #3049",
+    "inspector_id": "3597",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014000",
+    "date": "2026-07-20",
+    "name": "MCDONALD'S #14198",
+    "inspector_id": "3288",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013994",
+    "date": "2026-07-20",
+    "name": "PARKTON GRILL AT BORDEAUX",
+    "inspector_id": "3597",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014025",
+    "date": "2026-07-20",
+    "name": "QDOBA #8001",
+    "inspector_id": "3257",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440077",
+    "date": "2026-07-20",
+    "name": "ROCKFISH ELEM SCHOOL",
+    "inspector_id": "3110",
+    "score": "93.50",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013901",
+    "date": "2026-07-20",
+    "name": "SUBWAY #3739",
+    "inspector_id": "3473",
+    "score": "92",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013949",
+    "date": "2026-07-20",
+    "name": "SUBWAY #4849",
+    "inspector_id": "3256",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026020371",
+    "date": "2026-07-20",
+    "name": "TACO AREPA",
+    "inspector_id": "3110",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026010714",
+    "date": "2026-07-20",
+    "name": "URBAN AIR",
+    "inspector_id": "3257",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026010821",
+    "date": "2026-07-20",
+    "name": "WENDY'S",
+    "inspector_id": "3597",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030207",
+    "date": "2026-07-19",
+    "name": "ITO EATS LLC",
+    "inspector_id": "3288",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026610731",
+    "date": "2026-07-17",
+    "name": "AURORA ROSE BEAUTY SPA",
+    "inspector_id": "2891",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026020337",
+    "date": "2026-07-17",
+    "name": "DOMINO'S PIZZA",
+    "inspector_id": "3428",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022274",
+    "date": "2026-07-17",
+    "name": "EXPRESS MART #2",
+    "inspector_id": "3251",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026020268",
+    "date": "2026-07-17",
+    "name": "FOOD LION DELI #468",
+    "inspector_id": "3110",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026300075",
+    "date": "2026-07-17",
+    "name": "FOOD LION MEAT MARKET #468",
+    "inspector_id": "3110",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026011507",
+    "date": "2026-07-17",
+    "name": "GATES FOUR GOLF & COUNTRY CLUB",
+    "inspector_id": "3288",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420862",
+    "date": "2026-07-17",
+    "name": "KINDERCARE LEARNING CENTERS, LLC",
+    "inspector_id": "3288",
+    "score": "17",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420692",
+    "date": "2026-07-17",
+    "name": "LOLO'S # 2",
+    "inspector_id": "3428",
+    "score": "6",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026020334",
+    "date": "2026-07-17",
+    "name": "MAXWELL'S MOCHI",
+    "inspector_id": "3257",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440128",
+    "date": "2026-07-17",
+    "name": "RHA HEALTH SERVICES NC, LLC",
+    "inspector_id": "3251",
+    "score": "92.50",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420510",
+    "date": "2026-07-17",
+    "name": "SUNSHINE HOUSE  144A THE",
+    "inspector_id": "2248",
+    "score": "40",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022487",
+    "date": "2026-07-17",
+    "name": "TIME SAVER",
+    "inspector_id": "3428",
+    "score": "90",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420121",
+    "date": "2026-07-16",
+    "name": "A PLACE TO GROW DAYCARE, LLC",
+    "inspector_id": "3251",
+    "score": "9",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012792",
+    "date": "2026-07-16",
+    "name": "COOK OUT #67",
+    "inspector_id": "3428",
+    "score": "93",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013589",
+    "date": "2026-07-16",
+    "name": "CROWN FRIED CHICKEN",
+    "inspector_id": "3428",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440113",
+    "date": "2026-07-16",
+    "name": "E MELVIN HONEYCUTT ELEM SCHOOL",
+    "inspector_id": "3110",
+    "score": "91",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026020270",
+    "date": "2026-07-16",
+    "name": "FOOD LION DELI #893",
+    "inspector_id": "3473",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026300079",
+    "date": "2026-07-16",
+    "name": "FOOD LION MEAT MARKET #893",
+    "inspector_id": "3473",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022278",
+    "date": "2026-07-16",
+    "name": "FOOD LION PRODUCE #893",
+    "inspector_id": "3473",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026530105",
+    "date": "2026-07-16",
+    "name": "LEGACY @ CROSS CREEK",
+    "inspector_id": "2891",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013418",
+    "date": "2026-07-16",
+    "name": "NOVA RESTAURANT AND SPORTS BAR",
+    "inspector_id": "3288",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013791",
+    "date": "2026-07-16",
+    "name": "POKE CAFE",
+    "inspector_id": "3257",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012355",
+    "date": "2026-07-16",
+    "name": "SUBWAY SANDWICHES",
+    "inspector_id": "3257",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420614",
+    "date": "2026-07-15",
+    "name": "ARETHERS LITTLE M&M PRESCHOOL 2",
+    "inspector_id": "3251",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420499",
+    "date": "2026-07-15",
+    "name": "ARETHERS LITTLE M&M S  BUILDING 1",
+    "inspector_id": "3251",
+    "score": "7",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022350",
+    "date": "2026-07-15",
+    "name": "CIRCLE K #2723142",
+    "inspector_id": "3256",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026010168",
+    "date": "2026-07-15",
+    "name": "HARDEE'S #1615",
+    "inspector_id": "3288",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013744",
+    "date": "2026-07-15",
+    "name": "JERSEY MIKE'S SUBS",
+    "inspector_id": "3287",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013935",
+    "date": "2026-07-15",
+    "name": "MAMA LUPE MEXICAN FOOD",
+    "inspector_id": "3597",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013810",
+    "date": "2026-07-15",
+    "name": "MAX & MORITZ GERMAN RESTAURANT & BAKERY",
+    "inspector_id": "3597",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013275",
+    "date": "2026-07-15",
+    "name": "SUBWAY 315952",
+    "inspector_id": "3251",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026110060",
+    "date": "2026-07-15",
+    "name": "TERRY SANFORD HIGH SCHOOL CAFETERIA",
+    "inspector_id": "3256",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013566",
+    "date": "2026-07-15",
+    "name": "TROPICAL SMOOTHIE CAFE",
+    "inspector_id": "3257",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013398",
+    "date": "2026-07-15",
+    "name": "TROPICAL SMOOTHIE CAFE  NC 44",
+    "inspector_id": "3288",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026020335",
+    "date": "2026-07-14",
+    "name": "BAMM BAMM'S FRESH SEAFOOD MARKET",
+    "inspector_id": "3256",
+    "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026010717",
+    "date": "2026-07-14",
+    "name": "BARRY 'S PIZZA",
+    "inspector_id": "3473",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013624",
+    "date": "2026-07-14",
+    "name": "BISCUITVILLE",
+    "inspector_id": "3288",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026812030",
+    "date": "2026-07-14",
+    "name": "CHERYL'S CREATIVE ANGELS",
+    "inspector_id": "3428",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022318",
+    "date": "2026-07-14",
+    "name": "CIRCLE K #2723037",
+    "inspector_id": "3256",
+    "score": "93",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026023238",
+    "date": "2026-07-14",
+    "name": "DOMINO'S PIZZA",
+    "inspector_id": "3288",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014028",
+    "date": "2026-07-14",
+    "name": "HABIT BURGER  & GRILL #524",
+    "inspector_id": "3288",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026160049",
+    "date": "2026-07-14",
+    "name": "HOPE MILLS RETIREMENT CENTER KITCHEN",
+    "inspector_id": "3110",
+    "score": "94.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026012488",
+    "date": "2026-07-14",
+    "name": "JERSEY MIKE'S SUBS",
+    "inspector_id": "3428",
+    "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618301",
+    "date": "2026-07-14",
+    "name": "LEGENDARY LINES",
+    "inspector_id": "3284",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026618300",
+    "date": "2026-07-14",
+    "name": "LEGENDARY LINES",
+    "inspector_id": "3284",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  }
+]

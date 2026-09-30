@@ -1,0 +1,5519 @@
+[
+  {
+    "id": "3034010980",
+    "date": "2026-09-29",
+    "name": "BOJANGLES #537",
+    "inspector_id": "3471",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011631",
+    "date": "2026-09-29",
+    "name": "EAST OF TEXAS",
+    "inspector_id": "2809",
+    "score": "94.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020921",
+    "date": "2026-09-29",
+    "name": "FUJISAN SUSHI",
+    "inspector_id": "3521",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012899",
+    "date": "2026-09-29",
+    "name": "HAMPTON INN & SUITES WS DOWNTOWN BREAKFAST",
+    "inspector_id": "2519",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012085",
+    "date": "2026-09-29",
+    "name": "KERNER CAFE",
+    "inspector_id": "3406",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110092",
+    "date": "2026-09-29",
+    "name": "KONNOAK ELEMENTARY CAFETERIA",
+    "inspector_id": "3523",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012283",
+    "date": "2026-09-29",
+    "name": "MANDARIN CHINESE RESTAURANT",
+    "inspector_id": "2848",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012635",
+    "date": "2026-09-29",
+    "name": "NEW SICHUAN",
+    "inspector_id": "2795",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010368",
+    "date": "2026-09-29",
+    "name": "RONNI'S",
+    "inspector_id": "2848",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012867",
+    "date": "2026-09-29",
+    "name": "SONIC #83171",
+    "inspector_id": "2795",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110047",
+    "date": "2026-09-29",
+    "name": "SOUTHWEST ELEMENTARY CAFETERIA",
+    "inspector_id": "2848",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611164",
+    "date": "2026-09-29",
+    "name": "YOURE BELLISSIMA",
+    "inspector_id": "3521",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034201446",
+    "date": "2026-09-28",
+    "name": "AMERICAS BEST VALUE INN",
+    "inspector_id": "3521",
+    "score": "73",
+    "grade": "C",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034160029",
+    "date": "2026-09-28",
+    "name": "MAGNOLIA CREEK",
+    "inspector_id": "2795",
+    "score": "92.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011978",
+    "date": "2026-09-28",
+    "name": "MCDONALD'S #4481",
+    "inspector_id": "2848",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012527",
+    "date": "2026-09-28",
+    "name": "MOE'S SOUTHWEST GRILL",
+    "inspector_id": "2848",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012964",
+    "date": "2026-09-28",
+    "name": "RIO GRANDE KITCHEN AND CANTINA UNION CROSS",
+    "inspector_id": "3406",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012826",
+    "date": "2026-09-28",
+    "name": "SUBWAY #10939",
+    "inspector_id": "3389",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034060033",
+    "date": "2026-09-28",
+    "name": "UNCSA CAFETERIA",
+    "inspector_id": "3523",
+    "score": "92.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034050070",
+    "date": "2026-09-28",
+    "name": "WINSTON SALEM CHRISTIAN SCHOOL - CAMPUS GRILLE",
+    "inspector_id": "3521",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011983",
+    "date": "2026-09-26",
+    "name": "FC BRONCOS CONCESSION STAND",
+    "inspector_id": "3389",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020189",
+    "date": "2026-09-26",
+    "name": "SOUTHWEST FORSYTH LITTLE LEAGUE",
+    "inspector_id": "3523",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012883",
+    "date": "2026-09-25",
+    "name": "CHICK-FIL-A #00633",
+    "inspector_id": "3316",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011959",
+    "date": "2026-09-25",
+    "name": "CHINA BEST RESTAURANT",
+    "inspector_id": "3389",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020493",
+    "date": "2026-09-25",
+    "name": "FOOD LION DELI #1523",
+    "inspector_id": "3406",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020691",
+    "date": "2026-09-25",
+    "name": "HOT DOG CITY",
+    "inspector_id": "2809",
+    "score": "94",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611284",
+    "date": "2026-09-25",
+    "name": "INKWELL - CO",
+    "inspector_id": "3523",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034090010",
+    "date": "2026-09-25",
+    "name": "KOERNER PLACE MEALSITE",
+    "inspector_id": "3406",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034050071",
+    "date": "2026-09-25",
+    "name": "OUR LADY OF MERCY CAFETERIA",
+    "inspector_id": "3523",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012898",
+    "date": "2026-09-25",
+    "name": "SHEETZ 871",
+    "inspector_id": "2795",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012667",
+    "date": "2026-09-25",
+    "name": "THAT PLACE IN THE WEST END",
+    "inspector_id": "2519",
+    "score": "94.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010508",
+    "date": "2026-09-25",
+    "name": "WILSHIRE RESTAURANT",
+    "inspector_id": "2795",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034530057",
+    "date": "2026-09-24",
+    "name": "AQUA-TOTS SWIM SCHOOL WINSTON-SALEM",
+    "inspector_id": "2869",
+    "score": "8",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611178",
+    "date": "2026-09-24",
+    "name": "BLACK CLOVER TATTOO COLLECTIVE JT",
+    "inspector_id": "2664",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611177",
+    "date": "2026-09-24",
+    "name": "BLACK CLOVER TATTOO COLLECTIVE KM",
+    "inspector_id": "2664",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011541",
+    "date": "2026-09-24",
+    "name": "CHINA WOK",
+    "inspector_id": "3389",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012700",
+    "date": "2026-09-24",
+    "name": "EAST COAST WINGS NC124",
+    "inspector_id": "2848",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034112711",
+    "date": "2026-09-24",
+    "name": "EASTON ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "3523",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300093",
+    "date": "2026-09-24",
+    "name": "HARRIS TEETER  216",
+    "inspector_id": "2543",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020454",
+    "date": "2026-09-24",
+    "name": "HARRIS TEETER  216 SEAFOOD",
+    "inspector_id": "2543",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034420287",
+    "date": "2026-09-24",
+    "name": "KIMBERLEY PARK ELEM EXTENDED DAY PROGRAM",
+    "inspector_id": "2809",
+    "score": "2",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034420277",
+    "date": "2026-09-24",
+    "name": "KIMBERLEY PARK ELEM PRE-K PROGRAM",
+    "inspector_id": "2809",
+    "score": "11",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110022",
+    "date": "2026-09-24",
+    "name": "KIMBERLEY PARK ELEM. SCHOOL CAFETERIA",
+    "inspector_id": "2809",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010471",
+    "date": "2026-09-24",
+    "name": "KONNICHIWA OF WINSTON SALEM, LLC",
+    "inspector_id": "3521",
+    "score": "94.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034420055",
+    "date": "2026-09-24",
+    "name": "LILLYS NETWORK",
+    "inspector_id": "3406",
+    "score": "10",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110065",
+    "date": "2026-09-24",
+    "name": "OLD TOWN ELEMENTARY CAFETERIA",
+    "inspector_id": "3471",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020900",
+    "date": "2026-09-24",
+    "name": "SECOND HARVEST FOOD BANK - PROVIDENCE CATERING KIT",
+    "inspector_id": "2519",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010569",
+    "date": "2026-09-24",
+    "name": "SPRINGHILL SUITES WINSTON SALEM HANES MALL BREAKFA",
+    "inspector_id": "3389",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034201451",
+    "date": "2026-09-24",
+    "name": "TRAVELERS INN",
+    "inspector_id": "3471",
+    "score": "89",
+    "grade": "B",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012026",
+    "date": "2026-09-24",
+    "name": "WAFFLE HOUSE 352",
+    "inspector_id": "2848",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012915",
+    "date": "2026-09-23",
+    "name": "BOBBY BOY BAKESHOP",
+    "inspector_id": "2809",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034400053",
+    "date": "2026-09-23",
+    "name": "GRAND VILLA ASSISTED LIVING AT WINSTON",
+    "inspector_id": "2795",
+    "score": "90",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011850",
+    "date": "2026-09-23",
+    "name": "HOMESTEAD HILLS CLUBHOUSE",
+    "inspector_id": "3523",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034030605",
+    "date": "2026-09-23",
+    "name": "LA CALLEJERA",
+    "inspector_id": "2848",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012109",
+    "date": "2026-09-23",
+    "name": "MCDONALD'S",
+    "inspector_id": "2519",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011759",
+    "date": "2026-09-23",
+    "name": "MEDICAL GROUNDS CAFE",
+    "inspector_id": "2519",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020126",
+    "date": "2026-09-23",
+    "name": "PULLIAM'S",
+    "inspector_id": "3521",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034440122",
+    "date": "2026-09-23",
+    "name": "RONALD W REAGAN HIGH SCHOOL",
+    "inspector_id": "3471",
+    "score": "87",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034160032",
+    "date": "2026-09-23",
+    "name": "SOUTHFORK ASSISTED LIVING",
+    "inspector_id": "1908",
+    "score": "90",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012538",
+    "date": "2026-09-23",
+    "name": "TASTE OF THE TRIAD",
+    "inspector_id": "3521",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034160016",
+    "date": "2026-09-23",
+    "name": "TRANQUILITY CARE",
+    "inspector_id": "3521",
+    "score": "93.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020866",
+    "date": "2026-09-23",
+    "name": "TWIN CITY CATERING",
+    "inspector_id": "2543",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034420163",
+    "date": "2026-09-23",
+    "name": "VICTORIA'S ACADEMY EDUCATIONAL",
+    "inspector_id": "3406",
+    "score": "7",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020956",
+    "date": "2026-09-22",
+    "name": "AFC ZENSHI AT PUBLIX 1858",
+    "inspector_id": "2519",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034430273",
+    "date": "2026-09-22",
+    "name": "ARCH ANGEL'S",
+    "inspector_id": "2809",
+    "score": "4",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034160045",
+    "date": "2026-09-22",
+    "name": "CADENCE OF CLEMMONS",
+    "inspector_id": "2848",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010773",
+    "date": "2026-09-22",
+    "name": "COOK OUT",
+    "inspector_id": "2826",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011779",
+    "date": "2026-09-22",
+    "name": "EAST CHINA RESTAURANT",
+    "inspector_id": "3521",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011681",
+    "date": "2026-09-22",
+    "name": "ELIZABETHS PIZZA",
+    "inspector_id": "2450",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012162",
+    "date": "2026-09-22",
+    "name": "GRANDMA RUBY'S COUNTRY COOKIN",
+    "inspector_id": "3521",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011127",
+    "date": "2026-09-22",
+    "name": "ILLIANOS",
+    "inspector_id": "2848",
+    "score": "94",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110032",
+    "date": "2026-09-22",
+    "name": "NORTHWEST MIDDLE SCHOOL CAFETERIA",
+    "inspector_id": "3471",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020932",
+    "date": "2026-09-22",
+    "name": "PUBLIX # 1858 MEAT/SEAFOOD",
+    "inspector_id": "2519",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020931",
+    "date": "2026-09-22",
+    "name": "PUBLIX #1858 DELI",
+    "inspector_id": "2519",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034440139",
+    "date": "2026-09-22",
+    "name": "SMITH FARM ELEMENTARY",
+    "inspector_id": "3406",
+    "score": "95",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012455",
+    "date": "2026-09-22",
+    "name": "UMI JAPANESE STEAKHOUSE AND SUSHI LOUNGE",
+    "inspector_id": "3523",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034430363",
+    "date": "2026-09-22",
+    "name": "WOODCLIFF HOME",
+    "inspector_id": "3471",
+    "score": "9",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011382",
+    "date": "2026-09-21",
+    "name": "66 PIZZERIA GRILL AND BAR",
+    "inspector_id": "2664",
+    "score": "92.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012525",
+    "date": "2026-09-21",
+    "name": "ACADIA FOODS",
+    "inspector_id": "2809",
+    "score": "94.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012854",
+    "date": "2026-09-21",
+    "name": "BROOKRIDGE RETIREMENT COMMUNITY FOODSERVICE",
+    "inspector_id": "2519",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012727",
+    "date": "2026-09-21",
+    "name": "DAIRI'O",
+    "inspector_id": "3471",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011737",
+    "date": "2026-09-21",
+    "name": "FRIEDLAND MORAVIAN CHURCH .",
+    "inspector_id": "3406",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034022815",
+    "date": "2026-09-21",
+    "name": "HARRIS TEETER 346 DELI",
+    "inspector_id": "2543",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011417",
+    "date": "2026-09-21",
+    "name": "JASON'S DELI",
+    "inspector_id": "3523",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020990",
+    "date": "2026-09-21",
+    "name": "JUICE BOX SMOOTHIES & BOWLS",
+    "inspector_id": "3406",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012923",
+    "date": "2026-09-21",
+    "name": "MIKE'S VEGAN GRILL",
+    "inspector_id": "2795",
+    "score": "90",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110030",
+    "date": "2026-09-21",
+    "name": "MT TABOR HIGH SCHOOL CAFETERIA",
+    "inspector_id": "3316",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020557",
+    "date": "2026-09-21",
+    "name": "SPEEDWAY 6933",
+    "inspector_id": "2809",
+    "score": "93.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012600",
+    "date": "2026-09-21",
+    "name": "SUBWAY 20472",
+    "inspector_id": "2795",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110051",
+    "date": "2026-09-21",
+    "name": "VIENNA ELEMENTARY CAFETERIA",
+    "inspector_id": "3471",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020525",
+    "date": "2026-09-21",
+    "name": "WALMART  1849 DELI",
+    "inspector_id": "3521",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034440165",
+    "date": "2026-09-18",
+    "name": "ASCEND ACADEMY AT NORTH POINT",
+    "inspector_id": "2809",
+    "score": "100",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034050007",
+    "date": "2026-09-18",
+    "name": "ASCEND ACADEMY AT NORTH POINT KITCHEN",
+    "inspector_id": "2809",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012920",
+    "date": "2026-09-18",
+    "name": "CAMINO BAKERY BROOKSTOWN",
+    "inspector_id": "3316",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011781",
+    "date": "2026-09-18",
+    "name": "CHICK-FIL-A #02681",
+    "inspector_id": "2795",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012252",
+    "date": "2026-09-18",
+    "name": "CHINA CAFE",
+    "inspector_id": "3406",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011235",
+    "date": "2026-09-18",
+    "name": "CHUCK E CHEESE'S",
+    "inspector_id": "3523",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110072",
+    "date": "2026-09-18",
+    "name": "JULIAN GIBSON ELEMENTARY CAFETERIA",
+    "inspector_id": "3471",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110060",
+    "date": "2026-09-18",
+    "name": "NORTH HILLS ELEMENTARY CAFETER",
+    "inspector_id": "3521",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012981",
+    "date": "2026-09-18",
+    "name": "POTBELLY SANDWICH WORKS SHOP 656",
+    "inspector_id": "2519",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034060026",
+    "date": "2026-09-18",
+    "name": "SALEM COLLEGE CAFE",
+    "inspector_id": "2848",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020862",
+    "date": "2026-09-18",
+    "name": "SAM'S GAS N GRILL",
+    "inspector_id": "3471",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010628",
+    "date": "2026-09-17",
+    "name": "ARBOR ACRES",
+    "inspector_id": "3316",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034530113",
+    "date": "2026-09-17",
+    "name": "ARBOR ACRES EXERCISE POOL",
+    "inspector_id": "3445",
+    "score": "4",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034530114",
+    "date": "2026-09-17",
+    "name": "ARBOR ACRES LAP POOL",
+    "inspector_id": "3364",
+    "score": "4",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034550045",
+    "date": "2026-09-17",
+    "name": "ARBOR ACRES SPA",
+    "inspector_id": "3445",
+    "score": "6",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034440167",
+    "date": "2026-09-17",
+    "name": "CATHEDRAL OAK ACADEMY",
+    "inspector_id": "2450",
+    "score": "100",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110057",
+    "date": "2026-09-17",
+    "name": "DOWNTOWN ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "2543",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012900",
+    "date": "2026-09-17",
+    "name": "ELIZABETH'S PIZZA",
+    "inspector_id": "2519",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034030103",
+    "date": "2026-09-17",
+    "name": "FOOD TRUCK BELEN",
+    "inspector_id": "2519",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110017",
+    "date": "2026-09-17",
+    "name": "HANES MAGNET CAFETERIA",
+    "inspector_id": "2795",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034420048",
+    "date": "2026-09-17",
+    "name": "HOLY CROSS CHILD DEV",
+    "inspector_id": "2664",
+    "score": "4",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034060002",
+    "date": "2026-09-16",
+    "name": "CAROLINA UNIVERSITY CAFETERIA",
+    "inspector_id": "3523",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012909",
+    "date": "2026-09-16",
+    "name": "EGGIES",
+    "inspector_id": "2519",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034030102",
+    "date": "2026-09-16",
+    "name": "GRECIAN CORNER FOOD TRUCK",
+    "inspector_id": "2543",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012529",
+    "date": "2026-09-16",
+    "name": "INTERNATIONAL HOUSE OF PANCAKE",
+    "inspector_id": "3521",
+    "score": "94.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011969",
+    "date": "2026-09-16",
+    "name": "LA CARRETA MEXICAN RESTAURANT #8",
+    "inspector_id": "2519",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011889",
+    "date": "2026-09-16",
+    "name": "LA TILI SUPERMARKET",
+    "inspector_id": "3406",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012953",
+    "date": "2026-09-16",
+    "name": "NOODLE JU' B",
+    "inspector_id": "2809",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012660",
+    "date": "2026-09-16",
+    "name": "PANDA EXPRESS #3212",
+    "inspector_id": "3471",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012910",
+    "date": "2026-09-16",
+    "name": "PARK DELI",
+    "inspector_id": "2809",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012444",
+    "date": "2026-09-16",
+    "name": "QUE VIVA! LATIN STREET GRILL",
+    "inspector_id": "3389",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110074",
+    "date": "2026-09-16",
+    "name": "REAGAN HIGH CAFETERIA",
+    "inspector_id": "3471",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034028110",
+    "date": "2026-09-16",
+    "name": "ROBERT RUST FOODS",
+    "inspector_id": "2795",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110043",
+    "date": "2026-09-16",
+    "name": "RURAL HALL ELEMENTARY CAFETERIA",
+    "inspector_id": "3471",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020865",
+    "date": "2026-09-16",
+    "name": "TRICE'S EATZ",
+    "inspector_id": "2795",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011798",
+    "date": "2026-09-15",
+    "name": "CAFE ARTHUR",
+    "inspector_id": "2450",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012938",
+    "date": "2026-09-15",
+    "name": "CASA BLANCA MEXICAN RESTAURANT",
+    "inspector_id": "3521",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300116",
+    "date": "2026-09-15",
+    "name": "FOOD LION MEAT MARKET #1577",
+    "inspector_id": "3406",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034014109",
+    "date": "2026-09-15",
+    "name": "GOLDEN WOK",
+    "inspector_id": "3471",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012921",
+    "date": "2026-09-15",
+    "name": "JERSEY MIKE'S 3062",
+    "inspector_id": "3471",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010737",
+    "date": "2026-09-15",
+    "name": "LITTLE RICHARDS BBQ OF CLEMMONS",
+    "inspector_id": "2848",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012208",
+    "date": "2026-09-15",
+    "name": "SILVIA'S HONEYTREE",
+    "inspector_id": "3391",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034060030",
+    "date": "2026-09-15",
+    "name": "UNCSA LIBRARY CAFE",
+    "inspector_id": "3523",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020391",
+    "date": "2026-09-15",
+    "name": "WALMART DELI",
+    "inspector_id": "3389",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020319",
+    "date": "2026-09-14",
+    "name": "2 BROTHERS",
+    "inspector_id": "3406",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012839",
+    "date": "2026-09-14",
+    "name": "AMERICAN DELI",
+    "inspector_id": "3521",
+    "score": "77.50",
+    "grade": "C",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010768",
+    "date": "2026-09-14",
+    "name": "AMF WINSTON SALEM LANES",
+    "inspector_id": "3389",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020944",
+    "date": "2026-09-14",
+    "name": "BLAZE GRILL CATERING KITCHEN",
+    "inspector_id": "2795",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034160010",
+    "date": "2026-09-14",
+    "name": "BROOKDALE WINSTON-SALEM",
+    "inspector_id": "3389",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012388",
+    "date": "2026-09-14",
+    "name": "CHA DA THAI",
+    "inspector_id": "1908",
+    "score": "94.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110015",
+    "date": "2026-09-14",
+    "name": "CHILDREN'S CENTER, THE",
+    "inspector_id": "2809",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012431",
+    "date": "2026-09-14",
+    "name": "DAIRI-O",
+    "inspector_id": "3406",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012275",
+    "date": "2026-09-14",
+    "name": "EASYTALK",
+    "inspector_id": "2809",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020775",
+    "date": "2026-09-14",
+    "name": "EINSTEIN BROTHERS BAGELS",
+    "inspector_id": "3316",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012526",
+    "date": "2026-09-14",
+    "name": "FIREHOUSE SUBS",
+    "inspector_id": "2826",
+    "score": "94.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011901",
+    "date": "2026-09-14",
+    "name": "FORSYTH MEDICAL CENTER CONFERENCE",
+    "inspector_id": "2450",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034440030",
+    "date": "2026-09-14",
+    "name": "HALL-WOODWARD ELEMENTARY SCHOOL",
+    "inspector_id": "3391",
+    "score": "94",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020685",
+    "date": "2026-09-14",
+    "name": "PIZZA CITY",
+    "inspector_id": "2664",
+    "score": "94.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010465",
+    "date": "2026-09-11",
+    "name": "CHICK FIL A #01248",
+    "inspector_id": "2664",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110081",
+    "date": "2026-09-11",
+    "name": "FLAT ROCK MIDDLE SCHOOL CAFETERIA",
+    "inspector_id": "2848",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012882",
+    "date": "2026-09-11",
+    "name": "JERSEY MIKES SUBS #3271",
+    "inspector_id": "2795",
+    "score": "94.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034430396",
+    "date": "2026-09-11",
+    "name": "LINDBERGH PLACE",
+    "inspector_id": "2795",
+    "score": "4",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012822",
+    "date": "2026-09-11",
+    "name": "MOE'S SOUTHWEST GRILL",
+    "inspector_id": "2826",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110091",
+    "date": "2026-09-11",
+    "name": "SMITH FARM ELEMENTARY CAFETERIA",
+    "inspector_id": "3406",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011693",
+    "date": "2026-09-11",
+    "name": "SMITTY'S GRILLE",
+    "inspector_id": "2664",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020672",
+    "date": "2026-09-11",
+    "name": "SPEEDWAY 8200",
+    "inspector_id": "2450",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012348",
+    "date": "2026-09-11",
+    "name": "THE FLOUR BOX TEAROOM & CAFE",
+    "inspector_id": "3406",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300004",
+    "date": "2026-09-10",
+    "name": "CARNICERIA LOS JUANES",
+    "inspector_id": "1908",
+    "score": "90.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034550001",
+    "date": "2026-09-10",
+    "name": "COLDWATER SPA",
+    "inspector_id": "2869",
+    "score": "10",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012770",
+    "date": "2026-09-10",
+    "name": "HOLIDAY INN EXPRESS AND SUITES BREAKFAST",
+    "inspector_id": "3406",
+    "score": "94.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012632",
+    "date": "2026-09-10",
+    "name": "LITTLE RICHARDS BAR-B-QUE",
+    "inspector_id": "2826",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012489",
+    "date": "2026-09-10",
+    "name": "MCDONALD'S #6234",
+    "inspector_id": "2795",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611281",
+    "date": "2026-09-10",
+    "name": "OLD SALEM TATTOO - JP",
+    "inspector_id": "2464",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010323",
+    "date": "2026-09-10",
+    "name": "PIEDMONT SNACK BAR",
+    "inspector_id": "3521",
+    "score": "92.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034060004",
+    "date": "2026-09-10",
+    "name": "SALEM COLLEGE CAFETERIA #3484",
+    "inspector_id": "2848",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012479",
+    "date": "2026-09-10",
+    "name": "VILLAGE CAFE",
+    "inspector_id": "3316",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012029",
+    "date": "2026-09-10",
+    "name": "WAFFLE HOUSE #1407",
+    "inspector_id": "2795",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020617",
+    "date": "2026-09-09",
+    "name": "109 CHICKEN",
+    "inspector_id": "3406",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011037",
+    "date": "2026-09-09",
+    "name": "BRIGHTON GARDENS DINING FACILITY",
+    "inspector_id": "2795",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011007",
+    "date": "2026-09-09",
+    "name": "GOLDEN INDIA RESTAURANT",
+    "inspector_id": "2848",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011918",
+    "date": "2026-09-09",
+    "name": "JIMMY JOHNS GOURMET DELI SANDWICHES",
+    "inspector_id": "2809",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012247",
+    "date": "2026-09-09",
+    "name": "KFC G135196",
+    "inspector_id": "2848",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034014005",
+    "date": "2026-09-09",
+    "name": "MELLOW MUSHROOM, THE",
+    "inspector_id": "2809",
+    "score": "94.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034014072",
+    "date": "2026-09-09",
+    "name": "PLAZA RESTAURANT",
+    "inspector_id": "2664",
+    "score": "94.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034409025",
+    "date": "2026-09-09",
+    "name": "TRINITY ELMS HEALTH AND REHAB",
+    "inspector_id": "2464",
+    "score": "96",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110004",
+    "date": "2026-09-08",
+    "name": "BRUNSON ELEMENTARY CAFETERIA",
+    "inspector_id": "2826",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011768",
+    "date": "2026-09-08",
+    "name": "CIN CIN BURGER BAR",
+    "inspector_id": "2543",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011777",
+    "date": "2026-09-08",
+    "name": "DOMINO'S PIZZA",
+    "inspector_id": "2664",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034570004",
+    "date": "2026-09-08",
+    "name": "KALEIDEUM WATER EXHIBIT",
+    "inspector_id": "2869",
+    "score": "0",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020989",
+    "date": "2026-09-08",
+    "name": "MARCOS PIZZA #8271",
+    "inspector_id": "3406",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034160048",
+    "date": "2026-09-08",
+    "name": "NORTH CAROLINA STATE VETERANS HOME - KERNERSVILLE",
+    "inspector_id": "3406",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110093",
+    "date": "2026-09-08",
+    "name": "PAISLEY & LOWRANCE SCHOOL LUNCHROOM",
+    "inspector_id": "3521",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010614",
+    "date": "2026-09-08",
+    "name": "ROOSTER'S A NOBLE GRILLE",
+    "inspector_id": "3316",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034530108",
+    "date": "2026-09-08",
+    "name": "STICHT CENTER POOL",
+    "inspector_id": "2869",
+    "score": "0",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034420349",
+    "date": "2026-09-08",
+    "name": "THE CHILDREN'S COURTYARD",
+    "inspector_id": "3391",
+    "score": "7",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034013005",
+    "date": "2026-09-08",
+    "name": "TIENDA LA GUADALUPANA",
+    "inspector_id": "2664",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012688",
+    "date": "2026-09-08",
+    "name": "TROPICAL SMOOTHIE CAFE NC 17",
+    "inspector_id": "2809",
+    "score": "91.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034530024",
+    "date": "2026-09-04",
+    "name": "BRITISH SQUARE APTS POOL",
+    "inspector_id": "1992",
+    "score": "4",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011326",
+    "date": "2026-09-04",
+    "name": "CALVARY BAPTIST CHURCH FOOD SERVICE",
+    "inspector_id": "3389",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034050047",
+    "date": "2026-09-04",
+    "name": "CALVARY BAPTIST SCHOOL LUNCHROOM",
+    "inspector_id": "3389",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110042",
+    "date": "2026-09-04",
+    "name": "REYNOLDS HIGH SCHOOL CAFETERIA",
+    "inspector_id": "2519",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034013004",
+    "date": "2026-09-04",
+    "name": "SHINJUKU STATION REVOLVING SUSHI BAR WINSTON SALEM",
+    "inspector_id": "3523",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034530010",
+    "date": "2026-09-04",
+    "name": "THE COVE POOL",
+    "inspector_id": "1992",
+    "score": "6",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020475",
+    "date": "2026-09-04",
+    "name": "WALMART DELI #2793",
+    "inspector_id": "2664",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034022824",
+    "date": "2026-09-04",
+    "name": "WALMART NEIGHBORHOOD MARKET DELI 6243",
+    "inspector_id": "2809",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012732",
+    "date": "2026-09-03",
+    "name": "BOJANGLES #2042",
+    "inspector_id": "2848",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010036",
+    "date": "2026-09-03",
+    "name": "BOWMAN GRAY TECH CENTER",
+    "inspector_id": "3316",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012762",
+    "date": "2026-09-03",
+    "name": "CHIPOTLE #3743",
+    "inspector_id": "3521",
+    "score": "94.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010169",
+    "date": "2026-09-03",
+    "name": "HERITAGE WOODS",
+    "inspector_id": "2826",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012218",
+    "date": "2026-09-03",
+    "name": "KFC",
+    "inspector_id": "2809",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034030125",
+    "date": "2026-09-03",
+    "name": "LAS VIGAS EXPRESS TAQUERIA",
+    "inspector_id": "3471",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300095",
+    "date": "2026-09-03",
+    "name": "LOWES FOOD 171",
+    "inspector_id": "3389",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020465",
+    "date": "2026-09-03",
+    "name": "LOWES FOODS 171 PRODUCE MARKET",
+    "inspector_id": "3389",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010728",
+    "date": "2026-09-03",
+    "name": "MA' LUZ MEXICAN GRILL",
+    "inspector_id": "2848",
+    "score": "94",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110046",
+    "date": "2026-09-03",
+    "name": "MAIN STREET ACADEMY CAFETERIA",
+    "inspector_id": "3523",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110027",
+    "date": "2026-09-03",
+    "name": "MINERAL SPRINGS ELEMENTARY CAFETERIA",
+    "inspector_id": "3521",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300051",
+    "date": "2026-09-03",
+    "name": "MUSTEN AND CRUTCHFIELD",
+    "inspector_id": "2664",
+    "score": "94",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110033",
+    "date": "2026-09-03",
+    "name": "OLD RICHMOND ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "3471",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110035",
+    "date": "2026-09-03",
+    "name": "PARKLAND HIGH SCHOOL CAFETERIA",
+    "inspector_id": "2795",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012880",
+    "date": "2026-09-03",
+    "name": "SAMMY'S SLIDERS",
+    "inspector_id": "3391",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011890",
+    "date": "2026-09-03",
+    "name": "SLAPPY'S CHICKEN",
+    "inspector_id": "2809",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110063",
+    "date": "2026-09-03",
+    "name": "SOUTHEAST MIDDLE SCHOOL CAFETERIA",
+    "inspector_id": "3406",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034400035",
+    "date": "2026-09-02",
+    "name": "BROOKDALE REYNOLDA ROAD ASSISTED LIVING",
+    "inspector_id": "2519",
+    "score": "99",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012104",
+    "date": "2026-09-02",
+    "name": "EL PAISANO 1",
+    "inspector_id": "2795",
+    "score": "91",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012994",
+    "date": "2026-09-02",
+    "name": "GOLDEN CORRAL 2474",
+    "inspector_id": "2809",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011193",
+    "date": "2026-09-02",
+    "name": "HARRIS TEETER DELI  250",
+    "inspector_id": "2664",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010345",
+    "date": "2026-09-02",
+    "name": "LUCHA LIBRE ICE CREAM & CHURRES",
+    "inspector_id": "2848",
+    "score": "91.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110062",
+    "date": "2026-09-02",
+    "name": "MEADOWLARK ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "3389",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012990",
+    "date": "2026-09-02",
+    "name": "PIE GUYS PIZZA AND MORE",
+    "inspector_id": "3521",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611279",
+    "date": "2026-09-02",
+    "name": "SHERO BEAUTY - LA",
+    "inspector_id": "2848",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611280",
+    "date": "2026-09-02",
+    "name": "SHERO BEAUTY -CJ",
+    "inspector_id": "2848",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034619728",
+    "date": "2026-09-02",
+    "name": "SHERO BEAUTY-CC",
+    "inspector_id": "2848",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034610369",
+    "date": "2026-09-01",
+    "name": "ART ATTACK TATTOO - JF",
+    "inspector_id": "3471",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611278",
+    "date": "2026-09-01",
+    "name": "ART ATTACK TATTOO LLC - AM",
+    "inspector_id": "3471",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012285",
+    "date": "2026-09-01",
+    "name": "BAD DADDY'S BURGER BAR",
+    "inspector_id": "3523",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012982",
+    "date": "2026-09-01",
+    "name": "BEST WESTERN PLUS HANES MALL BREAKFAST",
+    "inspector_id": "2450",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012048",
+    "date": "2026-09-01",
+    "name": "BOJANGLES 855",
+    "inspector_id": "2795",
+    "score": "94.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110083",
+    "date": "2026-09-01",
+    "name": "CALEB'S CREEK ELEMENTARY SCHOOL",
+    "inspector_id": "3406",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012840",
+    "date": "2026-09-01",
+    "name": "CAMINO REAL",
+    "inspector_id": "3471",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012233",
+    "date": "2026-09-01",
+    "name": "CHOPSTIX",
+    "inspector_id": "3406",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020526",
+    "date": "2026-09-01",
+    "name": "COSTCO #361 DELI/MEAT",
+    "inspector_id": "3523",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034530081",
+    "date": "2026-09-01",
+    "name": "DOUBLE TREE HOTEL POOL",
+    "inspector_id": "1992",
+    "score": "4",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034430248",
+    "date": "2026-09-01",
+    "name": "FRIENDLY PEOPLE THAT CARE",
+    "inspector_id": "2795",
+    "score": "18",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012669",
+    "date": "2026-09-01",
+    "name": "ISLAND CUISINE",
+    "inspector_id": "2848",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034530090",
+    "date": "2026-09-01",
+    "name": "REGIONAL WELLNESS INDOOR THERAPY",
+    "inspector_id": "3377",
+    "score": "4",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011734",
+    "date": "2026-09-01",
+    "name": "SUBWAY #3262",
+    "inspector_id": "3521",
+    "score": "92.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034050059",
+    "date": "2026-09-01",
+    "name": "SUMMIT SCHOOL DINING HALL",
+    "inspector_id": "2519",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034050051",
+    "date": "2026-09-01",
+    "name": "SUMMIT SCHOOL ELEMENTARY CAFETERIA",
+    "inspector_id": "2519",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034530157",
+    "date": "2026-09-01",
+    "name": "WELDEN PARK APARTMENTS POOL",
+    "inspector_id": "1992",
+    "score": "0",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110003",
+    "date": "2026-08-31",
+    "name": "BOLTON ELEMENTARY SCHOOL",
+    "inspector_id": "2450",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110007",
+    "date": "2026-08-31",
+    "name": "CASH ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "2664",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010886",
+    "date": "2026-08-31",
+    "name": "CRACKER BARREL  247",
+    "inspector_id": "2848",
+    "score": "91.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012947",
+    "date": "2026-08-31",
+    "name": "KIMONO JAPANESE RESTAURANT",
+    "inspector_id": "2848",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012821",
+    "date": "2026-08-31",
+    "name": "LITTLE ITALY ITALIAN PIZZA AND RESTAURANT",
+    "inspector_id": "3471",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012195",
+    "date": "2026-08-31",
+    "name": "MCDONALD'S 7030",
+    "inspector_id": "3521",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611173",
+    "date": "2026-08-31",
+    "name": "SAD EYE TATTOO",
+    "inspector_id": "2464",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110044",
+    "date": "2026-08-31",
+    "name": "SEDGE GARDEN ELEMENTARY CAFETERIA",
+    "inspector_id": "3391",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012911",
+    "date": "2026-08-31",
+    "name": "TIGER TEA",
+    "inspector_id": "3521",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012983",
+    "date": "2026-08-31",
+    "name": "TROPICAL SMOOTHIE CAFE NC-152",
+    "inspector_id": "2848",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034530148",
+    "date": "2026-08-31",
+    "name": "WELDEN VILLAGE CREEK CLUB",
+    "inspector_id": "2869",
+    "score": "4",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020670",
+    "date": "2026-08-29",
+    "name": "MARCO'S PIZZA",
+    "inspector_id": "3471",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012662",
+    "date": "2026-08-29",
+    "name": "PIZZA HUT #036640",
+    "inspector_id": "3471",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034090018",
+    "date": "2026-08-28",
+    "name": "BELVIEW NEIGHBORHOOD CENTER",
+    "inspector_id": "2795",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034160004",
+    "date": "2026-08-28",
+    "name": "BRADFORD VILLAGE WEST",
+    "inspector_id": "2464",
+    "score": "91",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012521",
+    "date": "2026-08-28",
+    "name": "CHINA PALACE RESTAURANT",
+    "inspector_id": "2664",
+    "score": "94",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034030095",
+    "date": "2026-08-28",
+    "name": "DELICIAS 503",
+    "inspector_id": "2664",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034030608",
+    "date": "2026-08-28",
+    "name": "FONZ'S FIREHOUSE GRILL",
+    "inspector_id": "2664",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020721",
+    "date": "2026-08-28",
+    "name": "FOOD LION #1523 PRODUCE",
+    "inspector_id": "3406",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110020",
+    "date": "2026-08-28",
+    "name": "KENNEDY HIGH SCHOOL CAFETERIA",
+    "inspector_id": "3391",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034440037",
+    "date": "2026-08-28",
+    "name": "KENNEDY LEARNING CENTER",
+    "inspector_id": "3391",
+    "score": "97",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012812",
+    "date": "2026-08-25",
+    "name": "CHICKEN SALAD CHICK",
+    "inspector_id": "2848",
+    "score": "91",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011687",
+    "date": "2026-08-25",
+    "name": "CHINA RESTAURANT",
+    "inspector_id": "3521",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010702",
+    "date": "2026-08-25",
+    "name": "CLARK'S BARBEQUE",
+    "inspector_id": "3406",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110010",
+    "date": "2026-08-25",
+    "name": "EAST FORSYTH HIGH SCHOOL CAFETERIA",
+    "inspector_id": "2664",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012559",
+    "date": "2026-08-25",
+    "name": "GREEK GUY'S GRILL",
+    "inspector_id": "2809",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110067",
+    "date": "2026-08-25",
+    "name": "MEADOWLARK MIDDLE SCHOOL CAFETERIA",
+    "inspector_id": "3389",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012998",
+    "date": "2026-08-24",
+    "name": "ANTOJITOS LAS DELICIAS",
+    "inspector_id": "2543",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034500007",
+    "date": "2026-08-24",
+    "name": "BAY MEADOWS POOL",
+    "inspector_id": "2869",
+    "score": "10",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012772",
+    "date": "2026-08-24",
+    "name": "CHICKEN SALAD CHICK #273",
+    "inspector_id": "3391",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012021",
+    "date": "2026-08-24",
+    "name": "DON TEQUILA MEXICAN GRILL",
+    "inspector_id": "3523",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012177",
+    "date": "2026-08-24",
+    "name": "FORSYTH SEAFOOD CAFE",
+    "inspector_id": "2809",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011666",
+    "date": "2026-08-24",
+    "name": "FRANCESCO'S",
+    "inspector_id": "3521",
+    "score": "94",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110087",
+    "date": "2026-08-24",
+    "name": "GLENN HIGH SCHOOL CAFETERIA",
+    "inspector_id": "3406",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034160037",
+    "date": "2026-08-24",
+    "name": "GRAND VILLA ASSISTED LIVING AT WINSTON",
+    "inspector_id": "2795",
+    "score": "94.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110016",
+    "date": "2026-08-24",
+    "name": "HALL-WOODWARD ELEM. SCHOOL CAFETERIA",
+    "inspector_id": "3391",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110019",
+    "date": "2026-08-24",
+    "name": "JEFFERSON MIDDLE SCHOOL CAFETERIA",
+    "inspector_id": "3316",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034022781",
+    "date": "2026-08-24",
+    "name": "LA VICTORIA",
+    "inspector_id": "3471",
+    "score": "93",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020263",
+    "date": "2026-08-24",
+    "name": "PAPA JOHN'S PIZZA  295",
+    "inspector_id": "2795",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034050058",
+    "date": "2026-08-24",
+    "name": "ST JOHNS LUTHERAN CHURCH SCHOO",
+    "inspector_id": "2450",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020875",
+    "date": "2026-08-22",
+    "name": "BOWMAN GRAY EAST",
+    "inspector_id": "3406",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020693",
+    "date": "2026-08-22",
+    "name": "BOWMAN GRAY STADIUM PIT STAND",
+    "inspector_id": "3471",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011773",
+    "date": "2026-08-21",
+    "name": "BOJANGLES",
+    "inspector_id": "3523",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012643",
+    "date": "2026-08-21",
+    "name": "CHICK-FIL-A 00791",
+    "inspector_id": "3523",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020901",
+    "date": "2026-08-21",
+    "name": "CIRCLE K # 2706477",
+    "inspector_id": "3406",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012091",
+    "date": "2026-08-21",
+    "name": "HAMPTON INN AND SUITES",
+    "inspector_id": "3521",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012653",
+    "date": "2026-08-21",
+    "name": "HARDEE'S #1505696",
+    "inspector_id": "2795",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011009",
+    "date": "2026-08-21",
+    "name": "HARRIS TEETER  228 DELI",
+    "inspector_id": "3471",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110073",
+    "date": "2026-08-21",
+    "name": "MIDDLE FORK ELEMENTARY SCHOOL",
+    "inspector_id": "3471",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010860",
+    "date": "2026-08-21",
+    "name": "MR LU'S RESTAURANT",
+    "inspector_id": "3391",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012574",
+    "date": "2026-08-21",
+    "name": "OBRIENS DELI",
+    "inspector_id": "3316",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034200098",
+    "date": "2026-08-21",
+    "name": "OYO HOTEL",
+    "inspector_id": "3391",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110068",
+    "date": "2026-08-21",
+    "name": "PETREE ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "2809",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110052",
+    "date": "2026-08-21",
+    "name": "WALKERTOWN ELEM SCHOOL CAFETERIA",
+    "inspector_id": "3406",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012153",
+    "date": "2026-08-20",
+    "name": "CAMINO BAKERY",
+    "inspector_id": "2809",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012509",
+    "date": "2026-08-20",
+    "name": "HAMPTON INN KERNERSVILLE",
+    "inspector_id": "3406",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300168",
+    "date": "2026-08-20",
+    "name": "HARRIS TEETER 346 MEAT MARKET",
+    "inspector_id": "2543",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110021",
+    "date": "2026-08-20",
+    "name": "KERNERSVILLE ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "2664",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020679",
+    "date": "2026-08-20",
+    "name": "MR. LU'S",
+    "inspector_id": "3316",
+    "score": "93",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010911",
+    "date": "2026-08-20",
+    "name": "OUTWEST STEAKHOUSE",
+    "inspector_id": "3406",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012760",
+    "date": "2026-08-20",
+    "name": "PLAYA AZUL",
+    "inspector_id": "3471",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034530123",
+    "date": "2026-08-20",
+    "name": "REYNOLDA HOUSE POOL",
+    "inspector_id": "2869",
+    "score": "0",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020435",
+    "date": "2026-08-20",
+    "name": "SAMS CLUB DELI AREA",
+    "inspector_id": "3523",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300090",
+    "date": "2026-08-20",
+    "name": "SAMS CLUB MEAT MARKET",
+    "inspector_id": "3523",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020937",
+    "date": "2026-08-20",
+    "name": "SPAGHETTI PARK",
+    "inspector_id": "2848",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034160026",
+    "date": "2026-08-20",
+    "name": "THE OAKS",
+    "inspector_id": "2450",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034050068",
+    "date": "2026-08-20",
+    "name": "TRIAD BAPTIST KITCHEN",
+    "inspector_id": "2664",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011237",
+    "date": "2026-08-20",
+    "name": "WHOLE FOODS DELI",
+    "inspector_id": "2826",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034030014",
+    "date": "2026-08-19",
+    "name": "AFRICAN AVENUE",
+    "inspector_id": "3391",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611170",
+    "date": "2026-08-19",
+    "name": "BLACK CLOVER TATTOO COLLECTIVE CN",
+    "inspector_id": "2664",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012834",
+    "date": "2026-08-19",
+    "name": "BOJANGLES #1366",
+    "inspector_id": "3471",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012524",
+    "date": "2026-08-19",
+    "name": "DAIRY QUEEN GRILL AND CHILL",
+    "inspector_id": "3406",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034430372",
+    "date": "2026-08-19",
+    "name": "FRIENDLY PEOPLE THAT CARE #3",
+    "inspector_id": "2848",
+    "score": "17",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034430383",
+    "date": "2026-08-19",
+    "name": "FRIENDLY PEOPLE THAT CARE #7",
+    "inspector_id": "2848",
+    "score": "9",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034430358",
+    "date": "2026-08-19",
+    "name": "FRIENDLY PEOPLE THAT CARE 6",
+    "inspector_id": "2848",
+    "score": "6",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034430325",
+    "date": "2026-08-19",
+    "name": "FRIENDLY PEOPLE THAT CARE IDOLS ROAD",
+    "inspector_id": "2848",
+    "score": "8",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020959",
+    "date": "2026-08-19",
+    "name": "GURU MARKET",
+    "inspector_id": "3523",
+    "score": "94.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020225",
+    "date": "2026-08-19",
+    "name": "HARRIS TEETER FOOD STAND #155 MM",
+    "inspector_id": "2519",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110080",
+    "date": "2026-08-19",
+    "name": "IBRAHAM ELEMENTARY SCHOOL",
+    "inspector_id": "3521",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012316",
+    "date": "2026-08-19",
+    "name": "JIMMY JOHNS 1529",
+    "inspector_id": "3471",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011425",
+    "date": "2026-08-19",
+    "name": "LONGHORN STEAKHOUSE",
+    "inspector_id": "3523",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034420231",
+    "date": "2026-08-19",
+    "name": "MAXX KINDER KOLLEGE",
+    "inspector_id": "2464",
+    "score": "6",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020887",
+    "date": "2026-08-19",
+    "name": "OM MINI MART",
+    "inspector_id": "2795",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012522",
+    "date": "2026-08-18",
+    "name": "ALMA MEXICANA",
+    "inspector_id": "2809",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012037",
+    "date": "2026-08-18",
+    "name": "BURKE STREET PIZZA",
+    "inspector_id": "3316",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300175",
+    "date": "2026-08-18",
+    "name": "CARNICERIA EL RINCON LATINO",
+    "inspector_id": "3521",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012885",
+    "date": "2026-08-18",
+    "name": "COOK OUT - CLEMMONS",
+    "inspector_id": "2848",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034030120",
+    "date": "2026-08-18",
+    "name": "FIELDS 2 TABLE",
+    "inspector_id": "3391",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012936",
+    "date": "2026-08-18",
+    "name": "GRANDPA JOE'S SLABERIA",
+    "inspector_id": "1634",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020704",
+    "date": "2026-08-18",
+    "name": "HARRIS TEETER #334 MEAT MARKET",
+    "inspector_id": "2519",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020705",
+    "date": "2026-08-18",
+    "name": "HARRIS TEETER #334 PRODUCE MKT.",
+    "inspector_id": "2519",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110069",
+    "date": "2026-08-18",
+    "name": "JEFFERSON ELEMENTARY CAFETERIA",
+    "inspector_id": "3316",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020947",
+    "date": "2026-08-18",
+    "name": "QUALITY MART #60",
+    "inspector_id": "3389",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012462",
+    "date": "2026-08-18",
+    "name": "SMALL BATCH/BURGER BATCH",
+    "inspector_id": "2664",
+    "score": "91.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012259",
+    "date": "2026-08-18",
+    "name": "SUBWAY #7053",
+    "inspector_id": "3471",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012984",
+    "date": "2026-08-18",
+    "name": "UMI HOT POT SUSHI AND SEAFOOD BUFFET",
+    "inspector_id": "3523",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034530162",
+    "date": "2026-08-17",
+    "name": "ARTREAUX APARTMENTS POOL",
+    "inspector_id": "2869",
+    "score": "0",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012843",
+    "date": "2026-08-17",
+    "name": "BAGEL STATION 1",
+    "inspector_id": "3316",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012638",
+    "date": "2026-08-17",
+    "name": "BUFFALO WILD WINGS",
+    "inspector_id": "3523",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012769",
+    "date": "2026-08-17",
+    "name": "DUNKIN DONUTS",
+    "inspector_id": "3523",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034530138",
+    "date": "2026-08-17",
+    "name": "HAMPTON INN (HANES MALL) POOL",
+    "inspector_id": "1992",
+    "score": "0",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020927",
+    "date": "2026-08-17",
+    "name": "HISSHO SUSHI @ FOOD LION 2259",
+    "inspector_id": "3521",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012078",
+    "date": "2026-08-17",
+    "name": "KB CATERING AND GRILLING",
+    "inspector_id": "2664",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034110064",
+    "date": "2026-08-17",
+    "name": "KERNERSVILLE MIDDLE CAFETERIA",
+    "inspector_id": "2664",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034160003",
+    "date": "2026-08-17",
+    "name": "MEMORY CARE OF THE TRIAD",
+    "inspector_id": "2664",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034430442",
+    "date": "2026-08-17",
+    "name": "MIKENON LIVING FACILITY",
+    "inspector_id": "2809",
+    "score": "0",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011970",
+    "date": "2026-08-17",
+    "name": "MOSSY'S EATS, ALES & SPIRITS",
+    "inspector_id": "2848",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012572",
+    "date": "2026-08-17",
+    "name": "NOVANT REHABILITATION HOSPITAL CAFETERIA",
+    "inspector_id": "3521",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012577",
+    "date": "2026-08-17",
+    "name": "PANERA BREAD 4990",
+    "inspector_id": "2848",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012672",
+    "date": "2026-08-17",
+    "name": "POPEYE'S #13262",
+    "inspector_id": "1908",
+    "score": "90",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020936",
+    "date": "2026-08-15",
+    "name": "ANNE & ROSE LLC",
+    "inspector_id": "2664",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034022826",
+    "date": "2026-08-15",
+    "name": "CIRCLE K  2720795",
+    "inspector_id": "2664",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020952",
+    "date": "2026-08-15",
+    "name": "TRINI DOUBLES N' TINGZ",
+    "inspector_id": "2664",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010934",
+    "date": "2026-08-14",
+    "name": "BARNES AND NOBLE CAFE  #2761",
+    "inspector_id": "3523",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020171",
+    "date": "2026-08-14",
+    "name": "BOLTON POOL SNACK",
+    "inspector_id": "2450",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010078",
+    "date": "2026-08-14",
+    "name": "CLEMMONS KITCHEN",
+    "inspector_id": "2519",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012440",
+    "date": "2026-08-14",
+    "name": "EVRI GREEK EATS",
+    "inspector_id": "3406",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300110",
+    "date": "2026-08-14",
+    "name": "FOOD LION #473 MEAT MARKET",
+    "inspector_id": "3521",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034430046",
+    "date": "2026-08-14",
+    "name": "FORSYTH GROUP HOME  1",
+    "inspector_id": "2664",
+    "score": "16",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611276",
+    "date": "2026-08-14",
+    "name": "FOX & HERON - JH",
+    "inspector_id": "3521",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611028",
+    "date": "2026-08-14",
+    "name": "HEARTLINE TATTOO - SB",
+    "inspector_id": "3523",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012696",
+    "date": "2026-08-14",
+    "name": "MRS. PUMPKIN'S",
+    "inspector_id": "3471",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011800",
+    "date": "2026-08-14",
+    "name": "NO 1 CHINA",
+    "inspector_id": "3523",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012276",
+    "date": "2026-08-14",
+    "name": "TOKYO HOUSE I",
+    "inspector_id": "3316",
+    "score": "87",
+    "grade": "B",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011218",
+    "date": "2026-08-13",
+    "name": "BISCUITVILLE RESTAURANT  #168",
+    "inspector_id": "3316",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300085",
+    "date": "2026-08-13",
+    "name": "HARRIS TEETER  228",
+    "inspector_id": "2464",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020226",
+    "date": "2026-08-13",
+    "name": "HARRIS TEETER FOOD STAND #155 DELI",
+    "inspector_id": "3391",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011664",
+    "date": "2026-08-13",
+    "name": "KOTTA JAPANESE GRILL",
+    "inspector_id": "1634",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034440110",
+    "date": "2026-08-13",
+    "name": "MARVIN WARD ELEMENTARY SCHOOL",
+    "inspector_id": "2464",
+    "score": "93",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010781",
+    "date": "2026-08-13",
+    "name": "MAYBERRY RESTAURANT",
+    "inspector_id": "2826",
+    "score": "93.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012331",
+    "date": "2026-08-13",
+    "name": "PETRO 66",
+    "inspector_id": "2664",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034022707",
+    "date": "2026-08-13",
+    "name": "PIK AND GO",
+    "inspector_id": "3471",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300032",
+    "date": "2026-08-13",
+    "name": "PROVIDENCIA",
+    "inspector_id": "3523",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020857",
+    "date": "2026-08-13",
+    "name": "QUALITY MART #33",
+    "inspector_id": "3406",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011077",
+    "date": "2026-08-13",
+    "name": "QUALITY MART #38",
+    "inspector_id": "3523",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011274",
+    "date": "2026-08-13",
+    "name": "QUALITY MART #39",
+    "inspector_id": "2795",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034200103",
+    "date": "2026-08-13",
+    "name": "SPARK BY HILTON",
+    "inspector_id": "3471",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034030122",
+    "date": "2026-08-13",
+    "name": "STREET FEAST",
+    "inspector_id": "2664",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611130",
+    "date": "2026-08-12",
+    "name": "LAURA HAIR SALON - ER",
+    "inspector_id": "3521",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611163",
+    "date": "2026-08-12",
+    "name": "OLD SALEM TATTOO-CF",
+    "inspector_id": "2464",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010726",
+    "date": "2026-08-12",
+    "name": "OUTBACK STEAKHOUSE",
+    "inspector_id": "3523",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012446",
+    "date": "2026-08-12",
+    "name": "STARBUCKS BAPTIST MEDICAL CENTER",
+    "inspector_id": "2543",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012498",
+    "date": "2026-08-11",
+    "name": "BOBO'S DELI AND GRILL",
+    "inspector_id": "3316",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012048",
+    "date": "2026-08-11",
+    "name": "BOJANGLES 855",
+    "inspector_id": "2795",
+    "score": "86.50",
+    "grade": "B",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012944",
+    "date": "2026-08-11",
+    "name": "DEL TACO 1602",
+    "inspector_id": "3406",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020968",
+    "date": "2026-08-11",
+    "name": "DOMINOS 5554",
+    "inspector_id": "3389",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034430049",
+    "date": "2026-08-11",
+    "name": "FORSYTH #4",
+    "inspector_id": "3521",
+    "score": "0",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611275",
+    "date": "2026-08-11",
+    "name": "GARDEN OF INK - AP",
+    "inspector_id": "2809",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034014069",
+    "date": "2026-08-11",
+    "name": "JIMMY JOHNS",
+    "inspector_id": "2809",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611025",
+    "date": "2026-08-11",
+    "name": "LILLIAN PMU - AG",
+    "inspector_id": "2809",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012928",
+    "date": "2026-08-11",
+    "name": "MICHOACAN A PEDIR DE BOCA",
+    "inspector_id": "2664",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011705",
+    "date": "2026-08-11",
+    "name": "MILNERS AMERICAN SOUTHERN",
+    "inspector_id": "3316",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011497",
+    "date": "2026-08-11",
+    "name": "OSAKA JAPANESE RESTAURANT",
+    "inspector_id": "2664",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034160050",
+    "date": "2026-08-11",
+    "name": "SOMERSET COURT UNIVERSITY PLACE FOODSERVICE",
+    "inspector_id": "3391",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034400022",
+    "date": "2026-08-11",
+    "name": "SOMERSET UNIVERSITY PLACE",
+    "inspector_id": "3391",
+    "score": "96",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011134",
+    "date": "2026-08-11",
+    "name": "STARBUCKS AT TARGET #1086",
+    "inspector_id": "3523",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012548",
+    "date": "2026-08-11",
+    "name": "SUBWAY #3466",
+    "inspector_id": "2664",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012965",
+    "date": "2026-08-11",
+    "name": "TOWNEPLACE SUITES BREAKFAST",
+    "inspector_id": "3406",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012825",
+    "date": "2026-08-11",
+    "name": "WS WINGS N FINS",
+    "inspector_id": "3521",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012787",
+    "date": "2026-08-11",
+    "name": "YAMAS MEDITERRANEAN STREET FOOD",
+    "inspector_id": "3523",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020350",
+    "date": "2026-08-10",
+    "name": "ACKINGNAS PLACE",
+    "inspector_id": "2450",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012173",
+    "date": "2026-08-10",
+    "name": "BURGER KING #10866",
+    "inspector_id": "3521",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012429",
+    "date": "2026-08-10",
+    "name": "CANCER CENTER KITCHEN",
+    "inspector_id": "2543",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012622",
+    "date": "2026-08-10",
+    "name": "CHINA RESTAURANT",
+    "inspector_id": "1908",
+    "score": "90.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300111",
+    "date": "2026-08-10",
+    "name": "FOOD LION  593 MEAT MARKET",
+    "inspector_id": "2809",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020806",
+    "date": "2026-08-10",
+    "name": "FOOD LION #593 PRODUCE",
+    "inspector_id": "2809",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011506",
+    "date": "2026-08-10",
+    "name": "LA CARRETA MEXICAN RESTAURANT",
+    "inspector_id": "3316",
+    "score": "93",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020884",
+    "date": "2026-08-10",
+    "name": "LITTLE CAESARS",
+    "inspector_id": "2664",
+    "score": "92.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012735",
+    "date": "2026-08-10",
+    "name": "MR. BARBECUE",
+    "inspector_id": "3523",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012877",
+    "date": "2026-08-10",
+    "name": "NORTH CAROLINA BAGEL STATION 3",
+    "inspector_id": "2664",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034400058",
+    "date": "2026-08-10",
+    "name": "NORTH CAROLINA STATE VETERANS HOME - KERNERSVILLE",
+    "inspector_id": "3406",
+    "score": "100",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012216",
+    "date": "2026-08-10",
+    "name": "NORTHSIDE GRILL",
+    "inspector_id": "3521",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020838",
+    "date": "2026-08-10",
+    "name": "PAPA JOHN'S #989",
+    "inspector_id": "3391",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012853",
+    "date": "2026-08-10",
+    "name": "TACO BELL",
+    "inspector_id": "2664",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611018",
+    "date": "2026-08-10",
+    "name": "THE ROOST TATTOO - PH",
+    "inspector_id": "2795",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012889",
+    "date": "2026-08-10",
+    "name": "WINGSTOP",
+    "inspector_id": "3391",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012464",
+    "date": "2026-08-10",
+    "name": "ZAXBY'S 63101",
+    "inspector_id": "2795",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012817",
+    "date": "2026-08-08",
+    "name": "ROAR",
+    "inspector_id": "2519",
+    "score": "94",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012968",
+    "date": "2026-08-07",
+    "name": "ARBY'S #7368",
+    "inspector_id": "3521",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011029",
+    "date": "2026-08-07",
+    "name": "BOJANGLES  #553",
+    "inspector_id": "3389",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012856",
+    "date": "2026-08-07",
+    "name": "CLEAN EATZ",
+    "inspector_id": "2809",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011796",
+    "date": "2026-08-07",
+    "name": "DUNKIN DONUTS",
+    "inspector_id": "2519",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300115",
+    "date": "2026-08-07",
+    "name": "FOOD LION #1386 MEAT MARKET",
+    "inspector_id": "2664",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020718",
+    "date": "2026-08-07",
+    "name": "FOOD LION PRODUCE #1386",
+    "inspector_id": "2664",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012477",
+    "date": "2026-08-07",
+    "name": "LOWES FOODS #266 DELI",
+    "inspector_id": "3391",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300063",
+    "date": "2026-08-07",
+    "name": "LOWES FOODS 149",
+    "inspector_id": "3316",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611274",
+    "date": "2026-08-07",
+    "name": "RAW TALENT TATOO_AP",
+    "inspector_id": "3523",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611273",
+    "date": "2026-08-07",
+    "name": "RAW TALENT TATTOO_AS",
+    "inspector_id": "3523",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012794",
+    "date": "2026-08-07",
+    "name": "TACO BELL 039736",
+    "inspector_id": "3521",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011076",
+    "date": "2026-08-06",
+    "name": "BOJANGLES",
+    "inspector_id": "2795",
+    "score": "87.50",
+    "grade": "B",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034430357",
+    "date": "2026-08-06",
+    "name": "BOTTOM UP OUTREACH CENTER",
+    "inspector_id": "3406",
+    "score": "6",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012475",
+    "date": "2026-08-06",
+    "name": "CHICK-FIL-A 3617",
+    "inspector_id": "2848",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012442",
+    "date": "2026-08-06",
+    "name": "CHICK-FIL-A EXPRESS",
+    "inspector_id": "2543",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034030091",
+    "date": "2026-08-06",
+    "name": "COUSIN EDDIE'S PLAN C",
+    "inspector_id": "2664",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611272",
+    "date": "2026-08-06",
+    "name": "EARTHS EDGE - SK",
+    "inspector_id": "2450",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011429",
+    "date": "2026-08-06",
+    "name": "EAST COAST WINGS",
+    "inspector_id": "2809",
+    "score": "90.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012999",
+    "date": "2026-08-06",
+    "name": "FINNIGANS WAKE",
+    "inspector_id": "3391",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012876",
+    "date": "2026-08-06",
+    "name": "HEALTHY MADE SIMPLE",
+    "inspector_id": "2848",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012917",
+    "date": "2026-08-06",
+    "name": "HUMMUS KABAB & GRILL",
+    "inspector_id": "3523",
+    "score": "90.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034022823",
+    "date": "2026-08-06",
+    "name": "J & J FOOD MART",
+    "inspector_id": "3523",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034500273",
+    "date": "2026-08-06",
+    "name": "KENSINGTON VILLAGE APTS POOL",
+    "inspector_id": "2869",
+    "score": "20",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012114",
+    "date": "2026-08-06",
+    "name": "ROUTE 66 DINER",
+    "inspector_id": "3406",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012377",
+    "date": "2026-08-06",
+    "name": "SHEETZ 568",
+    "inspector_id": "3389",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034022807",
+    "date": "2026-08-06",
+    "name": "WALMART NEIGHBORHOOD MARKET DELI 6263",
+    "inspector_id": "3521",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012221",
+    "date": "2026-08-05",
+    "name": "66 DINER",
+    "inspector_id": "3521",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012359",
+    "date": "2026-08-05",
+    "name": "ABEL'S GRILL",
+    "inspector_id": "3391",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011797",
+    "date": "2026-08-05",
+    "name": "BAGNER AND ALEXA'S ICE CREAM AND CAFE",
+    "inspector_id": "2664",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034014028",
+    "date": "2026-08-05",
+    "name": "BLUE NAPLES PIZZA",
+    "inspector_id": "3406",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034013001",
+    "date": "2026-08-05",
+    "name": "JADE EXPRESS",
+    "inspector_id": "3523",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011027",
+    "date": "2026-08-05",
+    "name": "KANPAI JAPANESE RESTAURANT",
+    "inspector_id": "2809",
+    "score": "94.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611271",
+    "date": "2026-08-05",
+    "name": "KM BEAUTY AND LASH - BH",
+    "inspector_id": "2809",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611270",
+    "date": "2026-08-05",
+    "name": "KM BEAUTY AND LASH - KB",
+    "inspector_id": "2809",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034260001",
+    "date": "2026-08-05",
+    "name": "MERRIWOOD CHRISTIAN CAMP",
+    "inspector_id": "2795",
+    "score": "97",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012672",
+    "date": "2026-08-05",
+    "name": "POPEYE'S #13262",
+    "inspector_id": "1908",
+    "score": "85",
+    "grade": "B",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034201444",
+    "date": "2026-08-05",
+    "name": "QUALITY INN UNIVERSITY",
+    "inspector_id": "3471",
+    "score": "92",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020606",
+    "date": "2026-08-05",
+    "name": "QUALITY MART #42",
+    "inspector_id": "3389",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012517",
+    "date": "2026-08-05",
+    "name": "SHEETZ 641",
+    "inspector_id": "3471",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034201449",
+    "date": "2026-08-05",
+    "name": "SPRINGHILL WINSTON SALEM HANES MALL",
+    "inspector_id": "3389",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020690",
+    "date": "2026-08-04",
+    "name": "ALL THINGS POSSIBLE CATERING & MORE",
+    "inspector_id": "2664",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034500007",
+    "date": "2026-08-04",
+    "name": "BAY MEADOWS POOL",
+    "inspector_id": "2869",
+    "score": "24",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012544",
+    "date": "2026-08-04",
+    "name": "BISCUITVILLE #189",
+    "inspector_id": "3471",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012171",
+    "date": "2026-08-04",
+    "name": "BURGER KING 6616 CARROLS 785",
+    "inspector_id": "3523",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034530098",
+    "date": "2026-08-04",
+    "name": "BURKE RIDGE CROSSING APARTMENT",
+    "inspector_id": "2869",
+    "score": "8",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020434",
+    "date": "2026-08-04",
+    "name": "COOK OUT #10",
+    "inspector_id": "2795",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611269",
+    "date": "2026-08-04",
+    "name": "DIVINE PMU",
+    "inspector_id": "3521",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034440023",
+    "date": "2026-08-04",
+    "name": "EAST FORSYTH HIGH SCHOOL",
+    "inspector_id": "2664",
+    "score": "93.50",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034444006",
+    "date": "2026-08-04",
+    "name": "EAST FORSYTH MIDDLE SCHOOL",
+    "inspector_id": "2664",
+    "score": "95.50",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012495",
+    "date": "2026-08-04",
+    "name": "LOS TORITOS MEXICAN CUISINE",
+    "inspector_id": "1634",
+    "score": "93.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012951",
+    "date": "2026-08-04",
+    "name": "LUCIANO'S TAQUERIA DOWNTOWN",
+    "inspector_id": "3391",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011702",
+    "date": "2026-08-04",
+    "name": "PB'S TAKE OUT",
+    "inspector_id": "2450",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012541",
+    "date": "2026-08-04",
+    "name": "ZAXBY'S #68301",
+    "inspector_id": "3521",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012932",
+    "date": "2026-08-03",
+    "name": "ARBOR RIDGE AT KERNERSVILLE",
+    "inspector_id": "3391",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012170",
+    "date": "2026-08-03",
+    "name": "BURGER KING",
+    "inspector_id": "2795",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020964",
+    "date": "2026-08-03",
+    "name": "CAROLINA KITCHEN & PANTRY",
+    "inspector_id": "2664",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020923",
+    "date": "2026-08-03",
+    "name": "CHEF SOUP",
+    "inspector_id": "2664",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011743",
+    "date": "2026-08-03",
+    "name": "COMFORT SUITES BREAKFAST",
+    "inspector_id": "2809",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300107",
+    "date": "2026-08-03",
+    "name": "FOOD LION  1523 MEAT MARKET",
+    "inspector_id": "3406",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010919",
+    "date": "2026-08-03",
+    "name": "HARRIS TEETER 127",
+    "inspector_id": "3316",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611014",
+    "date": "2026-08-03",
+    "name": "HEARTLINE TATTOO - AS",
+    "inspector_id": "3523",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611015",
+    "date": "2026-08-03",
+    "name": "HEARTLINE TATTOO - CA",
+    "inspector_id": "3523",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611171",
+    "date": "2026-08-03",
+    "name": "HEARTLINE TATTOO - DS",
+    "inspector_id": "3523",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010990",
+    "date": "2026-08-03",
+    "name": "HERO HOUSE, THE",
+    "inspector_id": "2809",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020922",
+    "date": "2026-08-01",
+    "name": "QUALITY MART 59",
+    "inspector_id": "3471",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020552",
+    "date": "2026-08-01",
+    "name": "SPEEDWAY 6929",
+    "inspector_id": "3471",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012622",
+    "date": "2026-07-31",
+    "name": "CHINA RESTAURANT",
+    "inspector_id": "1908",
+    "score": "86.50",
+    "grade": "B",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034530138",
+    "date": "2026-07-31",
+    "name": "HAMPTON INN (HANES MALL) POOL",
+    "inspector_id": "1992",
+    "score": "26",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012747",
+    "date": "2026-07-31",
+    "name": "MARIO'S PIZZA",
+    "inspector_id": "2809",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012862",
+    "date": "2026-07-31",
+    "name": "WINGSTOP #2347",
+    "inspector_id": "3523",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012844",
+    "date": "2026-07-30",
+    "name": "BAGEL STATION II",
+    "inspector_id": "3316",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034201447",
+    "date": "2026-07-30",
+    "name": "DOUBLE TREE BY HILTON - WINSTON SALEM",
+    "inspector_id": "3471",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012365",
+    "date": "2026-07-30",
+    "name": "FIVE GUYS BURGERS AND FRIES",
+    "inspector_id": "3523",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011793",
+    "date": "2026-07-30",
+    "name": "FIVE GUYS BURGERS AND FRIES # 4092",
+    "inspector_id": "2848",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012530",
+    "date": "2026-07-30",
+    "name": "INTERNATIONAL HOUSE OF PANCAKE",
+    "inspector_id": "2848",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012699",
+    "date": "2026-07-30",
+    "name": "KASTURI INDIAN CUISINE",
+    "inspector_id": "3523",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012695",
+    "date": "2026-07-30",
+    "name": "KETCHIE CREEK BAKERY AND CAFE CLEMMONS",
+    "inspector_id": "2848",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012855",
+    "date": "2026-07-30",
+    "name": "MAGNOLIA BISTRO",
+    "inspector_id": "3471",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012946",
+    "date": "2026-07-29",
+    "name": "777 WINGS",
+    "inspector_id": "3523",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034030107",
+    "date": "2026-07-29",
+    "name": "DA MUNCH BUGGY",
+    "inspector_id": "3471",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034030105",
+    "date": "2026-07-29",
+    "name": "HOT DOG HIDEAWAY #2",
+    "inspector_id": "3471",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034028115",
+    "date": "2026-07-28",
+    "name": "ACADEMY GROCERY",
+    "inspector_id": "3523",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011791",
+    "date": "2026-07-28",
+    "name": "BASIL HIBACHI RESTAURANT",
+    "inspector_id": "3471",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010035",
+    "date": "2026-07-28",
+    "name": "BOJANGLES #282",
+    "inspector_id": "3471",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012445",
+    "date": "2026-07-28",
+    "name": "CHICK-FIL-A 1098",
+    "inspector_id": "3521",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011609",
+    "date": "2026-07-28",
+    "name": "CHILIS GRILL AND BAR (ITS JUST WINGS)",
+    "inspector_id": "3521",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010329",
+    "date": "2026-07-28",
+    "name": "CUCHIFRITO",
+    "inspector_id": "2795",
+    "score": "93.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012710",
+    "date": "2026-07-28",
+    "name": "CUGINO FORNO CLEMMONS",
+    "inspector_id": "2848",
+    "score": "93",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034500069",
+    "date": "2026-07-28",
+    "name": "FALCON POINTE APARTMENTS POOL",
+    "inspector_id": "2869",
+    "score": "28",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011842",
+    "date": "2026-07-28",
+    "name": "FIREBIRDS WOOD FIRED GRILL",
+    "inspector_id": "3523",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020503",
+    "date": "2026-07-28",
+    "name": "FOOD LION 1508 DELI",
+    "inspector_id": "2450",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011452",
+    "date": "2026-07-28",
+    "name": "GEORGES GRECIAN CORNER",
+    "inspector_id": "2543",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012792",
+    "date": "2026-07-28",
+    "name": "HUNGRY HOWIES PIZZA",
+    "inspector_id": "3316",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611159",
+    "date": "2026-07-28",
+    "name": "INK AND IVY - HT",
+    "inspector_id": "2464",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012859",
+    "date": "2026-07-28",
+    "name": "IRIE PLATES RESTAURANT & BAR",
+    "inspector_id": "3389",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034013000",
+    "date": "2026-07-28",
+    "name": "J PEPPERS SOUTHERN GRILL",
+    "inspector_id": "3391",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010208",
+    "date": "2026-07-28",
+    "name": "KERMIT'S HOT DOG HOUSE",
+    "inspector_id": "3406",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012188",
+    "date": "2026-07-28",
+    "name": "LA CASA LOPEZ MEXICAN GRILL",
+    "inspector_id": "2809",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011787",
+    "date": "2026-07-28",
+    "name": "MCDONALD'S 4306",
+    "inspector_id": "3391",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020823",
+    "date": "2026-07-28",
+    "name": "PUBLIX #1574 SEAFOOD",
+    "inspector_id": "2848",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012850",
+    "date": "2026-07-27",
+    "name": "BROTHER CLUCKERS UNION CROSS",
+    "inspector_id": "3406",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011569",
+    "date": "2026-07-27",
+    "name": "CARRABBAS ITALIAN GRILL 8409",
+    "inspector_id": "3316",
+    "score": "94",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012879",
+    "date": "2026-07-27",
+    "name": "CILANTRO AND TACOS",
+    "inspector_id": "2795",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012265",
+    "date": "2026-07-27",
+    "name": "DAIRI-O",
+    "inspector_id": "2795",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011331",
+    "date": "2026-07-27",
+    "name": "EL TORERO MEXICAN RESTAURANT",
+    "inspector_id": "3471",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012693",
+    "date": "2026-07-27",
+    "name": "FIRST WATCH CLEMMONS",
+    "inspector_id": "2848",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012278",
+    "date": "2026-07-27",
+    "name": "FRANKS KITCHEN",
+    "inspector_id": "3471",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010676",
+    "date": "2026-07-27",
+    "name": "GREAT WALL CHINESE RESTAURANT",
+    "inspector_id": "3523",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020601",
+    "date": "2026-07-27",
+    "name": "HARRIS TEETER  37 DELI",
+    "inspector_id": "2809",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020604",
+    "date": "2026-07-27",
+    "name": "HARRIS TEETER PRODUCE MKT",
+    "inspector_id": "2809",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011813",
+    "date": "2026-07-27",
+    "name": "JIMMY THE GREEK",
+    "inspector_id": "2519",
+    "score": "91",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012582",
+    "date": "2026-07-27",
+    "name": "MEDITERRANEO PIZZA AND GRILL",
+    "inspector_id": "2848",
+    "score": "94",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010384",
+    "date": "2026-07-27",
+    "name": "SEASONS RESTAURANT",
+    "inspector_id": "2450",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034160047",
+    "date": "2026-07-27",
+    "name": "SUMMERSTONE HEALTH AND REHABILITATION CENTER",
+    "inspector_id": "3406",
+    "score": "94.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034610889",
+    "date": "2026-07-27",
+    "name": "TATTOO ARCHIVE AM",
+    "inspector_id": "2519",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010802",
+    "date": "2026-07-24",
+    "name": "BOJANGLES #484",
+    "inspector_id": "3391",
+    "score": "92.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012887",
+    "date": "2026-07-24",
+    "name": "CHIPOTLE MEXICAN GRILL #5452",
+    "inspector_id": "2519",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020415",
+    "date": "2026-07-24",
+    "name": "COOK OUT  8",
+    "inspector_id": "3521",
+    "score": "93.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010623",
+    "date": "2026-07-24",
+    "name": "COPPOLA'S PIZZA",
+    "inspector_id": "3471",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010091",
+    "date": "2026-07-24",
+    "name": "CORONET SEAFOOD",
+    "inspector_id": "3471",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020498",
+    "date": "2026-07-24",
+    "name": "FOOD LION  593 DELI",
+    "inspector_id": "2809",
+    "score": "93",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020724",
+    "date": "2026-07-24",
+    "name": "FOOD LION #2554 PRODUCE",
+    "inspector_id": "3389",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300124",
+    "date": "2026-07-24",
+    "name": "FOOD LION 2554 MEAT MARKET",
+    "inspector_id": "3389",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020551",
+    "date": "2026-07-24",
+    "name": "FOOD LION DELI #2554",
+    "inspector_id": "3389",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300092",
+    "date": "2026-07-24",
+    "name": "HARRIS TEETER  250",
+    "inspector_id": "2664",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020451",
+    "date": "2026-07-24",
+    "name": "HARRIS TEETER SEAFOOD  250",
+    "inspector_id": "2664",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300006",
+    "date": "2026-07-24",
+    "name": "JACQUELINE'S BAKERY DBA EL REY #3 - MM",
+    "inspector_id": "3391",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611155",
+    "date": "2026-07-24",
+    "name": "RITUALS TATTOO - BG",
+    "inspector_id": "2848",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012043",
+    "date": "2026-07-24",
+    "name": "SUBWAY # 47464",
+    "inspector_id": "2543",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034014054",
+    "date": "2026-07-23",
+    "name": "1-STOP FOOD STORE #6",
+    "inspector_id": "2664",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010732",
+    "date": "2026-07-23",
+    "name": "B.L.L. ROTISSERIE FACTORY",
+    "inspector_id": "3316",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012939",
+    "date": "2026-07-23",
+    "name": "CARIBOU COFFEE #1537",
+    "inspector_id": "3406",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012926",
+    "date": "2026-07-23",
+    "name": "KIMONO JAPANESE RESTAURANT",
+    "inspector_id": "3391",
+    "score": "95.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012295",
+    "date": "2026-07-23",
+    "name": "MARCO'S PIZZA",
+    "inspector_id": "2795",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034410008",
+    "date": "2026-07-23",
+    "name": "OLD VINEYARD BEHAVIORAL HEALTH SERVICES",
+    "inspector_id": "2809",
+    "score": "96",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034480009",
+    "date": "2026-07-23",
+    "name": "PACE OF THE TRIAD",
+    "inspector_id": "3521",
+    "score": "4",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020432",
+    "date": "2026-07-23",
+    "name": "PAPA JOHNS PIZZA  2024",
+    "inspector_id": "2795",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010740",
+    "date": "2026-07-23",
+    "name": "PEKING KITCHEN",
+    "inspector_id": "2450",
+    "score": "92.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012869",
+    "date": "2026-07-23",
+    "name": "SORA JAPANESE RESTAURANT",
+    "inspector_id": "3471",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020966",
+    "date": "2026-07-23",
+    "name": "TOP TIER EATERY",
+    "inspector_id": "3523",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012750",
+    "date": "2026-07-23",
+    "name": "TUCKER'S GRILL",
+    "inspector_id": "3406",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010451",
+    "date": "2026-07-22",
+    "name": "APPLEBEES #1112",
+    "inspector_id": "3521",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011501",
+    "date": "2026-07-22",
+    "name": "BURKE STREET PIZZA",
+    "inspector_id": "2519",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020963",
+    "date": "2026-07-22",
+    "name": "BUSY AS A BEE",
+    "inspector_id": "2664",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011460",
+    "date": "2026-07-22",
+    "name": "C AND H CAFETERIA",
+    "inspector_id": "2664",
+    "score": "93",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011839",
+    "date": "2026-07-22",
+    "name": "CAGNEY'S RESTAURANT & PIZZERIA",
+    "inspector_id": "3391",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020409",
+    "date": "2026-07-22",
+    "name": "COOK OUT #7",
+    "inspector_id": "3521",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012907",
+    "date": "2026-07-22",
+    "name": "DIAMONDBACK GRILL",
+    "inspector_id": "3316",
+    "score": "91",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020902",
+    "date": "2026-07-22",
+    "name": "ELEVATED CATERING COMPANY",
+    "inspector_id": "2664",
+    "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034430238",
+    "date": "2026-07-22",
+    "name": "FRIENDLY PEOPLE THAT CARE - PINOAK DR.",
+    "inspector_id": "2809",
+    "score": "5",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012533",
+    "date": "2026-07-22",
+    "name": "GREAT CHINA",
+    "inspector_id": "3471",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034201450",
+    "date": "2026-07-22",
+    "name": "HOME 2 SUITES BY HILTON",
+    "inspector_id": "3389",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020854",
+    "date": "2026-07-22",
+    "name": "KRISTY'S FOOD MART",
+    "inspector_id": "2809",
+    "score": "90",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011782",
+    "date": "2026-07-22",
+    "name": "LITTLE ARI'S JAPANESE KITCHEN",
+    "inspector_id": "1634",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034420231",
+    "date": "2026-07-22",
+    "name": "MAXX KINDER KOLLEGE",
+    "inspector_id": "2464",
+    "score": "16",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012528",
+    "date": "2026-07-22",
+    "name": "PANERA BREAD #4991",
+    "inspector_id": "3523",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011109",
+    "date": "2026-07-22",
+    "name": "UPPER DECK CAFE",
+    "inspector_id": "3471",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012302",
+    "date": "2026-07-22",
+    "name": "VINNIES PIZZERIA ITALIAN RESTAURANT",
+    "inspector_id": "2795",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034014037",
+    "date": "2026-07-21",
+    "name": "CHIPOTLE MEXICAN GRILL",
+    "inspector_id": "2809",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034014066",
+    "date": "2026-07-21",
+    "name": "DON JUAN'S MEXICAN RESTAURANT",
+    "inspector_id": "2664",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034611149",
+    "date": "2026-07-21",
+    "name": "EGYPT PERMANENT MAKEUP - LE",
+    "inspector_id": "3523",
+    "score": "",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012346",
+    "date": "2026-07-21",
+    "name": "EL RANCHO TAQUERIA",
+    "inspector_id": "3523",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012493",
+    "date": "2026-07-21",
+    "name": "EL REY DEL TACO TAQUERIA",
+    "inspector_id": "2795",
+    "score": "93",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011468",
+    "date": "2026-07-21",
+    "name": "FRANK'S RESTAURANT",
+    "inspector_id": "3471",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300070",
+    "date": "2026-07-21",
+    "name": "HARRIS TEETER #127",
+    "inspector_id": "3316",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020333",
+    "date": "2026-07-21",
+    "name": "HARRIS TEETER 127 PRODUCE MKT",
+    "inspector_id": "3316",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012245",
+    "date": "2026-07-21",
+    "name": "KFC G135198",
+    "inspector_id": "3391",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010885",
+    "date": "2026-07-21",
+    "name": "MIDTOWN CAFE AND DESSERTERY",
+    "inspector_id": "2826",
+    "score": "96.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010611",
+    "date": "2026-07-21",
+    "name": "RANCH-O FAMILY RESTAURANT",
+    "inspector_id": "3406",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012795",
+    "date": "2026-07-21",
+    "name": "TACO BELL 039729",
+    "inspector_id": "3471",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011896",
+    "date": "2026-07-21",
+    "name": "WENDY'S #0422",
+    "inspector_id": "2795",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012819",
+    "date": "2026-07-21",
+    "name": "WINGSTOP # 1538",
+    "inspector_id": "3521",
+    "score": "93.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012997",
+    "date": "2026-07-20",
+    "name": "1102 BUBBLE TEA AND COFFEE",
+    "inspector_id": "2664",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011212",
+    "date": "2026-07-20",
+    "name": "4TH STREET FILLING STATION",
+    "inspector_id": "2519",
+    "score": "93",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010034",
+    "date": "2026-07-20",
+    "name": "BOJANGLES #407",
+    "inspector_id": "3406",
+    "score": "93",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034030108",
+    "date": "2026-07-20",
+    "name": "BONUM CIBUM",
+    "inspector_id": "3391",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012954",
+    "date": "2026-07-20",
+    "name": "COUNTRY KITCHEN ON MAIN ST",
+    "inspector_id": "2795",
+    "score": "91.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012277",
+    "date": "2026-07-20",
+    "name": "FIREHOUSE SUBS 1725",
+    "inspector_id": "2664",
+    "score": "93",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012730",
+    "date": "2026-07-20",
+    "name": "JERSEY MIKES 3156",
+    "inspector_id": "3523",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300080",
+    "date": "2026-07-20",
+    "name": "LOWES FOODS #161",
+    "inspector_id": "2848",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034010985",
+    "date": "2026-07-20",
+    "name": "LOWES FOODS #161 DELI",
+    "inspector_id": "2848",
+    "score": "97",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020353",
+    "date": "2026-07-20",
+    "name": "LOWES FOODS #161 PRODUCE",
+    "inspector_id": "2848",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011169",
+    "date": "2026-07-20",
+    "name": "MARIO'S PIZZA",
+    "inspector_id": "3523",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012519",
+    "date": "2026-07-20",
+    "name": "PANERA BREAD #4979",
+    "inspector_id": "3391",
+    "score": "94",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012966",
+    "date": "2026-07-17",
+    "name": "ARBY'S #7202",
+    "inspector_id": "2795",
+    "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012901",
+    "date": "2026-07-17",
+    "name": "BLACK COFFEE & CUISINE",
+    "inspector_id": "3521",
+    "score": "94.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034201440",
+    "date": "2026-07-17",
+    "name": "COMFORT SUITES HANES MALL",
+    "inspector_id": "2809",
+    "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034160014",
+    "date": "2026-07-17",
+    "name": "CRT GOLDEN LAMB",
+    "inspector_id": "2519",
+    "score": "91",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034020688",
+    "date": "2026-07-17",
+    "name": "FRESH MARKET, THE #12 MEAT & SEAFOOD",
+    "inspector_id": "3316",
+    "score": "98",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012991",
+    "date": "2026-07-17",
+    "name": "KNUCKIES SANDWICHES AND SIPS",
+    "inspector_id": "2795",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034011931",
+    "date": "2026-07-17",
+    "name": "REYNOLDS PARK GRILL",
+    "inspector_id": "3391",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034530071",
+    "date": "2026-07-17",
+    "name": "SALEM RIDGE POOL",
+    "inspector_id": "2869",
+    "score": "16",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034530019",
+    "date": "2026-07-17",
+    "name": "SAVANNAH PLACE APTS POOL",
+    "inspector_id": "2869",
+    "score": "6",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034420096",
+    "date": "2026-07-17",
+    "name": "THE LEADING LEGACY ACADEMY",
+    "inspector_id": "3389",
+    "score": "7",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012581",
+    "date": "2026-07-16",
+    "name": "CAMPUS GAS",
+    "inspector_id": "3521",
+    "score": "99.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  }
+]

@@ -1,0 +1,4241 @@
+[
+  {
+    "id": "6074011369",
+    "date": "2026-09-29",
+    "name": "BASILS",
+    "inspector_id": "3064",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011107",
+    "date": "2026-09-29",
+    "name": "CHINA WOK",
+    "inspector_id": "3183",
+    "score": "87.50",
+    "grade": "B",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530019",
+    "date": "2026-09-29",
+    "name": "COMFORT INN & SUITES - SWIMMING POOL",
+    "inspector_id": "3506",
+    "score": "2",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030064",
+    "date": "2026-09-29",
+    "name": "ECU FLAME TOWN BURGERS AND INKED TACOS",
+    "inspector_id": "2929",
+    "score": "99.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074440085",
+    "date": "2026-09-29",
+    "name": "EMBASSY INNOVATION ACADEMY",
+    "inspector_id": "2180",
+    "score": "94.50",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011837",
+    "date": "2026-09-29",
+    "name": "GANGNAM KOREAN BBQ & HOT POT",
+    "inspector_id": "3185",
+    "score": "74.50",
+    "grade": "C",
+    "source": "PITT"
+  },
+  {
+    "id": "6074420231",
+    "date": "2026-09-29",
+    "name": "H. B. SUGG ELEMENTARY PRE-K",
+    "inspector_id": "2180",
+    "score": "12",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074110040",
+    "date": "2026-09-29",
+    "name": "HOPE MIDDLE SCHOOL",
+    "inspector_id": "3064",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010642",
+    "date": "2026-09-29",
+    "name": "MARIO'S TACOS",
+    "inspector_id": "2929",
+    "score": "96",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010129",
+    "date": "2026-09-29",
+    "name": "PARKERS BARBECUE 2",
+    "inspector_id": "3064",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074430010",
+    "date": "2026-09-29",
+    "name": "PITT CO. GROUP HOME #5",
+    "inspector_id": "2382",
+    "score": "16",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011153",
+    "date": "2026-09-29",
+    "name": "PITT COUNTY DETENTION CENTER",
+    "inspector_id": "2642",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030067",
+    "date": "2026-09-29",
+    "name": "ROCK SPRINGS MOBILE FOOD TRAILER",
+    "inspector_id": "2382",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030166",
+    "date": "2026-09-29",
+    "name": "SAHARA'S SHAWARMA",
+    "inspector_id": "2642",
+    "score": "99.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074110019",
+    "date": "2026-09-29",
+    "name": "W H ROBINSON SCHOOL CAFETERIA",
+    "inspector_id": "3183",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020377",
+    "date": "2026-09-28",
+    "name": "A MART #5",
+    "inspector_id": "2382",
+    "score": "91",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011804",
+    "date": "2026-09-28",
+    "name": "BISCUITVILLE #202",
+    "inspector_id": "3185",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010901",
+    "date": "2026-09-28",
+    "name": "CHICOS",
+    "inspector_id": "2642",
+    "score": "93.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010680",
+    "date": "2026-09-28",
+    "name": "CHINA MAX",
+    "inspector_id": "3185",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074420222",
+    "date": "2026-09-28",
+    "name": "CREEKSIDE ELEMENTARY PRE-K",
+    "inspector_id": "2180",
+    "score": "7",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074110039",
+    "date": "2026-09-28",
+    "name": "CREEKSIDE ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "3183",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074110008",
+    "date": "2026-09-28",
+    "name": "D H CONLEY HIGH SCHOOL CAFETERIA",
+    "inspector_id": "3064",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011897",
+    "date": "2026-09-28",
+    "name": "HABIBI MEDITERRANEAN GRILL",
+    "inspector_id": "2929",
+    "score": "92",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011673",
+    "date": "2026-09-28",
+    "name": "HWY 55 BURGERS SHAKES & FRIES (FARMVILLE)",
+    "inspector_id": "2382",
+    "score": "92.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010119",
+    "date": "2026-09-28",
+    "name": "MING DYNASTY",
+    "inspector_id": "3064",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074040023",
+    "date": "2026-09-28",
+    "name": "PIRATE DOGS",
+    "inspector_id": "2642",
+    "score": "99",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020282",
+    "date": "2026-09-26",
+    "name": "ECU - THE QUARTERDECK",
+    "inspector_id": "2929",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030125",
+    "date": "2026-09-26",
+    "name": "ECU BIG DIPPERS FOOD TRUCK",
+    "inspector_id": "2929",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011591",
+    "date": "2026-09-25",
+    "name": "BAD DADDY'S BURGER BAR",
+    "inspector_id": "3185",
+    "score": "91",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011876",
+    "date": "2026-09-25",
+    "name": "EGGS UP GRILL #106",
+    "inspector_id": "3064",
+    "score": "93",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074300077",
+    "date": "2026-09-25",
+    "name": "HARRIS TEETER 287 MEAT MARKET",
+    "inspector_id": "3064",
+    "score": "99",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074160009",
+    "date": "2026-09-25",
+    "name": "HOWELL CENTER KITCHEN",
+    "inspector_id": "2929",
+    "score": "99",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010995",
+    "date": "2026-09-25",
+    "name": "KASH N KARRY 1",
+    "inspector_id": "3183",
+    "score": "84.50",
+    "grade": "B",
+    "source": "PITT"
+  },
+  {
+    "id": "6074430105",
+    "date": "2026-09-25",
+    "name": "L & C FAMILY CARE HOME",
+    "inspector_id": "2489",
+    "score": "6",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074430120",
+    "date": "2026-09-25",
+    "name": "L & C FAMILY HOME CARE 2",
+    "inspector_id": "2929",
+    "score": "8",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011763",
+    "date": "2026-09-25",
+    "name": "LA TOVARA MEXICAN KITCHEN AND SEAFOOD",
+    "inspector_id": "2642",
+    "score": "93",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011748",
+    "date": "2026-09-25",
+    "name": "MCDONALD'S # 13081",
+    "inspector_id": "3185",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010125",
+    "date": "2026-09-25",
+    "name": "OMAR'S GRILL",
+    "inspector_id": "2642",
+    "score": "87",
+    "grade": "B",
+    "source": "PITT"
+  },
+  {
+    "id": "6074300087",
+    "date": "2026-09-25",
+    "name": "PUBLIX MEAT MARKET",
+    "inspector_id": "2929",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610378",
+    "date": "2026-09-25",
+    "name": "STUDIO DOVETAIL",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074110001",
+    "date": "2026-09-24",
+    "name": "AYDEN ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "3183",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030140",
+    "date": "2026-09-24",
+    "name": "BIG BACKS",
+    "inspector_id": "3185",
+    "score": "85",
+    "grade": "B",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010488",
+    "date": "2026-09-24",
+    "name": "CHILI'S GRILL AND BAR",
+    "inspector_id": "3185",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011195",
+    "date": "2026-09-24",
+    "name": "CHRISTY'S EURO PUB",
+    "inspector_id": "2642",
+    "score": "90",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074420179",
+    "date": "2026-09-24",
+    "name": "COMMUNITY CHRISTIAN CHILD DEVELOPMENT CENTER",
+    "inspector_id": "2180",
+    "score": "8",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010760",
+    "date": "2026-09-24",
+    "name": "CRACKER BARREL #495",
+    "inspector_id": "2929",
+    "score": "90",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074110030",
+    "date": "2026-09-24",
+    "name": "FALKLAND ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "2382",
+    "score": "99",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074140049",
+    "date": "2026-09-24",
+    "name": "FARMVILLE PARKS AND REC CONCESSION",
+    "inspector_id": "2382",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011799",
+    "date": "2026-09-24",
+    "name": "GIDDY-UP COFFEE HOUSE",
+    "inspector_id": "3185",
+    "score": "92",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011603",
+    "date": "2026-09-24",
+    "name": "LUNA PIZZA CAFE",
+    "inspector_id": "3064",
+    "score": "93",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011750",
+    "date": "2026-09-24",
+    "name": "MCDONALD'S #27496",
+    "inspector_id": "3183",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610427",
+    "date": "2026-09-24",
+    "name": "OLD EAGLE TATTOO (CASEY REED)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074110031",
+    "date": "2026-09-24",
+    "name": "STOKES ELEMENTARY CAFETERIA",
+    "inspector_id": "2642",
+    "score": "99",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011792",
+    "date": "2026-09-24",
+    "name": "TAQUERIA EL KORA",
+    "inspector_id": "3064",
+    "score": "94.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011801",
+    "date": "2026-09-23",
+    "name": "AMERICA'S BEST WINGS",
+    "inspector_id": "2489",
+    "score": "91.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011584",
+    "date": "2026-09-23",
+    "name": "BALLARDS CROSSROADS GRILL & CONVENIENCE STORE",
+    "inspector_id": "2382",
+    "score": "93.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010615",
+    "date": "2026-09-23",
+    "name": "BOJANGLES #21",
+    "inspector_id": "3064",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011791",
+    "date": "2026-09-23",
+    "name": "CATALENT, INC. CAFE",
+    "inspector_id": "2642",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010980",
+    "date": "2026-09-23",
+    "name": "CHINA ONE",
+    "inspector_id": "2382",
+    "score": "92.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530063",
+    "date": "2026-09-23",
+    "name": "CYPRESS GLENN WELLNESS CENTER - SWIMMING POOL",
+    "inspector_id": "3506",
+    "score": "0",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010908",
+    "date": "2026-09-23",
+    "name": "DANK BURRITO",
+    "inspector_id": "3185",
+    "score": "87.50",
+    "grade": "B",
+    "source": "PITT"
+  },
+  {
+    "id": "6074300061",
+    "date": "2026-09-23",
+    "name": "FOOD LION MEAT MARKET 779",
+    "inspector_id": "3183",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020342",
+    "date": "2026-09-23",
+    "name": "FOOD LION PRODUCE #779",
+    "inspector_id": "3183",
+    "score": "99",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610262",
+    "date": "2026-09-23",
+    "name": "GARRYS SKIN GRAFIX WINTERVILLE (S. DOTSON)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011674",
+    "date": "2026-09-23",
+    "name": "HOOK & REEL CAJUN SEAFOOD & BAR",
+    "inspector_id": "3185",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011708",
+    "date": "2026-09-23",
+    "name": "HWY 55 BURGERS SHAKES AND FRIES (SMYTHEWYCK)",
+    "inspector_id": "3064",
+    "score": "86.50",
+    "grade": "B",
+    "source": "PITT"
+  },
+  {
+    "id": "6074430116",
+    "date": "2026-09-23",
+    "name": "IDELLAS CARE HOME LLC",
+    "inspector_id": "2929",
+    "score": "1",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011560",
+    "date": "2026-09-23",
+    "name": "NO. 1 CHINESE WINTERVILLE",
+    "inspector_id": "3183",
+    "score": "88.50",
+    "grade": "B",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020347",
+    "date": "2026-09-23",
+    "name": "SPEEDWAY #8283",
+    "inspector_id": "3183",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011766",
+    "date": "2026-09-22",
+    "name": "5TH STREET HARDWARE RESTAURANT & TAPROOM",
+    "inspector_id": "2642",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020379",
+    "date": "2026-09-22",
+    "name": "AGGIE'S FUSION GRILL",
+    "inspector_id": "3064",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074430095",
+    "date": "2026-09-22",
+    "name": "CYPRESS GLEN MEMORY CARE",
+    "inspector_id": "2642",
+    "score": "0",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020006",
+    "date": "2026-09-22",
+    "name": "DEES GRILL",
+    "inspector_id": "3064",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074300090",
+    "date": "2026-09-22",
+    "name": "FOOD PRIDE OF GRIFTON MEAT MARKET",
+    "inspector_id": "3183",
+    "score": "92.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074140030",
+    "date": "2026-09-22",
+    "name": "HAMPTON INN",
+    "inspector_id": "3185",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010725",
+    "date": "2026-09-22",
+    "name": "HIBACHI EXPRESS",
+    "inspector_id": "3185",
+    "score": "88",
+    "grade": "B",
+    "source": "PITT"
+  },
+  {
+    "id": "6074300092",
+    "date": "2026-09-22",
+    "name": "LOWES FOODS 287 MEAT MARKET",
+    "inspector_id": "3183",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011220",
+    "date": "2026-09-22",
+    "name": "PLAZA AZTECA",
+    "inspector_id": "2382",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011372",
+    "date": "2026-09-22",
+    "name": "ROMANOS ITALIAN CUISINE",
+    "inspector_id": "3183",
+    "score": "90",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011132",
+    "date": "2026-09-22",
+    "name": "TOKYO CAFE",
+    "inspector_id": "3185",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011872",
+    "date": "2026-09-21",
+    "name": "BURRITO SHAK",
+    "inspector_id": "3183",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074420135",
+    "date": "2026-09-21",
+    "name": "DOWN HOME CHILD CARE",
+    "inspector_id": "2180",
+    "score": "12",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011821",
+    "date": "2026-09-21",
+    "name": "DUNKIN' DONUTS #364366",
+    "inspector_id": "3185",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530007",
+    "date": "2026-09-21",
+    "name": "ECU - MINGES COMPETITION POOL",
+    "inspector_id": "3506",
+    "score": "0",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074570003",
+    "date": "2026-09-21",
+    "name": "ECU - MINGES DIVE TANK",
+    "inspector_id": "3506",
+    "score": "6",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020344",
+    "date": "2026-09-21",
+    "name": "FOOD LION PRODUCE #1568",
+    "inspector_id": "3185",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610326",
+    "date": "2026-09-21",
+    "name": "K NAIL BAR (H NGUYEN)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074110043",
+    "date": "2026-09-21",
+    "name": "LAKEFOREST ELEMENTARY CAFETERIA",
+    "inspector_id": "2382",
+    "score": "96",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010484",
+    "date": "2026-09-21",
+    "name": "LEES COUNTRY KITCHEN",
+    "inspector_id": "2642",
+    "score": "91.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074430142",
+    "date": "2026-09-21",
+    "name": "REJUVENATING LIVES",
+    "inspector_id": "3183",
+    "score": "5",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074040058",
+    "date": "2026-09-21",
+    "name": "SMITTY'S DOGS LLC",
+    "inspector_id": "3064",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074440030",
+    "date": "2026-09-21",
+    "name": "STOKES SCHOOL",
+    "inspector_id": "2180",
+    "score": "95.50",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530081",
+    "date": "2026-09-21",
+    "name": "TREYBROOKE APARTMENTS - POOL #1",
+    "inspector_id": "3506",
+    "score": "12",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530079",
+    "date": "2026-09-21",
+    "name": "TREYBROOKE APARTMENTS - POOL #2",
+    "inspector_id": "3506",
+    "score": "14",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030172",
+    "date": "2026-09-20",
+    "name": "CAROLINA PHILLY'S",
+    "inspector_id": "3183",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011126",
+    "date": "2026-09-18",
+    "name": "BOJANGLES #39",
+    "inspector_id": "2382",
+    "score": "92.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011296",
+    "date": "2026-09-18",
+    "name": "CHEDDAR'S SCRATCH KITCHEN",
+    "inspector_id": "3183",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011540",
+    "date": "2026-09-18",
+    "name": "STARBUCKS (HARRIS TEETER)",
+    "inspector_id": "3185",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011886",
+    "date": "2026-09-18",
+    "name": "WING STOP",
+    "inspector_id": "2382",
+    "score": "99",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010257",
+    "date": "2026-09-17",
+    "name": "CAPTAIN D'S  3451",
+    "inspector_id": "2929",
+    "score": "90.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011453",
+    "date": "2026-09-17",
+    "name": "CHIPOTLE MEXICAN GRILL",
+    "inspector_id": "3185",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011813",
+    "date": "2026-09-17",
+    "name": "CUCINELLA'S PIZZERIA",
+    "inspector_id": "2642",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074160007",
+    "date": "2026-09-17",
+    "name": "EAST CAROLINA HEALTH AND REHABILITATION KITCHEN",
+    "inspector_id": "3064",
+    "score": "91",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010687",
+    "date": "2026-09-17",
+    "name": "HARDEE'S OF AYDEN",
+    "inspector_id": "3183",
+    "score": "93.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011647",
+    "date": "2026-09-17",
+    "name": "IRONWOOD GOLF & COUNTRY CLUB",
+    "inspector_id": "2382",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011819",
+    "date": "2026-09-17",
+    "name": "MELO TEA",
+    "inspector_id": "3185",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074090011",
+    "date": "2026-09-17",
+    "name": "PITT CO COUNCIL ON AGING - BETHEL SENIOR CENTER",
+    "inspector_id": "2642",
+    "score": "99.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011575",
+    "date": "2026-09-17",
+    "name": "PUBLIX DELI",
+    "inspector_id": "3185",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074140051",
+    "date": "2026-09-17",
+    "name": "SOUTH CENTRAL HIGH SCHOOL ( SC ATHLETIC BOOSTER)",
+    "inspector_id": "3183",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074160019",
+    "date": "2026-09-16",
+    "name": "ALPHA CARE ONE ASSISTED LIVING KITCHEN",
+    "inspector_id": "2382",
+    "score": "93",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020359",
+    "date": "2026-09-16",
+    "name": "AUNTIE ANNE'S PRETZELS",
+    "inspector_id": "3185",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011508",
+    "date": "2026-09-16",
+    "name": "PATHEON CAFETERIA",
+    "inspector_id": "2642",
+    "score": "94.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011731",
+    "date": "2026-09-16",
+    "name": "RED ROBIN",
+    "inspector_id": "2929",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020945",
+    "date": "2026-09-16",
+    "name": "SPEEDWAY #8219",
+    "inspector_id": "3183",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030066",
+    "date": "2026-09-16",
+    "name": "THE ITALIAN STYLIAN",
+    "inspector_id": "3183",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011336",
+    "date": "2026-09-16",
+    "name": "THE MELLOW MUSHROOM",
+    "inspector_id": "3185",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011662",
+    "date": "2026-09-16",
+    "name": "VILLA VERDE (STANTONSBURG)",
+    "inspector_id": "2382",
+    "score": "93",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020280",
+    "date": "2026-09-16",
+    "name": "WINGS OVER GREENVILLE",
+    "inspector_id": "2642",
+    "score": "92.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074440042",
+    "date": "2026-09-15",
+    "name": "BROOKHAVEN SCHOOL",
+    "inspector_id": "2180",
+    "score": "98.50",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011778",
+    "date": "2026-09-15",
+    "name": "BUM'S RESTAURANT",
+    "inspector_id": "3183",
+    "score": "93",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011454",
+    "date": "2026-09-15",
+    "name": "BURGER KING #176",
+    "inspector_id": "2382",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010928",
+    "date": "2026-09-15",
+    "name": "ECU WEST END DINING",
+    "inspector_id": "2929",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074440084",
+    "date": "2026-09-15",
+    "name": "GREENVILLE LEARNING CENTER",
+    "inspector_id": "2180",
+    "score": "100",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011867",
+    "date": "2026-09-15",
+    "name": "OVERTIME TAVERN (OTS)",
+    "inspector_id": "2642",
+    "score": "92",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011879",
+    "date": "2026-09-15",
+    "name": "ROYAL FARMS 494",
+    "inspector_id": "2642",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030099",
+    "date": "2026-09-15",
+    "name": "TACO SONRISAS",
+    "inspector_id": "3183",
+    "score": "92",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530036",
+    "date": "2026-09-15",
+    "name": "THE LANDING-BASKETBALL POOL",
+    "inspector_id": "3506",
+    "score": "8",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530034",
+    "date": "2026-09-15",
+    "name": "THE LANDING-CENTER POOL",
+    "inspector_id": "3506",
+    "score": "10",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530035",
+    "date": "2026-09-15",
+    "name": "THE LANDING-VOLLEYBALL POOL",
+    "inspector_id": "3506",
+    "score": "0",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074440083",
+    "date": "2026-09-15",
+    "name": "WALTON ACADEMY",
+    "inspector_id": "2180",
+    "score": "98",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011635",
+    "date": "2026-09-14",
+    "name": "AMC FIRETOWER 12",
+    "inspector_id": "3185",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074110042",
+    "date": "2026-09-14",
+    "name": "EASTERN ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "3064",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010700",
+    "date": "2026-09-14",
+    "name": "JERSEY MIKES #3004",
+    "inspector_id": "3064",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010597",
+    "date": "2026-09-14",
+    "name": "JERSEY MIKES - #2",
+    "inspector_id": "3183",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030142",
+    "date": "2026-09-14",
+    "name": "MOTS AND LOTS HOT DOGS INC.",
+    "inspector_id": "3185",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020274",
+    "date": "2026-09-14",
+    "name": "SPEEDWAY #7909",
+    "inspector_id": "2382",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610426",
+    "date": "2026-09-14",
+    "name": "TATTOOS WITH EMILY (EMILY SCHMID)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011297",
+    "date": "2026-09-14",
+    "name": "THE SCULLERY",
+    "inspector_id": "2642",
+    "score": "92",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074040005",
+    "date": "2026-09-11",
+    "name": "CPT. TEACH'S BUCCANEER BRATS N DOGS",
+    "inspector_id": "3183",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020303",
+    "date": "2026-09-11",
+    "name": "KASH N KARRY II",
+    "inspector_id": "3183",
+    "score": "90",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610423",
+    "date": "2026-09-11",
+    "name": "LEE HOUSE CUSTOM TATTOOS",
+    "inspector_id": "2180",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610425",
+    "date": "2026-09-11",
+    "name": "LEE HOUSE CUSTOM TATTOOS",
+    "inspector_id": "2180",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610424",
+    "date": "2026-09-11",
+    "name": "LEE HOUSE CUSTOM TATTOOS",
+    "inspector_id": "2180",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020388",
+    "date": "2026-09-11",
+    "name": "MB GRILL",
+    "inspector_id": "2642",
+    "score": "91",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011857",
+    "date": "2026-09-11",
+    "name": "R&BS KOUNTRY KITCHEN",
+    "inspector_id": "2382",
+    "score": "92.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030156",
+    "date": "2026-09-11",
+    "name": "REZZY'S PERFECT PANCAKES 2",
+    "inspector_id": "3064",
+    "score": "99.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074160013",
+    "date": "2026-09-11",
+    "name": "SPRING ARBOR KITCHEN",
+    "inspector_id": "2642",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074110045",
+    "date": "2026-09-11",
+    "name": "WINTERVILLE CHARTER ACADEMY",
+    "inspector_id": "3064",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074420070",
+    "date": "2026-09-10",
+    "name": "BRIGHT BEGINNINGS PRESCHOOL AND DAY CARE",
+    "inspector_id": "2180",
+    "score": "4",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011363",
+    "date": "2026-09-10",
+    "name": "CONFECTION CONNECTION",
+    "inspector_id": "3185",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020252",
+    "date": "2026-09-10",
+    "name": "DOMINOS PIZZA OF AYDEN",
+    "inspector_id": "3183",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011695",
+    "date": "2026-09-10",
+    "name": "HALAL TASTE FOODS",
+    "inspector_id": "2382",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074420232",
+    "date": "2026-09-10",
+    "name": "LAKEFOREST ELEMENTARY PRE-K",
+    "inspector_id": "2180",
+    "score": "2",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020315",
+    "date": "2026-09-10",
+    "name": "LITTLE CAESAR'S",
+    "inspector_id": "2642",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074110037",
+    "date": "2026-09-10",
+    "name": "NORTHWEST ELEMENTARY CAFETERIA",
+    "inspector_id": "2382",
+    "score": "99",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074110018",
+    "date": "2026-09-10",
+    "name": "PACTOLUS SCHOOL CAFETERIA",
+    "inspector_id": "2642",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010031",
+    "date": "2026-09-10",
+    "name": "THE HILTON BANQUET",
+    "inspector_id": "3185",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011825",
+    "date": "2026-09-10",
+    "name": "TIE BREAKERS 3",
+    "inspector_id": "3064",
+    "score": "93",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030038",
+    "date": "2026-09-09",
+    "name": "DIFFERENT BITES MFU",
+    "inspector_id": "2642",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074420230",
+    "date": "2026-09-09",
+    "name": "G. R. WHITFIELD ELEMENTARY PRE-K",
+    "inspector_id": "2180",
+    "score": "3",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011434",
+    "date": "2026-09-09",
+    "name": "WALTER B JONES CENTER",
+    "inspector_id": "2382",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074110005",
+    "date": "2026-09-08",
+    "name": "BETHEL ELEMENTARY CAFETERIA",
+    "inspector_id": "2642",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020366",
+    "date": "2026-09-08",
+    "name": "BILL'S HOT DOGS",
+    "inspector_id": "3064",
+    "score": "99.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020187",
+    "date": "2026-09-08",
+    "name": "FOOD LION DELI #1373",
+    "inspector_id": "2382",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011799",
+    "date": "2026-09-08",
+    "name": "GIDDY-UP COFFEE HOUSE",
+    "inspector_id": "3185",
+    "score": "89",
+    "grade": "B",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011664",
+    "date": "2026-09-08",
+    "name": "HWY 55 BURGERS, SHAKES, & FRIES (4420 E 10TH ST)",
+    "inspector_id": "3064",
+    "score": "91",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011911",
+    "date": "2026-09-08",
+    "name": "LARRY'S STEAKHOUSE",
+    "inspector_id": "2642",
+    "score": "91.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011519",
+    "date": "2026-09-08",
+    "name": "STARBUCKS COFFEE CO",
+    "inspector_id": "3183",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074500148",
+    "date": "2026-09-08",
+    "name": "THE ENCLAVE POOL",
+    "inspector_id": "3506",
+    "score": "8",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074110004",
+    "date": "2026-09-04",
+    "name": "BELVOIR ELEMENTARY CAFETERIA",
+    "inspector_id": "2382",
+    "score": "96",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610271",
+    "date": "2026-09-04",
+    "name": "LITTLE BEE STINGS TATTOOS",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011227",
+    "date": "2026-09-04",
+    "name": "MI CABANA #2",
+    "inspector_id": "2382",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610422",
+    "date": "2026-09-04",
+    "name": "OLD EAGLE TATTOO (JESSE GURGANUS)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020311",
+    "date": "2026-09-04",
+    "name": "WAL-MART 5851",
+    "inspector_id": "3064",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020409",
+    "date": "2026-09-03",
+    "name": "ARAMARK S + E AT THE GALLEY",
+    "inspector_id": "2929",
+    "score": "96",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074300059",
+    "date": "2026-09-03",
+    "name": "FOOD LION # 1674 MEAT MARKET",
+    "inspector_id": "2642",
+    "score": "99.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020340",
+    "date": "2026-09-03",
+    "name": "FOOD LION PRODUCE #1674",
+    "inspector_id": "2642",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011656",
+    "date": "2026-09-03",
+    "name": "JIMMY JOHN'S #4134",
+    "inspector_id": "3064",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011577",
+    "date": "2026-09-03",
+    "name": "PUBLIX SEAFOOD MARKET",
+    "inspector_id": "3185",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074420304",
+    "date": "2026-09-03",
+    "name": "RISING STARS OF GREENVILLE",
+    "inspector_id": "2180",
+    "score": "2",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074050010",
+    "date": "2026-09-03",
+    "name": "WALTON ACADEMY KITCHEN",
+    "inspector_id": "3064",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010996",
+    "date": "2026-09-02",
+    "name": "CHINA KING",
+    "inspector_id": "2382",
+    "score": "91.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074110028",
+    "date": "2026-09-02",
+    "name": "G R WHITFIELD SCHOOL CAFETERIA",
+    "inspector_id": "3064",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074160000",
+    "date": "2026-09-02",
+    "name": "NAVION SENIOR SOLUTIONS KITCHEN",
+    "inspector_id": "3185",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011796",
+    "date": "2026-09-02",
+    "name": "PIECE OF FRANCE PASTRY SHOP CAFE",
+    "inspector_id": "3185",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074420304",
+    "date": "2026-09-02",
+    "name": "RISING STARS OF GREENVILLE",
+    "inspector_id": "2180",
+    "score": "16",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610421",
+    "date": "2026-09-02",
+    "name": "SAVEDBYTHEINK (TAMINA OIEN)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020424",
+    "date": "2026-09-02",
+    "name": "SPEEDWAY #47063",
+    "inspector_id": "3064",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030108",
+    "date": "2026-09-02",
+    "name": "TAYLOR MADE SOULFOOD LLC",
+    "inspector_id": "3185",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020265",
+    "date": "2026-09-02",
+    "name": "THE FRESH MARKET DELI #101",
+    "inspector_id": "2642",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074430147",
+    "date": "2026-09-01",
+    "name": "BRIGHT DAY HOME CARE",
+    "inspector_id": "2382",
+    "score": "4",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011327",
+    "date": "2026-09-01",
+    "name": "LA RIBERA",
+    "inspector_id": "2929",
+    "score": "92",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020390",
+    "date": "2026-09-01",
+    "name": "LITTLE CAESAR'S #84",
+    "inspector_id": "3064",
+    "score": "89",
+    "grade": "B",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020367",
+    "date": "2026-09-01",
+    "name": "PIZZA HUT #33925",
+    "inspector_id": "3185",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074050002",
+    "date": "2026-09-01",
+    "name": "ST PETER'S SCHOOL CAFETERIA",
+    "inspector_id": "2642",
+    "score": "99.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074420172",
+    "date": "2026-09-01",
+    "name": "THE JOY IN CARING CHILD CARE, INC",
+    "inspector_id": "2180",
+    "score": "13",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074160019",
+    "date": "2026-08-31",
+    "name": "ALPHA CARE ONE ASSISTED LIVING KITCHEN",
+    "inspector_id": "2382",
+    "score": "82",
+    "grade": "B",
+    "source": "PITT"
+  },
+  {
+    "id": "6074160003",
+    "date": "2026-08-31",
+    "name": "BROOKDALE DICKINSON AVE KITCHEN",
+    "inspector_id": "3185",
+    "score": "90",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011679",
+    "date": "2026-08-31",
+    "name": "COOK OUT WV265",
+    "inspector_id": "3183",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011657",
+    "date": "2026-08-31",
+    "name": "FIVE GUYS BURGERS & FRIES",
+    "inspector_id": "3185",
+    "score": "90",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011558",
+    "date": "2026-08-31",
+    "name": "PARKER'S #3",
+    "inspector_id": "3064",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074300045",
+    "date": "2026-08-31",
+    "name": "SAM'S CLUB MEAT MARKET",
+    "inspector_id": "3183",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074110027",
+    "date": "2026-08-31",
+    "name": "WELLCOME MIDDLE SCHOOL CAFETERIA",
+    "inspector_id": "2642",
+    "score": "99",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010636",
+    "date": "2026-08-29",
+    "name": "NEW CONTENTNEA CREEK BBQ",
+    "inspector_id": "2382",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011840",
+    "date": "2026-08-28",
+    "name": "DELICIAS MICHOACANAS",
+    "inspector_id": "3064",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030158",
+    "date": "2026-08-28",
+    "name": "FILTHY FRIES FOOD TRUCK",
+    "inspector_id": "3064",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610420",
+    "date": "2026-08-28",
+    "name": "GREENVILLE CONVENTION CENTER (NEIL CLARK)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030098",
+    "date": "2026-08-28",
+    "name": "LIME AND THE CORN",
+    "inspector_id": "3064",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610183",
+    "date": "2026-08-28",
+    "name": "NEW YORK NAILS & SPA [GREENVILLE MALL] (T. HOANG)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074420216",
+    "date": "2026-08-28",
+    "name": "OVER THE RAINBOW CHILDCARE CENTER",
+    "inspector_id": "2180",
+    "score": "13",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074110021",
+    "date": "2026-08-28",
+    "name": "SADIE SAULTER SCHOOL CAFETERIA",
+    "inspector_id": "2642",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074150003",
+    "date": "2026-08-28",
+    "name": "WILLIAMS CATERING COMMISSARY",
+    "inspector_id": "2642",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020346",
+    "date": "2026-08-27",
+    "name": "A W C",
+    "inspector_id": "2642",
+    "score": "99",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010493",
+    "date": "2026-08-27",
+    "name": "BARNES & NOBLE BOOKSELLERS #2775",
+    "inspector_id": "3185",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530092",
+    "date": "2026-08-25",
+    "name": "CAROLINA CREEK APARTMENTS",
+    "inspector_id": "3506",
+    "score": "8",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020260",
+    "date": "2026-08-25",
+    "name": "COOK OUT 48",
+    "inspector_id": "2929",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011026",
+    "date": "2026-08-25",
+    "name": "DUCK THRU FOOD STORE #59",
+    "inspector_id": "2382",
+    "score": "88.50",
+    "grade": "B",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011420",
+    "date": "2026-08-25",
+    "name": "LA FIESTA MEXICAN RESTAURANT",
+    "inspector_id": "3064",
+    "score": "90",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011375",
+    "date": "2026-08-25",
+    "name": "MI CABANA #3",
+    "inspector_id": "3183",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074160017",
+    "date": "2026-08-25",
+    "name": "OAK HAVEN SENIOR VILLAGE KITCHEN",
+    "inspector_id": "3185",
+    "score": "91",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074300022",
+    "date": "2026-08-25",
+    "name": "PIGGLY WIGGLY MEAT MARKET #34",
+    "inspector_id": "2929",
+    "score": "96",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010890",
+    "date": "2026-08-25",
+    "name": "POORMANS GRILL",
+    "inspector_id": "2642",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011566",
+    "date": "2026-08-25",
+    "name": "STARBUCK'S AT TARGET",
+    "inspector_id": "3185",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020418",
+    "date": "2026-08-25",
+    "name": "WAWA 6109",
+    "inspector_id": "3183",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011903",
+    "date": "2026-08-24",
+    "name": "CAPE FEAR SEAFOOD COMPANY",
+    "inspector_id": "3185",
+    "score": "92.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610418",
+    "date": "2026-08-24",
+    "name": "CAPE FEAR TATTOO (GENANID G)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011697",
+    "date": "2026-08-24",
+    "name": "CHICK-FIL-A GREENVILLE MALL",
+    "inspector_id": "3185",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610419",
+    "date": "2026-08-24",
+    "name": "ESCAPE SPA AND BOUTIQUE (CYAN SMITH)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011650",
+    "date": "2026-08-24",
+    "name": "FARMVILLE PIZZA",
+    "inspector_id": "2382",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011598",
+    "date": "2026-08-24",
+    "name": "JIMMY JOHN'S #1391",
+    "inspector_id": "2642",
+    "score": "96",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530089",
+    "date": "2026-08-24",
+    "name": "THE JOLLY ROGER",
+    "inspector_id": "3506",
+    "score": "4",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011825",
+    "date": "2026-08-24",
+    "name": "TIE BREAKERS 3",
+    "inspector_id": "3064",
+    "score": "84.50",
+    "grade": "B",
+    "source": "PITT"
+  },
+  {
+    "id": "6074110034",
+    "date": "2026-08-24",
+    "name": "WINTERGREEN PRIMARY SCHOOL CAFETERIA",
+    "inspector_id": "3064",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011602",
+    "date": "2026-08-21",
+    "name": "CAROLS HOME COOKING",
+    "inspector_id": "2382",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011622",
+    "date": "2026-08-21",
+    "name": "EL PAKAS MEXICAN RESTAURANT",
+    "inspector_id": "3064",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074300060",
+    "date": "2026-08-21",
+    "name": "FOOD LION MEAT MARKET 1492",
+    "inspector_id": "3183",
+    "score": "99",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020336",
+    "date": "2026-08-21",
+    "name": "FOOD LION PRODUCE #1492",
+    "inspector_id": "3183",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074200080",
+    "date": "2026-08-21",
+    "name": "HAMPTON INN - GREENVILLE",
+    "inspector_id": "3185",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020254",
+    "date": "2026-08-21",
+    "name": "HARRIS TEETER 287 DELI",
+    "inspector_id": "3064",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610417",
+    "date": "2026-08-21",
+    "name": "SAVEDBYTHEINK (JONATHON HUBER)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030167",
+    "date": "2026-08-21",
+    "name": "THE CITY - FOODIE CO",
+    "inspector_id": "2929",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530089",
+    "date": "2026-08-21",
+    "name": "THE JOLLY ROGER",
+    "inspector_id": "3506",
+    "score": "0",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010899",
+    "date": "2026-08-20",
+    "name": "BOJANGLES # 5",
+    "inspector_id": "3185",
+    "score": "90.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530105",
+    "date": "2026-08-20",
+    "name": "EVOLVE AT THE PINES",
+    "inspector_id": "3506",
+    "score": "4",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020196",
+    "date": "2026-08-20",
+    "name": "FOOD LION DELI #2511",
+    "inspector_id": "3183",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011413",
+    "date": "2026-08-20",
+    "name": "MARABELLA OLD WORLD PIZZA",
+    "inspector_id": "3064",
+    "score": "96",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030097",
+    "date": "2026-08-20",
+    "name": "OH MY GYRO MFU",
+    "inspector_id": "2382",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074300079",
+    "date": "2026-08-20",
+    "name": "PIGGLY WIGGLY MEAT MARKET",
+    "inspector_id": "3183",
+    "score": "96",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074150012",
+    "date": "2026-08-20",
+    "name": "REZZY'S PERFECT PANCAKE, LLC",
+    "inspector_id": "3064",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610415",
+    "date": "2026-08-20",
+    "name": "VAZ PERMANENT MAKEUP STUDIO & ACADEMY (IRMA V)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610218",
+    "date": "2026-08-20",
+    "name": "VAZ PERMANENT MAKEUP STUDIO & ACADEMY (L.V. LOPEZ)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610416",
+    "date": "2026-08-20",
+    "name": "VAZ PERMANENT MAKEUP STUDIO & ACADEMY (LAURA M)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020123",
+    "date": "2026-08-20",
+    "name": "WARRENS HOT DOGS",
+    "inspector_id": "2642",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020334",
+    "date": "2026-08-19",
+    "name": "CIRCLE K  #2723104",
+    "inspector_id": "3185",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030173",
+    "date": "2026-08-19",
+    "name": "NORA'S KITCHEN",
+    "inspector_id": "2642",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011158",
+    "date": "2026-08-19",
+    "name": "SHEETZ #415",
+    "inspector_id": "3064",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010705",
+    "date": "2026-08-19",
+    "name": "SHUN XING",
+    "inspector_id": "2642",
+    "score": "96",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011134",
+    "date": "2026-08-19",
+    "name": "TEXAS ROADHOUSE",
+    "inspector_id": "2929",
+    "score": "93.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011896",
+    "date": "2026-08-18",
+    "name": "BULLS EYE GRILL",
+    "inspector_id": "3185",
+    "score": "93",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011846",
+    "date": "2026-08-18",
+    "name": "CHICKEN SALAD CHICK",
+    "inspector_id": "3185",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010909",
+    "date": "2026-08-18",
+    "name": "IHOP #4415",
+    "inspector_id": "3185",
+    "score": "92",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011829",
+    "date": "2026-08-18",
+    "name": "LATIN ROOTS BAR & GRILL",
+    "inspector_id": "3064",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011586",
+    "date": "2026-08-18",
+    "name": "MI CABANA #7",
+    "inspector_id": "3064",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011775",
+    "date": "2026-08-18",
+    "name": "NASH HOT CHICKEN",
+    "inspector_id": "2642",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011787",
+    "date": "2026-08-18",
+    "name": "SPEEDY WOK III",
+    "inspector_id": "2382",
+    "score": "75.50",
+    "grade": "C",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530069",
+    "date": "2026-08-18",
+    "name": "THE MADISON",
+    "inspector_id": "3506",
+    "score": "6",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530082",
+    "date": "2026-08-18",
+    "name": "YUGO GREENVILLE UPTOWN",
+    "inspector_id": "3506",
+    "score": "10",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074550028",
+    "date": "2026-08-18",
+    "name": "YUGO GREENVILLE UPTOWN SPA",
+    "inspector_id": "3506",
+    "score": "10",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074430156",
+    "date": "2026-08-17",
+    "name": "BETTER CONNECTION - FARMVILLE",
+    "inspector_id": "3185",
+    "score": "4",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011378",
+    "date": "2026-08-17",
+    "name": "CAVA MEZZE GRILL",
+    "inspector_id": "2929",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011732",
+    "date": "2026-08-17",
+    "name": "CYPRESS GLEN - STEWART CAFE",
+    "inspector_id": "2642",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011139",
+    "date": "2026-08-17",
+    "name": "DAD'S PLACE HOMESTYLE COOKING AND CATERING",
+    "inspector_id": "2382",
+    "score": "93",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011764",
+    "date": "2026-08-17",
+    "name": "EL AZADOR TAQUERIA",
+    "inspector_id": "3064",
+    "score": "93",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030129",
+    "date": "2026-08-17",
+    "name": "REZZY'S PERFECT PANCAKES",
+    "inspector_id": "3064",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011739",
+    "date": "2026-08-17",
+    "name": "RUBY TUESDAY #4296",
+    "inspector_id": "3183",
+    "score": "91",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020232",
+    "date": "2026-08-17",
+    "name": "SPEEDWAY #8183",
+    "inspector_id": "3185",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020299",
+    "date": "2026-08-14",
+    "name": "BULLS EYE GRILL",
+    "inspector_id": "3064",
+    "score": "90.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010774",
+    "date": "2026-08-14",
+    "name": "COCONUT CAFE AND PLAY",
+    "inspector_id": "3185",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011694",
+    "date": "2026-08-14",
+    "name": "FELLOWSHIP GAMES",
+    "inspector_id": "3183",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030164",
+    "date": "2026-08-14",
+    "name": "GORHAM'S BBQ & CATERING",
+    "inspector_id": "2382",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011665",
+    "date": "2026-08-14",
+    "name": "J & J WINGS CAFE",
+    "inspector_id": "3185",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010605",
+    "date": "2026-08-14",
+    "name": "KFC 080056",
+    "inspector_id": "3185",
+    "score": "99.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011289",
+    "date": "2026-08-14",
+    "name": "RED OAK GRILL & GROCERY, INC",
+    "inspector_id": "2929",
+    "score": "93.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011393",
+    "date": "2026-08-14",
+    "name": "SUBWAY 57971",
+    "inspector_id": "3064",
+    "score": "92.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011893",
+    "date": "2026-08-14",
+    "name": "TOMMY'S GROCERY & GRILL",
+    "inspector_id": "3064",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011868",
+    "date": "2026-08-13",
+    "name": "AFC ZENSHI @ PUBLIX 1569",
+    "inspector_id": "3185",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011526",
+    "date": "2026-08-13",
+    "name": "CHIPOTLE MEXICAN GRILL (PCC)",
+    "inspector_id": "3183",
+    "score": "99.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011077",
+    "date": "2026-08-13",
+    "name": "COURTYARD BY MARRIOTT GRV",
+    "inspector_id": "2929",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074300076",
+    "date": "2026-08-13",
+    "name": "FOOD LION MEAT MARKET #2635",
+    "inspector_id": "2382",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010623",
+    "date": "2026-08-13",
+    "name": "OMAR'S # 2",
+    "inspector_id": "3185",
+    "score": "92",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011571",
+    "date": "2026-08-13",
+    "name": "PIZZA HUT #33145",
+    "inspector_id": "2382",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020375",
+    "date": "2026-08-13",
+    "name": "TAQUERIA TERE",
+    "inspector_id": "3183",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074420322",
+    "date": "2026-08-13",
+    "name": "THE SCHOLAR'S HOUSE LEARNING CENTER",
+    "inspector_id": "2180",
+    "score": "12",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011607",
+    "date": "2026-08-13",
+    "name": "TOKYO EXPRESS",
+    "inspector_id": "2929",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020394",
+    "date": "2026-08-12",
+    "name": "DOMINO'S #5534",
+    "inspector_id": "3064",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020186",
+    "date": "2026-08-12",
+    "name": "FOOD LION DELI # 1568",
+    "inspector_id": "3506",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011722",
+    "date": "2026-08-12",
+    "name": "WELL PLAYED GAMES",
+    "inspector_id": "2642",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020415",
+    "date": "2026-08-11",
+    "name": "CHARLIE'S GRILL",
+    "inspector_id": "3064",
+    "score": "90",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530011",
+    "date": "2026-08-11",
+    "name": "ECU STUDENT RECREATION CENTER - INDOOR POOL",
+    "inspector_id": "3506",
+    "score": "0",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011845",
+    "date": "2026-08-11",
+    "name": "KAT'S LIL COMMUNITY CAFE",
+    "inspector_id": "2642",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074420029",
+    "date": "2026-08-11",
+    "name": "KINDERCARE LEARNING CENTERS LLC (RED BANKS)",
+    "inspector_id": "2180",
+    "score": "14",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030105",
+    "date": "2026-08-11",
+    "name": "LA TAKERIA MFU",
+    "inspector_id": "3064",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011428",
+    "date": "2026-08-11",
+    "name": "MI CABANITA MEXICAN RESTAURANT",
+    "inspector_id": "2382",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020381",
+    "date": "2026-08-11",
+    "name": "NAMASTAY FOOD CORNER/RUSH BOWLS",
+    "inspector_id": "2929",
+    "score": "90",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074300073",
+    "date": "2026-08-11",
+    "name": "PIGGLY WIGGLY #70",
+    "inspector_id": "2382",
+    "score": "96",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011815",
+    "date": "2026-08-11",
+    "name": "ROYAL FARMS #474",
+    "inspector_id": "2929",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011822",
+    "date": "2026-08-11",
+    "name": "ROYAL FARMS #486",
+    "inspector_id": "3185",
+    "score": "92.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020412",
+    "date": "2026-08-11",
+    "name": "S & N PLUS",
+    "inspector_id": "2642",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074420325",
+    "date": "2026-08-11",
+    "name": "THE PROMISED AFTERSCHOOL & LEARNING CENTER, LTD",
+    "inspector_id": "2180",
+    "score": "9",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011836",
+    "date": "2026-08-10",
+    "name": "C D'S GRILL",
+    "inspector_id": "3064",
+    "score": "93",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610320",
+    "date": "2026-08-10",
+    "name": "CHICAGO CUSTOM TATTOO (K. BALDYGA)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011888",
+    "date": "2026-08-10",
+    "name": "CHIPOTLE MEXICAN GRILL #5534",
+    "inspector_id": "2929",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610414",
+    "date": "2026-08-10",
+    "name": "CRYTSAL AND SAGE BEAUTY (SARA MCCARN)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610321",
+    "date": "2026-08-10",
+    "name": "DESIRE BEAUTY SERVICES (D. REYES)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020395",
+    "date": "2026-08-10",
+    "name": "DOMINO'S PIZZA #5530",
+    "inspector_id": "2642",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074420303",
+    "date": "2026-08-10",
+    "name": "KIDS-R-US 3 SCHOOL AGE PROGRAM",
+    "inspector_id": "2180",
+    "score": "13",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010006",
+    "date": "2026-08-10",
+    "name": "MASA SUSHI SAKE & GRILL + BAR",
+    "inspector_id": "2929",
+    "score": "74.50",
+    "grade": "C",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020225",
+    "date": "2026-08-07",
+    "name": "FOOD LION DELI 1657",
+    "inspector_id": "3064",
+    "score": "96",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011653",
+    "date": "2026-08-07",
+    "name": "FRESH VIBES 2",
+    "inspector_id": "2929",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020427",
+    "date": "2026-08-07",
+    "name": "MIDTOWN GROCERY",
+    "inspector_id": "2642",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011847",
+    "date": "2026-08-07",
+    "name": "MOMO MAGIC",
+    "inspector_id": "2382",
+    "score": "91.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074500076",
+    "date": "2026-08-07",
+    "name": "QUALITY INN - SWIMMING POOL",
+    "inspector_id": "3506",
+    "score": "12",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020363",
+    "date": "2026-08-07",
+    "name": "SPEEDWAY #8661",
+    "inspector_id": "2382",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011492",
+    "date": "2026-08-07",
+    "name": "SUBWAY # 31675",
+    "inspector_id": "3064",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011658",
+    "date": "2026-08-06",
+    "name": "42 FRY",
+    "inspector_id": "3064",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020410",
+    "date": "2026-08-06",
+    "name": "7-ELEVEN GREENVILLE #42265",
+    "inspector_id": "3183",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020376",
+    "date": "2026-08-06",
+    "name": "COOK OUT #63",
+    "inspector_id": "3064",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011817",
+    "date": "2026-08-06",
+    "name": "HOMEWOOD SUITES KITCHEN",
+    "inspector_id": "3183",
+    "score": "93.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010606",
+    "date": "2026-08-06",
+    "name": "KENTUCKY FRIED CHICKEN #C748035",
+    "inspector_id": "2929",
+    "score": "96",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011375",
+    "date": "2026-08-06",
+    "name": "MI CABANA #3",
+    "inspector_id": "3183",
+    "score": "88.50",
+    "grade": "B",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020358",
+    "date": "2026-08-06",
+    "name": "MOZINGO RD FOOD MART INC",
+    "inspector_id": "2382",
+    "score": "93.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011533",
+    "date": "2026-08-06",
+    "name": "PIZZA HUT #32063",
+    "inspector_id": "2929",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011154",
+    "date": "2026-08-06",
+    "name": "THE WOOD PLANK STEAKHOUSE",
+    "inspector_id": "2382",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020378",
+    "date": "2026-08-05",
+    "name": "427 CONVENIENT MART",
+    "inspector_id": "2642",
+    "score": "94.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011769",
+    "date": "2026-08-05",
+    "name": "CIRCLE K #2720826",
+    "inspector_id": "3183",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074140286",
+    "date": "2026-08-05",
+    "name": "COUNTRY INN AND SUITES BREAKFAST BAR",
+    "inspector_id": "3183",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011166",
+    "date": "2026-08-05",
+    "name": "JERSEY MIKE'S 3124",
+    "inspector_id": "3064",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011772",
+    "date": "2026-08-05",
+    "name": "MISSION BBQ",
+    "inspector_id": "3064",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011759",
+    "date": "2026-08-05",
+    "name": "RUN-A-BOAT JAMAICAN RESTAURANT",
+    "inspector_id": "3183",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011913",
+    "date": "2026-08-04",
+    "name": "ARBY'S #8048",
+    "inspector_id": "3064",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011901",
+    "date": "2026-08-04",
+    "name": "BLACK ROSE BOTTLING CO",
+    "inspector_id": "2382",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074420324",
+    "date": "2026-08-04",
+    "name": "FOUNDATION FIRST EARLY LEARNING CENTER",
+    "inspector_id": "2180",
+    "score": "12",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530050",
+    "date": "2026-08-04",
+    "name": "HAMPTON INN SWIMMING POOL",
+    "inspector_id": "3506",
+    "score": "0",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010154",
+    "date": "2026-08-04",
+    "name": "HARDEES SKAT THRU 1827",
+    "inspector_id": "3064",
+    "score": "96",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011073",
+    "date": "2026-08-04",
+    "name": "STARBUCKS COFFEE  #13481",
+    "inspector_id": "2642",
+    "score": "99",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011590",
+    "date": "2026-08-03",
+    "name": "BLACKBEARD COFFEE ROASTERS",
+    "inspector_id": "2642",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011826",
+    "date": "2026-08-03",
+    "name": "HIBACHI XPRESS",
+    "inspector_id": "2382",
+    "score": "93",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020263",
+    "date": "2026-08-03",
+    "name": "PAPA JOHNS #2167",
+    "inspector_id": "3064",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011661",
+    "date": "2026-08-03",
+    "name": "PIZZA HUT #036119",
+    "inspector_id": "3064",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530105",
+    "date": "2026-07-31",
+    "name": "EVOLVE AT THE PINES",
+    "inspector_id": "3506",
+    "score": "6",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010831",
+    "date": "2026-07-31",
+    "name": "FUJI JAPAN",
+    "inspector_id": "3064",
+    "score": "96",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020370",
+    "date": "2026-07-31",
+    "name": "FUJISAN",
+    "inspector_id": "3183",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030171",
+    "date": "2026-07-31",
+    "name": "LOS NENES PUERTO RICAN FOOD TRUCK",
+    "inspector_id": "2642",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030169",
+    "date": "2026-07-31",
+    "name": "RICO'S TACOS AND GORDITAS MFU",
+    "inspector_id": "3183",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074160012",
+    "date": "2026-07-31",
+    "name": "SKILL CREATIONS OF GREENVILLE",
+    "inspector_id": "3064",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030139",
+    "date": "2026-07-31",
+    "name": "SMOKIN JAY'S BBQ (FARM TO TOPLLC)",
+    "inspector_id": "2382",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011127",
+    "date": "2026-07-31",
+    "name": "SUBWAY 43354",
+    "inspector_id": "2382",
+    "score": "93.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020188",
+    "date": "2026-07-30",
+    "name": "FOOD LION DELI 486",
+    "inspector_id": "3064",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011693",
+    "date": "2026-07-30",
+    "name": "NEW LAM'S GARDEN",
+    "inspector_id": "3064",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011706",
+    "date": "2026-07-30",
+    "name": "TACO BELL # 37152",
+    "inspector_id": "2642",
+    "score": "99",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074430139",
+    "date": "2026-07-29",
+    "name": "ALEXANDER MANOR",
+    "inspector_id": "2382",
+    "score": "9",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011883",
+    "date": "2026-07-29",
+    "name": "AZAMI EXPRESS",
+    "inspector_id": "3064",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011908",
+    "date": "2026-07-29",
+    "name": "CHICK MAC",
+    "inspector_id": "2642",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011783",
+    "date": "2026-07-29",
+    "name": "DOMINOS PIZZA #4469",
+    "inspector_id": "2929",
+    "score": "96",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020191",
+    "date": "2026-07-29",
+    "name": "FOOD LION DELI #779",
+    "inspector_id": "3183",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011628",
+    "date": "2026-07-29",
+    "name": "ISLAND EATS HAWAIIAN BBQ",
+    "inspector_id": "3064",
+    "score": "94.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011894",
+    "date": "2026-07-29",
+    "name": "THE MEATING GROUND CAFE",
+    "inspector_id": "3183",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074500051",
+    "date": "2026-07-29",
+    "name": "WEDGEWOOD ARMS APARTMENTS",
+    "inspector_id": "3506",
+    "score": "10",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074430023",
+    "date": "2026-07-28",
+    "name": "KESWICK MANOR",
+    "inspector_id": "3183",
+    "score": "4",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011702",
+    "date": "2026-07-28",
+    "name": "NEW CHINA",
+    "inspector_id": "3183",
+    "score": "91.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011858",
+    "date": "2026-07-28",
+    "name": "ROYAL FARMS 540",
+    "inspector_id": "3183",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011810",
+    "date": "2026-07-28",
+    "name": "STARBUCKS - HARRIS TEETER #287",
+    "inspector_id": "3064",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530094",
+    "date": "2026-07-28",
+    "name": "THE DISTRICT AT TAR RIVER [RIVER SIDE]",
+    "inspector_id": "3506",
+    "score": "10",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020266",
+    "date": "2026-07-28",
+    "name": "THE FRESH MARKET PRODUCE #101",
+    "inspector_id": "2642",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074430024",
+    "date": "2026-07-28",
+    "name": "WILLOW MANOR",
+    "inspector_id": "2642",
+    "score": "2",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011003",
+    "date": "2026-07-28",
+    "name": "ZAXBY'S #20202",
+    "inspector_id": "3064",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011460",
+    "date": "2026-07-27",
+    "name": "BURGER KING #186",
+    "inspector_id": "3064",
+    "score": "99",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074500147",
+    "date": "2026-07-27",
+    "name": "CARTER RIDGE AMENITY",
+    "inspector_id": "3506",
+    "score": "10",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011905",
+    "date": "2026-07-27",
+    "name": "HWY 55 ARLINGTON",
+    "inspector_id": "2382",
+    "score": "94.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011052",
+    "date": "2026-07-27",
+    "name": "MEDITERRANEAN COMBO",
+    "inspector_id": "2642",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530031",
+    "date": "2026-07-27",
+    "name": "WATERFORD PLACE APTS. I POOL",
+    "inspector_id": "3506",
+    "score": "12",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011684",
+    "date": "2026-07-27",
+    "name": "WENDY'S #339",
+    "inspector_id": "3064",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011660",
+    "date": "2026-07-24",
+    "name": "ANGUS GRILL",
+    "inspector_id": "3183",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011891",
+    "date": "2026-07-24",
+    "name": "CLUCK & CRISP",
+    "inspector_id": "3064",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011217",
+    "date": "2026-07-24",
+    "name": "EGG BRED",
+    "inspector_id": "2382",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020189",
+    "date": "2026-07-24",
+    "name": "FOOD LION DELI #1492",
+    "inspector_id": "3183",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011609",
+    "date": "2026-07-24",
+    "name": "JACK BROWN'S BEER & BURGER JOINT",
+    "inspector_id": "2642",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074090009",
+    "date": "2026-07-24",
+    "name": "PITT CO COUNCIL ON AGING - PITT/GREENVILLE SENIOR",
+    "inspector_id": "3064",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020272",
+    "date": "2026-07-24",
+    "name": "SPEEDWAY #8231",
+    "inspector_id": "3064",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074420298",
+    "date": "2026-07-24",
+    "name": "STEPHANIE'S GRACE CHILDCARE CENTER",
+    "inspector_id": "2180",
+    "score": "13",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011361",
+    "date": "2026-07-23",
+    "name": "COUNTRY MART #3",
+    "inspector_id": "3183",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011214",
+    "date": "2026-07-23",
+    "name": "DUNKIN DONUTS 346892",
+    "inspector_id": "2642",
+    "score": "90",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011244",
+    "date": "2026-07-23",
+    "name": "SAKURA ASIAN EXPRESS",
+    "inspector_id": "2929",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074300038",
+    "date": "2026-07-23",
+    "name": "SUMRELL'S SAUSAGE",
+    "inspector_id": "3183",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020239",
+    "date": "2026-07-22",
+    "name": "FOOD LION DELI #2635",
+    "inspector_id": "2382",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020192",
+    "date": "2026-07-22",
+    "name": "FOOD LION DELI 1291",
+    "inspector_id": "3064",
+    "score": "99",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074300063",
+    "date": "2026-07-22",
+    "name": "FOOD LION MEAT MARKET 1291",
+    "inspector_id": "3064",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020343",
+    "date": "2026-07-22",
+    "name": "FOOD LION PRODUCE #1291",
+    "inspector_id": "3064",
+    "score": "99",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011855",
+    "date": "2026-07-22",
+    "name": "LOWES FOODS 287 PRODUCE",
+    "inspector_id": "3183",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074420320",
+    "date": "2026-07-22",
+    "name": "MOM'S TINY TREASURES ELC",
+    "inspector_id": "2180",
+    "score": "14",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020302",
+    "date": "2026-07-22",
+    "name": "PIGGLY WIGGLY PRODUCE #34",
+    "inspector_id": "2929",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011651",
+    "date": "2026-07-22",
+    "name": "SALADWORKS/FRUTTA BOWLS",
+    "inspector_id": "3183",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530061",
+    "date": "2026-07-22",
+    "name": "THE HERITAGE OF ARLINGTON APARTMENTS",
+    "inspector_id": "3506",
+    "score": "4",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074300085",
+    "date": "2026-07-22",
+    "name": "TROPICANA SUPERMARKET MEAT MARKET",
+    "inspector_id": "2642",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011684",
+    "date": "2026-07-22",
+    "name": "WENDY'S #339",
+    "inspector_id": "3064",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010932",
+    "date": "2026-07-22",
+    "name": "ZAXBY'S",
+    "inspector_id": "2382",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530019",
+    "date": "2026-07-21",
+    "name": "COMFORT INN & SUITES - SWIMMING POOL",
+    "inspector_id": "3506",
+    "score": "20",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074430002",
+    "date": "2026-07-21",
+    "name": "EASTER SEALS PORT",
+    "inspector_id": "3064",
+    "score": "7",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074430003",
+    "date": "2026-07-21",
+    "name": "EASTERSEALS PORT",
+    "inspector_id": "3064",
+    "score": "7",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011909",
+    "date": "2026-07-21",
+    "name": "RENELL'S",
+    "inspector_id": "3183",
+    "score": "96",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074030170",
+    "date": "2026-07-21",
+    "name": "SABOR A MI TIERRA LLC",
+    "inspector_id": "2642",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020261",
+    "date": "2026-07-21",
+    "name": "SPEEDWAY 7907",
+    "inspector_id": "2642",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020190",
+    "date": "2026-07-20",
+    "name": "FOOD LION DELI # 1674",
+    "inspector_id": "2642",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020423",
+    "date": "2026-07-17",
+    "name": "JOE'S COUNTRY MART",
+    "inspector_id": "2642",
+    "score": "92.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011878",
+    "date": "2026-07-16",
+    "name": "2ND STREET CAFE FARMVILLE",
+    "inspector_id": "2382",
+    "score": "92.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074140302",
+    "date": "2026-07-16",
+    "name": "GUY SMITH STADIUM",
+    "inspector_id": "2382",
+    "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074160015",
+    "date": "2026-07-16",
+    "name": "RED OAK ASSISTED LIVING KITCHEN",
+    "inspector_id": "2929",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011861",
+    "date": "2026-07-16",
+    "name": "ROYAL FARMS #493",
+    "inspector_id": "2642",
+    "score": "96",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610410",
+    "date": "2026-07-15",
+    "name": "MOURNING LILY INK (ALFREDO MOLINA ORTEGA)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610409",
+    "date": "2026-07-15",
+    "name": "MOURNING LILY INK (EMMA HALL)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610411",
+    "date": "2026-07-15",
+    "name": "MOURNING LILY INK (LAUREN FOSKEY)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610413",
+    "date": "2026-07-15",
+    "name": "MOURNING LILY INK (MADALYN SAUFLEY)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610412",
+    "date": "2026-07-15",
+    "name": "MOURNING LILY INK (QUINN PAGONA)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074150015",
+    "date": "2026-07-15",
+    "name": "SMOKIN JAY'S BBQ",
+    "inspector_id": "2382",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011716",
+    "date": "2026-07-15",
+    "name": "TIENDA Y TAQUERIA EL TORITO",
+    "inspector_id": "2382",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020362",
+    "date": "2026-07-14",
+    "name": "BEA-LICIOUS LLC",
+    "inspector_id": "2642",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011784",
+    "date": "2026-07-14",
+    "name": "CIRCLE K #2706484",
+    "inspector_id": "3064",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020428",
+    "date": "2026-07-14",
+    "name": "FRESH MART & GRILL",
+    "inspector_id": "3183",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074300026",
+    "date": "2026-07-14",
+    "name": "FRESH MART & GRILL",
+    "inspector_id": "3183",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011800",
+    "date": "2026-07-14",
+    "name": "STARBUCK'S COFFEE #68123",
+    "inspector_id": "3064",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011452",
+    "date": "2026-07-14",
+    "name": "THE BREAD LADY",
+    "inspector_id": "2929",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074160002",
+    "date": "2026-07-13",
+    "name": "AYDEN COURT NURSING & REHAB KITCHEN",
+    "inspector_id": "3183",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074140295",
+    "date": "2026-07-13",
+    "name": "COMFORT INN & SUITES BREAKFAST BAR",
+    "inspector_id": "2929",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530007",
+    "date": "2026-07-13",
+    "name": "ECU - MINGES COMPETITION POOL",
+    "inspector_id": "3506",
+    "score": "0",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074570003",
+    "date": "2026-07-13",
+    "name": "ECU - MINGES DIVE TANK",
+    "inspector_id": "3506",
+    "score": "6",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011721",
+    "date": "2026-07-13",
+    "name": "PALETERIA DEYA",
+    "inspector_id": "2382",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074090012",
+    "date": "2026-07-13",
+    "name": "PITT CO COUNCIL ON AGING - FARMVILLE SENIOR CENTER",
+    "inspector_id": "2382",
+    "score": "99.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074090013",
+    "date": "2026-07-13",
+    "name": "PITT CO COUNCIL ON AGING - FOUNTAIN SENIOR CENTER",
+    "inspector_id": "2929",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020351",
+    "date": "2026-07-13",
+    "name": "PIZZA HUT #32544",
+    "inspector_id": "3183",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011266",
+    "date": "2026-07-13",
+    "name": "SUBWAY #50096",
+    "inspector_id": "3183",
+    "score": "94.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530049",
+    "date": "2026-07-10",
+    "name": "COPPER BEECH TOWNHOMES",
+    "inspector_id": "3506",
+    "score": "8",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020406",
+    "date": "2026-07-10",
+    "name": "MARK'S FOOD MART",
+    "inspector_id": "2642",
+    "score": "94.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074090010",
+    "date": "2026-07-10",
+    "name": "PITT CO COUNCIL ON AGING - AYDEN SENIOR CENTER",
+    "inspector_id": "3183",
+    "score": "100",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020317",
+    "date": "2026-07-10",
+    "name": "SPEEDWAY #8285",
+    "inspector_id": "2382",
+    "score": "96.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010565",
+    "date": "2026-07-10",
+    "name": "SUE'S COUNTRY KITCHEN",
+    "inspector_id": "2382",
+    "score": "82.50",
+    "grade": "B",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530058",
+    "date": "2026-07-09",
+    "name": "CAMPUS POINTE APARTMENTS",
+    "inspector_id": "3506",
+    "score": "4",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074550025",
+    "date": "2026-07-09",
+    "name": "CAMPUS POINTE SPA",
+    "inspector_id": "3506",
+    "score": "6",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011842",
+    "date": "2026-07-09",
+    "name": "DA LUNCH BOX",
+    "inspector_id": "2642",
+    "score": "91.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020338",
+    "date": "2026-07-09",
+    "name": "FOOD LION #2511 PRODUCE",
+    "inspector_id": "3183",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074300067",
+    "date": "2026-07-09",
+    "name": "FOOD LION MEAT MARKET 2511",
+    "inspector_id": "3183",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074160008",
+    "date": "2026-07-09",
+    "name": "RIVER OAK KITCHEN",
+    "inspector_id": "3183",
+    "score": "91.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011080",
+    "date": "2026-07-09",
+    "name": "TACO BELL #24227",
+    "inspector_id": "3183",
+    "score": "99.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074610408",
+    "date": "2026-07-09",
+    "name": "VAZ PERMANENT MAKEUP STUDIO & ACADEMY (ALICE K)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010906",
+    "date": "2026-07-08",
+    "name": "CARNIES",
+    "inspector_id": "3183",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530022",
+    "date": "2026-07-08",
+    "name": "ECU HEALTH WELLNESS CENTER - LAP POOL",
+    "inspector_id": "3506",
+    "score": "8",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074570002",
+    "date": "2026-07-08",
+    "name": "ECU HEALTH WELLNESS CENTER THERAPEUTIC POOL",
+    "inspector_id": "3506",
+    "score": "4",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011859",
+    "date": "2026-07-08",
+    "name": "MOOSIE'S CATERING CO.",
+    "inspector_id": "2642",
+    "score": "93",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020327",
+    "date": "2026-07-08",
+    "name": "WALMART NHM DELI (S. MEMORIAL)",
+    "inspector_id": "3183",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010707",
+    "date": "2026-07-07",
+    "name": "LOGAN'S ROADHOUSE RESTAURANT",
+    "inspector_id": "3183",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020246",
+    "date": "2026-07-07",
+    "name": "MARCO'S PIZZA",
+    "inspector_id": "3183",
+    "score": "95.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011701",
+    "date": "2026-07-07",
+    "name": "THE BREAKFAST BAR",
+    "inspector_id": "2642",
+    "score": "93",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011638",
+    "date": "2026-07-06",
+    "name": "SHAKE SMART AT ECU MCSC",
+    "inspector_id": "2929",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074200086",
+    "date": "2026-07-02",
+    "name": "AFFORDABLE SUITES OF AMERICA - GREENVILLE",
+    "inspector_id": "2929",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074010228",
+    "date": "2026-07-02",
+    "name": "BENNY VINCENZO'S",
+    "inspector_id": "2642",
+    "score": "93.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074500002",
+    "date": "2026-07-02",
+    "name": "BETHEL SWIM CLUB",
+    "inspector_id": "3506",
+    "score": "8",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530090",
+    "date": "2026-07-02",
+    "name": "BRADBURY PLACE APARTMENTS",
+    "inspector_id": "2180",
+    "score": "16",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011377",
+    "date": "2026-07-02",
+    "name": "HCK HOT CHICKEN GREENVILLE NC",
+    "inspector_id": "3183",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530039",
+    "date": "2026-07-02",
+    "name": "VALERA EAST - EAST POOL",
+    "inspector_id": "3506",
+    "score": "4",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074530038",
+    "date": "2026-07-02",
+    "name": "VALERA EAST - WEST POOL",
+    "inspector_id": "3506",
+    "score": "4",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011267",
+    "date": "2026-07-01",
+    "name": "GOLDEN CORRAL",
+    "inspector_id": "3183",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011903",
+    "date": "2026-06-30",
+    "name": "CAPE FEAR SEAFOOD COMPANY",
+    "inspector_id": "3183",
+    "score": "90.50",
+    "grade": "A",
+    "source": "PITT"
+  }
+]

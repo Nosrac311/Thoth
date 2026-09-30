@@ -1,0 +1,2918 @@
+[
+  {
+    "id": "2018011089",
+    "date": "2026-09-29",
+    "name": "AMALFIS PIZZA",
+    "inspector_id": "2031",
+    "score": "97",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011164",
+    "date": "2026-09-29",
+    "name": "FIVE GUYS BURGERS AND FRIES",
+    "inspector_id": "1654",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018160009",
+    "date": "2026-09-29",
+    "name": "HERITAGE CARE",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018400005",
+    "date": "2026-09-29",
+    "name": "HERITAGE CARE",
+    "inspector_id": "2286",
+    "score": "98",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011248",
+    "date": "2026-09-29",
+    "name": "MOUNTAIN FRIED CHICKEN",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110043",
+    "date": "2026-09-29",
+    "name": "NORTHVIEW MIDDLE SCHOOL",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011173",
+    "date": "2026-09-29",
+    "name": "SUBWAY 16726",
+    "inspector_id": "2286",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011310",
+    "date": "2026-09-29",
+    "name": "THE ROC'N OVEN PIZZERIA",
+    "inspector_id": "2031",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011362",
+    "date": "2026-09-28",
+    "name": "KICKBACK JACK'S 43",
+    "inspector_id": "2031",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011673",
+    "date": "2026-09-28",
+    "name": "MCDONALADS #43139",
+    "inspector_id": "1654",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011597",
+    "date": "2026-09-28",
+    "name": "WATERBEAN COFFEE HICKORY 2 STARTOWN RD",
+    "inspector_id": "2286",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018300046",
+    "date": "2026-09-25",
+    "name": "FOOD LION 726",
+    "inspector_id": "2031",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020207",
+    "date": "2026-09-25",
+    "name": "FOOD LION DELI 726",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020415",
+    "date": "2026-09-25",
+    "name": "FOOD LION PRODUCE #726",
+    "inspector_id": "2031",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020512",
+    "date": "2026-09-25",
+    "name": "HANDCRAFTED GOODNESS",
+    "inspector_id": "1654",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018530076",
+    "date": "2026-09-24",
+    "name": "ABERNETHY LAURELS POOL",
+    "inspector_id": "2031",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018550019",
+    "date": "2026-09-24",
+    "name": "ABERNETHY LAURELS SPA",
+    "inspector_id": "2031",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011242",
+    "date": "2026-09-24",
+    "name": "BUFFALO WILD WINGS GRILL & BAR",
+    "inspector_id": "1654",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010576",
+    "date": "2026-09-24",
+    "name": "DOS AMIGOS",
+    "inspector_id": "2286",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020453",
+    "date": "2026-09-24",
+    "name": "SIMPLY JAM'N BOARDS",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011138",
+    "date": "2026-09-23",
+    "name": "BROOKWOOD CAFE AND CATERING",
+    "inspector_id": "2031",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011539",
+    "date": "2026-09-23",
+    "name": "CHICK FIL A @ LR UNIVERSITY",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011761",
+    "date": "2026-09-23",
+    "name": "E-MART",
+    "inspector_id": "2031",
+    "score": "94.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011565",
+    "date": "2026-09-23",
+    "name": "IHOP #4414",
+    "inspector_id": "1654",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110036",
+    "date": "2026-09-23",
+    "name": "WEBB A MURRAY ELEMENTARY",
+    "inspector_id": "2286",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018420183",
+    "date": "2026-09-23",
+    "name": "WEBB A MURRAY PRE K",
+    "inspector_id": "2286",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011417",
+    "date": "2026-09-22",
+    "name": "BOJANGLES #989 MAIDEN",
+    "inspector_id": "2031",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110007",
+    "date": "2026-09-22",
+    "name": "CHARLES H TUTTLE ELEMENTARY",
+    "inspector_id": "1654",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011541",
+    "date": "2026-09-22",
+    "name": "HARDEES #1506552 SHERRILLS FORD",
+    "inspector_id": "2031",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018420070",
+    "date": "2026-09-21",
+    "name": "BANDYS CHILD CARE CENTER",
+    "inspector_id": "1711",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110054",
+    "date": "2026-09-21",
+    "name": "BANDYS HIGH SCHOOL CAFETERIA",
+    "inspector_id": "1711",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110063",
+    "date": "2026-09-21",
+    "name": "BANOAK ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "1896",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110004",
+    "date": "2026-09-21",
+    "name": "BLACKBURN ELEMENTARY SCHOOL",
+    "inspector_id": "1896",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011702",
+    "date": "2026-09-21",
+    "name": "CHIPOTLE MEXICAN GRILL #5104",
+    "inspector_id": "1654",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018030244",
+    "date": "2026-09-21",
+    "name": "MANIFEAST STATION CATERING",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110042",
+    "date": "2026-09-21",
+    "name": "MILL CREEK MIDDLE SCHOOL",
+    "inspector_id": "1711",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110035",
+    "date": "2026-09-21",
+    "name": "VIEWMONT ELEMENTARY",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018420137",
+    "date": "2026-09-21",
+    "name": "VIEWMONT ELEMENTARY PRE K",
+    "inspector_id": "2286",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010279",
+    "date": "2026-09-21",
+    "name": "WINDY CITY GRILL",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018440061",
+    "date": "2026-09-21",
+    "name": "WM H JOHNSTON ELEM SCH",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011312",
+    "date": "2026-09-18",
+    "name": "HICKORY BIBLE CHURCH",
+    "inspector_id": "2286",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110016",
+    "date": "2026-09-18",
+    "name": "HICKORY HIGH SCHOOL",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018420071",
+    "date": "2026-09-18",
+    "name": "HICKORY HIGH SCHOOL CHILD DEVELOPMENT CENTER",
+    "inspector_id": "2286",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110045",
+    "date": "2026-09-18",
+    "name": "LYLE CREEK ELEMENTARY",
+    "inspector_id": "1711",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018420220",
+    "date": "2026-09-18",
+    "name": "LYLE CREEK NC PREK",
+    "inspector_id": "1711",
+    "score": "2",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110024",
+    "date": "2026-09-18",
+    "name": "OXFORD ELEMENTARY SCHOOL",
+    "inspector_id": "1711",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011533",
+    "date": "2026-09-18",
+    "name": "PIZZA HUT 16TH ST",
+    "inspector_id": "2031",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011178",
+    "date": "2026-09-17",
+    "name": "ASIAN SUPERMARKET, INC",
+    "inspector_id": "2031",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018140364",
+    "date": "2026-09-17",
+    "name": "HICKORY HIGH SOCCER CONCESSION",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020332",
+    "date": "2026-09-17",
+    "name": "HICKORY MOTOR SPEEDWAY CONC #1",
+    "inspector_id": "1896",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020333",
+    "date": "2026-09-17",
+    "name": "HICKORY MOTOR SPEEDWAY CONC #2",
+    "inspector_id": "1896",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020334",
+    "date": "2026-09-17",
+    "name": "HICKORY MOTOR SPEEDWAY CONC #3",
+    "inspector_id": "1896",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011377",
+    "date": "2026-09-17",
+    "name": "OLDE TAVERN",
+    "inspector_id": "2286",
+    "score": "97",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010653",
+    "date": "2026-09-17",
+    "name": "TONYS PIZZA",
+    "inspector_id": "2031",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011428",
+    "date": "2026-09-16",
+    "name": "ARBY'S  #8544 SPRING RD",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018030263",
+    "date": "2026-09-16",
+    "name": "CONNECTED NEIGHBORHOOD CAFE",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010229",
+    "date": "2026-09-16",
+    "name": "HARDEES SKATS THRU",
+    "inspector_id": "2031",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110066",
+    "date": "2026-09-16",
+    "name": "NEWTON CONOVER HIGH CAFETERIA",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110023",
+    "date": "2026-09-16",
+    "name": "OAKWOOD ELEMENTARY",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018420135",
+    "date": "2026-09-16",
+    "name": "OAKWOOD PRE K",
+    "inspector_id": "2286",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011688",
+    "date": "2026-09-15",
+    "name": "HANGRY JOE'S HOT CHICKEN AND WINGS",
+    "inspector_id": "1896",
+    "score": "96",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018060002",
+    "date": "2026-09-15",
+    "name": "LR CAFETERIA",
+    "inspector_id": "2286",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018030252",
+    "date": "2026-09-15",
+    "name": "MARGUERITE'S CUCINA RESTAURANT",
+    "inspector_id": "1654",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020520",
+    "date": "2026-09-15",
+    "name": "REYNOLDS SANDWICH SHOP",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018160008",
+    "date": "2026-09-15",
+    "name": "SPRINGS OF CATAWBA",
+    "inspector_id": "2286",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018420123",
+    "date": "2026-09-15",
+    "name": "STARTOWN ELEMENTARY PRESCHOOL",
+    "inspector_id": "1896",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110031",
+    "date": "2026-09-15",
+    "name": "STARTOWN ELEMENTARY SCHOOL",
+    "inspector_id": "1896",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011630",
+    "date": "2026-09-15",
+    "name": "SUNNY SIDE",
+    "inspector_id": "2031",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011438",
+    "date": "2026-09-15",
+    "name": "THE HEN & EGG",
+    "inspector_id": "2031",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020500",
+    "date": "2026-09-14",
+    "name": "COUNTRYSIDE DELI AND PIZZA",
+    "inspector_id": "2031",
+    "score": "95",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011129",
+    "date": "2026-09-14",
+    "name": "HAMPTON INN BREAKFAST",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018420245",
+    "date": "2026-09-14",
+    "name": "LONGVIEW ELEMENTARY PREK",
+    "inspector_id": "2286",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110058",
+    "date": "2026-09-14",
+    "name": "LONGVIEW ELEMENTARY SCHOOL CAFETERIA",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011141",
+    "date": "2026-09-14",
+    "name": "WAFFLE HOUSE",
+    "inspector_id": "2286",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110000",
+    "date": "2026-09-11",
+    "name": "ADRIAN SHUFORD ELEMENTARY SCHO",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020497",
+    "date": "2026-09-11",
+    "name": "AFC ZENSHI @ PUBLIX #1550",
+    "inspector_id": "1896",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018140363",
+    "date": "2026-09-11",
+    "name": "HICKORY HIGH ATHLETIC BOOSTERS FOOTBALL",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011508",
+    "date": "2026-09-11",
+    "name": "HICKORY WINE SHOPPE",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110048",
+    "date": "2026-09-11",
+    "name": "MAIDEN HIGH SCHOOL",
+    "inspector_id": "1654",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011436",
+    "date": "2026-09-11",
+    "name": "PUBLIX #1550 29TH AVE DELI",
+    "inspector_id": "1896",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018300309",
+    "date": "2026-09-11",
+    "name": "PUBLIX #1550 29TH AVE MEAT MARKET",
+    "inspector_id": "1896",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020419",
+    "date": "2026-09-11",
+    "name": "PUBLIX #1550 29TH AVE PRODUCE",
+    "inspector_id": "1896",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020418",
+    "date": "2026-09-11",
+    "name": "PUBLIX #1550 29TH AVE SEAFOOD",
+    "inspector_id": "1896",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018420257",
+    "date": "2026-09-11",
+    "name": "SHUFORD ELEMENTARY PRESCHOOL",
+    "inspector_id": "2031",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011150",
+    "date": "2026-09-10",
+    "name": "BOJANGLES 408",
+    "inspector_id": "1896",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110053",
+    "date": "2026-09-10",
+    "name": "BUNKERHILL HIGH SCHOOL CAFETERIA",
+    "inspector_id": "1896",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011694",
+    "date": "2026-09-10",
+    "name": "CASA AGUILAR",
+    "inspector_id": "2286",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010049",
+    "date": "2026-09-10",
+    "name": "CHUBBYS OF CONOVER, INC",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020389",
+    "date": "2026-09-10",
+    "name": "DOMINOS PIZZA HWY 10",
+    "inspector_id": "1654",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010624",
+    "date": "2026-09-10",
+    "name": "FUJI EXPRESS",
+    "inspector_id": "2031",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011118",
+    "date": "2026-09-09",
+    "name": "ARBY'S #7455",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010877",
+    "date": "2026-09-09",
+    "name": "CARRABBA'S ITALIAN GRILL #8411",
+    "inspector_id": "2286",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110052",
+    "date": "2026-09-09",
+    "name": "FRED T FOARD HIGH CAFETERIA",
+    "inspector_id": "1896",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110040",
+    "date": "2026-09-09",
+    "name": "JACOBS FORK MIDDLE SCHOOL",
+    "inspector_id": "1896",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011168",
+    "date": "2026-09-09",
+    "name": "LIAZZOS AT HICKORY METRO CENTER",
+    "inspector_id": "2031",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011097",
+    "date": "2026-09-08",
+    "name": "BOJANGLES #7004",
+    "inspector_id": "1654",
+    "score": "97",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011739",
+    "date": "2026-09-08",
+    "name": "BOOSTED AND BAKED",
+    "inspector_id": "1896",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110061",
+    "date": "2026-09-08",
+    "name": "CLAREMONT ELEM CAFE",
+    "inspector_id": "1896",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018420120",
+    "date": "2026-09-08",
+    "name": "CLAREMONT ELEMENTARY PRESCHOOL",
+    "inspector_id": "1896",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110056",
+    "date": "2026-09-08",
+    "name": "NEWTON CONOVER MIDDLE SCHOOL",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110046",
+    "date": "2026-09-08",
+    "name": "ST STEPHENS ELEMENTARY",
+    "inspector_id": "1654",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010979",
+    "date": "2026-09-04",
+    "name": "CHINA MOON",
+    "inspector_id": "2286",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011130",
+    "date": "2026-09-04",
+    "name": "NAKAMA JAPANESE STEAK HOUSE",
+    "inspector_id": "1896",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011748",
+    "date": "2026-09-04",
+    "name": "SHEETZ #915 CONOVER",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110059",
+    "date": "2026-09-04",
+    "name": "SOUTH NEWTON ELEM SCHOOL CAFETERIA",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018420215",
+    "date": "2026-09-04",
+    "name": "SOUTH NEWTON PRE-K",
+    "inspector_id": "2031",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110047",
+    "date": "2026-09-03",
+    "name": "GRANDVIEW MIDDLE",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110038",
+    "date": "2026-09-03",
+    "name": "MT VIEW ELEMENTARY SCHOOL",
+    "inspector_id": "1896",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018420256",
+    "date": "2026-09-03",
+    "name": "NORTH NEWTON ELEMENTARY PRESCHOOL",
+    "inspector_id": "2031",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110057",
+    "date": "2026-09-03",
+    "name": "NORTH NEWTON ELEMENTARY SCHOOL",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010181",
+    "date": "2026-09-03",
+    "name": "ORIENTAL EXPRESS",
+    "inspector_id": "2286",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011700",
+    "date": "2026-09-03",
+    "name": "TROPICAL SMOOTHIE CAFE",
+    "inspector_id": "1896",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011264",
+    "date": "2026-09-02",
+    "name": "OLDE HICKORY STATION",
+    "inspector_id": "2031",
+    "score": "96",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011701",
+    "date": "2026-09-02",
+    "name": "PHO-TOPIA",
+    "inspector_id": "2031",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018530066",
+    "date": "2026-09-02",
+    "name": "THE LEGENDS 1",
+    "inspector_id": "2286",
+    "score": "8",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018530067",
+    "date": "2026-09-02",
+    "name": "THE LEGENDS 2",
+    "inspector_id": "2286",
+    "score": "14",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010719",
+    "date": "2026-09-01",
+    "name": "J AND L CAFE",
+    "inspector_id": "2031",
+    "score": "93.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018610382",
+    "date": "2026-09-01",
+    "name": "POLSON'S TATTOO STUDIO - BRADLEY D POLSON",
+    "inspector_id": "1711",
+    "score": "",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018610431",
+    "date": "2026-09-01",
+    "name": "POLSON'S TATTOO STUDIO - BRYAN NARUSEWICZ",
+    "inspector_id": "1711",
+    "score": "",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018610435",
+    "date": "2026-09-01",
+    "name": "POLSON'S TATTOO STUDIO - PHILLIP B WILES",
+    "inspector_id": "1711",
+    "score": "",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020471",
+    "date": "2026-09-01",
+    "name": "SPEEDY MART",
+    "inspector_id": "1896",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018420154",
+    "date": "2026-08-31",
+    "name": "FOOTSTEPS CHILD CARE CENTER",
+    "inspector_id": "2031",
+    "score": "6",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011519",
+    "date": "2026-08-31",
+    "name": "HONEY BAKED HAM #1909",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018050034",
+    "date": "2026-08-31",
+    "name": "ST STEPHENS DAY SCHOOL",
+    "inspector_id": "1896",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018420049",
+    "date": "2026-08-31",
+    "name": "ST STEPHENS LUTHERAN PRE SCHOOL",
+    "inspector_id": "1896",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110037",
+    "date": "2026-08-31",
+    "name": "WILMER JENKINS ELEMENTARY",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018300311",
+    "date": "2026-08-28",
+    "name": "BANANA BOX GROCERY",
+    "inspector_id": "1896",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010035",
+    "date": "2026-08-28",
+    "name": "CATHOLIC CONFERENCE CENTER",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011027",
+    "date": "2026-08-28",
+    "name": "CHINA GARDEN 2",
+    "inspector_id": "2286",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018300043",
+    "date": "2026-08-28",
+    "name": "FOOD LION #97",
+    "inspector_id": "2031",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020204",
+    "date": "2026-08-28",
+    "name": "FOOD LION DELI #97",
+    "inspector_id": "2031",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020406",
+    "date": "2026-08-28",
+    "name": "FOOD LION PRODUCE #97",
+    "inspector_id": "2031",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018140361",
+    "date": "2026-08-28",
+    "name": "NCHS LOWER CONCESSION",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018140360",
+    "date": "2026-08-28",
+    "name": "NCHS UPPER CONCESSION",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011717",
+    "date": "2026-08-28",
+    "name": "PIZZA HUT #788317",
+    "inspector_id": "1896",
+    "score": "97",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018030141",
+    "date": "2026-08-27",
+    "name": "DIG N DOGS #4 MOBILE UNIT",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020468",
+    "date": "2026-08-27",
+    "name": "DIG N DOGS AND BBQ",
+    "inspector_id": "2031",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018610496",
+    "date": "2026-08-27",
+    "name": "INK ADDICTS LLC - BREANNA J HOADLEY",
+    "inspector_id": "1711",
+    "score": "",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020268",
+    "date": "2026-08-27",
+    "name": "PAPA JOHNS #894",
+    "inspector_id": "1896",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010466",
+    "date": "2026-08-25",
+    "name": "COUNTRY MARKET  9",
+    "inspector_id": "2031",
+    "score": "96",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011233",
+    "date": "2026-08-24",
+    "name": "BURGER KING O721",
+    "inspector_id": "2031",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011458",
+    "date": "2026-08-24",
+    "name": "HARDEES LOVE'S TRAVEL STOP AND COUNTRY STORES #697",
+    "inspector_id": "2174",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020449",
+    "date": "2026-08-24",
+    "name": "LOVES TRAVEL STOP AND COUNTRY STORE #697",
+    "inspector_id": "2174",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010673",
+    "date": "2026-08-24",
+    "name": "SUBWAY 7181",
+    "inspector_id": "2031",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011467",
+    "date": "2026-08-21",
+    "name": "HARDEES #1506314 MAIDEN",
+    "inspector_id": "1896",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020423",
+    "date": "2026-08-21",
+    "name": "TIMES #52 MAIDEN",
+    "inspector_id": "1896",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018610490",
+    "date": "2026-08-20",
+    "name": "BALANCED BODY HEALING CENTER-KELLEY BRIDGES-SMITH",
+    "inspector_id": "1711",
+    "score": "",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018300048",
+    "date": "2026-08-20",
+    "name": "FOOD LION  #638",
+    "inspector_id": "2031",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020208",
+    "date": "2026-08-20",
+    "name": "FOOD LION DELI 638",
+    "inspector_id": "2031",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020243",
+    "date": "2026-08-20",
+    "name": "FOOD LION PRODUCE #638",
+    "inspector_id": "2031",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018610422",
+    "date": "2026-08-20",
+    "name": "FOREVER INKED - TAYLOR M GROVES",
+    "inspector_id": "1711",
+    "score": "",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020519",
+    "date": "2026-08-20",
+    "name": "FUJISAN FRESH HARVEST SAM'S CLUB",
+    "inspector_id": "1896",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011723",
+    "date": "2026-08-20",
+    "name": "HARBOR INN SEAFOOD AND OYSTER BAR",
+    "inspector_id": "1896",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018610492",
+    "date": "2026-08-20",
+    "name": "INK ENGRAVED TATTOO CO - BRUCE C RITTER-CLARK",
+    "inspector_id": "1711",
+    "score": "",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011755",
+    "date": "2026-08-20",
+    "name": "WHATABURGER #1653 N CENTER ST",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011520",
+    "date": "2026-08-19",
+    "name": "B-52S AMERICAN BAR & GRILL",
+    "inspector_id": "2174",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011151",
+    "date": "2026-08-19",
+    "name": "BOJANGLES",
+    "inspector_id": "1654",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020511",
+    "date": "2026-08-19",
+    "name": "DOUGH RE MI ARTISAN BAGELS",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018440015",
+    "date": "2026-08-19",
+    "name": "GRANDVIEW MIDDLE SCHOOL",
+    "inspector_id": "2286",
+    "score": "98.50",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020329",
+    "date": "2026-08-19",
+    "name": "K ORIENTAL MARKET",
+    "inspector_id": "2286",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020379",
+    "date": "2026-08-19",
+    "name": "PROPST #11",
+    "inspector_id": "2031",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020491",
+    "date": "2026-08-19",
+    "name": "TEMAKI JAPAN",
+    "inspector_id": "2031",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500098",
+    "date": "2026-08-18",
+    "name": "BAYMONT INN",
+    "inspector_id": "2174",
+    "score": "32",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018200055",
+    "date": "2026-08-18",
+    "name": "BAYMONT INN AND SUITES",
+    "inspector_id": "2174",
+    "score": "95",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020470",
+    "date": "2026-08-18",
+    "name": "FAMOUS SHAWARMA",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018090017",
+    "date": "2026-08-18",
+    "name": "FIRST UNITED METHODIST CHURCH HICKORY",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020254",
+    "date": "2026-08-18",
+    "name": "FOOD LION 2572 DELI",
+    "inspector_id": "1896",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018300054",
+    "date": "2026-08-18",
+    "name": "FOOD LION MEAT MARKET #2572",
+    "inspector_id": "1896",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020416",
+    "date": "2026-08-18",
+    "name": "FOOD LION PRODUCE #2572",
+    "inspector_id": "1896",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010988",
+    "date": "2026-08-18",
+    "name": "HICKORY TAVERN GRILL AND BAR",
+    "inspector_id": "2286",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020503",
+    "date": "2026-08-18",
+    "name": "MAI SUSHI",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500124",
+    "date": "2026-08-18",
+    "name": "THE FALLS AT NEWTON POOL",
+    "inspector_id": "2286",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010984",
+    "date": "2026-08-18",
+    "name": "WILD WOK ASIAN BISTRO",
+    "inspector_id": "2031",
+    "score": "95",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011446",
+    "date": "2026-08-17",
+    "name": "BOJANGLE'S #418 MT VIEW",
+    "inspector_id": "1896",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010638",
+    "date": "2026-08-17",
+    "name": "LONGHORN STEAKHOUSE",
+    "inspector_id": "2286",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011538",
+    "date": "2026-08-17",
+    "name": "NY HIBACHI BUFFET",
+    "inspector_id": "2031",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011135",
+    "date": "2026-08-17",
+    "name": "VILLAGE INN PIZZA HICKORY #2",
+    "inspector_id": "2286",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011682",
+    "date": "2026-08-14",
+    "name": "CHURRERIA LOS DORADOS",
+    "inspector_id": "1896",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500119",
+    "date": "2026-08-14",
+    "name": "HAMPTON AT HICKORY COMMUNITY ASSOCIATION INC",
+    "inspector_id": "2286",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018610491",
+    "date": "2026-08-14",
+    "name": "INK THERAPY - J. RUSSELL FRANKLIN",
+    "inspector_id": "1711",
+    "score": "",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020170",
+    "date": "2026-08-14",
+    "name": "LITTLE MARKET BASKET 18",
+    "inspector_id": "2031",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018030171",
+    "date": "2026-08-14",
+    "name": "RIQRAS DE EMPANADAS R US",
+    "inspector_id": "1654",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011614",
+    "date": "2026-08-14",
+    "name": "TASTE OF THE ORIENT",
+    "inspector_id": "2286",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011526",
+    "date": "2026-08-13",
+    "name": "IMPERIO PASTRIES",
+    "inspector_id": "2286",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020414",
+    "date": "2026-08-13",
+    "name": "LITTLE CAESARS",
+    "inspector_id": "2031",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011712",
+    "date": "2026-08-13",
+    "name": "MORNING GLORY CAFE",
+    "inspector_id": "2031",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010383",
+    "date": "2026-08-13",
+    "name": "MT VIEW BBQ",
+    "inspector_id": "2286",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011735",
+    "date": "2026-08-12",
+    "name": "EL BATAN",
+    "inspector_id": "2031",
+    "score": "96",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018200007",
+    "date": "2026-08-12",
+    "name": "MOTEL 6",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018440055",
+    "date": "2026-08-12",
+    "name": "NORTHVIEW MIDDLE SCHOOL",
+    "inspector_id": "2286",
+    "score": "98.50",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500076",
+    "date": "2026-08-12",
+    "name": "THE CEDARS",
+    "inspector_id": "2286",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011237",
+    "date": "2026-08-11",
+    "name": "BURGER KING",
+    "inspector_id": "2286",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018430115",
+    "date": "2026-08-11",
+    "name": "IN REACH/ABUNDANT LIFE",
+    "inspector_id": "2031",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020417",
+    "date": "2026-08-11",
+    "name": "PILOT TRAVEL CENTER #797100",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011429",
+    "date": "2026-08-11",
+    "name": "PILOT TRAVEL CENTER SUBWAY",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011758",
+    "date": "2026-08-11",
+    "name": "POPEYES OF HICKORY",
+    "inspector_id": "2031",
+    "score": "92.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018030211",
+    "date": "2026-08-11",
+    "name": "TAQUERIA MONO LOCO",
+    "inspector_id": "1654",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010933",
+    "date": "2026-08-10",
+    "name": "CHINA HOUSE",
+    "inspector_id": "2286",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018420126",
+    "date": "2026-08-10",
+    "name": "CHRIST CHURCH CDC",
+    "inspector_id": "2031",
+    "score": "13",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011482",
+    "date": "2026-08-10",
+    "name": "DOMINOS #5568 2ND AVE",
+    "inspector_id": "1896",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011583",
+    "date": "2026-08-10",
+    "name": "DUNKIN DONUTS #350926 2ND ST",
+    "inspector_id": "1896",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020464",
+    "date": "2026-08-07",
+    "name": "CUBBARD EXPRESS #16",
+    "inspector_id": "1896",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020465",
+    "date": "2026-08-07",
+    "name": "DUNKIN DONUTS #363001 CATAWBA VALLEY",
+    "inspector_id": "1896",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010974",
+    "date": "2026-08-07",
+    "name": "JASONS DELI",
+    "inspector_id": "2031",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011877",
+    "date": "2026-08-06",
+    "name": "1877 PUB AND GRUB",
+    "inspector_id": "2031",
+    "score": "97",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011235",
+    "date": "2026-08-06",
+    "name": "BURGER KING",
+    "inspector_id": "1654",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010034",
+    "date": "2026-08-06",
+    "name": "CATAWBA VALLEY MEDICAL CENTER",
+    "inspector_id": "2031",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011404",
+    "date": "2026-08-06",
+    "name": "SHEETZ #593 FAIRGROVE",
+    "inspector_id": "1654",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500101",
+    "date": "2026-08-05",
+    "name": "29 NORTH APARTMENTS",
+    "inspector_id": "1896",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020146",
+    "date": "2026-08-05",
+    "name": "BBQ PIT  THE",
+    "inspector_id": "2031",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020473",
+    "date": "2026-08-05",
+    "name": "CHECKERS #1000",
+    "inspector_id": "2031",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018530078",
+    "date": "2026-08-05",
+    "name": "HAMPTON INN POOL",
+    "inspector_id": "2286",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011407",
+    "date": "2026-08-05",
+    "name": "JERSEY MIKE'S #3154",
+    "inspector_id": "2031",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011736",
+    "date": "2026-08-05",
+    "name": "KING FISH & OYSTER BAR",
+    "inspector_id": "1896",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018090011",
+    "date": "2026-08-05",
+    "name": "NEWTON SENIORS MORNING OUT",
+    "inspector_id": "2174",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011600",
+    "date": "2026-08-05",
+    "name": "SOUPER BITES ASIAN FUSION",
+    "inspector_id": "1896",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011075",
+    "date": "2026-08-05",
+    "name": "WENDYS 17",
+    "inspector_id": "1654",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011764",
+    "date": "2026-08-04",
+    "name": "CHINA KING HICKORY",
+    "inspector_id": "1896",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011293",
+    "date": "2026-08-04",
+    "name": "D-MART #4",
+    "inspector_id": "2031",
+    "score": "95",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011468",
+    "date": "2026-08-04",
+    "name": "GRANNY'S COUNTRY KITCHEN #3 - CLAREMONT",
+    "inspector_id": "2031",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011288",
+    "date": "2026-08-04",
+    "name": "KFC",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011507",
+    "date": "2026-08-04",
+    "name": "MCDONALD'S N CENTER ST #5424",
+    "inspector_id": "1896",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011577",
+    "date": "2026-08-04",
+    "name": "SKY ZONE HICKORY, NC",
+    "inspector_id": "1896",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010191",
+    "date": "2026-08-03",
+    "name": "CROWNE PLAZA DINING",
+    "inspector_id": "2286",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011690",
+    "date": "2026-08-03",
+    "name": "FOURK",
+    "inspector_id": "1896",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011710",
+    "date": "2026-08-03",
+    "name": "NORI JAPAN (WALMART)",
+    "inspector_id": "2031",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011402",
+    "date": "2026-08-03",
+    "name": "SHEETZ #597 MCCDONALD PKWY",
+    "inspector_id": "1896",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020363",
+    "date": "2026-08-03",
+    "name": "TALK OF THE TOWN CATERING",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020278",
+    "date": "2026-08-03",
+    "name": "WAL MART 948 DELI",
+    "inspector_id": "2031",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010764",
+    "date": "2026-08-03",
+    "name": "ZAXBYS",
+    "inspector_id": "2286",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018610375",
+    "date": "2026-07-31",
+    "name": "BEAUTIAURA - CHONG CHA",
+    "inspector_id": "1711",
+    "score": "",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500027",
+    "date": "2026-07-31",
+    "name": "FALLING CREEK",
+    "inspector_id": "1896",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011616",
+    "date": "2026-07-31",
+    "name": "FIREHOUSE SUBS 2ND AVE #1961",
+    "inspector_id": "1654",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500036",
+    "date": "2026-07-31",
+    "name": "FOREST HILLS",
+    "inspector_id": "1896",
+    "score": "2",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011769",
+    "date": "2026-07-31",
+    "name": "JIMMY JOHN'S #4918 - STARTOWN RD",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500022",
+    "date": "2026-07-31",
+    "name": "LAKE HICKORY COUNTRY CLUB",
+    "inspector_id": "1896",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011596",
+    "date": "2026-07-31",
+    "name": "MARISCOS EL VALLARTAZO",
+    "inspector_id": "2286",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011558",
+    "date": "2026-07-31",
+    "name": "RICE FUN",
+    "inspector_id": "2286",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011149",
+    "date": "2026-07-30",
+    "name": "BOJANGLE'S 497 VIEWMONT",
+    "inspector_id": "2174",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500072",
+    "date": "2026-07-30",
+    "name": "COLONIAL HOUSE APARTMENT",
+    "inspector_id": "2286",
+    "score": "8",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010683",
+    "date": "2026-07-30",
+    "name": "DA VINCIS",
+    "inspector_id": "2286",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500077",
+    "date": "2026-07-30",
+    "name": "FOX RIDGE APARTMENTS",
+    "inspector_id": "2286",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011566",
+    "date": "2026-07-30",
+    "name": "FUNKHEIZERS 19TH",
+    "inspector_id": "2031",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020276",
+    "date": "2026-07-30",
+    "name": "LOWES 216 MEAT AND SEAFOOD",
+    "inspector_id": "1654",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020275",
+    "date": "2026-07-30",
+    "name": "LOWES FOODS 216 PRODUCE",
+    "inspector_id": "1654",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500015",
+    "date": "2026-07-30",
+    "name": "ROCK BARN OUTDOOR POOL",
+    "inspector_id": "2031",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011536",
+    "date": "2026-07-30",
+    "name": "ROCK BARN SPA CAFE",
+    "inspector_id": "2031",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018510009",
+    "date": "2026-07-30",
+    "name": "ROCK BARN WADING POOL",
+    "inspector_id": "2031",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500051",
+    "date": "2026-07-29",
+    "name": "APARTMENTS ON 20TH",
+    "inspector_id": "2286",
+    "score": "8",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500018",
+    "date": "2026-07-29",
+    "name": "CATAWBA COUNTRY CLUB",
+    "inspector_id": "2174",
+    "score": "18",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018510001",
+    "date": "2026-07-29",
+    "name": "CATAWBA COUNTRY CLUB",
+    "inspector_id": "2174",
+    "score": "14",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011766",
+    "date": "2026-07-29",
+    "name": "GUTHRIE'S CHICKEN",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018420210",
+    "date": "2026-07-29",
+    "name": "LITTLE STARS CHILD DEVELOPMENT CENTER STARTOWN",
+    "inspector_id": "2031",
+    "score": "7",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020274",
+    "date": "2026-07-29",
+    "name": "LOWES 216 DELI",
+    "inspector_id": "1654",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011593",
+    "date": "2026-07-29",
+    "name": "NORI JAPAN (MALL)",
+    "inspector_id": "2031",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018030255",
+    "date": "2026-07-29",
+    "name": "WHITNEY'S",
+    "inspector_id": "1654",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018300049",
+    "date": "2026-07-28",
+    "name": "FOOD LION #504",
+    "inspector_id": "2174",
+    "score": "97",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020209",
+    "date": "2026-07-28",
+    "name": "FOOD LION DELI 504",
+    "inspector_id": "2174",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020202",
+    "date": "2026-07-28",
+    "name": "FOOD LION DELI 563",
+    "inspector_id": "1654",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018300041",
+    "date": "2026-07-28",
+    "name": "FOOD LION MEAT MARKET 563",
+    "inspector_id": "1654",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020412",
+    "date": "2026-07-28",
+    "name": "FOOD LION PRODUCE #504",
+    "inspector_id": "2174",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500003",
+    "date": "2026-07-28",
+    "name": "GLEN OAKS",
+    "inspector_id": "2031",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011325",
+    "date": "2026-07-28",
+    "name": "GLEN OAKS GOLF CLUB",
+    "inspector_id": "2031",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500105",
+    "date": "2026-07-28",
+    "name": "HAWKS LANDING",
+    "inspector_id": "1896",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011721",
+    "date": "2026-07-28",
+    "name": "MELLOW MUSHROOM - HICKORY",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500017",
+    "date": "2026-07-28",
+    "name": "NEWTON ELKS LODGE POOL",
+    "inspector_id": "2286",
+    "score": "16",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018510000",
+    "date": "2026-07-28",
+    "name": "NEWTON ELKS LODGE WADING POOL",
+    "inspector_id": "2286",
+    "score": "8",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011705",
+    "date": "2026-07-28",
+    "name": "SOLISTA HICKORY",
+    "inspector_id": "2286",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500063",
+    "date": "2026-07-28",
+    "name": "TIMBERWOOD TOWNHOUSES",
+    "inspector_id": "1896",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018200056",
+    "date": "2026-07-27",
+    "name": "COMFORT INN MAINSTAY SUITES",
+    "inspector_id": "2031",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011580",
+    "date": "2026-07-27",
+    "name": "COMFORT INN MAINSTAY SUITES",
+    "inspector_id": "2031",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500107",
+    "date": "2026-07-27",
+    "name": "COMFORT INN MAINSTAY SUITES POOL",
+    "inspector_id": "2031",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500054",
+    "date": "2026-07-27",
+    "name": "CREEKSIDE",
+    "inspector_id": "1896",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500091",
+    "date": "2026-07-27",
+    "name": "HICKORY TRACE WEST",
+    "inspector_id": "2286",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011649",
+    "date": "2026-07-27",
+    "name": "HUGH'S Q",
+    "inspector_id": "2286",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500122",
+    "date": "2026-07-27",
+    "name": "LAURELBROOK NORTH POOL",
+    "inspector_id": "1654",
+    "score": "8",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500117",
+    "date": "2026-07-27",
+    "name": "LAURELBROOK SOUTH POOL",
+    "inspector_id": "1654",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500118",
+    "date": "2026-07-27",
+    "name": "LEGACY RIDGE POOL",
+    "inspector_id": "1654",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020485",
+    "date": "2026-07-27",
+    "name": "RACEWAY #6744",
+    "inspector_id": "2286",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011415",
+    "date": "2026-07-27",
+    "name": "SHEETZ #602 SPRINGS RD",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018530083",
+    "date": "2026-07-24",
+    "name": "AMAVI SHERRILLS FORD",
+    "inspector_id": "1654",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500112",
+    "date": "2026-07-24",
+    "name": "BLACKSTONE BAY",
+    "inspector_id": "1654",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018200000",
+    "date": "2026-07-24",
+    "name": "CATHOLIC CONFERENCE CENTER",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018530082",
+    "date": "2026-07-24",
+    "name": "THE ESTATES AT LEGENDS",
+    "inspector_id": "2286",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010606",
+    "date": "2026-07-23",
+    "name": "BARNES & NOBLE BOOKSELLERS,INC",
+    "inspector_id": "1654",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020247",
+    "date": "2026-07-23",
+    "name": "BUFFALO SHOALS IGA DELI",
+    "inspector_id": "2031",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018300053",
+    "date": "2026-07-23",
+    "name": "BUFFALO SHOALS IGA MEAT MARKET",
+    "inspector_id": "2031",
+    "score": "97",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011553",
+    "date": "2026-07-23",
+    "name": "CASA AZUL",
+    "inspector_id": "2286",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018090018",
+    "date": "2026-07-23",
+    "name": "CLAREMONT SENIORS MORNING OUT",
+    "inspector_id": "1654",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018610488",
+    "date": "2026-07-23",
+    "name": "EVERMORE TATTOO & PIERCING - ALEXIS M AIKEN",
+    "inspector_id": "1711",
+    "score": "",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018610139",
+    "date": "2026-07-23",
+    "name": "EVERMORE TATTOO & PIERCING - STEVE POTEET",
+    "inspector_id": "1711",
+    "score": "",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011291",
+    "date": "2026-07-23",
+    "name": "KFC",
+    "inspector_id": "1896",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011271",
+    "date": "2026-07-23",
+    "name": "MARELY'S PIZZA",
+    "inspector_id": "1654",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011753",
+    "date": "2026-07-23",
+    "name": "SONIC #84804",
+    "inspector_id": "2031",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011071",
+    "date": "2026-07-22",
+    "name": "HOLIDAY INN EXPRESS",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500029",
+    "date": "2026-07-22",
+    "name": "KOOL PARK",
+    "inspector_id": "1896",
+    "score": "8",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011338",
+    "date": "2026-07-22",
+    "name": "TARGET STARBUCKS",
+    "inspector_id": "1654",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011107",
+    "date": "2026-07-22",
+    "name": "VILLAGE INN PIZZA  #1",
+    "inspector_id": "2286",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500046",
+    "date": "2026-07-22",
+    "name": "WELLINGTON PLACE",
+    "inspector_id": "2031",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018450000",
+    "date": "2026-07-21",
+    "name": "CATAWBA COUNTY JAIL",
+    "inspector_id": "1896",
+    "score": "1",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018160025",
+    "date": "2026-07-21",
+    "name": "CATAWBA COUNTY JAIL",
+    "inspector_id": "1896",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010740",
+    "date": "2026-07-21",
+    "name": "DONS GRILL",
+    "inspector_id": "2174",
+    "score": "97",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018300044",
+    "date": "2026-07-21",
+    "name": "FOOD LION  803",
+    "inspector_id": "1654",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020409",
+    "date": "2026-07-21",
+    "name": "FOOD LION #803 PRODUCE",
+    "inspector_id": "1654",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020206",
+    "date": "2026-07-21",
+    "name": "FOOD LION DELI 803",
+    "inspector_id": "1654",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500106",
+    "date": "2026-07-21",
+    "name": "PRESTON RIDGE",
+    "inspector_id": "1654",
+    "score": "14",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500111",
+    "date": "2026-07-21",
+    "name": "REVERE AT SHERRILLS FORD POOL",
+    "inspector_id": "2031",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500123",
+    "date": "2026-07-21",
+    "name": "SHANNON WOODS",
+    "inspector_id": "2031",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500116",
+    "date": "2026-07-21",
+    "name": "WATERSTONE",
+    "inspector_id": "2031",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018430109",
+    "date": "2026-07-20",
+    "name": "BUMGARNER COTTAGE",
+    "inspector_id": "2031",
+    "score": "2",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018430065",
+    "date": "2026-07-20",
+    "name": "HOUSTON",
+    "inspector_id": "2031",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018430110",
+    "date": "2026-07-20",
+    "name": "MITCHELL HOUSE",
+    "inspector_id": "2031",
+    "score": "6",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018160017",
+    "date": "2026-07-20",
+    "name": "SIPES ORCHARD HOME",
+    "inspector_id": "2031",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500099",
+    "date": "2026-07-17",
+    "name": "OAKWOOD APARTMENTS POOL",
+    "inspector_id": "2031",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010537",
+    "date": "2026-07-17",
+    "name": "PIN STATION",
+    "inspector_id": "2031",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018500114",
+    "date": "2026-07-17",
+    "name": "VILLAGE AT MAIDEN",
+    "inspector_id": "2031",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018021763",
+    "date": "2026-07-16",
+    "name": "CHAD'S CURBSIDE CAFE",
+    "inspector_id": "1654",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010586",
+    "date": "2026-07-16",
+    "name": "CHINA EXPRESS",
+    "inspector_id": "2031",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010504",
+    "date": "2026-07-16",
+    "name": "CRACKER BARREL  269",
+    "inspector_id": "2031",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011765",
+    "date": "2026-07-16",
+    "name": "EL MESON MX TAQUERIA",
+    "inspector_id": "1654",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010786",
+    "date": "2026-07-16",
+    "name": "EL PASO",
+    "inspector_id": "1896",
+    "score": "97",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018160010",
+    "date": "2026-07-16",
+    "name": "HICKORY VILLAGE MEMORY CARE",
+    "inspector_id": "1896",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011345",
+    "date": "2026-07-16",
+    "name": "HILTON GARDEN INN",
+    "inspector_id": "2174",
+    "score": "97",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011088",
+    "date": "2026-07-16",
+    "name": "STARBUCKS",
+    "inspector_id": "2031",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  }
+]

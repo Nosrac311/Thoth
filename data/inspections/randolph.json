@@ -1,0 +1,2684 @@
+[
+  {
+    "id": "3076300034",
+    "date": "2026-09-29",
+    "name": "FOOD LION  1513",
+    "inspector_id": "2487",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020130",
+    "date": "2026-09-29",
+    "name": "FOOD LION DELI 352",
+    "inspector_id": "986",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076030377",
+    "date": "2026-09-29",
+    "name": "HIBACHI FUEGO",
+    "inspector_id": "2569",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110032",
+    "date": "2026-09-29",
+    "name": "NEW MARKET SCHOOL LUNCHROOM",
+    "inspector_id": "1133",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076410000",
+    "date": "2026-09-29",
+    "name": "RANDOLPH HEALTH",
+    "inspector_id": "3514",
+    "score": "98.50",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010383",
+    "date": "2026-09-29",
+    "name": "SIR PIZZA OF RANDLEMAN",
+    "inspector_id": "1133",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076030275",
+    "date": "2026-09-29",
+    "name": "TACOS Y ANTOJITOS NANCY",
+    "inspector_id": "2569",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076400012",
+    "date": "2026-09-28",
+    "name": "BROOKDALE OF ASHEBORO",
+    "inspector_id": "3159",
+    "score": "97",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110005",
+    "date": "2026-09-28",
+    "name": "CHARLES W MCCRARY SCHOOL LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010596",
+    "date": "2026-09-28",
+    "name": "CIRCLE K STORE #2706315",
+    "inspector_id": "986",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076160002",
+    "date": "2026-09-28",
+    "name": "CLAPPS CONVALESCENT NURSING KITCHEN",
+    "inspector_id": "3514",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010369",
+    "date": "2026-09-28",
+    "name": "HAPPY CHINA",
+    "inspector_id": "1133",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110016",
+    "date": "2026-09-28",
+    "name": "NORTH ASHEBORO MIDDLE SCHOOL LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110018",
+    "date": "2026-09-28",
+    "name": "RANDLEMAN ELEM. SCHOOL LUNCHROOM",
+    "inspector_id": "1133",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010468",
+    "date": "2026-09-28",
+    "name": "SAN FELIPE MEXICAN RESTAURANT",
+    "inspector_id": "3514",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076440044",
+    "date": "2026-09-28",
+    "name": "TABERNACLE SCHOOL",
+    "inspector_id": "2487",
+    "score": "96.50",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076090005",
+    "date": "2026-09-28",
+    "name": "TITLE III RANDLEMAN SENIOR CTR",
+    "inspector_id": "1133",
+    "score": "100",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010982",
+    "date": "2026-09-27",
+    "name": "GOLDEN WAFFLE",
+    "inspector_id": "3159",
+    "score": "95.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010761",
+    "date": "2026-09-27",
+    "name": "WAFFLE HOUSE  #1857",
+    "inspector_id": "3159",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011178",
+    "date": "2026-09-25",
+    "name": "DUNKIN'",
+    "inspector_id": "986",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420082",
+    "date": "2026-09-25",
+    "name": "HONEYCOMB KIDS",
+    "inspector_id": "2487",
+    "score": "10",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110019",
+    "date": "2026-09-25",
+    "name": "RANDLEMAN HIGH SCHL. LUNCHROOM",
+    "inspector_id": "1133",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110043",
+    "date": "2026-09-25",
+    "name": "RANDLEMAN MIDDLE SCHOOL LUNCHROOM",
+    "inspector_id": "1133",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076440045",
+    "date": "2026-09-25",
+    "name": "TRINDALE ELEMENTARY SCHOOL",
+    "inspector_id": "2487",
+    "score": "96",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020211",
+    "date": "2026-09-25",
+    "name": "WALMART NEIGHBORHOOD MKT 7206",
+    "inspector_id": "986",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011208",
+    "date": "2026-09-24",
+    "name": "KING'S BBQ AND BURGERS",
+    "inspector_id": "986",
+    "score": "95",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110013",
+    "date": "2026-09-24",
+    "name": "LIBERTY SCHOOL LUNCHROOM",
+    "inspector_id": "1133",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011044",
+    "date": "2026-09-24",
+    "name": "READY MART INC. #6",
+    "inspector_id": "3159",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011196",
+    "date": "2026-09-24",
+    "name": "TBMNC 802 CAFE",
+    "inspector_id": "2393",
+    "score": "96.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110028",
+    "date": "2026-09-24",
+    "name": "TRINITY SENIOR H. S. LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011169",
+    "date": "2026-09-24",
+    "name": "WINGSTOP",
+    "inspector_id": "3159",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011026",
+    "date": "2026-09-23",
+    "name": "BANGKOK STREET FARE",
+    "inspector_id": "3514",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110034",
+    "date": "2026-09-23",
+    "name": "JOHN LAWRENCE SCHOOL LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076030292",
+    "date": "2026-09-23",
+    "name": "LA POBLANITA",
+    "inspector_id": "2569",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110042",
+    "date": "2026-09-23",
+    "name": "NORTHEASTERN RANDOLPH MIDDLE SCHOOL LUNCHROOM",
+    "inspector_id": "1133",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076090008",
+    "date": "2026-09-23",
+    "name": "RANDOLPH SENIOR ADULTS ASSOCIATION/LIBERTY SENIOR",
+    "inspector_id": "1133",
+    "score": "100",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076030277",
+    "date": "2026-09-23",
+    "name": "TAQUERIA EL PARIENTE",
+    "inspector_id": "2569",
+    "score": "95",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076430136",
+    "date": "2026-09-23",
+    "name": "THE ASHEBORO HOME",
+    "inspector_id": "3514",
+    "score": "6",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420154",
+    "date": "2026-09-23",
+    "name": "THE NEST SCHOOLS",
+    "inspector_id": "986",
+    "score": "21",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110027",
+    "date": "2026-09-23",
+    "name": "TRINITY ELEMENTARY SCL. LUNCH ROOM",
+    "inspector_id": "2487",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076160004",
+    "date": "2026-09-22",
+    "name": "ASHEBORO REHABILITATION AND HEALTHCARE",
+    "inspector_id": "3514",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076530014",
+    "date": "2026-09-22",
+    "name": "BRECKENRIDGE HOMEOWNERS ASSOC",
+    "inspector_id": "1612",
+    "score": "4",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076030347",
+    "date": "2026-09-22",
+    "name": "EL MESON DE PACO",
+    "inspector_id": "2569",
+    "score": "94",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420014",
+    "date": "2026-09-22",
+    "name": "FAITH CHRISTIAN SCHOOL 4 K",
+    "inspector_id": "986",
+    "score": "2",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110011",
+    "date": "2026-09-22",
+    "name": "GRAYS CHAPEL SCHOOL LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110047",
+    "date": "2026-09-22",
+    "name": "PROVIDENCE GROVE HIGH LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011142",
+    "date": "2026-09-22",
+    "name": "SUBWAY #2840",
+    "inspector_id": "986",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076140428",
+    "date": "2026-09-22",
+    "name": "WHITES MEMORIAL ATHLETICS",
+    "inspector_id": "3514",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076440070",
+    "date": "2026-09-21",
+    "name": "ASHEBORO HIGH SCHOOL ZOO SCHOOL",
+    "inspector_id": "2487",
+    "score": "96.50",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110039",
+    "date": "2026-09-21",
+    "name": "COLERIDGE SCHOOL LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110008",
+    "date": "2026-09-21",
+    "name": "EASTERN RANDOLPH H. S. LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010162",
+    "date": "2026-09-21",
+    "name": "P AND J'S DINER",
+    "inspector_id": "1133",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076444099",
+    "date": "2026-09-21",
+    "name": "THE HOPE SCHOOL FOR AUTISM #2",
+    "inspector_id": "986",
+    "score": "95",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420135",
+    "date": "2026-09-21",
+    "name": "THE KIDS OF HOPE",
+    "inspector_id": "1133",
+    "score": "10",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076030389",
+    "date": "2026-09-19",
+    "name": "DIRTY DOGS AND SODA CO",
+    "inspector_id": "2569",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076040097",
+    "date": "2026-09-19",
+    "name": "JP'S HOT DOGZ",
+    "inspector_id": "2569",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011140",
+    "date": "2026-09-19",
+    "name": "QUALITY INN ARCHDALE KITCHEN",
+    "inspector_id": "3159",
+    "score": "96.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076030305",
+    "date": "2026-09-19",
+    "name": "TAQUERIA LAS TAMPIQUENOS",
+    "inspector_id": "2569",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010014",
+    "date": "2026-09-18",
+    "name": "BOJANGLES - 388",
+    "inspector_id": "1133",
+    "score": "96",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020209",
+    "date": "2026-09-18",
+    "name": "PAPA JOHN'S 1998",
+    "inspector_id": "3514",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076140426",
+    "date": "2026-09-17",
+    "name": "SWRHS BOOSTER CLUB/FOOTBALL STADIUM",
+    "inspector_id": "2487",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420162",
+    "date": "2026-09-17",
+    "name": "THE CHILDREN'S LEARNING CENTER",
+    "inspector_id": "2487",
+    "score": "15",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011219",
+    "date": "2026-09-17",
+    "name": "WHATABURGER",
+    "inspector_id": "986",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010642",
+    "date": "2026-09-17",
+    "name": "ZAXBYS FOODS  INC",
+    "inspector_id": "2393",
+    "score": "96",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010672",
+    "date": "2026-09-16",
+    "name": "AMERICAS ROADHOUSE EXPRESS",
+    "inspector_id": "3159",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011225",
+    "date": "2026-09-16",
+    "name": "ARBY'S",
+    "inspector_id": "3159",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076300035",
+    "date": "2026-09-16",
+    "name": "FOOD LION  352",
+    "inspector_id": "986",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110044",
+    "date": "2026-09-16",
+    "name": "HOPEWELL ELEM. SCHOOL LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011211",
+    "date": "2026-09-16",
+    "name": "JERSEY MIKE'S SUBS",
+    "inspector_id": "3514",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110040",
+    "date": "2026-09-16",
+    "name": "LEVEL CROSS ELEM SCHOOL LUNCH",
+    "inspector_id": "1133",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420086",
+    "date": "2026-09-16",
+    "name": "LEVEL CROSS MORE AT 4",
+    "inspector_id": "1133",
+    "score": "7",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010904",
+    "date": "2026-09-16",
+    "name": "SARKUS EXPRESS 3",
+    "inspector_id": "1133",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110048",
+    "date": "2026-09-16",
+    "name": "WHEATMORE HIGH SCHOOL LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076610242",
+    "date": "2026-09-15",
+    "name": "BLUE LUNA TATTOO COMPANY",
+    "inspector_id": "1612",
+    "score": "",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420068",
+    "date": "2026-09-15",
+    "name": "EARLY CHILDHOOD DEVELOPMENT  CTR BLDG #1",
+    "inspector_id": "1133",
+    "score": "15",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420067",
+    "date": "2026-09-15",
+    "name": "EARLY CHILDHOOD DEVELOPMENT CTR BLDG # 2",
+    "inspector_id": "2487",
+    "score": "15",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010324",
+    "date": "2026-09-15",
+    "name": "FAITH CHRISTIAN FOOD SERVICE",
+    "inspector_id": "986",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076060000",
+    "date": "2026-09-15",
+    "name": "RCC ARMADILLO CAFE",
+    "inspector_id": "2487",
+    "score": "96",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076400000",
+    "date": "2026-09-14",
+    "name": "ALPINE HEALTH AND REHAB OF ASHEBORO",
+    "inspector_id": "1133",
+    "score": "98",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076160006",
+    "date": "2026-09-14",
+    "name": "ALPINE HEALTH AND REHAB OF ASHEBORO",
+    "inspector_id": "1133",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110000",
+    "date": "2026-09-14",
+    "name": "ARCHDALE ELEMENTARY SCHOOL LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076440088",
+    "date": "2026-09-14",
+    "name": "GRACE POINT CHRISTIAN ACADEMY",
+    "inspector_id": "2487",
+    "score": "98.50",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076430012",
+    "date": "2026-09-14",
+    "name": "PROVIDENCE GROUP HOME",
+    "inspector_id": "3514",
+    "score": "5",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110050",
+    "date": "2026-09-14",
+    "name": "TRINITY MIDDLE SCHOOL LUNCH ROOM",
+    "inspector_id": "2487",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076530001",
+    "date": "2026-09-14",
+    "name": "YMCA OF RANDOLPH ASHEBORO",
+    "inspector_id": "3297",
+    "score": "2",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010427",
+    "date": "2026-09-12",
+    "name": "CHICK-FIL-A",
+    "inspector_id": "3159",
+    "score": "96.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076140439",
+    "date": "2026-09-11",
+    "name": "ARCHDALE TRINITY BAND BOOSTERS",
+    "inspector_id": "3159",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010593",
+    "date": "2026-09-11",
+    "name": "CAROLINAS DINER 104",
+    "inspector_id": "3159",
+    "score": "96",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010966",
+    "date": "2026-09-11",
+    "name": "HAN-DEE HUGO'S 203",
+    "inspector_id": "986",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420119",
+    "date": "2026-09-11",
+    "name": "RANDLEMAN ENRICHMENT CHILDCARE",
+    "inspector_id": "1133",
+    "score": "14",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076140437",
+    "date": "2026-09-11",
+    "name": "TRINITY HIGH SCHOOL FOOTBALL STADIUM CONCESSION ST",
+    "inspector_id": "3159",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010646",
+    "date": "2026-09-11",
+    "name": "ZEKOS  II",
+    "inspector_id": "986",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011155",
+    "date": "2026-09-10",
+    "name": "777 BELL CAFE",
+    "inspector_id": "1133",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076150018",
+    "date": "2026-09-10",
+    "name": "ARCHDALE BIG STAR KITCHEN",
+    "inspector_id": "2569",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110030",
+    "date": "2026-09-10",
+    "name": "BALFOUR ELEMENTARY SCHOOL LUNC",
+    "inspector_id": "2487",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500083",
+    "date": "2026-09-10",
+    "name": "COVINGTON RIDGE POOL & CABANA",
+    "inspector_id": "1612",
+    "score": "0",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110035",
+    "date": "2026-09-10",
+    "name": "EARLY CHILDHOOD DEV CTR LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011198",
+    "date": "2026-09-10",
+    "name": "KIDD'S DRIVE IN",
+    "inspector_id": "1133",
+    "score": "96",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076030299",
+    "date": "2026-09-10",
+    "name": "THE EMPANADA SPOT",
+    "inspector_id": "2569",
+    "score": "100",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010729",
+    "date": "2026-09-09",
+    "name": "BIG DIPPER",
+    "inspector_id": "986",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420159",
+    "date": "2026-09-09",
+    "name": "DAY STAR SCHOOL OF EXCELLENCE",
+    "inspector_id": "2487",
+    "score": "8",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011217",
+    "date": "2026-09-09",
+    "name": "EVERYTHING UNDER THE BUN GRILL",
+    "inspector_id": "986",
+    "score": "96",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011194",
+    "date": "2026-09-09",
+    "name": "SUSHI BY THE ZOO",
+    "inspector_id": "3514",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010870",
+    "date": "2026-09-08",
+    "name": "BURGER KING 790",
+    "inspector_id": "3159",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110010",
+    "date": "2026-09-08",
+    "name": "FRANKLINVILLE SCHOOL LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011172",
+    "date": "2026-09-08",
+    "name": "FRIO ICE CREAM AND BOTANA",
+    "inspector_id": "1133",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020189",
+    "date": "2026-09-08",
+    "name": "PAPA JOHNS # 3747",
+    "inspector_id": "1133",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110017",
+    "date": "2026-09-08",
+    "name": "RAMSEUR SCHOOL LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011075",
+    "date": "2026-09-08",
+    "name": "SHORTSTOP'S BURGERS AND SHAKES",
+    "inspector_id": "3159",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010735",
+    "date": "2026-09-05",
+    "name": "COMFORT INN AND SUITES",
+    "inspector_id": "3159",
+    "score": "96.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076260004",
+    "date": "2026-09-05",
+    "name": "MT. SHEPHERD RETREAT CENTER",
+    "inspector_id": "3514",
+    "score": "98",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010731",
+    "date": "2026-09-05",
+    "name": "MT. SHEPHERD RETREAT CENTER KITCHEN",
+    "inspector_id": "3514",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010794",
+    "date": "2026-09-05",
+    "name": "WAFFLE HOUSE  #1119",
+    "inspector_id": "3159",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500043",
+    "date": "2026-09-04",
+    "name": "DEEP RIVER CAMPGROUND SWIMMIING POOL #2PARK",
+    "inspector_id": "1612",
+    "score": "0",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011184",
+    "date": "2026-09-04",
+    "name": "FULL MOON OYSTER BAR",
+    "inspector_id": "3159",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010287",
+    "date": "2026-09-04",
+    "name": "HUDDLE HOUSE",
+    "inspector_id": "3159",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420157",
+    "date": "2026-09-04",
+    "name": "RANDLEMAN ENRICHMENT CENTER AFTERSCHOOL",
+    "inspector_id": "1133",
+    "score": "37",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420119",
+    "date": "2026-09-04",
+    "name": "RANDLEMAN ENRICHMENT CHILDCARE",
+    "inspector_id": "1133",
+    "score": "37",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011214",
+    "date": "2026-09-04",
+    "name": "RAY RAY'S CHICKEN SHACK",
+    "inspector_id": "986",
+    "score": "96",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011083",
+    "date": "2026-09-03",
+    "name": "CHINA HOUSE",
+    "inspector_id": "1133",
+    "score": "96.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011234",
+    "date": "2026-09-03",
+    "name": "CLOUD WINE ASHEBORO",
+    "inspector_id": "3514",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076030385",
+    "date": "2026-09-03",
+    "name": "HALAL MUNCH",
+    "inspector_id": "2569",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011146",
+    "date": "2026-09-03",
+    "name": "SUBWAY 14196",
+    "inspector_id": "1133",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020227",
+    "date": "2026-09-02",
+    "name": "BIG JIM'S GROCERY",
+    "inspector_id": "986",
+    "score": "92.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011171",
+    "date": "2026-09-02",
+    "name": "BLAKES HALF BAKED LLC",
+    "inspector_id": "3514",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420159",
+    "date": "2026-09-02",
+    "name": "DAY STAR SCHOOL OF EXCELLENCE",
+    "inspector_id": "2487",
+    "score": "17",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020333",
+    "date": "2026-09-02",
+    "name": "PIZZA HUT #037923",
+    "inspector_id": "986",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500047",
+    "date": "2026-09-02",
+    "name": "QUALITY INN OF ARCHDALE",
+    "inspector_id": "1612",
+    "score": "0",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010943",
+    "date": "2026-09-02",
+    "name": "SAKURA EXPRESS",
+    "inspector_id": "1133",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010924",
+    "date": "2026-09-02",
+    "name": "TIME SQUARE DOWNTOWN",
+    "inspector_id": "3514",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076030264",
+    "date": "2026-09-01",
+    "name": "AL FALAH KABAB & GYRO INC.",
+    "inspector_id": "2569",
+    "score": "96.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076300072",
+    "date": "2026-09-01",
+    "name": "ROSARIO LOMA BONITA",
+    "inspector_id": "3514",
+    "score": "96",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011181",
+    "date": "2026-09-01",
+    "name": "ROYAL TACOS & MEXICAN GRILL",
+    "inspector_id": "1133",
+    "score": "96.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420164",
+    "date": "2026-09-01",
+    "name": "TRUTH ACADEMY AND PRESCHOOL",
+    "inspector_id": "986",
+    "score": "4",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020224",
+    "date": "2026-08-31",
+    "name": "COMPARE FOODS DELI",
+    "inspector_id": "1133",
+    "score": "94.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076300067",
+    "date": "2026-08-31",
+    "name": "COMPARE FOODS MEAT DEPARTMENT",
+    "inspector_id": "3159",
+    "score": "95",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011052",
+    "date": "2026-08-31",
+    "name": "DAVID'S RESTAURANT",
+    "inspector_id": "986",
+    "score": "96",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076300074",
+    "date": "2026-08-31",
+    "name": "EL RANCHERO",
+    "inspector_id": "3514",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076200044",
+    "date": "2026-08-31",
+    "name": "HOLIDAY INN",
+    "inspector_id": "1133",
+    "score": "96.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076030125",
+    "date": "2026-08-31",
+    "name": "TACOS AYLIN",
+    "inspector_id": "3514",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110026",
+    "date": "2026-08-31",
+    "name": "TRINDALE SCHOOL LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110001",
+    "date": "2026-08-31",
+    "name": "WHEATMORE MIDDLE SCHOOL LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011143",
+    "date": "2026-08-29",
+    "name": "HOLIDAY INN BREAKFAST BAR",
+    "inspector_id": "3159",
+    "score": "95.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076030367",
+    "date": "2026-08-29",
+    "name": "R AND B QUE HOUSE",
+    "inspector_id": "2569",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076030274",
+    "date": "2026-08-29",
+    "name": "TASTEE'S",
+    "inspector_id": "2569",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076030341",
+    "date": "2026-08-29",
+    "name": "THE ROCKIN MOROCCAN",
+    "inspector_id": "2569",
+    "score": "100",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011071",
+    "date": "2026-08-28",
+    "name": "DAIRI0 D9",
+    "inspector_id": "986",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076300037",
+    "date": "2026-08-28",
+    "name": "FOOD LION 897",
+    "inspector_id": "986",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020152",
+    "date": "2026-08-28",
+    "name": "RANDLEMAN TIGER BOOSTERS VISITORS",
+    "inspector_id": "1133",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020032",
+    "date": "2026-08-28",
+    "name": "RANDLEMAN TIGERS BOOSTERS HOME",
+    "inspector_id": "1133",
+    "score": "96.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010785",
+    "date": "2026-08-28",
+    "name": "SUBWAY 18238",
+    "inspector_id": "1133",
+    "score": "96",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010471",
+    "date": "2026-08-27",
+    "name": "BISCUITVILLE  171",
+    "inspector_id": "986",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011145",
+    "date": "2026-08-27",
+    "name": "MONA LISA II",
+    "inspector_id": "3159",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011099",
+    "date": "2026-08-27",
+    "name": "WENDYS 603",
+    "inspector_id": "3159",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500077",
+    "date": "2026-08-26",
+    "name": "HANOVER COURT I",
+    "inspector_id": "1612",
+    "score": "0",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500062",
+    "date": "2026-08-25",
+    "name": "BRECKENRIDGE SWIMMING POOL",
+    "inspector_id": "1612",
+    "score": "4",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076530015",
+    "date": "2026-08-25",
+    "name": "GRUBB FAMILY YMCA POOL",
+    "inspector_id": "1612",
+    "score": "4",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500011",
+    "date": "2026-08-24",
+    "name": "CREEKSIDE VILLAGE HOMEOWNERS ASSOC",
+    "inspector_id": "1612",
+    "score": "8",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011173",
+    "date": "2026-08-24",
+    "name": "GOGOYAKI",
+    "inspector_id": "986",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076530015",
+    "date": "2026-08-24",
+    "name": "GRUBB FAMILY YMCA POOL",
+    "inspector_id": "1612",
+    "score": "10",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010717",
+    "date": "2026-08-24",
+    "name": "HOLLY RIDGE GRILL",
+    "inspector_id": "986",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011114",
+    "date": "2026-08-24",
+    "name": "LOS MOLCAJETES MEXICAN GRILL",
+    "inspector_id": "1133",
+    "score": "90",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011062",
+    "date": "2026-08-22",
+    "name": "HARDEE'S #1500389",
+    "inspector_id": "3159",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011080",
+    "date": "2026-08-22",
+    "name": "PANCAKE HOUSE",
+    "inspector_id": "3159",
+    "score": "95",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076610110",
+    "date": "2026-08-21",
+    "name": "CARDINAL ROSE TATTOO GALLERY",
+    "inspector_id": "1612",
+    "score": "",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011011",
+    "date": "2026-08-21",
+    "name": "LA HACIENDA MEXICAN RESTAURANT #3",
+    "inspector_id": "986",
+    "score": "94",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011232",
+    "date": "2026-08-21",
+    "name": "NEESE'S KOUNTRY KITCHEN",
+    "inspector_id": "1133",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010188",
+    "date": "2026-08-21",
+    "name": "RANDLEMAN CAFE",
+    "inspector_id": "1133",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076090007",
+    "date": "2026-08-21",
+    "name": "TITLE III CONGREGATE MEAL SITE",
+    "inspector_id": "986",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076140438",
+    "date": "2026-08-20",
+    "name": "PROVIDENCE GROVE HIGH SCHOOL FOOTBALL CONCESSION S",
+    "inspector_id": "1133",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420123",
+    "date": "2026-08-19",
+    "name": "BUILDING BLOCKS CHRISTIAN ACADEMY",
+    "inspector_id": "1133",
+    "score": "12",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500082",
+    "date": "2026-08-19",
+    "name": "COMFORT INN & SUITES",
+    "inspector_id": "1612",
+    "score": "4",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011005",
+    "date": "2026-08-19",
+    "name": "DON JULIO COCINA & COCKTAILS, INC.",
+    "inspector_id": "3514",
+    "score": "94.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011233",
+    "date": "2026-08-19",
+    "name": "DOS HERMANOS MEXICAN RESTAURANT",
+    "inspector_id": "1133",
+    "score": "95.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420163",
+    "date": "2026-08-19",
+    "name": "THE GROWING PLACE- WEST ASHEBORO",
+    "inspector_id": "1659",
+    "score": "4",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076444098",
+    "date": "2026-08-19",
+    "name": "TRUTH ACADEMY",
+    "inspector_id": "986",
+    "score": "96.50",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076610256",
+    "date": "2026-08-18",
+    "name": "BEAUTIFUL CHAOS SALON",
+    "inspector_id": "1612",
+    "score": "",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010019",
+    "date": "2026-08-18",
+    "name": "CHICK-FIL-A",
+    "inspector_id": "3514",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010553",
+    "date": "2026-08-18",
+    "name": "CINEMARK 7 AT RANDOLPH MALL",
+    "inspector_id": "3514",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010736",
+    "date": "2026-08-18",
+    "name": "GORILLA PIZZA",
+    "inspector_id": "3514",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076030386",
+    "date": "2026-08-18",
+    "name": "MATT TORTAS",
+    "inspector_id": "2569",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020097",
+    "date": "2026-08-18",
+    "name": "PAPA JOHNS PIZZA  1331",
+    "inspector_id": "986",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500082",
+    "date": "2026-08-17",
+    "name": "COMFORT INN & SUITES",
+    "inspector_id": "1612",
+    "score": "6",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076530009",
+    "date": "2026-08-17",
+    "name": "FAIRFIELD INN & SUITES OF ARCHDALE SWIM",
+    "inspector_id": "1612",
+    "score": "0",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500058",
+    "date": "2026-08-17",
+    "name": "HOLIDAY INN EXPRESS",
+    "inspector_id": "1612",
+    "score": "0",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500021",
+    "date": "2026-08-17",
+    "name": "HOLLY BLUFF FAMILY CAMPGROUND",
+    "inspector_id": "1612",
+    "score": "0",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500076",
+    "date": "2026-08-17",
+    "name": "JELLY STONE FAMILY CAMPGROUND POOL",
+    "inspector_id": "1612",
+    "score": "0",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011124",
+    "date": "2026-08-17",
+    "name": "KENTUCKY FRIED CHICKEN",
+    "inspector_id": "1133",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420136",
+    "date": "2026-08-17",
+    "name": "NOAH'S ARK PLAYSCHOOL",
+    "inspector_id": "1133",
+    "score": "12",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076260007",
+    "date": "2026-08-17",
+    "name": "VICTORY MOUNTAIN WESLYAN YOUTH CAMP",
+    "inspector_id": "3514",
+    "score": "99.50",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011167",
+    "date": "2026-08-15",
+    "name": "THE BISCUIT COMPANY",
+    "inspector_id": "3159",
+    "score": "96",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011057",
+    "date": "2026-08-14",
+    "name": "DUNKIN DONUTS 358168",
+    "inspector_id": "986",
+    "score": "96",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011085",
+    "date": "2026-08-14",
+    "name": "PHO HUONG THANH",
+    "inspector_id": "986",
+    "score": "96",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020330",
+    "date": "2026-08-14",
+    "name": "PIZZA HUT 037922",
+    "inspector_id": "1133",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010960",
+    "date": "2026-08-13",
+    "name": "BBQ JOE'S COUNTRY COOKING",
+    "inspector_id": "3159",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076300217",
+    "date": "2026-08-13",
+    "name": "CARLIE C S #760 MEAT MARKET",
+    "inspector_id": "3514",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020338",
+    "date": "2026-08-13",
+    "name": "CARLIE CS IGA #760 PRODUCE",
+    "inspector_id": "3514",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076300000",
+    "date": "2026-08-13",
+    "name": "COLONIAL MEAT SERVICE",
+    "inspector_id": "3159",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500003",
+    "date": "2026-08-13",
+    "name": "FOREST RIDGE APARTMENTS",
+    "inspector_id": "1612",
+    "score": "0",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020347",
+    "date": "2026-08-13",
+    "name": "HILLSVILLE MINI MART",
+    "inspector_id": "986",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500021",
+    "date": "2026-08-13",
+    "name": "HOLLY BLUFF FAMILY CAMPGROUND",
+    "inspector_id": "1612",
+    "score": "6",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500060",
+    "date": "2026-08-13",
+    "name": "MADISON HTS APT POOL",
+    "inspector_id": "1612",
+    "score": "0",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011139",
+    "date": "2026-08-13",
+    "name": "MIDWAY MARKET",
+    "inspector_id": "1133",
+    "score": "95.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010985",
+    "date": "2026-08-13",
+    "name": "RING OF FIRE GRILL",
+    "inspector_id": "1133",
+    "score": "96",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011102",
+    "date": "2026-08-13",
+    "name": "SUBWAY 39650",
+    "inspector_id": "3159",
+    "score": "96",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010657",
+    "date": "2026-08-12",
+    "name": "CHILIS BAR & GRILL",
+    "inspector_id": "3159",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500030",
+    "date": "2026-08-12",
+    "name": "PINEWOOD COUNTRY CLUB SWIMMING POOL",
+    "inspector_id": "1612",
+    "score": "6",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076510011",
+    "date": "2026-08-12",
+    "name": "PINEWOOD COUNTRY CLUB WADING POOL",
+    "inspector_id": "1612",
+    "score": "12",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010974",
+    "date": "2026-08-12",
+    "name": "PIONEER FAMILY RESTAURANT",
+    "inspector_id": "986",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011017",
+    "date": "2026-08-11",
+    "name": "BOJANGLES #2004",
+    "inspector_id": "3514",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010572",
+    "date": "2026-08-11",
+    "name": "BOJANGLES/RANDLEMAN",
+    "inspector_id": "1133",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500043",
+    "date": "2026-08-11",
+    "name": "DEEP RIVER CAMPGROUND SWIMMIING POOL #2PARK",
+    "inspector_id": "1612",
+    "score": "10",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020206",
+    "date": "2026-08-11",
+    "name": "DOMINO'S PIZZA #8962",
+    "inspector_id": "3514",
+    "score": "96.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500069",
+    "date": "2026-08-11",
+    "name": "FRANKLIN VILLAGE SWIMMING POOL",
+    "inspector_id": "1612",
+    "score": "0",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011115",
+    "date": "2026-08-11",
+    "name": "KIRIN ASIAN CUISINE",
+    "inspector_id": "1133",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500063",
+    "date": "2026-08-11",
+    "name": "MATTHEW GRANDE APARTMENTS",
+    "inspector_id": "1612",
+    "score": "2",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500052",
+    "date": "2026-08-11",
+    "name": "NORTH MEADOWS MANUFACTURED HOME",
+    "inspector_id": "1612",
+    "score": "0",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011159",
+    "date": "2026-08-11",
+    "name": "TROPICAL SMOOTHIE CAFE",
+    "inspector_id": "986",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500071",
+    "date": "2026-08-11",
+    "name": "ZOOLAND FAMILY CAMPGROUND",
+    "inspector_id": "1612",
+    "score": "0",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500072",
+    "date": "2026-08-11",
+    "name": "ZOOLAND FAMILY CAMPGROUND SMALL POOL",
+    "inspector_id": "1612",
+    "score": "0",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420136",
+    "date": "2026-08-10",
+    "name": "NOAH'S ARK PLAYSCHOOL",
+    "inspector_id": "1133",
+    "score": "18",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011144",
+    "date": "2026-08-10",
+    "name": "SURE STAY PLUS HOTEL BY BEST WESTERN BREAKFAST BAR",
+    "inspector_id": "986",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011125",
+    "date": "2026-08-10",
+    "name": "TACO BELL 039750",
+    "inspector_id": "986",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011104",
+    "date": "2026-08-10",
+    "name": "UNA MAS",
+    "inspector_id": "1133",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010171",
+    "date": "2026-08-07",
+    "name": "ARCHDALE SUBS",
+    "inspector_id": "986",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076260006",
+    "date": "2026-08-07",
+    "name": "CAMP CARAWAY CONFERANCE CENTER",
+    "inspector_id": "3514",
+    "score": "99",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420149",
+    "date": "2026-08-07",
+    "name": "FREEDOM PRESCHOOL",
+    "inspector_id": "1133",
+    "score": "8",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076160008",
+    "date": "2026-08-07",
+    "name": "GRAY BRIER KITCHEN",
+    "inspector_id": "986",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076040095",
+    "date": "2026-08-07",
+    "name": "LIBERTY HOT DOG CARTS",
+    "inspector_id": "1133",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010816",
+    "date": "2026-08-06",
+    "name": "RANDOLPH HOSPICE HOUSE KITCHEN",
+    "inspector_id": "3514",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076160010",
+    "date": "2026-08-06",
+    "name": "WESTWOOD HEALTH AND REHAB KITCHEN",
+    "inspector_id": "986",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010077",
+    "date": "2026-08-05",
+    "name": "MAYFLOWER RESTAURANT",
+    "inspector_id": "986",
+    "score": "96.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500053",
+    "date": "2026-08-05",
+    "name": "SURE STAY HOTEL BY BEST WESTERN",
+    "inspector_id": "1612",
+    "score": "0",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010898",
+    "date": "2026-08-05",
+    "name": "TACO BELL #131",
+    "inspector_id": "986",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011091",
+    "date": "2026-08-04",
+    "name": "BOJANGLES #2034",
+    "inspector_id": "986",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011109",
+    "date": "2026-08-04",
+    "name": "TOKYO EXPRESS",
+    "inspector_id": "986",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020217",
+    "date": "2026-08-03",
+    "name": "DOMINO'S #7447",
+    "inspector_id": "986",
+    "score": "96",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420077",
+    "date": "2026-08-03",
+    "name": "IT'S A KIDS WORLD INC",
+    "inspector_id": "1133",
+    "score": "13",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020158",
+    "date": "2026-08-03",
+    "name": "SPEEDWAY #7943",
+    "inspector_id": "986",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010897",
+    "date": "2026-08-03",
+    "name": "TACO BELL #141",
+    "inspector_id": "1133",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076610255",
+    "date": "2026-08-03",
+    "name": "TRAP HOUSE INK",
+    "inspector_id": "1612",
+    "score": "",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011189",
+    "date": "2026-07-31",
+    "name": "CHIPOTLE - ASHEBORO #4835",
+    "inspector_id": "986",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010506",
+    "date": "2026-07-31",
+    "name": "GOLDEN CORRAL/ASHEBORO 2454",
+    "inspector_id": "1133",
+    "score": "93",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076430056",
+    "date": "2026-07-30",
+    "name": "BROOKWOOD GROUP HOME",
+    "inspector_id": "1133",
+    "score": "11",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076530006",
+    "date": "2026-07-30",
+    "name": "HAMPTON INN AT ASHEBORO SWIMMING POOL (INSIDE)",
+    "inspector_id": "1612",
+    "score": "0",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076550011",
+    "date": "2026-07-30",
+    "name": "HAMPTON INN OF ASHEBORO-YEAR-ROUND SPA",
+    "inspector_id": "1612",
+    "score": "0",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011042",
+    "date": "2026-07-30",
+    "name": "LIBERTY EVENT CENTER",
+    "inspector_id": "1133",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010698",
+    "date": "2026-07-30",
+    "name": "QUALITY MART #7",
+    "inspector_id": "1133",
+    "score": "96.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020156",
+    "date": "2026-07-29",
+    "name": "BIZZY BEE DELI",
+    "inspector_id": "986",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500050",
+    "date": "2026-07-29",
+    "name": "COMFORT INN AND SUITES",
+    "inspector_id": "1612",
+    "score": "16",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011058",
+    "date": "2026-07-29",
+    "name": "DAIRI O D8",
+    "inspector_id": "1133",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010959",
+    "date": "2026-07-29",
+    "name": "HIBACHI JR. EXPRESS",
+    "inspector_id": "986",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500080",
+    "date": "2026-07-29",
+    "name": "HOLIDAY INN EXPRESS",
+    "inspector_id": "1612",
+    "score": "0",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076500025",
+    "date": "2026-07-29",
+    "name": "KYNWOOD VILLAGE RECREATION CENTER",
+    "inspector_id": "3297",
+    "score": "14",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076510003",
+    "date": "2026-07-29",
+    "name": "KYNWOOD VILLAGE RECREATION CENTER WADING",
+    "inspector_id": "3297",
+    "score": "8",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011185",
+    "date": "2026-07-29",
+    "name": "SENOR SAZON",
+    "inspector_id": "2487",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011098",
+    "date": "2026-07-29",
+    "name": "WENDYS 611",
+    "inspector_id": "3159",
+    "score": "95",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010413",
+    "date": "2026-07-28",
+    "name": "CHINA BUFFET #1",
+    "inspector_id": "3159",
+    "score": "96",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010811",
+    "date": "2026-07-28",
+    "name": "COACH'S CHEESEBURGERS",
+    "inspector_id": "2487",
+    "score": "94",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076610189",
+    "date": "2026-07-28",
+    "name": "ECSTATIC ART",
+    "inspector_id": "1612",
+    "score": "",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010902",
+    "date": "2026-07-28",
+    "name": "KICKBACK JACK'S  40",
+    "inspector_id": "986",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076480002",
+    "date": "2026-07-28",
+    "name": "OUR PLACE ADULT DAY CARE",
+    "inspector_id": "3514",
+    "score": "8",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076430133",
+    "date": "2026-07-28",
+    "name": "OVERLOOK GROUP HOME",
+    "inspector_id": "3514",
+    "score": "3",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011068",
+    "date": "2026-07-28",
+    "name": "TERRA BELLA KITCHEN",
+    "inspector_id": "986",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010855",
+    "date": "2026-07-27",
+    "name": "COMPADRES MEXICAN RESTAURANT",
+    "inspector_id": "1133",
+    "score": "96.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010062",
+    "date": "2026-07-27",
+    "name": "JED'S BARBEQUE",
+    "inspector_id": "986",
+    "score": "94",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076260005",
+    "date": "2026-07-27",
+    "name": "VICTORY JUNCTION CAMP",
+    "inspector_id": "3514",
+    "score": "97",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010746",
+    "date": "2026-07-27",
+    "name": "WAFFLE HOUSE #1844",
+    "inspector_id": "1133",
+    "score": "95.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010864",
+    "date": "2026-07-24",
+    "name": "G&N RANCHO",
+    "inspector_id": "986",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420132",
+    "date": "2026-07-24",
+    "name": "IT'S A KIDS WORLD SCHOOL AGE PROGRAM",
+    "inspector_id": "1133",
+    "score": "12",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011147",
+    "date": "2026-07-24",
+    "name": "SUBWAY #3300",
+    "inspector_id": "986",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011086",
+    "date": "2026-07-24",
+    "name": "TAQUERIA MI RANCHITO",
+    "inspector_id": "2487",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076430057",
+    "date": "2026-07-24",
+    "name": "TIMBERLEA GROUP HOME",
+    "inspector_id": "1133",
+    "score": "14",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010945",
+    "date": "2026-07-23",
+    "name": "FIREHOUSE SUBS",
+    "inspector_id": "986",
+    "score": "94",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011235",
+    "date": "2026-07-23",
+    "name": "LAS TRANCAS",
+    "inspector_id": "1133",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420144",
+    "date": "2026-07-22",
+    "name": "CREATIVE KIDS PRESCHOOL & CHILD CARE",
+    "inspector_id": "1133",
+    "score": "8",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010992",
+    "date": "2026-07-22",
+    "name": "FARM TO TABLE CAFE",
+    "inspector_id": "2487",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010185",
+    "date": "2026-07-21",
+    "name": "MARY B'S SOUTHERN KITCHEN",
+    "inspector_id": "2487",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420158",
+    "date": "2026-07-21",
+    "name": "MISS ASHLEY'S ENRICHMENT ACADEMY",
+    "inspector_id": "1133",
+    "score": "14",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076260009",
+    "date": "2026-07-21",
+    "name": "MUNDO VISTA",
+    "inspector_id": "3514",
+    "score": "98",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011046",
+    "date": "2026-07-21",
+    "name": "PAW PAW'S PLACE",
+    "inspector_id": "986",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011054",
+    "date": "2026-07-21",
+    "name": "SAPPORO EXPRESS",
+    "inspector_id": "986",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076300075",
+    "date": "2026-07-20",
+    "name": "AL-MADINA HALAL MEAT MARKET AND GROCERY",
+    "inspector_id": "986",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076260001",
+    "date": "2026-07-20",
+    "name": "CAMP CARAWAY",
+    "inspector_id": "3514",
+    "score": "96.50",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011228",
+    "date": "2026-07-20",
+    "name": "CHAT AND CHEW CAFE",
+    "inspector_id": "986",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076160003",
+    "date": "2026-07-20",
+    "name": "NORTH POINTE KITCHEN",
+    "inspector_id": "1133",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420038",
+    "date": "2026-07-20",
+    "name": "VICTORY BAPTIST CHURCH DEVELOPMENT",
+    "inspector_id": "2487",
+    "score": "18",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011095",
+    "date": "2026-07-20",
+    "name": "WENDYS 619",
+    "inspector_id": "1133",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011088",
+    "date": "2026-07-18",
+    "name": "IHOP",
+    "inspector_id": "3159",
+    "score": "96",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076160001",
+    "date": "2026-07-17",
+    "name": "BROOKSTONE HAVEN KITCHEN",
+    "inspector_id": "1133",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420132",
+    "date": "2026-07-17",
+    "name": "IT'S A KIDS WORLD SCHOOL AGE PROGRAM",
+    "inspector_id": "1133",
+    "score": "19",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076300061",
+    "date": "2026-07-17",
+    "name": "LA POSADITA",
+    "inspector_id": "986",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020147",
+    "date": "2026-07-17",
+    "name": "SPEEDWAY #7942",
+    "inspector_id": "986",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076530012",
+    "date": "2026-07-17",
+    "name": "WEST PIONTE APTS",
+    "inspector_id": "1612",
+    "score": "0",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011188",
+    "date": "2026-07-16",
+    "name": "CAPRI'S PIZZA",
+    "inspector_id": "1133",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011197",
+    "date": "2026-07-16",
+    "name": "KINGS TRINITY GRILL",
+    "inspector_id": "986",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076420157",
+    "date": "2026-07-16",
+    "name": "RANDLEMAN ENRICHMENT CENTER AFTERSCHOOL",
+    "inspector_id": "1133",
+    "score": "13",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076610254",
+    "date": "2026-07-15",
+    "name": "JACK'S TATTOO CO.",
+    "inspector_id": "1612",
+    "score": "",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  }
+]
