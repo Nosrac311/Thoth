@@ -27,6 +27,15 @@
     "source": "IREDELL"
   },
   {
+    "id": "2049610424",
+    "date": "2026-09-30",
+    "name": "TATTOO BY SMALLZ",
+    "inspector_id": "2683",
+    "score": "",
+    "grade": "N/A",
+    "source": "IREDELL"
+  },
+  {
     "id": "2049610423",
     "date": "2026-09-30",
     "name": "TATTOOXSLATER",
@@ -36,11 +45,29 @@
     "source": "IREDELL"
   },
   {
+    "id": "2049530062",
+    "date": "2026-09-29",
+    "name": "COUNTRY CLUB APARTMENTS-POOL",
+    "inspector_id": "2683",
+    "score": "6",
+    "grade": "N/A",
+    "source": "IREDELL"
+  },
+  {
     "id": "2049030201",
     "date": "2026-09-29",
     "name": "FRANKTASTIC FOUR - MFU",
     "inspector_id": "2586",
     "score": "100",
+    "grade": "A",
+    "source": "IREDELL"
+  },
+  {
+    "id": "2049010082",
+    "date": "2026-09-29",
+    "name": "JULIA'S TALLEY HOUSE",
+    "inspector_id": "2683",
+    "score": "96",
     "grade": "A",
     "source": "IREDELL"
   },
