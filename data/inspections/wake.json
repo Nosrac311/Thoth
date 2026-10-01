@@ -45,6 +45,15 @@
     "source": "WAKE"
   },
   {
+    "id": "4092019300",
+    "date": "2026-10-01",
+    "name": "CHINATOWN EXPRESS",
+    "inspector_id": "2703",
+    "score": "96.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092019318",
     "date": "2026-10-01",
     "name": "DAIJOBU",
