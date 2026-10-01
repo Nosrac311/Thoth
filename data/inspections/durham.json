@@ -1,5 +1,23 @@
 [
   {
+    "id": "4032013275",
+    "date": "2026-10-01",
+    "name": "CHELSEA CAFE",
+    "inspector_id": "2242",
+    "score": "93",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013361",
+    "date": "2026-10-01",
+    "name": "FOSTER STREET COFFEE",
+    "inspector_id": "3547",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032420262",
     "date": "2026-10-01",
     "name": "NEW LIFE CHILD DEVELOPMENT",
