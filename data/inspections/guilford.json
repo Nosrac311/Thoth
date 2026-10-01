@@ -18,12 +18,30 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041400110",
+    "date": "2026-09-30",
+    "name": "ALEXANDER YOUTH NETWORK CHILD ADOLESCENT CRISIS CE",
+    "inspector_id": "2964",
+    "score": "90",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041015233",
     "date": "2026-09-30",
     "name": "DAVES HOT CHICKEN",
     "inspector_id": "2370",
     "score": "97",
     "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041420605",
+    "date": "2026-09-30",
+    "name": "DIANNA'S CHILDCARE # 2    #",
+    "inspector_id": "2644",
+    "score": "4",
+    "grade": "N/A",
     "source": "GUILFORD"
   },
   {
@@ -59,6 +77,15 @@
     "name": "FOOD LION DELI #615",
     "inspector_id": "1948",
     "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041060080",
+    "date": "2026-09-30",
+    "name": "HPU - CHICK-FIL-A",
+    "inspector_id": "2964",
+    "score": "98",
     "grade": "A",
     "source": "GUILFORD"
   },
