@@ -9,6 +9,15 @@
     "source": "DURHAM"
   },
   {
+    "id": "4032013566",
+    "date": "2026-10-01",
+    "name": "FLYING BULL BEER COMPANY",
+    "inspector_id": "3547",
+    "score": "93",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032013361",
     "date": "2026-10-01",
     "name": "FOSTER STREET COFFEE",
@@ -23,6 +32,15 @@
     "name": "MCDONALDS #3573",
     "inspector_id": "3129",
     "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013023",
+    "date": "2026-10-01",
+    "name": "NAANSTOP INDIAN CUISINE",
+    "inspector_id": "3367",
+    "score": "92",
     "grade": "A",
     "source": "DURHAM"
   },
