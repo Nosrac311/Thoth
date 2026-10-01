@@ -1,5 +1,113 @@
 [
   {
+    "id": "4032154509",
+    "date": "2026-09-30",
+    "name": "AAKTUN COMMISSARY",
+    "inspector_id": "2574",
+    "score": "95",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430031",
+    "date": "2026-09-30",
+    "name": "BETTER LIVING CONCEPTS OF DURHAM",
+    "inspector_id": "3129",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020453",
+    "date": "2026-09-30",
+    "name": "COSTCO SERVICE DELI",
+    "inspector_id": "3547",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300095",
+    "date": "2026-09-30",
+    "name": "FOOD LION MEAT MARKET 2646",
+    "inspector_id": "2503",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020671",
+    "date": "2026-09-30",
+    "name": "HARRIS TEETER 254 DELI",
+    "inspector_id": "2574",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420341",
+    "date": "2026-09-30",
+    "name": "JUMPING JACKS",
+    "inspector_id": "3096",
+    "score": "12",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013669",
+    "date": "2026-09-30",
+    "name": "KENTUCKY FRIED CHICKEN",
+    "inspector_id": "3229",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420056",
+    "date": "2026-09-30",
+    "name": "KINDER CARE LEARNING CENTER 518",
+    "inspector_id": "3547",
+    "score": "14",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013059",
+    "date": "2026-09-30",
+    "name": "MCDONALDS #32344",
+    "inspector_id": "3367",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011415",
+    "date": "2026-09-30",
+    "name": "QUALITY MART  43",
+    "inspector_id": "3229",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012037",
+    "date": "2026-09-30",
+    "name": "SALADELIA",
+    "inspector_id": "2242",
+    "score": "96.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013618",
+    "date": "2026-09-30",
+    "name": "THAI ANGLE RESTAURANT",
+    "inspector_id": "2503",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032420363",
     "date": "2026-09-29",
     "name": "BROAD STREET CHILDREN'S COTTAGE",

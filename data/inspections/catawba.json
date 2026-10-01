@@ -1,5 +1,77 @@
 [
   {
+    "id": "2018011025",
+    "date": "2026-09-30",
+    "name": "CHILIS GRILL AND BAR",
+    "inspector_id": "1654",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011423",
+    "date": "2026-09-30",
+    "name": "DIXIE'S FISH AND CHICKEN",
+    "inspector_id": "2031",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011732",
+    "date": "2026-09-30",
+    "name": "EL VAQUERO FOOD",
+    "inspector_id": "2286",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011511",
+    "date": "2026-09-30",
+    "name": "FUNKHEIZERS RESTAURANT AND CATERING",
+    "inspector_id": "2031",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010404",
+    "date": "2026-09-30",
+    "name": "OLIVE GARDEN 1407",
+    "inspector_id": "1654",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018030264",
+    "date": "2026-09-30",
+    "name": "SAAP-SAAP THAI FOOD",
+    "inspector_id": "2286",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020438",
+    "date": "2026-09-30",
+    "name": "TAQUERIA LA GRINGA",
+    "inspector_id": "2286",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011390",
+    "date": "2026-09-30",
+    "name": "ZAXBY'S #44302 SPRINGS RD",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018011089",
     "date": "2026-09-29",
     "name": "AMALFIS PIZZA",
