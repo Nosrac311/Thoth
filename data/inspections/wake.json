@@ -1,5 +1,14 @@
 [
   {
+    "id": "4092016903",
+    "date": "2026-10-01",
+    "name": "AXIS (AT EMBASSY SUITES)",
+    "inspector_id": "2703",
+    "score": "96.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092014486",
     "date": "2026-10-01",
     "name": "BIG ED'S CITY MARKET RESTAURANT",
@@ -50,6 +59,15 @@
     "name": "LOWES FOODS #207 MEATS   SEAFOOD",
     "inspector_id": "2701",
     "score": "99.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092019133",
+    "date": "2026-10-01",
+    "name": "MANHATTAN CAFE",
+    "inspector_id": "3092",
+    "score": "94",
     "grade": "A",
     "source": "WAKE"
   },
