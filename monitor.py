@@ -1,4 +1,5 @@
 import asyncio
+import traceback
 
 import aiohttp
 import discord
@@ -15,11 +16,18 @@ from database import (
     update_stats,
     get_inspector_channel,
     save_inspector_channel,
-    get_watchlist,
+    get_watchers,
 )
+
+from github_sync import sync_inspections_to_github
 
 
 LOG_CHANNEL_ID = 1524018943197581352
+WATCH_CHANNEL_ID = 1524147758628475063
+
+POLL_INTERVAL = 300
+
+
 # --------------- BACKGROUND LOOP ----------------
 
 
@@ -37,13 +45,18 @@ async def monitor(client):
 
                 try:
 
-                    watched = get_watchlist()
-
                     watch_channel = client.get_channel(
-                        1524147758628475063
+                        WATCH_CHANNEL_ID
                     )
 
+                    # Keep track of every source that received
+                    # at least one new inspection during this cycle.
+                    new_sources = set()
+
+                    # --------------------------------------------------
                     # Fetch all counties at once
+                    # --------------------------------------------------
+
                     tasks = [
                         get_inspections(
                             session,
@@ -51,7 +64,6 @@ async def monitor(client):
                             source,
                             county["parser"],
                         )
-
                         for source, county in COUNTIES.items()
                     ]
 
@@ -59,23 +71,42 @@ async def monitor(client):
                         *tasks
                     )
 
+                    # --------------------------------------------------
+                    # Process inspections
+                    # --------------------------------------------------
+
                     for (source, _), inspections in zip(
                         COUNTIES.items(),
-                        results
+                        results,
                     ):
 
-                        new_inspections = False
-
                         for data in reversed(inspections):
+
+                            # --------------------------------------------------
+                            # Already stored?
+                            # --------------------------------------------------
 
                             if inspection_exists(
                                 data["source"],
                                 data["id"],
-                                data["date"]
+                                data["date"],
                             ):
+
                                 continue
 
-                            new_inspections = True
+
+                            # --------------------------------------------------
+                            # This is a NEW inspection
+                            # --------------------------------------------------
+
+                            new_sources.add(
+                                data["source"]
+                            )
+
+
+                            # --------------------------------------------------
+                            # Find/create inspector channel
+                            # --------------------------------------------------
 
                             channel_id = get_inspector_channel(
                                 data["inspector_id"]
@@ -83,11 +114,13 @@ async def monitor(client):
 
                             channel = None
 
+
                             if channel_id:
 
                                 channel = client.get_channel(
                                     channel_id
                                 )
+
 
                                 if channel is None:
 
@@ -101,93 +134,247 @@ async def monitor(client):
 
                                         channel = None
 
+
+                            # --------------------------------------------------
+                            # Create inspector channel if needed
+                            # --------------------------------------------------
+
                             if channel is None:
+
+                                if not client.guilds:
+
+                                    print(
+                                        "⚠️ No Discord guilds available "
+                                        "to create inspector channel."
+                                    )
+
+                                    continue
+
 
                                 guild = client.guilds[0]
 
+
                                 category = guild.get_channel(
-                                    CATEGORY_IDS[data["source"]]
+                                    CATEGORY_IDS[
+                                        data["source"]
+                                    ]
                                 )
 
+
                                 channel = await guild.create_text_channel(
+
                                     name=data["inspector_id"]
                                     .lower()
                                     .replace(" ", "-"),
 
-                                    category=category
+                                    category=category,
+
                                 )
+
 
                                 save_inspector_channel(
                                     data["inspector_id"],
-                                    channel.id
+                                    channel.id,
                                 )
+
+
+                                # --------------------------------------------------
+                                # Log new inspector channel
+                                # --------------------------------------------------
 
                                 log_channel = client.get_channel(
                                     LOG_CHANNEL_ID
                                 )
 
+
                                 if log_channel is None:
 
-                                    log_channel = await client.fetch_channel(
-                                        LOG_CHANNEL_ID
+                                    try:
+
+                                        log_channel = (
+                                            await client.fetch_channel(
+                                                LOG_CHANNEL_ID
+                                            )
+                                        )
+
+                                    except discord.NotFound:
+
+                                        log_channel = None
+
+
+                                if log_channel:
+
+                                    await log_channel.send(
+
+                                        f"✅ Created channel "
+                                        f"{channel.mention} "
+                                        f"for inspector "
+                                        f"**{data['inspector_id']}** "
+                                        f"({data['source']})."
+
                                     )
 
-                                await log_channel.send(
-                                    f"✅ Created channel {channel.mention} "
-                                    f"for inspector **{data['inspector_id']}** "
-                                    f"({data['source']})."
-                                )
+
+                            # --------------------------------------------------
+                            # Send inspection to inspector channel
+                            # --------------------------------------------------
 
                             await channel.send(
                                 embed=make_embed(data)
                             )
 
+
+                            # --------------------------------------------------
+                            # Save inspection to SQLite
+                            # --------------------------------------------------
+
                             save_inspection(
                                 data["source"],
-                                data
+                                data,
                             )
 
-                            restaurant_name = data["name"].upper()
 
-                            for watched_name in watched:
+                            # --------------------------------------------------
+                            # USER-SPECIFIC WATCHLIST
+                            #
+                            # Find all users whose watchlist contains
+                            # this restaurant name.
+                            #
+                            # Example:
+                            #
+                            # User 1 -> ABC RESTAURANT
+                            # User 2 -> MCDONALDS
+                            #
+                            # If this inspection is for ABC RESTAURANT,
+                            # get_watchers() returns [1].
+                            # --------------------------------------------------
 
-                                if watched_name.upper() in restaurant_name:
+                            watchers = get_watchers(
+                                data["name"]
+                            )
 
-                                    if watch_channel:
 
-                                        await watch_channel.send(
-                                            "🚨 **Watchlist Match!**",
-                                            embed=make_embed(data)
-                                        )
+                            # --------------------------------------------------
+                            # Watchlist alert
+                            #
+                            # For now this still posts to your existing
+                            # Discord watch channel whenever at least one
+                            # user is watching the restaurant.
+                            #
+                            # Later we can use the user IDs to send
+                            # individual Discord DMs or push notifications.
+                            # --------------------------------------------------
 
-                                    break
+                            if watchers:
+
+                                if watch_channel:
+
+                                    await watch_channel.send(
+
+                                        "🚨 **Watchlist Match!**",
+
+                                        embed=make_embed(
+                                            data
+                                        ),
+
+                                    )
+
+                                    print(
+                                        f"🚨 Watchlist match: "
+                                        f"{data['name']} "
+                                        f"| Users: {watchers}"
+                                    )
+
+
+                            # --------------------------------------------------
+                            # Update restaurant statistics
+                            # --------------------------------------------------
 
                             intervals = get_intervals(
+
                                 get_restaurant_history(
                                     data["name"],
-                                    data["source"]
+                                    data["source"],
                                 )
+
                             )
+
 
                             if intervals:
 
                                 update_stats(
+
                                     data["source"],
+
                                     data["name"],
-                                    intervals[-1]
+
+                                    intervals[-1],
+
                                 )
 
-                        if new_inspections:
 
-                            forecast_cog = client.get_cog(
-                                "Forecast"
+                    # --------------------------------------------------
+                    # Update forecasts for every source with new data
+                    # --------------------------------------------------
+
+                    if new_sources:
+
+                        forecast_cog = client.get_cog(
+                            "Forecast"
+                        )
+
+
+                        if forecast_cog:
+
+                            for source in sorted(
+                                new_sources
+                            ):
+
+                                try:
+
+                                    await forecast_cog.update_forecast(
+                                        source
+                                    )
+
+                                except Exception:
+
+                                    print(
+                                        f"❌ Failed to update forecast "
+                                        f"for {source}"
+                                    )
+
+                                    traceback.print_exc()
+
+
+                    # --------------------------------------------------
+                    # Sync new inspection data to GitHub
+                    #
+                    # This happens AFTER all counties have been processed,
+                    # so there is only ONE GitHub commit for the entire
+                    # polling cycle.
+                    # --------------------------------------------------
+
+                    if new_sources:
+
+                        try:
+
+                            await asyncio.to_thread(
+                                sync_inspections_to_github
                             )
 
-                            if forecast_cog:
+                        except Exception:
 
-                                await forecast_cog.update_forecast(
-                                    source
-                                )
+                            print(
+                                "❌ GitHub inspection sync failed. "
+                                "The Discord monitor will continue."
+                            )
+
+                            traceback.print_exc()
+
+
+                # --------------------------------------------------
+                # Cancellation
+                # --------------------------------------------------
 
                 except asyncio.CancelledError:
 
@@ -197,15 +384,24 @@ async def monitor(client):
 
                     raise
 
+
+                # --------------------------------------------------
+                # Prevent one failure from killing monitor
+                # --------------------------------------------------
+
                 except Exception:
 
-                    import traceback
                     traceback.print_exc()
 
-                # Wait 5 minutes, but allow cancellation
+
+                # --------------------------------------------------
+                # Wait until next polling cycle
+                # --------------------------------------------------
+
                 await asyncio.sleep(
-                    300
+                    POLL_INTERVAL
                 )
+
 
     except asyncio.CancelledError:
 
@@ -214,6 +410,7 @@ async def monitor(client):
         )
 
         raise
+
 
     finally:
 

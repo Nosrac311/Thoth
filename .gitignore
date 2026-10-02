@@ -1,5 +1,45 @@
+# Python
 .venv/
+venv/
+env/
+
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Environment / secrets
 .env
-database/*.db
+.env.*
+!.env.example
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Secrets
+github_token.txt
+
+# Local logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Local temporary files
+*.tmp
+*.temp
+
+# Expo
+inspector-mobile/.expo/
+
+# Generated inspection exports
+# data/inspections/

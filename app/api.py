@@ -1,3 +1,7 @@
+from dotenv import load_dotenv
+
+load_dotenv()
+
 import logging
 from fastapi import FastAPI, Query
 from fastapi.staticfiles import StaticFiles
@@ -8,8 +12,11 @@ from app.routes import (
     dashboard,
     restaurant,
     inspector,
-    channels
+    channels,
+    auth,
+    watchlist,
 )
+
 
 from database import (
     get_inspection_count,
@@ -43,6 +50,15 @@ app.include_router(
 app.include_router(
     channels.router
 )
+
+app.include_router(
+    auth.router
+)
+
+app.include_router(
+    watchlist.router
+)
+
 
 
 def resource_path(relative_path):
