@@ -9,6 +9,33 @@
     "source": "MOORE"
   },
   {
+    "id": "5063010370",
+    "date": "2026-10-02",
+    "name": "HARRIS TEETER DELI  #29",
+    "inspector_id": "2467",
+    "score": "96",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063300021",
+    "date": "2026-10-02",
+    "name": "HARRIS TEETER MEAT MARKET",
+    "inspector_id": "2467",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063020076",
+    "date": "2026-10-02",
+    "name": "HARRIS TEETER PRODUCE/ FRUIT #29",
+    "inspector_id": "2467",
+    "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
     "id": "5063030303",
     "date": "2026-10-01",
     "name": "PITA PERFECT",
