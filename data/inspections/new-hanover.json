@@ -1,10 +1,28 @@
 [
   {
+    "id": "7065013083",
+    "date": "2026-10-02",
+    "name": "CLEAN JUICE MAYFAIRE",
+    "inspector_id": "3460",
+    "score": "97",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
     "id": "7065440084",
     "date": "2026-10-02",
     "name": "RACHEL FREEMAN ELEMENTARY SCHOOL BUILDING",
     "inspector_id": "3039",
     "score": "93",
+    "grade": "N/A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065611688",
+    "date": "2026-10-02",
+    "name": "TAYLOR HALL - TINY WELD (TEMPORARY)",
+    "inspector_id": "1730",
+    "score": "",
     "grade": "N/A",
     "source": "NEW HANOVER"
   },
