@@ -9,6 +9,15 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041420355",
+    "date": "2026-10-02",
+    "name": "ARNETTA S HOME CHILD CARE SERV   #",
+    "inspector_id": "1768",
+    "score": "4",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041030249",
     "date": "2026-10-02",
     "name": "BIRRIERIA LA PAZ",
@@ -23,6 +32,15 @@
     "name": "COURTYARD BY MARRIOTT - HIGH POINT",
     "inspector_id": "2964",
     "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041110131",
+    "date": "2026-10-02",
+    "name": "SMITH ACADEMY CAFETERIA",
+    "inspector_id": "1768",
+    "score": "99",
     "grade": "A",
     "source": "GUILFORD"
   },
