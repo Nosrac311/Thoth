@@ -63,10 +63,28 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041014052",
+    "date": "2026-10-01",
+    "name": "PIZZA WING KING FAMILY RESTAURANT",
+    "inspector_id": "3238",
+    "score": "93.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041014755",
     "date": "2026-10-01",
     "name": "RIVER LANDING SANDY RIDGE GOLF CLUB HOUSE",
     "inspector_id": "2964",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013306",
+    "date": "2026-10-01",
+    "name": "TIPSYZ TAVERN",
+    "inspector_id": "3238",
     "score": "97.50",
     "grade": "A",
     "source": "GUILFORD"
