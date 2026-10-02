@@ -18,6 +18,24 @@
     "source": "CATAWBA"
   },
   {
+    "id": "2018011159",
+    "date": "2026-10-01",
+    "name": "JIN'S BUFFET",
+    "inspector_id": "1896",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010882",
+    "date": "2026-10-01",
+    "name": "MEKVILAI",
+    "inspector_id": "1896",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018030143",
     "date": "2026-10-01",
     "name": "POP'S KITCHEN",
@@ -41,6 +59,15 @@
     "name": "THE DOWNBEAT",
     "inspector_id": "2286",
     "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010707",
+    "date": "2026-09-30",
+    "name": "BOB EVANS RESTAURANT 397",
+    "inspector_id": "1896",
+    "score": "97",
     "grade": "A",
     "source": "CATAWBA"
   },
