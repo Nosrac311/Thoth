@@ -174,6 +174,9 @@ export async function login(
     password: string
 ) {
 
+    // Remove any previous user's token first.
+    await removeToken();
+
     const data = await request(
         "/auth/login",
         {
@@ -191,7 +194,10 @@ export async function login(
 
     console.log(
         "LOGIN RESPONSE:",
-        data
+        {
+            user: data?.user,
+            hasToken: !!data?.access_token,
+        }
     );
 
     if (!data?.access_token) {
@@ -222,6 +228,7 @@ export async function login(
 
     return data;
 }
+
 
 
 export async function logout() {

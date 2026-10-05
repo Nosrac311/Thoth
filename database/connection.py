@@ -27,21 +27,12 @@ def get_connection():
 
     path = database_path()
 
-    print("================================")
-    print("DATABASE PATH:", path)
-    print("DATABASE EXISTS:", os.path.exists(path))
-
-    if os.path.exists(path):
-        print(
-            "DATABASE SIZE:",
-            os.path.getsize(path),
-            "bytes"
-        )
 
     db = sqlite3.connect(path)
 
     db.execute(
         "PRAGMA journal_mode=WAL;"
     )
+
 
     return db

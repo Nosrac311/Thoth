@@ -34,6 +34,8 @@ def create_user(email, password_hash):
 
     cursor = db.cursor()
 
+    user_id = None
+
     try:
 
         cursor.execute("""
@@ -51,6 +53,12 @@ def create_user(email, password_hash):
 
         user_id = cursor.lastrowid
 
+        print(
+            "CREATED USER:",
+            user_id,
+            email
+        )
+
         return user_id
 
     except Exception:
@@ -63,11 +71,6 @@ def create_user(email, password_hash):
 
         db.close()
 
-        print(
-        "CREATED USER:",
-            user_id,
-            email
-        )
 
 
 
@@ -114,6 +117,22 @@ def get_user_by_id(user_id):
         SELECT
             id,
             email,
+            created_at
+        FROM users
+        ORDER BY id
+    """)
+
+    all_users = cursor.fetchall()
+
+    print(
+        "ALL USERS IN DATABASE:",
+        all_users
+    )
+
+    cursor.execute("""
+        SELECT
+            id,
+            email,
             password_hash
         FROM users
         WHERE id = ?
@@ -133,3 +152,4 @@ def get_user_by_id(user_id):
         "email": row[1],
         "password_hash": row[2],
     }
+
