@@ -9,6 +9,15 @@
     "source": "RANDOLPH"
   },
   {
+    "id": "3076010998",
+    "date": "2026-10-05",
+    "name": "BILLY D'S",
+    "inspector_id": "2487",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
     "id": "3076010012",
     "date": "2026-10-05",
     "name": "BISCUITVILLE - 128",
@@ -33,6 +42,15 @@
     "inspector_id": "1612",
     "score": "",
     "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110045",
+    "date": "2026-10-05",
+    "name": "SOUTHMONT ELEM. SCHOOL CAFETERIA",
+    "inspector_id": "2487",
+    "score": "99.50",
+    "grade": "A",
     "source": "RANDOLPH"
   },
   {
