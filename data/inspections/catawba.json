@@ -18,11 +18,29 @@
     "source": "CATAWBA"
   },
   {
+    "id": "2018020393",
+    "date": "2026-10-05",
+    "name": "CHICK FIL A #00323 VALLEY HILLS MALL",
+    "inspector_id": "2286",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018011375",
     "date": "2026-10-05",
     "name": "HARDEES LR BLVD",
     "inspector_id": "1654",
     "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020518",
+    "date": "2026-10-05",
+    "name": "IVEY BROS PIZZA",
+    "inspector_id": "2286",
+    "score": "100",
     "grade": "A",
     "source": "CATAWBA"
   },
