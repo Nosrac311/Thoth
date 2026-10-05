@@ -27,6 +27,15 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041014747",
+    "date": "2026-10-05",
+    "name": "COOK OUT",
+    "inspector_id": "2370",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041430982",
     "date": "2026-10-05",
     "name": "DARTFORD DRIVE",
@@ -68,6 +77,15 @@
     "name": "HONEY BAKED HAM #111",
     "inspector_id": "3566",
     "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015315",
+    "date": "2026-10-05",
+    "name": "JERSEY MIKE'S",
+    "inspector_id": "2370",
+    "score": "97.50",
     "grade": "A",
     "source": "GUILFORD"
   },
