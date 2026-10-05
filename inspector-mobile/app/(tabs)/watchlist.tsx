@@ -11,16 +11,26 @@ import {
     ActivityIndicator,
 } from "react-native";
 
-
-const API_URL = "https://thoth-u72b.onrender.com";
+import {
+    getWatchlist,
+    addWatchlist,
+    deleteWatchlist,
+} from "../../api";
 
 
 export default function Watchlist() {
 
-    const [watchlist, setWatchlist] = useState<string[]>([]);
-    const [keyword, setKeyword] = useState("");
-    const [loading, setLoading] = useState(true);
-    const [adding, setAdding] = useState(false);
+    const [watchlist, setWatchlist] =
+        useState<string[]>([]);
+
+    const [keyword, setKeyword] =
+        useState("");
+
+    const [loading, setLoading] =
+        useState(true);
+
+    const [adding, setAdding] =
+        useState(false);
 
 
     // --------------------------------------------------
@@ -44,30 +54,16 @@ export default function Watchlist() {
 
             setLoading(true);
 
-            const response = await fetch(
-                `${API_URL}/watchlist`
-            );
-
-
-            if (!response.ok) {
-
-                throw new Error(
-                    `HTTP ${response.status}`
-                );
-            }
-
-
-            const json = await response.json();
-
+            const data =
+                await getWatchlist();
 
             console.log(
                 "WATCHLIST:",
-                json
+                data
             );
 
-
             setWatchlist(
-                json.watchlist || []
+                data?.watchlist || []
             );
 
         } catch (error) {
@@ -79,7 +75,9 @@ export default function Watchlist() {
 
             Alert.alert(
                 "Error",
-                "Could not load your watchlist."
+                error instanceof Error
+                    ? error.message
+                    : "Could not load your watchlist."
             );
 
         } finally {
@@ -95,7 +93,8 @@ export default function Watchlist() {
 
     async function addKeyword() {
 
-        const value = keyword.trim();
+        const value =
+            keyword.trim();
 
 
         if (!value) {
@@ -114,46 +113,19 @@ export default function Watchlist() {
             setAdding(true);
 
 
-            const response = await fetch(
-                `${API_URL}/watchlist`,
-                {
-                    method: "POST",
-
-                    headers: {
-                        "Content-Type":
-                            "application/json",
-                    },
-
-                    body: JSON.stringify({
-                        keyword: value,
-                    }),
-                }
-            );
-
-
-            const json = await response.json();
+            const data =
+                await addWatchlist(value);
 
 
             console.log(
                 "ADD WATCHLIST:",
-                json
+                data
             );
 
 
-            if (!response.ok) {
-
-                throw new Error(
-                    json.detail ||
-                    "Could not add restaurant."
-                );
-            }
-
-
-            // Clear input
             setKeyword("");
 
 
-            // Refresh list
             await loadWatchlist();
 
         } catch (error) {
@@ -165,7 +137,9 @@ export default function Watchlist() {
 
             Alert.alert(
                 "Error",
-                "Could not add restaurant to watchlist."
+                error instanceof Error
+                    ? error.message
+                    : "Could not add restaurant to watchlist."
             );
 
         } finally {
@@ -185,35 +159,16 @@ export default function Watchlist() {
 
         try {
 
-            const response = await fetch(
-                `${API_URL}/watchlist/${encodeURIComponent(
-                    value
-                )}`,
-                {
-                    method: "DELETE",
-                }
-            );
-
-
-            const json = await response.json();
+            const data =
+                await deleteWatchlist(value);
 
 
             console.log(
                 "REMOVE WATCHLIST:",
-                json
+                data
             );
 
 
-            if (!response.ok) {
-
-                throw new Error(
-                    json.detail ||
-                    "Could not remove restaurant."
-                );
-            }
-
-
-            // Refresh list
             await loadWatchlist();
 
         } catch (error) {
@@ -225,7 +180,9 @@ export default function Watchlist() {
 
             Alert.alert(
                 "Error",
-                "Could not remove restaurant."
+                error instanceof Error
+                    ? error.message
+                    : "Could not remove restaurant."
             );
         }
     }
@@ -333,18 +290,14 @@ export default function Watchlist() {
 
 
                 <TouchableOpacity
-
                     style={[
                         styles.addButton,
-
                         adding &&
                         styles.disabledButton,
                     ]}
-
                     onPress={
                         addKeyword
                     }
-
                     disabled={adding}
                 >
 
@@ -388,7 +341,6 @@ export default function Watchlist() {
             {/* ---------------------------------------- */}
 
             <FlatList
-
                 data={watchlist}
 
                 keyExtractor={(item) =>
@@ -402,23 +354,31 @@ export default function Watchlist() {
                 ListEmptyComponent={
 
                     <View
-                        style={styles.emptyContainer}
+                        style={
+                            styles.emptyContainer
+                        }
                     >
 
                         <Text
-                            style={styles.emptyIcon}
+                            style={
+                                styles.emptyIcon
+                            }
                         >
                             ★
                         </Text>
 
                         <Text
-                            style={styles.emptyTitle}
+                            style={
+                                styles.emptyTitle
+                            }
                         >
                             Your watchlist is empty
                         </Text>
 
                         <Text
-                            style={styles.emptyText}
+                            style={
+                                styles.emptyText
+                            }
                         >
                             Add a restaurant above to
                             start watching it.
@@ -426,7 +386,6 @@ export default function Watchlist() {
 
                     </View>
                 }
-
 
                 renderItem={({ item }) => (
 
@@ -444,7 +403,6 @@ export default function Watchlist() {
                                 ★
                             </Text>
 
-
                             <Text
                                 style={styles.keyword}
                                 numberOfLines={2}
@@ -456,11 +414,9 @@ export default function Watchlist() {
 
 
                         <TouchableOpacity
-
                             style={
                                 styles.removeButton
                             }
-
                             onPress={() =>
                                 confirmRemove(
                                     item
@@ -479,9 +435,7 @@ export default function Watchlist() {
                         </TouchableOpacity>
 
                     </View>
-
                 )}
-
             />
 
         </View>
@@ -502,7 +456,6 @@ const styles = StyleSheet.create({
         backgroundColor: "#f5f5f5",
     },
 
-
     center: {
         flex: 1,
         justifyContent: "center",
@@ -510,12 +463,10 @@ const styles = StyleSheet.create({
         backgroundColor: "#f5f5f5",
     },
 
-
     loadingText: {
         marginTop: 10,
         color: "#666",
     },
-
 
     title: {
         fontSize: 32,
@@ -524,57 +475,41 @@ const styles = StyleSheet.create({
         marginBottom: 5,
     },
 
-
     subtitle: {
         fontSize: 15,
         color: "#666",
         marginBottom: 20,
     },
 
-
     inputRow: {
         flexDirection: "row",
         marginBottom: 12,
     },
 
-
     input: {
         flex: 1,
-
         backgroundColor: "#fff",
-
         borderWidth: 1,
         borderColor: "#ddd",
-
         borderRadius: 10,
-
         paddingHorizontal: 15,
         paddingVertical: 12,
-
         fontSize: 16,
-
         marginRight: 10,
     },
 
-
     addButton: {
         backgroundColor: "#007AFF",
-
         borderRadius: 10,
-
         minWidth: 70,
-
         justifyContent: "center",
         alignItems: "center",
-
         paddingHorizontal: 15,
     },
-
 
     disabledButton: {
         opacity: 0.6,
     },
-
 
     addText: {
         color: "#fff",
@@ -582,41 +517,28 @@ const styles = StyleSheet.create({
         fontWeight: "bold",
     },
 
-
     count: {
         color: "#777",
         fontSize: 14,
         marginBottom: 12,
     },
 
-
     card: {
         backgroundColor: "#fff",
-
         padding: 15,
-
         borderRadius: 12,
-
         marginBottom: 10,
-
         flexDirection: "row",
-
         alignItems: "center",
-
         justifyContent: "space-between",
     },
 
-
     cardLeft: {
         flex: 1,
-
         flexDirection: "row",
-
         alignItems: "center",
-
         marginRight: 10,
     },
-
 
     star: {
         color: "#FFB300",
@@ -624,71 +546,49 @@ const styles = StyleSheet.create({
         marginRight: 10,
     },
 
-
     keyword: {
         flex: 1,
-
         fontSize: 17,
-
         fontWeight: "600",
-
         color: "#222",
     },
 
-
     removeButton: {
         backgroundColor: "#ff3b30",
-
         paddingHorizontal: 12,
         paddingVertical: 8,
-
         borderRadius: 8,
     },
 
-
     removeText: {
         color: "#fff",
-
         fontSize: 14,
-
         fontWeight: "bold",
     },
-
 
     emptyContainer: {
         alignItems: "center",
-
         marginTop: 70,
-
         paddingHorizontal: 30,
     },
 
-
     emptyIcon: {
         fontSize: 40,
-
         color: "#ccc",
-
         marginBottom: 10,
     },
 
-
     emptyTitle: {
         fontSize: 20,
-
         fontWeight: "bold",
-
         color: "#444",
-
         marginBottom: 5,
     },
 
-
     emptyText: {
         textAlign: "center",
-
         color: "#888",
-
         fontSize: 15,
     },
+
 });

@@ -14,14 +14,15 @@ class WatchlistTree(QTreeWidget):
 
         super().__init__(parent)
 
-        self.setColumnCount(5)
+        self.setColumnCount(6)
 
         self.setHeaderLabels([
             "Restaurant",
             "Date",
             "Score",
             "Grade",
-            "Inspector ID"
+            "Inspector ID",
+            "Location"
         ])
 
         self.setAlternatingRowColors(True)
@@ -59,6 +60,7 @@ class WatchlistTree(QTreeWidget):
                     str(inspection[2]),  # Score
                     str(inspection[3]),  # Grade
                     str(inspection[4]),  # Inspector ID
+                    str(inspection[7]),  # Location
                 ])
 
                 self.addTopLevelItem(

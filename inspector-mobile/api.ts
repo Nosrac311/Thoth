@@ -1,44 +1,118 @@
-const API_URL = "http://127.0.0.1:8000";
+import {
+    getToken,
+    saveToken,
+    removeToken,
+} from "./auth";
 
-export async function apiRequest(
-    endpoint: string,
-    options: RequestInit = {},
-    token?: string
+export const API_URL = "https://thoth-u72b.onrender.com";
+
+type RequestOptions = RequestInit & {
+    headers?: Record<string, string>;
+};
+
+
+// --------------------------------------------------
+// REQUEST
+// --------------------------------------------------
+
+async function request(
+    path: string,
+    options: RequestOptions = {}
 ) {
+    const token = await getToken();
+
+    console.log("REQUEST:", path);
+    
 
     const headers: Record<string, string> = {
+        Accept: "application/json",
         "Content-Type": "application/json",
-        ...(options.headers as Record<string, string> || {}),
+        ...(options.headers ?? {}),
     };
 
     if (token) {
         headers.Authorization = `Bearer ${token}`;
     }
 
-    const response = await fetch(
-        `${API_URL}${endpoint}`,
-        {
-            ...options,
-            headers,
-        }
-    );
+    let response: Response;
+
+    try {
+        response = await fetch(
+            `${API_URL}${path}`,
+            {
+                ...options,
+                headers,
+            }
+        );
+    } catch {
+        throw new Error(
+            "Could not connect to the Thoth server. Check your internet connection and try again."
+        );
+    }
 
     const text = await response.text();
 
     let data: any = null;
 
-    try {
-        data = text ? JSON.parse(text) : null;
-    } catch {
-        data = text;
+    if (text) {
+        try {
+            data = JSON.parse(text);
+        } catch {
+            data = text;
+        }
     }
 
     if (!response.ok) {
 
-        const message =
-            data?.detail ||
-            data?.message ||
-            "Request failed";
+        let message =
+            `Request failed (${response.status})`;
+
+        if (
+            typeof data === "object" &&
+            data !== null
+        ) {
+
+            const detail = data.detail;
+
+            if (
+                typeof detail === "string"
+            ) {
+
+                message = detail;
+
+            } else if (
+                Array.isArray(detail)
+            ) {
+
+                message = detail
+                    .map((item: any) => {
+
+                        if (
+                            typeof item === "string"
+                        ) {
+                            return item;
+                        }
+
+                        if (
+                            item &&
+                            typeof item.msg === "string"
+                        ) {
+                            return item.msg;
+                        }
+
+                        return "Invalid request";
+
+                    })
+                    .join("\n");
+            }
+
+        } else if (
+            typeof data === "string" &&
+            data.trim()
+        ) {
+
+            message = data;
+        }
 
         throw new Error(message);
     }
@@ -48,7 +122,7 @@ export async function apiRequest(
 
 
 // --------------------------------------------------
-// REGISTER
+// AUTH
 // --------------------------------------------------
 
 export async function register(
@@ -56,38 +130,112 @@ export async function register(
     password: string
 ) {
 
-    return apiRequest(
+    const data = await request(
         "/auth/register",
         {
             method: "POST",
+
             body: JSON.stringify({
-                email,
+                email: email
+                    .trim()
+                    .toLowerCase(),
+
                 password,
             }),
         }
     );
+
+    console.log(
+        "REGISTER RESPONSE:",
+        data
+    );
+
+    // If registration returns a token,
+    // save it immediately.
+
+    if (data?.access_token) {
+
+        await saveToken(
+            data.access_token
+        );
+
+        console.log(
+            "REGISTRATION TOKEN SAVED:",
+            !!(await getToken())
+        );
+    }
+
+    return data;
 }
 
-
-// --------------------------------------------------
-// LOGIN
-// --------------------------------------------------
 
 export async function login(
     email: string,
     password: string
 ) {
 
-    return apiRequest(
+    const data = await request(
         "/auth/login",
         {
             method: "POST",
+
             body: JSON.stringify({
-                email,
+                email: email
+                    .trim()
+                    .toLowerCase(),
+
                 password,
             }),
         }
     );
+
+    console.log(
+        "LOGIN RESPONSE:",
+        data
+    );
+
+    if (!data?.access_token) {
+
+        throw new Error(
+            "Login succeeded but no access token was returned."
+        );
+    }
+
+    await saveToken(
+        data.access_token
+    );
+
+    const savedToken =
+        await getToken();
+
+    console.log(
+        "TOKEN SAVED:",
+        !!savedToken
+    );
+
+    if (!savedToken) {
+
+        throw new Error(
+            "The authentication token could not be saved."
+        );
+    }
+
+    return data;
+}
+
+
+export async function logout() {
+
+    await removeToken();
+
+    const token =
+        await getToken();
+
+    console.log(
+        "LOGOUT - TOKEN EXISTS:",
+        !!token
+    );
+
 }
 
 
@@ -95,46 +243,49 @@ export async function login(
 // WATCHLIST
 // --------------------------------------------------
 
-export async function getWatchlist(
-    token: string
-) {
+export async function getWatchlist() {
 
-    return apiRequest(
+    const token = await getToken();
+
+   
+
+    return request(
         "/watchlist",
-        {},
-        token
+        {
+            method: "GET",
+        }
     );
 }
+
 
 
 export async function addWatchlist(
-    token: string,
     keyword: string
 ) {
 
-    return apiRequest(
+    return request(
         "/watchlist",
         {
             method: "POST",
+
             body: JSON.stringify({
-                keyword,
+                keyword: keyword.trim(),
             }),
-        },
-        token
+        }
     );
 }
 
 
-export async function removeWatchlist(
-    token: string,
+export async function deleteWatchlist(
     keyword: string
 ) {
 
-    return apiRequest(
-        `/watchlist/${encodeURIComponent(keyword)}`,
+    return request(
+        `/watchlist/${encodeURIComponent(
+            keyword.trim()
+        )}`,
         {
             method: "DELETE",
-        },
-        token
+        }
     );
 }

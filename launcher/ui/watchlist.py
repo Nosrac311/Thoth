@@ -1,19 +1,18 @@
 from PySide6.QtWidgets import (
     QWidget,
     QVBoxLayout,
-    QHBoxLayout,
     QLabel,
     QListWidget,
-    QPushButton,
-    QInputDialog,
-    QMessageBox,
 )
+
 from database import get_watchlist_matches
-from launcher.ui.widgets.watchlist_tree import WatchlistTree
+
+from launcher.ui.widgets.watchlist_tree import (
+    WatchlistTree,
+)
+
 from database.watchlist import (
-    get_watchlist,
-    add_to_watchlist,
-    remove_from_watchlist,
+    get_all_watchlist_keywords,
 )
 
 
@@ -25,34 +24,38 @@ class WatchlistWidget(QWidget):
 
         layout = QVBoxLayout()
 
+
+        # --------------------------------------------------
+        # TITLE
+        # --------------------------------------------------
+
         self.title = QLabel(
             "Inspection Watch Keywords"
         )
 
+
+        # --------------------------------------------------
+        # WATCHLIST
+        # --------------------------------------------------
+
         self.list = QListWidget()
 
-        self.add_button = QPushButton(
-            "Add Keyword"
-        )
 
-        self.remove_button = QPushButton(
-            "Remove Selected"
-        )
+        # --------------------------------------------------
+        # MATCHES
+        # --------------------------------------------------
 
         self.tree = WatchlistTree()
 
-        buttons = QHBoxLayout()
-
-        buttons.addWidget(
-            self.add_button
-        )
-
-        buttons.addWidget(
-            self.remove_button
-        )
 
         layout.addWidget(
             self.title
+        )
+
+        layout.addWidget(
+            QLabel(
+                "Keywords currently watched by users"
+            )
         )
 
         layout.addWidget(
@@ -63,75 +66,52 @@ class WatchlistWidget(QWidget):
             self.tree
         )
 
-        layout.addLayout(
-            buttons
-        )
 
         self.setLayout(
             layout
         )
 
-        self.add_button.clicked.connect(
-            self.add_keyword
-        )
-
-        self.remove_button.clicked.connect(
-            self.remove_keyword
-        )
 
         self.refresh()
+
+
+    # --------------------------------------------------
+    # REFRESH
+    # --------------------------------------------------
 
     def refresh(self):
 
         self.list.clear()
 
-        for keyword in get_watchlist():
+
+        # --------------------------------------------------
+        # Get keywords from ALL users.
+        #
+        # The launcher does not have a logged-in user,
+        # so it cannot call:
+        #
+        #     get_watchlist(user_id)
+        #
+        # We intentionally do not expose ownership here.
+        # --------------------------------------------------
+
+        keywords = get_all_watchlist_keywords()
+
+
+        for keyword in keywords:
 
             self.list.addItem(
                 keyword
             )
 
+
+        # --------------------------------------------------
+        # Load matching inspections
+        # --------------------------------------------------
+
         matches = get_watchlist_matches()
+
 
         self.tree.load_watchlist(
             matches
         )
-
-    def add_keyword(self):
-
-        keyword, ok = QInputDialog.getText(
-            self,
-            "Add Watch Keyword",
-            "Keyword:"
-        )
-
-        if ok and keyword.strip():
-
-            add_to_watchlist(
-                keyword.strip()
-            )
-
-            self.refresh()
-
-    def remove_keyword(self):
-
-        item = self.list.currentItem()
-
-        if not item:
-            return
-
-        keyword = item.text()
-
-        result = QMessageBox.question(
-            self,
-            "Remove Keyword",
-            f"Remove '{keyword}' from watchlist?"
-        )
-
-        if result == QMessageBox.Yes:
-
-            remove_from_watchlist(
-                keyword
-            )
-
-            self.refresh()

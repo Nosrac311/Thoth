@@ -7,15 +7,14 @@ import {
     TouchableOpacity,
     StyleSheet,
     Alert,
+    ActivityIndicator,
 } from "react-native";
 
 import { useRouter } from "expo-router";
 
 import { login, register } from "../api";
-
 import {
     getToken,
-    saveToken,
 } from "../auth";
 
 
@@ -24,7 +23,6 @@ export default function AuthScreen() {
     const router = useRouter();
 
     const [email, setEmail] = useState("");
-
     const [password, setPassword] = useState("");
 
     const [isRegistering, setIsRegistering] =
@@ -38,40 +36,80 @@ export default function AuthScreen() {
 
 
     // --------------------------------------------------
-    // If already logged in, skip auth screen.
+    // Check existing login
     // --------------------------------------------------
 
     useEffect(() => {
 
+        let mounted = true;
+
         async function checkLogin() {
 
-            const token = await getToken();
+            try {
 
-            if (token) {
+                const token = await getToken();
 
-                router.replace("/");
+                if (token) {
 
-                return;
+                    router.replace("/");
+
+                    return;
+                }
+
+            } catch (error) {
+
+                console.log(
+                    "AUTH CHECK ERROR:",
+                    error
+                );
+
+            } finally {
+
+                if (mounted) {
+                    setChecking(false);
+                }
+
             }
-
-            setChecking(false);
         }
 
         checkLogin();
 
-    }, []);
+        return () => {
+            mounted = false;
+        };
 
+    }, [router]);
+
+
+    // --------------------------------------------------
+    // Submit
+    // --------------------------------------------------
 
     async function handleSubmit() {
 
-        if (
-            !email.trim() ||
-            !password
-        ) {
+        const cleanEmail =
+            email.trim().toLowerCase();
+
+        const cleanPassword =
+            password;
+
+
+        if (!cleanEmail || !cleanPassword) {
 
             Alert.alert(
                 "Missing information",
                 "Enter your email and password."
+            );
+
+            return;
+        }
+
+
+        if (!cleanEmail.includes("@")) {
+
+            Alert.alert(
+                "Invalid email",
+                "Enter a valid email address."
             );
 
             return;
@@ -83,56 +121,146 @@ export default function AuthScreen() {
             setLoading(true);
 
 
-            const result = isRegistering
-                ? await register(
-                    email.trim(),
-                    password
-                )
-                : await login(
-                    email.trim(),
-                    password
+            console.log(
+                isRegistering
+                    ? "REGISTERING..."
+                    : "LOGGING IN..."
+            );
+
+
+            let result;
+
+
+            // --------------------------------------------------
+            // REGISTER
+            // --------------------------------------------------
+
+            if (isRegistering) {
+
+                result = await register(
+                    cleanEmail,
+                    cleanPassword
+                );
+
+                console.log(
+                    "REGISTER RESPONSE:",
+                    result
                 );
 
 
-            await saveToken(
-                result.access_token
-            );
+                // Some APIs return a token immediately
+                // after registration.
+                //
+                // If yours does not, automatically log in
+                // after creating the account.
 
+                if (
+                    !result ||
+                    !result.access_token
+                ) {
+
+                    console.log(
+                        "Registration succeeded. Logging in..."
+                    );
+
+                    result = await login(
+                        cleanEmail,
+                        cleanPassword
+                    );
+
+                }
+
+            }
+
+            // --------------------------------------------------
+            // LOGIN
+            // --------------------------------------------------
+
+            else {
+
+                result = await login(
+                    cleanEmail,
+                    cleanPassword
+                );
+
+                console.log(
+                    "LOGIN RESPONSE:",
+                    result
+                );
+
+            }
+
+
+            // --------------------------------------------------
+            // Get JWT
+            // --------------------------------------------------
+
+            
+
+
+            // --------------------------------------------------
+            // Enter application
+            // --------------------------------------------------
 
             router.replace("/");
 
 
         } catch (error: any) {
 
+            console.error(
+                "AUTH ERROR:",
+                error
+            );
+
+
+            const message =
+                error?.message ||
+                "Something went wrong. Please try again.";
+
+
             Alert.alert(
                 isRegistering
                     ? "Registration failed"
                     : "Login failed",
-
-                error.message ||
-                "Something went wrong."
+                message
             );
 
         } finally {
 
             setLoading(false);
+
         }
+
     }
 
+
+    // --------------------------------------------------
+    // Loading screen
+    // --------------------------------------------------
 
     if (checking) {
 
         return (
             <View style={styles.center}>
 
-                <Text>
-                    Loading...
+                <ActivityIndicator
+                    size="large"
+                    color="#2563eb"
+                />
+
+                <Text style={styles.loadingText}>
+                    Checking login...
                 </Text>
 
             </View>
         );
+
     }
 
+
+    // --------------------------------------------------
+    // Auth UI
+    // --------------------------------------------------
 
     return (
 
@@ -158,8 +286,10 @@ export default function AuthScreen() {
                 autoCapitalize="none"
                 autoCorrect={false}
                 keyboardType="email-address"
+                textContentType="emailAddress"
                 value={email}
                 onChangeText={setEmail}
+                editable={!loading}
             />
 
 
@@ -167,36 +297,60 @@ export default function AuthScreen() {
                 style={styles.input}
                 placeholder="Password"
                 secureTextEntry
+                textContentType={
+                    isRegistering
+                        ? "newPassword"
+                        : "password"
+                }
                 value={password}
                 onChangeText={setPassword}
+                editable={!loading}
             />
 
 
             <TouchableOpacity
-                style={styles.button}
+                style={[
+                    styles.button,
+                    loading && styles.buttonDisabled,
+                ]}
                 onPress={handleSubmit}
                 disabled={loading}
             >
 
-                <Text style={styles.buttonText}>
+                {loading ? (
 
-                    {loading
-                        ? "Please wait..."
-                        : isRegistering
+                    <ActivityIndicator
+                        color="#fff"
+                    />
+
+                ) : (
+
+                    <Text style={styles.buttonText}>
+
+                        {isRegistering
                             ? "Register"
                             : "Login"}
 
-                </Text>
+                    </Text>
+
+                )}
 
             </TouchableOpacity>
 
 
             <TouchableOpacity
-                onPress={() =>
-                    setIsRegistering(
-                        !isRegistering
-                    )
-                }
+                onPress={() => {
+
+                    if (!loading) {
+
+                        setIsRegistering(
+                            previous => !previous
+                        );
+
+                    }
+
+                }}
+                disabled={loading}
             >
 
                 <Text style={styles.switchText}>
@@ -211,8 +365,13 @@ export default function AuthScreen() {
 
         </View>
     );
+
 }
 
+
+// --------------------------------------------------
+// STYLES
+// --------------------------------------------------
 
 const styles = StyleSheet.create({
 
@@ -227,6 +386,12 @@ const styles = StyleSheet.create({
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
+        backgroundColor: "#f5f5f5",
+    },
+
+    loadingText: {
+        marginTop: 12,
+        color: "#666",
     },
 
     title: {
@@ -258,7 +423,13 @@ const styles = StyleSheet.create({
         padding: 16,
         borderRadius: 10,
         alignItems: "center",
+        justifyContent: "center",
         marginBottom: 20,
+        minHeight: 54,
+    },
+
+    buttonDisabled: {
+        opacity: 0.7,
     },
 
     buttonText: {

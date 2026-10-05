@@ -41,6 +41,7 @@ def parse_standard_site(html, source):
             "grade": values[7],
             "inspector_id": values[8],
             "estab_type": values[5],
+            "location": values[3],
         })
 
     return inspections

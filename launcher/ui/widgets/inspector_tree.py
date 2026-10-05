@@ -12,14 +12,15 @@ class InspectorTree(QTreeWidget):
 
         super().__init__(parent)
 
-        self.setColumnCount(5)
+        self.setColumnCount(6)
 
         self.setHeaderLabels([
             "Restaurant",
             "Date",
             "Score",
             "Grade",
-            "County"
+            "County",
+            "Location"
         ])
 
         self.setAlternatingRowColors(True)
@@ -54,6 +55,7 @@ class InspectorTree(QTreeWidget):
                     str(inspection[2]),  # Score
                     inspection[3],       # Grade
                     inspection[4],       # County
+                    inspection[7],       # Location
                 ])
 
                 inspector_item.addChild(

@@ -63,6 +63,13 @@ def create_user(email, password_hash):
 
         db.close()
 
+        print(
+        "CREATED USER:",
+            user_id,
+            email
+        )
+
+
 
 def get_user_by_email(email):
 
@@ -93,6 +100,8 @@ def get_user_by_email(email):
         "email": row[1],
         "password_hash": row[2],
     }
+
+
 
 
 def get_user_by_id(user_id):

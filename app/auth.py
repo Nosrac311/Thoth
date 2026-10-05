@@ -133,6 +133,18 @@ def get_current_user(
             status_code=401,
             detail="User no longer exists.",
         )
+    print(
+    "JWT USER ID:",
+    user_id
+    )
+
+    user = get_user_by_id(user_id)
+
+    print(
+        "USER FOUND:",
+        user is not None
+    )
+
 
 
     return user

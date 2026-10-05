@@ -18,7 +18,7 @@ export default function TabLayout() {
       />
 
       <Tabs.Screen
-        name="Watchlist"
+        name="watchlist"
         options={{
           title: "Watchlist",
         }}

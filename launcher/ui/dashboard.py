@@ -55,6 +55,9 @@ class DashboardWidget(QWidget):
             "Collapse All"
         )
 
+        self.refresh_button = QPushButton("Refresh")
+
+
         button_layout = QHBoxLayout()
 
         button_layout.addWidget(
@@ -63,6 +66,10 @@ class DashboardWidget(QWidget):
 
         button_layout.addWidget(
             self.collapse_button
+        )
+
+        button_layout.addWidget(
+            self.refresh_button
         )
 
         button_layout.addStretch()
@@ -108,6 +115,10 @@ class DashboardWidget(QWidget):
 
         self.search.search_changed.connect(
             self.tree.filter_tree
+        )
+
+        self.refresh_button.clicked.connect(
+            self.refresh
         )
 
         self.setLayout(layout)

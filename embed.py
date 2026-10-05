@@ -32,5 +32,6 @@ def make_embed(data):
                     value=data["inspector_id"], inline=False)
     embed.add_field(name="Establishment Type",
                     value=data["estab_type"], inline=False)
+    embed.add_field(name="Location", value=data["location"], inline=False)
 
     return embed
