@@ -18,6 +18,15 @@
     "source": "WAKE"
   },
   {
+    "id": "4092420351",
+    "date": "2026-10-05",
+    "name": "BRIGHT HORIZONS FAMILY SOLUTIONS CHILD CARE",
+    "inspector_id": "2587",
+    "score": "14",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092531115",
     "date": "2026-10-05",
     "name": "BRITISH SWIM SCHOOL",
@@ -41,6 +50,24 @@
     "name": "MCDONALD'S #31681",
     "inspector_id": "1953",
     "score": "97.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092019266",
+    "date": "2026-10-05",
+    "name": "NEW WORLD CAFE",
+    "inspector_id": "2703",
+    "score": "97",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092019917",
+    "date": "2026-10-05",
+    "name": "TAKI SUSHI",
+    "inspector_id": "3079",
+    "score": "96.50",
     "grade": "A",
     "source": "WAKE"
   },
