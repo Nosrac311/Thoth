@@ -18,6 +18,24 @@
     "source": "WAKE"
   },
   {
+    "id": "4092019211",
+    "date": "2026-10-05",
+    "name": "MCDONALD'S #31681",
+    "inspector_id": "1953",
+    "score": "97.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092440484",
+    "date": "2026-10-05",
+    "name": "THALES ACADEMY OF HOLLY SPRINGS",
+    "inspector_id": "1746",
+    "score": "100",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092017233",
     "date": "2026-10-02",
     "name": "ALOFT RDU REFUEL",
