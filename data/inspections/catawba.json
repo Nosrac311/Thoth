@@ -18,6 +18,15 @@
     "source": "CATAWBA"
   },
   {
+    "id": "2018011375",
+    "date": "2026-10-05",
+    "name": "HARDEES LR BLVD",
+    "inspector_id": "1654",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018110044",
     "date": "2026-10-02",
     "name": "HICKORY CAREER ARTS MAGNET CAFETERIA",
@@ -59,6 +68,15 @@
     "name": "MEKVILAI",
     "inspector_id": "1896",
     "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018160029",
+    "date": "2026-10-01",
+    "name": "PIEDMONT VILLAGE",
+    "inspector_id": "1654",
+    "score": "96",
     "grade": "A",
     "source": "CATAWBA"
   },
