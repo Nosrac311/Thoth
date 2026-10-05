@@ -9,6 +9,24 @@
     "source": "NEW HANOVER"
   },
   {
+    "id": "7065012329",
+    "date": "2026-10-05",
+    "name": "TAQUERIA LA TAPATIA",
+    "inspector_id": "2910",
+    "score": "95.50",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065012849",
+    "date": "2026-10-05",
+    "name": "TOWER 7",
+    "inspector_id": "2947",
+    "score": "94.50",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
     "id": "7065150003",
     "date": "2026-10-05",
     "name": "WEEZIES COLORFUL KITCHEN",
