@@ -91,6 +91,10 @@ def get_current_user(
 
     token = credentials.credentials
 
+    print("================================")
+    print("AUTH CHECK")
+    print("TOKEN RECEIVED:", bool(token))
+
     try:
 
         payload = jwt.decode(
@@ -99,9 +103,14 @@ def get_current_user(
             algorithms=[ALGORITHM],
         )
 
+        print("JWT DECODED SUCCESSFULLY")
+        print("JWT PAYLOAD:", payload)
+
         user_id = payload.get("sub")
 
         if user_id is None:
+
+            print("JWT ERROR: NO USER ID")
 
             raise HTTPException(
                 status_code=401,
@@ -110,11 +119,19 @@ def get_current_user(
 
         user_id = int(user_id)
 
+        print("JWT USER ID:", user_id)
+
     except (
         JWTError,
         ValueError,
         TypeError,
-    ):
+    ) as error:
+
+        print(
+            "JWT DECODE ERROR:",
+            type(error).__name__,
+            str(error),
+        )
 
         raise HTTPException(
             status_code=401,
@@ -126,6 +143,11 @@ def get_current_user(
         user_id
     )
 
+    print(
+        "USER FOUND:",
+        user is not None
+    )
+
 
     if user is None:
 
@@ -133,18 +155,6 @@ def get_current_user(
             status_code=401,
             detail="User no longer exists.",
         )
-    print(
-    "JWT USER ID:",
-    user_id
-    )
-
-    user = get_user_by_id(user_id)
-
-    print(
-        "USER FOUND:",
-        user is not None
-    )
-
 
 
     return user
