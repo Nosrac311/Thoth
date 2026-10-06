@@ -54,6 +54,24 @@
     "source": "CUMBERLAND"
   },
   {
+    "id": "5026013509",
+    "date": "2026-10-05",
+    "name": "HIBACHI EXPRESS",
+    "inspector_id": "3288",
+    "score": "95",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026020349",
+    "date": "2026-10-05",
+    "name": "SHORT STOP #40",
+    "inspector_id": "3288",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
     "id": "5026023271",
     "date": "2026-10-05",
     "name": "SINOWOK LLC",
