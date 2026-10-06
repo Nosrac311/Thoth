@@ -1,9 +1,9 @@
-from database.connection import get_connection
+from database.connection import get_users_connection
 
 
 def init():
 
-    db = get_connection()
+    db = get_users_connection()
 
     db.execute("""
         CREATE TABLE IF NOT EXISTS users (
@@ -30,7 +30,7 @@ def init():
 
 def create_user(email, password_hash):
 
-    db = get_connection()
+    db = get_users_connection()
 
     cursor = db.cursor()
 
@@ -72,11 +72,9 @@ def create_user(email, password_hash):
         db.close()
 
 
-
-
 def get_user_by_email(email):
 
-    db = get_connection()
+    db = get_users_connection()
 
     cursor = db.cursor()
 
@@ -105,11 +103,9 @@ def get_user_by_email(email):
     }
 
 
-
-
 def get_user_by_id(user_id):
 
-    db = get_connection()
+    db = get_users_connection()
 
     cursor = db.cursor()
 
@@ -152,4 +148,3 @@ def get_user_by_id(user_id):
         "email": row[1],
         "password_hash": row[2],
     }
-

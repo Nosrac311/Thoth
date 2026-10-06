@@ -2,8 +2,7 @@ import sqlite3
 import os
 import sys
 
-
-def database_path():
+def database_directory():
 
     if getattr(sys, "frozen", False):
 
@@ -17,9 +16,22 @@ def database_path():
             os.path.abspath(__file__)
         )
 
+    return base
+
+
+def database_path():
+
     return os.path.join(
-        base,
+        database_directory(),
         "inspections.db"
+    )
+
+
+def users_database_path():
+
+    return os.path.join(
+        database_directory(),
+        "users.db"
     )
 
 
@@ -27,12 +39,23 @@ def get_connection():
 
     path = database_path()
 
-
     db = sqlite3.connect(path)
 
     db.execute(
         "PRAGMA journal_mode=WAL;"
     )
 
+    return db
+
+
+def get_users_connection():
+
+    path = users_database_path()
+
+    db = sqlite3.connect(path)
+
+    db.execute(
+        "PRAGMA journal_mode=WAL;"
+    )
 
     return db

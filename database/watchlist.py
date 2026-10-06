@@ -1,4 +1,4 @@
-from database.connection import get_connection
+from database.connection import get_users_connection
 
 
 # ============================================================
@@ -7,7 +7,7 @@ from database.connection import get_connection
 
 def init():
 
-    db = get_connection()
+    db = get_users_connection()
 
     columns = db.execute("""
         PRAGMA table_info(watchlist)
@@ -108,7 +108,7 @@ def init():
 
 def get_watchlist(user_id):
 
-    db = get_connection()
+    db = get_users_connection()
 
     cursor = db.cursor()
 
@@ -139,7 +139,7 @@ def get_watchlist(user_id):
 
 def get_all_watchlist_keywords():
 
-    db = get_connection()
+    db = get_users_connection()
 
     cursor = db.cursor()
 
@@ -175,7 +175,7 @@ def add_to_watchlist(
     if not keyword:
         return
 
-    db = get_connection()
+    db = get_users_connection()
 
     db.execute("""
         INSERT OR IGNORE INTO watchlist (
@@ -205,7 +205,7 @@ def remove_from_watchlist(
         keyword
     ).strip().upper()
 
-    db = get_connection()
+    db = get_users_connection()
 
     db.execute("""
         DELETE FROM watchlist
@@ -233,7 +233,7 @@ def is_watched(
         restaurant
     ).upper()
 
-    db = get_connection()
+    db = get_users_connection()
 
     cursor = db.cursor()
 
@@ -274,7 +274,7 @@ def is_watched_by_any_user(
         restaurant
     ).upper()
 
-    db = get_connection()
+    db = get_users_connection()
 
     cursor = db.cursor()
 
@@ -312,7 +312,7 @@ def get_watchers(
         restaurant
     ).upper()
 
-    db = get_connection()
+    db = get_users_connection()
 
     cursor = db.cursor()
 
@@ -355,7 +355,7 @@ def get_matching_keywords(
         restaurant
     ).upper()
 
-    db = get_connection()
+    db = get_users_connection()
 
     cursor = db.cursor()
 
@@ -401,7 +401,7 @@ def get_watchers_with_keywords(
         restaurant
     ).upper()
 
-    db = get_connection()
+    db = get_users_connection()
 
     cursor = db.cursor()
 
@@ -439,7 +439,7 @@ def clear_watchlist(
     user_id
 ):
 
-    db = get_connection()
+    db = get_users_connection()
 
     db.execute("""
         DELETE FROM watchlist
@@ -460,7 +460,7 @@ def get_watchlist_count(
     user_id
 ):
 
-    db = get_connection()
+    db = get_users_connection()
 
     cursor = db.cursor()
 
