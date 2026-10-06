@@ -9,11 +9,29 @@
     "source": "NEW HANOVER"
   },
   {
+    "id": "7065611307",
+    "date": "2026-10-06",
+    "name": "DAVID PARROTT - MARKS OF DISTINCTION",
+    "inspector_id": "2657",
+    "score": "",
+    "grade": "N/A",
+    "source": "NEW HANOVER"
+  },
+  {
     "id": "7065010929",
     "date": "2026-10-06",
     "name": "FAYES  CAFE/ROYS BAIT & TACKLE",
     "inspector_id": "3247",
     "score": "96.50",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065012957",
+    "date": "2026-10-06",
+    "name": "THE KITCHEN SINK",
+    "inspector_id": "3246",
+    "score": "98",
     "grade": "A",
     "source": "NEW HANOVER"
   },
