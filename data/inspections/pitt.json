@@ -18,6 +18,24 @@
     "source": "PITT"
   },
   {
+    "id": "6074020305",
+    "date": "2026-10-06",
+    "name": "SPEEDWAY #8204",
+    "inspector_id": "3064",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074300078",
+    "date": "2026-10-06",
+    "name": "THE FRESH MARKET MEAT MARKET #101",
+    "inspector_id": "2642",
+    "score": "95",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
     "id": "6074420228",
     "date": "2026-10-05",
     "name": "BELVOIR ELEMENTARY PRE-K",
