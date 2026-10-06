@@ -18,6 +18,24 @@
     "source": "CUMBERLAND"
   },
   {
+    "id": "5026030257",
+    "date": "2026-10-06",
+    "name": "DOGSLINGER III",
+    "inspector_id": "3288",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026010729",
+    "date": "2026-10-06",
+    "name": "DOGSLINGERS AT THE DEPOT",
+    "inspector_id": "3288",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
     "id": "5026110027",
     "date": "2026-10-06",
     "name": "HOPE MILLS MIDDLE SCH CAFE",
@@ -50,6 +68,15 @@
     "name": "SUNFISH MARKET",
     "inspector_id": "3597",
     "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026150002",
+    "date": "2026-10-06",
+    "name": "THE DEPOT",
+    "inspector_id": "3288",
+    "score": "100",
     "grade": "A",
     "source": "CUMBERLAND"
   },
