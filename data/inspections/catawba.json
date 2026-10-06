@@ -9,6 +9,24 @@
     "source": "CATAWBA"
   },
   {
+    "id": "2018420223",
+    "date": "2026-10-06",
+    "name": "CONOVER SCHOOL",
+    "inspector_id": "2031",
+    "score": "17",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018110062",
+    "date": "2026-10-06",
+    "name": "CONOVER SCHOOL CAFETERIA",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018020199",
     "date": "2026-10-06",
     "name": "GOLDMINE STORE",
