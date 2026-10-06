@@ -1,5 +1,32 @@
 [
   {
+    "id": "3076440021",
+    "date": "2026-10-06",
+    "name": "LINDLEY PARK SCHOOL",
+    "inspector_id": "2487",
+    "score": "95",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110024",
+    "date": "2026-10-06",
+    "name": "SOUTHWEST HIGH SCHOOL LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110023",
+    "date": "2026-10-06",
+    "name": "SOUTHWEST MIDDLE SCL. LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
     "id": "3076010976",
     "date": "2026-10-05",
     "name": "220 GRILL AND FAMILY RESTAURANT",

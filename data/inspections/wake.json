@@ -36,6 +36,15 @@
     "source": "WAKE"
   },
   {
+    "id": "4092018860",
+    "date": "2026-10-06",
+    "name": "CHAMPA THAI & SUSHI",
+    "inspector_id": "2944",
+    "score": "96.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092440587",
     "date": "2026-10-06",
     "name": "CHAMPION EDUCATION",
@@ -50,6 +59,15 @@
     "name": "CURRY IN A HURRY @ MSFH",
     "inspector_id": "2556",
     "score": "98.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092019106",
+    "date": "2026-10-06",
+    "name": "DON BETO'S TACOS   TEQUILA",
+    "inspector_id": "2691",
+    "score": "93.50",
     "grade": "A",
     "source": "WAKE"
   },
