@@ -43,6 +43,3 @@ app-example
 /android
 
 
-# database
-database/*.db
-database/*.db-*
