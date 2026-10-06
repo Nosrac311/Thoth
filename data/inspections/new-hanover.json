@@ -1,5 +1,23 @@
 [
   {
+    "id": "7065011508",
+    "date": "2026-10-06",
+    "name": "CHURCHS  CHICKEN",
+    "inspector_id": "3039",
+    "score": "97",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065010929",
+    "date": "2026-10-06",
+    "name": "FAYES  CAFE/ROYS BAIT & TACKLE",
+    "inspector_id": "3247",
+    "score": "96.50",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
     "id": "7065012110",
     "date": "2026-10-05",
     "name": "BLUE SURF CAFE",
