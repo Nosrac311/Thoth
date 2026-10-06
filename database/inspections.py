@@ -113,7 +113,16 @@ def save_inspection(
     db = get_connection()
 
     db.execute("""
-        INSERT INTO inspections
+        INSERT INTO inspections (
+            state_id,
+            inspection_date,
+            restaurant,
+            inspector_id,
+            score,
+            grade,
+            source,
+            location
+        )
         VALUES (?, ?, ?, ?, ?, ?, ?, ?)
     """, (
         data["id"],
@@ -373,7 +382,8 @@ def search_restaurant(
 # The launcher does not have a logged-in user, so
 # this checks keywords belonging to ANY user.
 #
-# It does not expose which user owns a keyword.
+# The watchlist itself is stored in users.db.
+# The matching inspections are stored in inspections.db.
 # --------------------------------------------------
 
 def get_watchlist_matches():
@@ -382,27 +392,28 @@ def get_watchlist_matches():
         get_all_watchlist_keywords,
     )
 
+    # This function reads the keywords from users.db.
     keywords = get_all_watchlist_keywords()
-
 
     if not keywords:
 
         return []
 
 
+    # The inspections remain in inspections.db.
     db = get_connection()
 
     cursor = db.cursor()
 
-
     conditions = []
-
     params = []
 
 
     for keyword in keywords:
 
-        keyword = keyword.strip()
+        keyword = str(
+            keyword
+        ).strip()
 
         if not keyword:
             continue
