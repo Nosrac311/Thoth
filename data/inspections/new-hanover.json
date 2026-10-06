@@ -27,6 +27,15 @@
     "source": "NEW HANOVER"
   },
   {
+    "id": "7065012680",
+    "date": "2026-10-06",
+    "name": "CLOUD 9",
+    "inspector_id": "3247",
+    "score": "99.50",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
     "id": "7065611307",
     "date": "2026-10-06",
     "name": "DAVID PARROTT - MARKS OF DISTINCTION",
@@ -60,6 +69,15 @@
     "inspector_id": "3244",
     "score": "10",
     "grade": "N/A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065011226",
+    "date": "2026-10-06",
+    "name": "LOVEYS NATURAL FOODS",
+    "inspector_id": "2947",
+    "score": "99.50",
+    "grade": "A",
     "source": "NEW HANOVER"
   },
   {
