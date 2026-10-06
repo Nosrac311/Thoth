@@ -9,6 +9,15 @@
     "source": "WAKE"
   },
   {
+    "id": "4092440587",
+    "date": "2026-10-06",
+    "name": "CHAMPION EDUCATION",
+    "inspector_id": "1746",
+    "score": "96.50",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092420342",
     "date": "2026-10-06",
     "name": "ELLA`S PRIVATE DAYCARE",
@@ -23,6 +32,15 @@
     "name": "ROLLING MEADOWS",
     "inspector_id": "2091",
     "score": "4",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092420579",
+    "date": "2026-10-06",
+    "name": "SUNNY CHRISTIAN CHILD CARE",
+    "inspector_id": "3274",
+    "score": "9",
     "grade": "N/A",
     "source": "WAKE"
   },
