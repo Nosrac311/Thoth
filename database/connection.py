@@ -2,7 +2,19 @@ import sqlite3
 import os
 import sys
 
+
 def database_directory():
+
+    database_dir = os.getenv("DATABASE_DIR")
+
+    if database_dir:
+
+        os.makedirs(
+            database_dir,
+            exist_ok=True
+        )
+
+        return database_dir
 
     if getattr(sys, "frozen", False):
 
@@ -56,6 +68,10 @@ def get_users_connection():
 
     db.execute(
         "PRAGMA journal_mode=WAL;"
+    )
+
+    db.execute(
+        "PRAGMA foreign_keys = ON;"
     )
 
     return db
