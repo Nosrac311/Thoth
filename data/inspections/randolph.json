@@ -1,5 +1,32 @@
 [
   {
+    "id": "3076440009",
+    "date": "2026-10-07",
+    "name": "DONNA LEE LOFLIN",
+    "inspector_id": "2487",
+    "score": "97",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110012",
+    "date": "2026-10-07",
+    "name": "GUY B TEACHEY SCHOOL LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076110038",
+    "date": "2026-10-07",
+    "name": "TABERNACLE SCHOOL LUNCHROOM",
+    "inspector_id": "2487",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
     "id": "3076011240",
     "date": "2026-10-06",
     "name": "KATZ CUPBOARD",
