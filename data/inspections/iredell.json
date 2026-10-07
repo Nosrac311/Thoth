@@ -9,6 +9,33 @@
     "source": "IREDELL"
   },
   {
+    "id": "2049300052",
+    "date": "2026-10-07",
+    "name": "FOOD LION #1570 MEAT MARKET",
+    "inspector_id": "3391",
+    "score": "99.50",
+    "grade": "A",
+    "source": "IREDELL"
+  },
+  {
+    "id": "2049020344",
+    "date": "2026-10-07",
+    "name": "FOOD LION #1570 PRODUCE",
+    "inspector_id": "3391",
+    "score": "99.50",
+    "grade": "A",
+    "source": "IREDELL"
+  },
+  {
+    "id": "2049110035",
+    "date": "2026-10-07",
+    "name": "LAKE NORMAN ELEMENTARY CAFETERIA",
+    "inspector_id": "3391",
+    "score": "100",
+    "grade": "A",
+    "source": "IREDELL"
+  },
+  {
     "id": "2049011642",
     "date": "2026-10-06",
     "name": "ACQUA RAGAZZA",
