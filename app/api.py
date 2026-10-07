@@ -264,35 +264,87 @@ def latest_inspections(
 @app.get("/admin/database-debug")
 def database_debug():
 
-    path = database_path()
+    import sqlite3
+    import os
+
+    database_dir = os.getenv(
+        "DATABASE_DIR"
+    )
+
+    if database_dir:
+
+        path = os.path.join(
+            database_dir,
+            "inspections.db"
+        )
+
+    else:
+
+        path = os.path.join(
+            os.path.dirname(
+                os.path.abspath(__file__)
+            ),
+            "..",
+            "database",
+            "inspections.db"
+        )
+
+        path = os.path.abspath(
+            path
+        )
 
     result = {
-        "database_dir": os.getenv("DATABASE_DIR"),
+        "database_dir": database_dir,
         "database_path": path,
         "exists": os.path.exists(path),
     }
 
-    if os.path.exists(path):
+    if not os.path.exists(path):
 
-        result["size_bytes"] = os.path.getsize(path)
+        return result
 
-        db = sqlite3.connect(path)
+    result["size_bytes"] = os.path.getsize(
+        path
+    )
 
-        try:
+    db = None
 
-            result["integrity"] = db.execute(
-                "PRAGMA integrity_check;"
-            ).fetchone()[0]
+    try:
 
-            result["inspection_count"] = db.execute(
-                "SELECT COUNT(*) FROM inspections"
-            ).fetchone()[0]
+        db = sqlite3.connect(
+            path
+        )
 
-        finally:
+        result["integrity"] = db.execute(
+            "PRAGMA integrity_check;"
+        ).fetchone()[0]
 
+        result["inspection_count"] = db.execute(
+            "SELECT COUNT(*) FROM inspections"
+        ).fetchone()[0]
+
+        result["tables"] = [
+            row[0]
+            for row in db.execute("""
+                SELECT name
+                FROM sqlite_master
+                WHERE type = 'table'
+                AND name NOT LIKE 'sqlite_%'
+                ORDER BY name
+            """).fetchall()
+        ]
+
+    except Exception as error:
+
+        result["error"] = str(error)
+
+    finally:
+
+        if db is not None:
             db.close()
 
     return result
+
 # ============================================================
 # LOGGING
 # ============================================================
