@@ -1,5 +1,14 @@
 [
   {
+    "id": "4092018502",
+    "date": "2026-10-07",
+    "name": "BRIXX BEDFORD",
+    "inspector_id": "2698",
+    "score": "96",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092016117",
     "date": "2026-10-07",
     "name": "JASMIN & OLIVZ MEDITERRANEAN",
@@ -33,6 +42,15 @@
     "inspector_id": "2556",
     "score": "100",
     "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092440590",
+    "date": "2026-10-07",
+    "name": "SPECTRUM SCHOLARS",
+    "inspector_id": "1746",
+    "score": "99",
+    "grade": "N/A",
     "source": "WAKE"
   },
   {
