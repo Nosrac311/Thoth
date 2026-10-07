@@ -1,10 +1,28 @@
 [
   {
+    "id": "2018011100",
+    "date": "2026-10-07",
+    "name": "EL PASO",
+    "inspector_id": "2031",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018011715",
     "date": "2026-10-07",
     "name": "FIRST WATCH #6069",
     "inspector_id": "1654",
     "score": "97",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011647",
+    "date": "2026-10-07",
+    "name": "PHO LODGE",
+    "inspector_id": "2031",
+    "score": "98.50",
     "grade": "A",
     "source": "CATAWBA"
   },
