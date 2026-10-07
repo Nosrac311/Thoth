@@ -1,5 +1,14 @@
 [
   {
+    "id": "2018030197",
+    "date": "2026-10-06",
+    "name": "A TASTE OF CULTURE",
+    "inspector_id": "1896",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018400078",
     "date": "2026-10-06",
     "name": "CATAWBA VALLEY ASSISTED LIVING",
@@ -59,6 +68,15 @@
     "name": "GOLDMINE STORE",
     "inspector_id": "1654",
     "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010905",
+    "date": "2026-10-06",
+    "name": "MARKET ON MAIN",
+    "inspector_id": "1896",
+    "score": "97.50",
     "grade": "A",
     "source": "CATAWBA"
   },

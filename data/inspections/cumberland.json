@@ -9,6 +9,15 @@
     "source": "CUMBERLAND"
   },
   {
+    "id": "5026020088",
+    "date": "2026-10-06",
+    "name": "CHICK-FIL-A AT CAPE FEAR VALLEY MEDICAL CENTER",
+    "inspector_id": "1061",
+    "score": "92",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
     "id": "5026012057",
     "date": "2026-10-06",
     "name": "CHINA WOK BUFFET",
@@ -68,6 +77,15 @@
     "name": "JIN JIN GOURMET CHINESE RESTAURANT",
     "inspector_id": "3256",
     "score": "94",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013268",
+    "date": "2026-10-06",
+    "name": "OSAKA STEAKHOUSE INK",
+    "inspector_id": "1061",
+    "score": "98",
     "grade": "A",
     "source": "CUMBERLAND"
   },
