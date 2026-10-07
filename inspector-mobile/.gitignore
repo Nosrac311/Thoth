@@ -42,7 +42,7 @@ app-example
 /ios
 /android
 
-# Local SQLite user database
-database/users.db
-database/users.db-wal
-database/users.db-shm
+# Local SQLite databases
+database/*.db
+database/*.db-wal
+database/*.db-shm
