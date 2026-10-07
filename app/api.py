@@ -302,9 +302,8 @@ async def migrate_database(
             detail=(
                 "DATABASE_MIGRATION_TOKEN "
                 "is not configured."
-            ),
+            )
         )
-
 
     if (
         x_migration_token
@@ -313,30 +312,11 @@ async def migrate_database(
 
         raise HTTPException(
             status_code=401,
-            detail="Unauthorized.",
+            detail="Unauthorized."
         )
 
-
     # --------------------------------------------------------
-    # NEVER overwrite an existing database
-    # --------------------------------------------------------
-
-    if os.path.exists(
-        MIGRATION_DATABASE
-    ):
-
-        raise HTTPException(
-            status_code=409,
-            detail=(
-                "Database already exists at "
-                f"{MIGRATION_DATABASE}. "
-                "Migration refused."
-            ),
-        )
-
-
-    # --------------------------------------------------------
-    # Make sure the persistent directory exists
+    # Make sure persistent directory exists
     # --------------------------------------------------------
 
     os.makedirs(
@@ -344,14 +324,13 @@ async def migrate_database(
         exist_ok=True
     )
 
-
     temp_path = None
-
+    backup_path = None
 
     try:
 
         # ----------------------------------------------------
-        # Create temporary database file
+        # Upload local database to temporary file
         # ----------------------------------------------------
 
         with tempfile.NamedTemporaryFile(
@@ -360,14 +339,7 @@ async def migrate_database(
             dir=DATABASE_DIR,
         ) as temp_file:
 
-            temp_path = (
-                temp_file.name
-            )
-
-
-            # ------------------------------------------------
-            # Copy upload to temporary file
-            # ------------------------------------------------
+            temp_path = temp_file.name
 
             while True:
 
@@ -382,38 +354,27 @@ async def migrate_database(
                     chunk
                 )
 
-
         # ----------------------------------------------------
-        # Verify SQLite database
+        # Verify uploaded SQLite database
         # ----------------------------------------------------
 
         db = sqlite3.connect(
             temp_path
         )
 
-
         try:
-
-            # ------------------------------------------------
-            # SQLite integrity check
-            # ------------------------------------------------
 
             integrity = db.execute(
                 "PRAGMA integrity_check;"
             ).fetchone()[0]
 
-
             if integrity != "ok":
 
                 raise RuntimeError(
-                    "SQLite integrity check failed: "
+                    "Uploaded database failed "
+                    "SQLite integrity check: "
                     + str(integrity)
                 )
-
-
-            # ------------------------------------------------
-            # Find tables
-            # ------------------------------------------------
 
             tables = db.execute("""
                 SELECT name
@@ -423,18 +384,11 @@ async def migrate_database(
                 ORDER BY name
             """).fetchall()
 
-
             table_info = {}
-
-
-            # ------------------------------------------------
-            # Count rows in every table
-            # ------------------------------------------------
 
             for row in tables:
 
                 table_name = row[0]
-
 
                 quoted_name = (
                     '"'
@@ -445,7 +399,6 @@ async def migrate_database(
                     + '"'
                 )
 
-
                 count = db.execute(
                     f"""
                     SELECT COUNT(*)
@@ -453,19 +406,47 @@ async def migrate_database(
                     """
                 ).fetchone()[0]
 
-
                 table_info[
                     table_name
                 ] = count
-
 
         finally:
 
             db.close()
 
+        # ----------------------------------------------------
+        # Backup existing Render database
+        # ----------------------------------------------------
+
+        if os.path.exists(
+            MIGRATION_DATABASE
+        ):
+
+            backup_path = os.path.join(
+                DATABASE_DIR,
+                "inspections.db.before-migration"
+            )
+
+            # Don't overwrite an existing backup.
+
+            if os.path.exists(
+                backup_path
+            ):
+
+                raise RuntimeError(
+                    "A previous migration backup "
+                    "already exists at "
+                    f"{backup_path}. "
+                    "Migration stopped."
+                )
+
+            shutil.move(
+                MIGRATION_DATABASE,
+                backup_path
+            )
 
         # ----------------------------------------------------
-        # Move verified database into final location
+        # Move verified database into place
         # ----------------------------------------------------
 
         shutil.move(
@@ -473,39 +454,77 @@ async def migrate_database(
             MIGRATION_DATABASE
         )
 
-
         temp_path = None
 
+        # ----------------------------------------------------
+        # Verify final database
+        # ----------------------------------------------------
+
+        final_db = sqlite3.connect(
+            MIGRATION_DATABASE
+        )
+
+        try:
+
+            final_integrity = final_db.execute(
+                "PRAGMA integrity_check;"
+            ).fetchone()[0]
+
+        finally:
+
+            final_db.close()
+
+        if final_integrity != "ok":
+
+            # Restore original database
+
+            if os.path.exists(
+                MIGRATION_DATABASE
+            ):
+
+                os.remove(
+                    MIGRATION_DATABASE
+                )
+
+            if backup_path and os.path.exists(
+                backup_path
+            ):
+
+                shutil.move(
+                    backup_path,
+                    MIGRATION_DATABASE
+                )
+
+            raise RuntimeError(
+                "Final database failed "
+                "SQLite integrity check."
+            )
 
         # ----------------------------------------------------
         # Success
         # ----------------------------------------------------
 
-        logging.info(
-            "Database migration completed."
-        )
-
-
         return {
-
             "success": True,
 
             "database":
                 MIGRATION_DATABASE,
 
             "integrity":
-                integrity,
+                final_integrity,
 
             "tables":
                 table_info,
 
-        }
+            "previous_database_backed_up":
+                bool(backup_path),
 
+        }
 
     except Exception as error:
 
         # ----------------------------------------------------
-        # Remove failed temporary upload
+        # Clean up temporary upload
         # ----------------------------------------------------
 
         if (
@@ -519,23 +538,14 @@ async def migrate_database(
                 temp_path
             )
 
-
         logging.exception(
             "Database migration failed"
         )
 
-
         raise HTTPException(
             status_code=500,
-            detail=str(error),
+            detail=str(error)
         )
-
-@app.get("/admin/inspect-database")
-def inspect_database(
-    x_migration_token: str | None = Header(
-        default=None
-    )
-):
 
     # --------------------------------------------------------
     # Verify migration token
