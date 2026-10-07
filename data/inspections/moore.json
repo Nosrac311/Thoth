@@ -1,5 +1,32 @@
 [
   {
+    "id": "5063300390",
+    "date": "2026-10-06",
+    "name": "CARLIE C'S IGA 755 - MEAT MARKET",
+    "inspector_id": "2922",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063021314",
+    "date": "2026-10-06",
+    "name": "CARLIE C'S IGA 755- PRODUCE",
+    "inspector_id": "2922",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063021315",
+    "date": "2026-10-06",
+    "name": "CARLIE C'S IGA 755-DELI",
+    "inspector_id": "2922",
+    "score": "91",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
     "id": "5063011103",
     "date": "2026-10-06",
     "name": "MASON'S GROCERY AND RESTAURANT",

@@ -9,11 +9,38 @@
     "source": "NEW HANOVER"
   },
   {
+    "id": "7065530280",
+    "date": "2026-10-07",
+    "name": "GEORGETOWN",
+    "inspector_id": "2911",
+    "score": "16",
+    "grade": "N/A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065540006",
+    "date": "2026-10-07",
+    "name": "GEORGETOWN WADING",
+    "inspector_id": "2911",
+    "score": "10",
+    "grade": "N/A",
+    "source": "NEW HANOVER"
+  },
+  {
     "id": "7065012306",
     "date": "2026-10-07",
     "name": "GULFSTREAM RESTAURANT",
     "inspector_id": "3244",
     "score": "92",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065020369",
+    "date": "2026-10-07",
+    "name": "HARRIS TEETER 210 DELI",
+    "inspector_id": "3246",
+    "score": "96",
     "grade": "A",
     "source": "NEW HANOVER"
   },
