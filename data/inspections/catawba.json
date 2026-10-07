@@ -27,6 +27,33 @@
     "source": "CATAWBA"
   },
   {
+    "id": "2018020203",
+    "date": "2026-10-07",
+    "name": "FOOD LION DELI #571",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018300047",
+    "date": "2026-10-07",
+    "name": "FOOD LION MEAT MARKET #571",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020411",
+    "date": "2026-10-07",
+    "name": "FOOD LION PRODUCE #571",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018011647",
     "date": "2026-10-07",
     "name": "PHO LODGE",
