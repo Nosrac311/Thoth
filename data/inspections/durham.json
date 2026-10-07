@@ -18,6 +18,15 @@
     "source": "DURHAM"
   },
   {
+    "id": "4032012361",
+    "date": "2026-10-07",
+    "name": "GOCCIOLINA",
+    "inspector_id": "3096",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032031092",
     "date": "2026-10-07",
     "name": "GUSTITOS",
@@ -41,6 +50,15 @@
     "name": "TOMATO JAKE'S PIZZERIA",
     "inspector_id": "3367",
     "score": "94",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011740",
+    "date": "2026-10-07",
+    "name": "TWISTED NOODLES",
+    "inspector_id": "3096",
+    "score": "93",
     "grade": "A",
     "source": "DURHAM"
   },
