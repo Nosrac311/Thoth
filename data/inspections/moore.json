@@ -27,6 +27,15 @@
     "source": "MOORE"
   },
   {
+    "id": "5063140054",
+    "date": "2026-10-06",
+    "name": "HILLCREST PARK CONCESSIONS (1)",
+    "inspector_id": "2467",
+    "score": "96.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
     "id": "5063011103",
     "date": "2026-10-06",
     "name": "MASON'S GROCERY AND RESTAURANT",
@@ -68,6 +77,15 @@
     "name": "TERRA BELLA MEMORY CARE KITCHEN",
     "inspector_id": "3255",
     "score": "97.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063033005",
+    "date": "2026-10-06",
+    "name": "THE HOUSE OF ODELL AND LUELLA",
+    "inspector_id": "2467",
+    "score": "100",
     "grade": "A",
     "source": "MOORE"
   },
