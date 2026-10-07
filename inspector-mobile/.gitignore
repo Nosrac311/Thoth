@@ -42,7 +42,6 @@ app-example
 /ios
 /android
 
-# Local SQLite databases
-database/*.db
-database/*.db-wal
-database/*.db-shm
+database/users.db
+database/users.db-wal
+database/users.db-shm
