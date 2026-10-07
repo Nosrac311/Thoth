@@ -6,18 +6,12 @@ load_dotenv()
 import logging
 import os
 import sys
-import sqlite3
-import tempfile
-import shutil
+
 
 from fastapi import (
     FastAPI,
     Query,
-    UploadFile,
-    File,
-    Header,
-    HTTPException,
-)
+   )
 
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import RedirectResponse
@@ -265,405 +259,40 @@ def latest_inspections(
     }
 
 
-# ============================================================
-# TEMPORARY DATABASE MIGRATION
-#
-# THIS ENDPOINT IS ONLY FOR THE ONE-TIME MIGRATION OF:
-#
-#     local database/inspections.db
-#
-# TO:
-#
-#     /data/inspections.db
-#
-# Once the migration has been verified, DELETE THIS ENTIRE
-# ENDPOINT AND REMOVE DATABASE_MIGRATION_TOKEN FROM RENDER.
-# ============================================================
 
-@app.post(
-    "/admin/migrate-database"
-)
-async def migrate_database(
-    database: UploadFile = File(...),
 
-    x_migration_token: str | None = Header(
-        default=None
-    ),
-):
+@app.get("/admin/database-debug")
+def database_debug():
 
-    # --------------------------------------------------------
-    # Verify migration token
-    # --------------------------------------------------------
+    path = database_path()
 
-    if not DATABASE_MIGRATION_TOKEN:
+    result = {
+        "database_dir": os.getenv("DATABASE_DIR"),
+        "database_path": path,
+        "exists": os.path.exists(path),
+    }
 
-        raise HTTPException(
-            status_code=500,
-            detail=(
-                "DATABASE_MIGRATION_TOKEN "
-                "is not configured."
-            )
-        )
+    if os.path.exists(path):
 
-    if (
-        x_migration_token
-        != DATABASE_MIGRATION_TOKEN
-    ):
+        result["size_bytes"] = os.path.getsize(path)
 
-        raise HTTPException(
-            status_code=401,
-            detail="Unauthorized."
-        )
-
-    # --------------------------------------------------------
-    # Make sure persistent directory exists
-    # --------------------------------------------------------
-
-    os.makedirs(
-        DATABASE_DIR,
-        exist_ok=True
-    )
-
-    temp_path = None
-    backup_path = None
-
-    try:
-
-        # ----------------------------------------------------
-        # Upload local database to temporary file
-        # ----------------------------------------------------
-
-        with tempfile.NamedTemporaryFile(
-            delete=False,
-            suffix=".db",
-            dir=DATABASE_DIR,
-        ) as temp_file:
-
-            temp_path = temp_file.name
-
-            while True:
-
-                chunk = await database.read(
-                    1024 * 1024
-                )
-
-                if not chunk:
-                    break
-
-                temp_file.write(
-                    chunk
-                )
-
-        # ----------------------------------------------------
-        # Verify uploaded SQLite database
-        # ----------------------------------------------------
-
-        db = sqlite3.connect(
-            temp_path
-        )
+        db = sqlite3.connect(path)
 
         try:
 
-            integrity = db.execute(
+            result["integrity"] = db.execute(
                 "PRAGMA integrity_check;"
             ).fetchone()[0]
 
-            if integrity != "ok":
-
-                raise RuntimeError(
-                    "Uploaded database failed "
-                    "SQLite integrity check: "
-                    + str(integrity)
-                )
-
-            tables = db.execute("""
-                SELECT name
-                FROM sqlite_master
-                WHERE type = 'table'
-                AND name NOT LIKE 'sqlite_%'
-                ORDER BY name
-            """).fetchall()
-
-            table_info = {}
-
-            for row in tables:
-
-                table_name = row[0]
-
-                quoted_name = (
-                    '"'
-                    + table_name.replace(
-                        '"',
-                        '""'
-                    )
-                    + '"'
-                )
-
-                count = db.execute(
-                    f"""
-                    SELECT COUNT(*)
-                    FROM {quoted_name}
-                    """
-                ).fetchone()[0]
-
-                table_info[
-                    table_name
-                ] = count
+            result["inspection_count"] = db.execute(
+                "SELECT COUNT(*) FROM inspections"
+            ).fetchone()[0]
 
         finally:
 
             db.close()
 
-        # ----------------------------------------------------
-        # Backup existing Render database
-        # ----------------------------------------------------
-
-        if os.path.exists(
-            MIGRATION_DATABASE
-        ):
-
-            backup_path = os.path.join(
-                DATABASE_DIR,
-                "inspections.db.before-migration"
-            )
-
-            # Don't overwrite an existing backup.
-
-            if os.path.exists(
-                backup_path
-            ):
-
-                raise RuntimeError(
-                    "A previous migration backup "
-                    "already exists at "
-                    f"{backup_path}. "
-                    "Migration stopped."
-                )
-
-            shutil.move(
-                MIGRATION_DATABASE,
-                backup_path
-            )
-
-        # ----------------------------------------------------
-        # Move verified database into place
-        # ----------------------------------------------------
-
-        shutil.move(
-            temp_path,
-            MIGRATION_DATABASE
-        )
-
-        temp_path = None
-
-        # ----------------------------------------------------
-        # Verify final database
-        # ----------------------------------------------------
-
-        final_db = sqlite3.connect(
-            MIGRATION_DATABASE
-        )
-
-        try:
-
-            final_integrity = final_db.execute(
-                "PRAGMA integrity_check;"
-            ).fetchone()[0]
-
-        finally:
-
-            final_db.close()
-
-        if final_integrity != "ok":
-
-            # Restore original database
-
-            if os.path.exists(
-                MIGRATION_DATABASE
-            ):
-
-                os.remove(
-                    MIGRATION_DATABASE
-                )
-
-            if backup_path and os.path.exists(
-                backup_path
-            ):
-
-                shutil.move(
-                    backup_path,
-                    MIGRATION_DATABASE
-                )
-
-            raise RuntimeError(
-                "Final database failed "
-                "SQLite integrity check."
-            )
-
-        # ----------------------------------------------------
-        # Success
-        # ----------------------------------------------------
-
-        return {
-            "success": True,
-
-            "database":
-                MIGRATION_DATABASE,
-
-            "integrity":
-                final_integrity,
-
-            "tables":
-                table_info,
-
-            "previous_database_backed_up":
-                bool(backup_path),
-
-        }
-
-    except Exception as error:
-
-        # ----------------------------------------------------
-        # Clean up temporary upload
-        # ----------------------------------------------------
-
-        if (
-            temp_path
-            and os.path.exists(
-                temp_path
-            )
-        ):
-
-            os.remove(
-                temp_path
-            )
-
-        logging.exception(
-            "Database migration failed"
-        )
-
-        raise HTTPException(
-            status_code=500,
-            detail=str(error)
-        )
-
-    # --------------------------------------------------------
-    # Verify migration token
-    # --------------------------------------------------------
-
-    if not DATABASE_MIGRATION_TOKEN:
-
-        raise HTTPException(
-            status_code=500,
-            detail=(
-                "DATABASE_MIGRATION_TOKEN "
-                "is not configured."
-            )
-        )
-
-    if (
-        x_migration_token
-        != DATABASE_MIGRATION_TOKEN
-    ):
-
-        raise HTTPException(
-            status_code=401,
-            detail="Unauthorized."
-        )
-
-    # --------------------------------------------------------
-    # Check whether database exists
-    # --------------------------------------------------------
-
-    if not os.path.exists(
-        MIGRATION_DATABASE
-    ):
-
-        raise HTTPException(
-            status_code=404,
-            detail=(
-                "Database does not exist at "
-                f"{MIGRATION_DATABASE}"
-            )
-        )
-
-    db = None
-
-    try:
-
-        db = sqlite3.connect(
-            MIGRATION_DATABASE
-        )
-
-        # ----------------------------------------------------
-        # Integrity check
-        # ----------------------------------------------------
-
-        integrity = db.execute(
-            "PRAGMA integrity_check;"
-        ).fetchone()[0]
-
-        # ----------------------------------------------------
-        # Get tables
-        # ----------------------------------------------------
-
-        tables = db.execute("""
-            SELECT name
-            FROM sqlite_master
-            WHERE type = 'table'
-            AND name NOT LIKE 'sqlite_%'
-            ORDER BY name
-        """).fetchall()
-
-        table_info = {}
-
-        for row in tables:
-
-            table_name = row[0]
-
-            quoted_name = (
-                '"'
-                + table_name.replace(
-                    '"',
-                    '""'
-                )
-                + '"'
-            )
-
-            count = db.execute(
-                f"""
-                SELECT COUNT(*)
-                FROM {quoted_name}
-                """
-            ).fetchone()[0]
-
-            table_info[
-                table_name
-            ] = count
-
-        # ----------------------------------------------------
-        # File information
-        # ----------------------------------------------------
-
-        file_size = os.path.getsize(
-            MIGRATION_DATABASE
-        )
-
-        return {
-            "database": MIGRATION_DATABASE,
-            "exists": True,
-            "size_bytes": file_size,
-            "integrity": integrity,
-            "tables": table_info
-        }
-
-    finally:
-
-        if db is not None:
-            db.close()
-
-
-
+    return result
 # ============================================================
 # LOGGING
 # ============================================================
