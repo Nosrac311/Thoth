@@ -530,6 +530,129 @@ async def migrate_database(
             detail=str(error),
         )
 
+@app.get("/admin/inspect-database")
+def inspect_database(
+    x_migration_token: str | None = Header(
+        default=None
+    )
+):
+
+    # --------------------------------------------------------
+    # Verify migration token
+    # --------------------------------------------------------
+
+    if not DATABASE_MIGRATION_TOKEN:
+
+        raise HTTPException(
+            status_code=500,
+            detail=(
+                "DATABASE_MIGRATION_TOKEN "
+                "is not configured."
+            )
+        )
+
+    if (
+        x_migration_token
+        != DATABASE_MIGRATION_TOKEN
+    ):
+
+        raise HTTPException(
+            status_code=401,
+            detail="Unauthorized."
+        )
+
+    # --------------------------------------------------------
+    # Check whether database exists
+    # --------------------------------------------------------
+
+    if not os.path.exists(
+        MIGRATION_DATABASE
+    ):
+
+        raise HTTPException(
+            status_code=404,
+            detail=(
+                "Database does not exist at "
+                f"{MIGRATION_DATABASE}"
+            )
+        )
+
+    db = None
+
+    try:
+
+        db = sqlite3.connect(
+            MIGRATION_DATABASE
+        )
+
+        # ----------------------------------------------------
+        # Integrity check
+        # ----------------------------------------------------
+
+        integrity = db.execute(
+            "PRAGMA integrity_check;"
+        ).fetchone()[0]
+
+        # ----------------------------------------------------
+        # Get tables
+        # ----------------------------------------------------
+
+        tables = db.execute("""
+            SELECT name
+            FROM sqlite_master
+            WHERE type = 'table'
+            AND name NOT LIKE 'sqlite_%'
+            ORDER BY name
+        """).fetchall()
+
+        table_info = {}
+
+        for row in tables:
+
+            table_name = row[0]
+
+            quoted_name = (
+                '"'
+                + table_name.replace(
+                    '"',
+                    '""'
+                )
+                + '"'
+            )
+
+            count = db.execute(
+                f"""
+                SELECT COUNT(*)
+                FROM {quoted_name}
+                """
+            ).fetchone()[0]
+
+            table_info[
+                table_name
+            ] = count
+
+        # ----------------------------------------------------
+        # File information
+        # ----------------------------------------------------
+
+        file_size = os.path.getsize(
+            MIGRATION_DATABASE
+        )
+
+        return {
+            "database": MIGRATION_DATABASE,
+            "exists": True,
+            "size_bytes": file_size,
+            "integrity": integrity,
+            "tables": table_info
+        }
+
+    finally:
+
+        if db is not None:
+            db.close()
+
+
 
 # ============================================================
 # LOGGING
