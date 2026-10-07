@@ -1,5 +1,23 @@
 [
   {
+    "id": "2018400078",
+    "date": "2026-10-06",
+    "name": "CATAWBA VALLEY ASSISTED LIVING",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018160033",
+    "date": "2026-10-06",
+    "name": "CATAWBA VALLEY ASSISTED LIVING",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018011663",
     "date": "2026-10-06",
     "name": "CEDAR STUMP PUB AND GRUB",
@@ -23,6 +41,15 @@
     "name": "CONOVER SCHOOL CAFETERIA",
     "inspector_id": "2031",
     "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011181",
+    "date": "2026-10-06",
+    "name": "EAST COAST WINGS & GRILL",
+    "inspector_id": "2286",
+    "score": "99.50",
     "grade": "A",
     "source": "CATAWBA"
   },
