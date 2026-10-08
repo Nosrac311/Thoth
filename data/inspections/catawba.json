@@ -27,11 +27,29 @@
     "source": "CATAWBA"
   },
   {
+    "id": "2018011692",
+    "date": "2026-10-08",
+    "name": "MI CASA MEXICAN RESTAURANT",
+    "inspector_id": "1896",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018011542",
     "date": "2026-10-08",
     "name": "PALERMO'S",
     "inspector_id": "2286",
     "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011018",
+    "date": "2026-10-08",
+    "name": "PAPAS PIZZA",
+    "inspector_id": "1896",
+    "score": "99",
     "grade": "A",
     "source": "CATAWBA"
   },
