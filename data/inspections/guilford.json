@@ -1,5 +1,14 @@
 [
   {
+    "id": "3041010500",
+    "date": "2026-10-08",
+    "name": "ASAHI JAPANESE STEAKHOUSE",
+    "inspector_id": "1958",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041014361",
     "date": "2026-10-08",
     "name": "BOJANGLES #590",
@@ -18,11 +27,29 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041020365",
+    "date": "2026-10-08",
+    "name": "FANTASY INTERNATIONAL",
+    "inspector_id": "1958",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041430839",
     "date": "2026-10-08",
     "name": "GUILFORD #4",
     "inspector_id": "2229",
     "score": "7",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610918",
+    "date": "2026-10-08",
+    "name": "HELENBROWS",
+    "inspector_id": "1958",
+    "score": "",
     "grade": "N/A",
     "source": "GUILFORD"
   },
