@@ -9,6 +9,15 @@
     "source": "FORSYTH"
   },
   {
+    "id": "3034012542",
+    "date": "2026-10-08",
+    "name": "ARRIBA VILLA TAQUERIA AND MEXICAN FOOD",
+    "inspector_id": "2519",
+    "score": "95",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
     "id": "3034020983",
     "date": "2026-10-08",
     "name": "B & S SUPER MART",
@@ -32,6 +41,15 @@
     "name": "DUNKIN",
     "inspector_id": "2848",
     "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012583",
+    "date": "2026-10-08",
+    "name": "EARL'S",
+    "inspector_id": "2519",
+    "score": "97.50",
     "grade": "A",
     "source": "FORSYTH"
   },
