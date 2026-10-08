@@ -9,6 +9,15 @@
     "source": "PITT"
   },
   {
+    "id": "6074110000",
+    "date": "2026-10-08",
+    "name": "E B AYCOCK MIDDLE SCHOOL CAFETERIA",
+    "inspector_id": "3185",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
     "id": "6074030127",
     "date": "2026-10-08",
     "name": "ECU BBQ TRUCK",
@@ -68,6 +77,15 @@
     "name": "SHEETZ #488",
     "inspector_id": "2642",
     "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011912",
+    "date": "2026-10-08",
+    "name": "THE BARN & BISTRO",
+    "inspector_id": "3185",
+    "score": "98",
     "grade": "A",
     "source": "PITT"
   },
