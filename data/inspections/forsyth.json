@@ -9,6 +9,24 @@
     "source": "FORSYTH"
   },
   {
+    "id": "3034012512",
+    "date": "2026-10-08",
+    "name": "PUBLIX #1574 DELI",
+    "inspector_id": "2848",
+    "score": "97.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034300173",
+    "date": "2026-10-08",
+    "name": "PUBLIX #1574 MEAT MARKET",
+    "inspector_id": "2848",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
     "id": "3034440116",
     "date": "2026-10-07",
     "name": "BISHOP MCGUINNESS HIGH SCHOOL",
