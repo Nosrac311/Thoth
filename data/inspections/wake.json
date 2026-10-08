@@ -27,6 +27,15 @@
     "source": "WAKE"
   },
   {
+    "id": "4092017343",
+    "date": "2026-10-08",
+    "name": "CLARION POINTE WAKE FOREST FOOD SERVICE",
+    "inspector_id": "2293",
+    "score": "98",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092200364",
     "date": "2026-10-08",
     "name": "COMFORT INN BUILDING",
@@ -41,6 +50,15 @@
     "name": "CRACKER BARREL #461",
     "inspector_id": "3092",
     "score": "96.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092025805",
+    "date": "2026-10-08",
+    "name": "DOMINO'S #8985",
+    "inspector_id": "2790",
+    "score": "98.50",
     "grade": "A",
     "source": "WAKE"
   },

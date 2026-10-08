@@ -36,6 +36,15 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041431108",
+    "date": "2026-10-08",
+    "name": "POTTS AFL",
+    "inspector_id": "2229",
+    "score": "2",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041010209",
     "date": "2026-10-08",
     "name": "SHERATON INN BANQUET",
@@ -59,6 +68,15 @@
     "name": "BILLS PIZZA PUB #5",
     "inspector_id": "3311",
     "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041200282",
+    "date": "2026-10-07",
+    "name": "CLARION POINTE",
+    "inspector_id": "1948",
+    "score": "95.50",
     "grade": "A",
     "source": "GUILFORD"
   },
