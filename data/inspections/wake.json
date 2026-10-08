@@ -27,6 +27,15 @@
     "source": "WAKE"
   },
   {
+    "id": "4092017836",
+    "date": "2026-10-08",
+    "name": "MARKET HALL",
+    "inspector_id": "2556",
+    "score": "100",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092090012",
     "date": "2026-10-08",
     "name": "MEALS ON WHEELS OF WAKE COUNTY/MCLEAN STREET",
@@ -59,6 +68,15 @@
     "name": "ROLESVILLE ELEMENTARY SCHOOL CAFETERIA",
     "inspector_id": "2917",
     "score": "99.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092019398",
+    "date": "2026-10-08",
+    "name": "THE GROVE AT CITY MARKET",
+    "inspector_id": "2556",
+    "score": "100",
     "grade": "A",
     "source": "WAKE"
   },
