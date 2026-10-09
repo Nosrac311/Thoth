@@ -1,10 +1,28 @@
 [
   {
+    "id": "4092019602",
+    "date": "2026-10-09",
+    "name": "BRIXX WOOD FIRED PIZZA",
+    "inspector_id": "3092",
+    "score": "94",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092160047",
     "date": "2026-10-09",
     "name": "CAPITAL NURSING AND REHABILITATION CENTER KITCHEN",
     "inspector_id": "1953",
     "score": "100",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092025725",
+    "date": "2026-10-09",
+    "name": "CARNIVORES QUE @ FLAVOR DISTRICT",
+    "inspector_id": "2917",
+    "score": "99",
     "grade": "A",
     "source": "WAKE"
   },
@@ -18,12 +36,57 @@
     "source": "WAKE"
   },
   {
+    "id": "4092021036",
+    "date": "2026-10-09",
+    "name": "FOOD LION #536 DELI",
+    "inspector_id": "2918",
+    "score": "96.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092300192",
+    "date": "2026-10-09",
+    "name": "FOOD LION #536 MEAT MARKET",
+    "inspector_id": "2918",
+    "score": "100",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092440588",
+    "date": "2026-10-09",
+    "name": "HARMONY HOMESCHOOL ACADEMY",
+    "inspector_id": "1746",
+    "score": "90",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092420457",
     "date": "2026-10-09",
     "name": "HOLLY SPRINGS LEARNING CENTER",
     "inspector_id": "2701",
     "score": "4",
     "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092018431",
+    "date": "2026-10-09",
+    "name": "IDLE HOUR COFFEE SHOP",
+    "inspector_id": "3279",
+    "score": "90",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092030794",
+    "date": "2026-10-09",
+    "name": "KEBAB EXPRESS HALAL GRILL (WCID #1152)",
+    "inspector_id": "1953",
+    "score": "100",
+    "grade": "A",
     "source": "WAKE"
   },
   {

@@ -1,5 +1,23 @@
 [
   {
+    "id": "3041012316",
+    "date": "2026-10-09",
+    "name": "CAROLINAS DINER #102",
+    "inspector_id": "3095",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021410",
+    "date": "2026-10-09",
+    "name": "DUNKIN' DONUTS / BASKIN ROBBINS",
+    "inspector_id": "3566",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041010500",
     "date": "2026-10-08",
     "name": "ASAHI JAPANESE STEAKHOUSE",

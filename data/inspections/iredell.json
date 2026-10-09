@@ -1,5 +1,23 @@
 [
   {
+    "id": "2049020225",
+    "date": "2026-10-09",
+    "name": "HARRIS TEETER #274 DELI/ BAKERY/SUSHI",
+    "inspector_id": "3391",
+    "score": "99.50",
+    "grade": "A",
+    "source": "IREDELL"
+  },
+  {
+    "id": "2049420195",
+    "date": "2026-10-08",
+    "name": "ABOVE AND BEYOND EARLY LEARNING",
+    "inspector_id": "2833",
+    "score": "28",
+    "grade": "N/A",
+    "source": "IREDELL"
+  },
+  {
     "id": "2049110043",
     "date": "2026-10-08",
     "name": "LAKESHORE ELEMENTARY/MIDDLE SCHOOL",
