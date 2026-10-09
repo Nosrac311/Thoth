@@ -203,26 +203,27 @@ def restaurant_search(
     name: str = Query(
         ...,
         description="Restaurant name to search",
-    )
+    ),
+    limit: int = Query(30, ge=1, le=100),
 ):
-
     results = search_restaurant(
-        name
+        name,
+        limit=limit,
     )
 
     return {
         "query": name,
-
         "results": [
-
             {
                 "restaurant": row[0],
                 "date": row[1],
                 "score": row[2],
                 "grade": row[3],
+                "source": row[4],
+                "inspector_id": row[5],
                 "location": row[6],
+                "state_id": row[7],
             }
-
             for row in results
         ],
     }

@@ -343,19 +343,21 @@ def get_inspector_details(
 
 def search_restaurant(
     name,
-    limit=10,
+    limit=30,
 ):
-
     db = get_connection()
-
     cursor = db.cursor()
 
     cursor.execute("""
         SELECT
-            restaurant,
-            inspection_date,
-            score,
-            grade
+            restaurant,       -- row[0]
+            inspection_date,  -- row[1]
+            score,            -- row[2]
+            grade,            -- row[3]
+            source,            -- row[4]
+            inspector_id,     -- row[5]
+            location,         -- row[6]
+            state_id          -- row[7]
 
         FROM inspections
 

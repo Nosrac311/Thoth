@@ -19,7 +19,7 @@ type Inspection = {
     location: string | null;
     inspector_id: string | null;
     state_id: string;
-    adress: string;
+   
 };
 
 export default function Restaurants() {
@@ -117,7 +117,7 @@ export default function Restaurants() {
             <FlatList
                 data={results}
                 keyExtractor={(item, index) =>
-                    `${item.source}-${item.state_id}-${item.date}-${item.adress}-${index}`
+                    `${item.source}-${item.state_id}-${item.date}-${index}`
                 }
                 keyboardShouldPersistTaps="handled"
                 contentContainerStyle={styles.list}
@@ -179,14 +179,7 @@ export default function Restaurants() {
                                 </Text>
                             </View>
 
-                            <View style={styles.detail}>
-                                <Text style={styles.label}>
-                                    Location
-                                </Text>
-                                <Text style={styles.value}>
-                                    {item.adress || "N/A"}
-                                </Text>
-                            </View>
+                           
                         </View>
                     </View>
                 )}
