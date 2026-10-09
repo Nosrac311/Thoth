@@ -6,10 +6,13 @@ import {
   StyleSheet,
   FlatList,
   ActivityIndicator,
+  Pressable,
 } from "react-native";
 
 
 const API_URL = "https://thoth-u72b.onrender.com";
+
+
 
 type Inspection = {
   restaurant: string;
@@ -17,13 +20,16 @@ type Inspection = {
   score: number;
   grade: string;
   county: string;
+  inspections: string;
   inspector_id: string;
+  location: string;
 };
 
 export default function Dashboard() {
   const [total, setTotal] = useState(0);
   const [inspections, setInspections] = useState<Inspection[]>([]);
   const [loading, setLoading] = useState(true);
+  const [expandAll, setExpandAll] = useState(false);
 
   useEffect(() => {
     loadDashboard();
@@ -81,9 +87,19 @@ export default function Dashboard() {
         Latest Inspections
       </Text>
 
+      <Pressable
+        style={styles.button}
+        onPress={() => setExpandAll(prev => !prev)}
+      >
+        <Text style={styles.buttonText}>
+          {expandAll ? "Collapse All" : "Expand All"}
+        </Text>
+      </Pressable>
+
 
       <InspectionTree
         inspections={inspections}
+        expandAll={expandAll}
       />
 
     </View>
@@ -117,6 +133,20 @@ const styles = StyleSheet.create({
     padding: 20,
     borderRadius: 15,
     marginBottom: 20,
+  },
+
+  button: {
+    backgroundColor: "white",
+    padding: 12,
+    borderRadius: 8,
+    marginBottom: 10,
+    alignItems: "center",
+  },
+
+  buttonText: {
+    fontSize: 16,
+    fontWeight: "600",
+    color: "#222",
   },
 
   label: {

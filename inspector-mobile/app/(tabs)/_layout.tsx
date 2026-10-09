@@ -30,6 +30,13 @@ export default function TabLayout() {
           title: "Settings",
         }}
       />
+
+      <Tabs.Screen
+        name="prediction"
+        options={{
+          title: "Prediction",
+        }}
+      />
     </Tabs>
   );
 }

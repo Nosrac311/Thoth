@@ -197,6 +197,8 @@ def get_latest_inspections(
     ))
 
     rows = cursor.fetchall()
+    print("FIRST ROW:", rows[0] if rows else "No rows")
+    print("LOCATION VALUE:", rows[0][6] if rows else "No rows")
 
     db.close()
 
