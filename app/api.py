@@ -220,6 +220,7 @@ def restaurant_search(
                 "date": row[1],
                 "score": row[2],
                 "grade": row[3],
+                "location": row[6],
             }
 
             for row in results
@@ -252,6 +253,7 @@ def latest_inspections(
                 "grade": row[3],
                 "county": row[4],
                 "inspector_id": row[5],
+                "location": row[6],
             }
 
             for row in results
