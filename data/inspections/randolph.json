@@ -1,5 +1,95 @@
 [
   {
+    "id": "3076011239",
+    "date": "2026-10-14",
+    "name": "BAGNER AND ALEXA'S ASHEBORO CAFE",
+    "inspector_id": "1133",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020337",
+    "date": "2026-10-14",
+    "name": "CARLIE C S #760 DELI",
+    "inspector_id": "3514",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011229",
+    "date": "2026-10-14",
+    "name": "WENDY'S RESTAURANT #14632",
+    "inspector_id": "3514",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020173",
+    "date": "2026-10-13",
+    "name": "ARCHDALE PARK AND RECREATION",
+    "inspector_id": "986",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020131",
+    "date": "2026-10-13",
+    "name": "FOOD LION DELI  897",
+    "inspector_id": "986",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076430177",
+    "date": "2026-10-13",
+    "name": "MELISSA HALE ALTERNATIVE FAMILY HOME (AFL)",
+    "inspector_id": "986",
+    "score": "1",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011121",
+    "date": "2026-10-13",
+    "name": "OLYMPIA FAMILY REST #2",
+    "inspector_id": "1133",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010465",
+    "date": "2026-10-12",
+    "name": "COOK OUT/ASHEBORO",
+    "inspector_id": "3514",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076300036",
+    "date": "2026-10-12",
+    "name": "FOOD LION  1271",
+    "inspector_id": "1133",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020220",
+    "date": "2026-10-12",
+    "name": "FOOD LION #1271 PRODUCE",
+    "inspector_id": "1133",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
     "id": "3076010869",
     "date": "2026-10-08",
     "name": "BURGER KING #772",

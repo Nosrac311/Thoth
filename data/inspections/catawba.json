@@ -1,5 +1,95 @@
 [
   {
+    "id": "2018011695",
+    "date": "2026-10-14",
+    "name": "CHICKEN SALAD CHICK #318",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011323",
+    "date": "2026-10-14",
+    "name": "RED LOBSTER #0459",
+    "inspector_id": "2031",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011314",
+    "date": "2026-10-14",
+    "name": "SAIGON GARDEN",
+    "inspector_id": "2031",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011706",
+    "date": "2026-10-14",
+    "name": "TROPICAL SMOOTHIE CAFE #136 - 2ND ST",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010454",
+    "date": "2026-10-13",
+    "name": "GOLDEN CORRAL 586",
+    "inspector_id": "2286",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020366",
+    "date": "2026-10-13",
+    "name": "LOWES FOODS DELI #254",
+    "inspector_id": "2031",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020367",
+    "date": "2026-10-13",
+    "name": "LOWES FOODS PRODUCE #254",
+    "inspector_id": "2031",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020368",
+    "date": "2026-10-13",
+    "name": "LOWES FOODS SEAFOOD AND MEAT MARKET  #254",
+    "inspector_id": "2031",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018420234",
+    "date": "2026-10-13",
+    "name": "QUALITY CARE CHILD CARE",
+    "inspector_id": "2286",
+    "score": "0",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011633",
+    "date": "2026-10-12",
+    "name": "BISCUITVILLE #211 SPRGS RD",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018040034",
     "date": "2026-10-09",
     "name": "EXODUS DAWGS FOR A CAUSE",

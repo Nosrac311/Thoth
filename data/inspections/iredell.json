@@ -1,5 +1,95 @@
 [
   {
+    "id": "2049020224",
+    "date": "2026-10-14",
+    "name": "HARRIS TEETER #274 MEAT/SEAFOOD",
+    "inspector_id": "3391",
+    "score": "100",
+    "grade": "A",
+    "source": "IREDELL"
+  },
+  {
+    "id": "2049020226",
+    "date": "2026-10-14",
+    "name": "HARRIS TEETER #274 PRODUCE",
+    "inspector_id": "3391",
+    "score": "98.50",
+    "grade": "A",
+    "source": "IREDELL"
+  },
+  {
+    "id": "2049020366",
+    "date": "2026-10-14",
+    "name": "STARBUCKS-HARRIS TEETER #274",
+    "inspector_id": "3391",
+    "score": "100",
+    "grade": "A",
+    "source": "IREDELL"
+  },
+  {
+    "id": "2049420241",
+    "date": "2026-10-14",
+    "name": "WOODLAND HEIGHTS CHILD CARE",
+    "inspector_id": "2833",
+    "score": "26",
+    "grade": "N/A",
+    "source": "IREDELL"
+  },
+  {
+    "id": "2049140508",
+    "date": "2026-10-13",
+    "name": "CORNELIUS ROAD PARK CONCESSIONS",
+    "inspector_id": "2833",
+    "score": "100",
+    "grade": "A",
+    "source": "IREDELL"
+  },
+  {
+    "id": "2049010010",
+    "date": "2026-10-12",
+    "name": "BIG DADDY'S",
+    "inspector_id": "3391",
+    "score": "97",
+    "grade": "A",
+    "source": "IREDELL"
+  },
+  {
+    "id": "2049011051",
+    "date": "2026-10-12",
+    "name": "LOWE'S FOODS 241 DELI",
+    "inspector_id": "3391",
+    "score": "98",
+    "grade": "A",
+    "source": "IREDELL"
+  },
+  {
+    "id": "2049020266",
+    "date": "2026-10-12",
+    "name": "LOWE'S FOODS 241 MEAT & SEAFOOD",
+    "inspector_id": "3391",
+    "score": "99.50",
+    "grade": "A",
+    "source": "IREDELL"
+  },
+  {
+    "id": "2049011783",
+    "date": "2026-10-12",
+    "name": "MAOS CAFETERIA",
+    "inspector_id": "2586",
+    "score": "97.50",
+    "grade": "A",
+    "source": "IREDELL"
+  },
+  {
+    "id": "2049010821",
+    "date": "2026-10-12",
+    "name": "OUTBACK STEAKHOUSE",
+    "inspector_id": "2586",
+    "score": "95.50",
+    "grade": "A",
+    "source": "IREDELL"
+  },
+  {
     "id": "2049020225",
     "date": "2026-10-09",
     "name": "HARRIS TEETER #274 DELI/ BAKERY/SUSHI",

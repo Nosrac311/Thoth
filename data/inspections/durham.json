@@ -1,5 +1,95 @@
 [
   {
+    "id": "4032013427",
+    "date": "2026-10-14",
+    "name": "APERITIF",
+    "inspector_id": "3096",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430952",
+    "date": "2026-10-14",
+    "name": "DEDOVE HOMES @ RICON PL",
+    "inspector_id": "3129",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032060229",
+    "date": "2026-10-14",
+    "name": "DUKE GARDENS CAFE",
+    "inspector_id": "3328",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032060166",
+    "date": "2026-10-14",
+    "name": "DUKE TRIDENT PROVISIONS LEVEL 2",
+    "inspector_id": "3328",
+    "score": "91",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013004",
+    "date": "2026-10-14",
+    "name": "FREDDYS FROZEN CUSTARD & STEAKBURGERS",
+    "inspector_id": "3129",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420601",
+    "date": "2026-10-14",
+    "name": "GROWING LEGACY EARLY LEARNING CENTER",
+    "inspector_id": "3367",
+    "score": "11",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420395",
+    "date": "2026-10-14",
+    "name": "HOLT ELEMENTARY SCHOOL DPS PRE K",
+    "inspector_id": "3129",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430692",
+    "date": "2026-10-14",
+    "name": "HOUSE OF CARE INC",
+    "inspector_id": "3457",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032430731",
+    "date": "2026-10-14",
+    "name": "HOUSE OF CARE, INC.",
+    "inspector_id": "3457",
+    "score": "10",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013818",
+    "date": "2026-10-14",
+    "name": "IDEAL'S BAKERY",
+    "inspector_id": "3229",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032420394",
     "date": "2026-10-09",
     "name": "ALL MY CHILDREN CHILDCARE CENTER",
