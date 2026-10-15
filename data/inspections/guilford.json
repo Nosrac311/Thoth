@@ -27,11 +27,38 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041200272",
+    "date": "2026-10-15",
+    "name": "COMFORT SUITES",
+    "inspector_id": "1948",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041530313",
+    "date": "2026-10-15",
+    "name": "DOUBLE TREE BY HILTON GREENSBORO",
+    "inspector_id": "2924",
+    "score": "12",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041014996",
     "date": "2026-10-15",
     "name": "STARBUCKS",
     "inspector_id": "3566",
     "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010922",
+    "date": "2026-10-15",
+    "name": "WELL SPRING RESTAURANT",
+    "inspector_id": "2924",
+    "score": "96.50",
     "grade": "A",
     "source": "GUILFORD"
   },
