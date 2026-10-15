@@ -36,6 +36,15 @@
     "source": "MOORE"
   },
   {
+    "id": "5063011325",
+    "date": "2026-10-14",
+    "name": "DICKEY'S BBQ",
+    "inspector_id": "1929",
+    "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
     "id": "5063110005",
     "date": "2026-10-14",
     "name": "ELISE MIDDLE SCHOOL CAFETERIA",
@@ -50,6 +59,15 @@
     "name": "HARDEE'S 1184",
     "inspector_id": "2750",
     "score": "97",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011120",
+    "date": "2026-10-14",
+    "name": "HILTON GARDEN GRILL",
+    "inspector_id": "1929",
+    "score": "100",
     "grade": "A",
     "source": "MOORE"
   },
