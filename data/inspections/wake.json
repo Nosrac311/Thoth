@@ -36,6 +36,15 @@
     "source": "WAKE"
   },
   {
+    "id": "4092018111",
+    "date": "2026-10-15",
+    "name": "CAPE FEAR SEAFOOD CO",
+    "inspector_id": "2698",
+    "score": "98",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092030391",
     "date": "2026-10-15",
     "name": "CORNER BOYS BBQ (WCID #676)",
@@ -51,6 +60,15 @@
     "inspector_id": "1953",
     "score": "100",
     "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092421020",
+    "date": "2026-10-15",
+    "name": "FALLS ACADEMY",
+    "inspector_id": "2790",
+    "score": "4",
+    "grade": "N/A",
     "source": "WAKE"
   },
   {
