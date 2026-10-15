@@ -27,6 +27,24 @@
     "source": "DURHAM"
   },
   {
+    "id": "4032060150",
+    "date": "2026-10-15",
+    "name": "DUKE WEST UNION GINGER & SOY",
+    "inspector_id": "3129",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032060146",
+    "date": "2026-10-15",
+    "name": "DUKE WEST UNION GYOTAKU",
+    "inspector_id": "3129",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032060175",
     "date": "2026-10-15",
     "name": "DUKE WEST UNION SAZON",
