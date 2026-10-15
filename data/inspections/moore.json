@@ -27,6 +27,24 @@
     "source": "MOORE"
   },
   {
+    "id": "5063110005",
+    "date": "2026-10-14",
+    "name": "ELISE MIDDLE SCHOOL CAFETERIA",
+    "inspector_id": "2750",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063012015",
+    "date": "2026-10-14",
+    "name": "HARDEE'S 1184",
+    "inspector_id": "2750",
+    "score": "97",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
     "id": "5063010698",
     "date": "2026-10-14",
     "name": "PINE NEEDLES DINING ROOM",
