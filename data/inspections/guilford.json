@@ -18,11 +18,29 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041015378",
+    "date": "2026-10-15",
+    "name": "BURGER KING",
+    "inspector_id": "1958",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041015382",
     "date": "2026-10-15",
     "name": "BURGER KING #7310",
     "inspector_id": "1948",
     "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014960",
+    "date": "2026-10-15",
+    "name": "CHICKEN BEE",
+    "inspector_id": "1958",
+    "score": "96.50",
     "grade": "A",
     "source": "GUILFORD"
   },
@@ -41,6 +59,15 @@
     "name": "DOUBLE TREE BY HILTON GREENSBORO",
     "inspector_id": "2924",
     "score": "12",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041610925",
+    "date": "2026-10-15",
+    "name": "HAYDEN TEDDER-B YOUNG HOLISTICS-701 W MAIN",
+    "inspector_id": "1958",
+    "score": "",
     "grade": "N/A",
     "source": "GUILFORD"
   },
