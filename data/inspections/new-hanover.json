@@ -36,6 +36,15 @@
     "source": "NEW HANOVER"
   },
   {
+    "id": "7065420104",
+    "date": "2026-10-15",
+    "name": "CHILD DEVELOPMENT CENTER",
+    "inspector_id": "3244",
+    "score": "8",
+    "grade": "N/A",
+    "source": "NEW HANOVER"
+  },
+  {
     "id": "7065020589",
     "date": "2026-10-15",
     "name": "CIRCLE K #2723151",
@@ -69,6 +78,15 @@
     "inspector_id": "1730",
     "score": "",
     "grade": "N/A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065160024",
+    "date": "2026-10-15",
+    "name": "PEAK RESOURCES-WILMINGTON DIETARY",
+    "inspector_id": "3610",
+    "score": "94",
+    "grade": "A",
     "source": "NEW HANOVER"
   },
   {
