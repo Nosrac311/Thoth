@@ -1,5 +1,23 @@
 [
   {
+    "id": "2049020171",
+    "date": "2026-10-16",
+    "name": "HARRIS TEETER #99 DELI/BAKERY/SUSHI",
+    "inspector_id": "3391",
+    "score": "98.50",
+    "grade": "A",
+    "source": "IREDELL"
+  },
+  {
+    "id": "2049020172",
+    "date": "2026-10-16",
+    "name": "HARRIS TEETER #99 MEAT/SEAFOOD",
+    "inspector_id": "3391",
+    "score": "99.50",
+    "grade": "A",
+    "source": "IREDELL"
+  },
+  {
     "id": "2049440079",
     "date": "2026-10-16",
     "name": "PINE LAKE PREPARATORY",
