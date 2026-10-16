@@ -9,6 +9,24 @@
     "source": "CATAWBA"
   },
   {
+    "id": "2018011452",
+    "date": "2026-10-15",
+    "name": "LAS ISABELLAS INC.",
+    "inspector_id": "1896",
+    "score": "93.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018300310",
+    "date": "2026-10-15",
+    "name": "LAS ISABELLAS INC. MEAT MARKET   .",
+    "inspector_id": "1896",
+    "score": "92.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018010807",
     "date": "2026-10-15",
     "name": "NARA JAPANESE RESTAURANT",
@@ -50,6 +68,24 @@
     "name": "TROPICAL SMOOTHIE CAFE #136 - 2ND ST",
     "inspector_id": "2286",
     "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011570",
+    "date": "2026-10-14",
+    "name": "VINTAGE HOUSE (MOONGLOW INC DBA)",
+    "inspector_id": "1896",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011655",
+    "date": "2026-10-13",
+    "name": "CBQ",
+    "inspector_id": "1896",
+    "score": "99.50",
     "grade": "A",
     "source": "CATAWBA"
   },
