@@ -9,6 +9,15 @@
     "source": "WAKE"
   },
   {
+    "id": "4092021628",
+    "date": "2026-10-16",
+    "name": "FOOD LION #2196 MEAT MARKET/SEAFOOD",
+    "inspector_id": "2587",
+    "score": "97",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092030624",
     "date": "2026-10-16",
     "name": "GOOD OL BOYS BBQ   GRILL (WCID #944)",
@@ -33,6 +42,15 @@
     "inspector_id": "2178",
     "score": "0",
     "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092019665",
+    "date": "2026-10-16",
+    "name": "NERO PIZZA",
+    "inspector_id": "2944",
+    "score": "99",
+    "grade": "A",
     "source": "WAKE"
   },
   {
