@@ -1,5 +1,32 @@
 [
   {
+    "id": "3076300038",
+    "date": "2026-10-16",
+    "name": "FOOD LION 946",
+    "inspector_id": "1133",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020133",
+    "date": "2026-10-16",
+    "name": "FOOD LION DELI  946",
+    "inspector_id": "1133",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020215",
+    "date": "2026-10-16",
+    "name": "FOOD LION PRODUCE 946",
+    "inspector_id": "1133",
+    "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
     "id": "3076610259",
     "date": "2026-10-16",
     "name": "KLUBA CERAMICS",
