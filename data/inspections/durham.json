@@ -36,6 +36,24 @@
     "source": "DURHAM"
   },
   {
+    "id": "4032020619",
+    "date": "2026-10-16",
+    "name": "LA VAQUITA  #1",
+    "inspector_id": "2242",
+    "score": "86",
+    "grade": "B",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011700",
+    "date": "2026-10-16",
+    "name": "NANTUCKET GRILL AND BAR",
+    "inspector_id": "3367",
+    "score": "94.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032110032",
     "date": "2026-10-16",
     "name": "PEARSONTOWN SCHOOL LUNCHROOM",
