@@ -18,6 +18,15 @@
     "source": "MOORE"
   },
   {
+    "id": "5063010724",
+    "date": "2026-10-16",
+    "name": "PEGGY KIRK BELL CULINARY ARTS CENTER",
+    "inspector_id": "2467",
+    "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
     "id": "5063110016",
     "date": "2026-10-16",
     "name": "VASS LAKEVIEW ELEMENTARY CAFETERIA",
@@ -41,6 +50,15 @@
     "name": "SEVEN LAKES FRIENDLY MART",
     "inspector_id": "3255",
     "score": "97",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011305",
+    "date": "2026-10-15",
+    "name": "ST JOSEPH PINE KNOLL",
+    "inspector_id": "2467",
+    "score": "94",
     "grade": "A",
     "source": "MOORE"
   },
