@@ -1,5 +1,14 @@
 [
   {
+    "id": "4032011376",
+    "date": "2026-10-19",
+    "name": "BENTO NOUVEAU",
+    "inspector_id": "2242",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032020688",
     "date": "2026-10-19",
     "name": "CHICK-FIL-A EXPRESS",
@@ -14,6 +23,33 @@
     "name": "COSMIC CANTINA",
     "inspector_id": "3328",
     "score": "94.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032020391",
+    "date": "2026-10-19",
+    "name": "DUKE SOUTH CLINIC FOOD COURT",
+    "inspector_id": "2242",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021451",
+    "date": "2026-10-19",
+    "name": "GOODNESS GRACEUS",
+    "inspector_id": "2242",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021364",
+    "date": "2026-10-19",
+    "name": "GUASACA DUKE SOUTH FOOD COURT",
+    "inspector_id": "2242",
+    "score": "99",
     "grade": "A",
     "source": "DURHAM"
   },
