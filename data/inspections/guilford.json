@@ -18,6 +18,15 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041400073",
+    "date": "2026-10-19",
+    "name": "CLAPPS NURSING CTR",
+    "inspector_id": "2924",
+    "score": "97",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041011493",
     "date": "2026-10-19",
     "name": "COLISEUM COUNTRY CAFE",
@@ -32,6 +41,15 @@
     "name": "MARTS TO GO #8",
     "inspector_id": "1958",
     "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014904",
+    "date": "2026-10-19",
+    "name": "MCDONALD'S #7872",
+    "inspector_id": "2924",
+    "score": "98",
     "grade": "A",
     "source": "GUILFORD"
   },
