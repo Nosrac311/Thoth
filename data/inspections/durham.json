@@ -27,6 +27,15 @@
     "source": "DURHAM"
   },
   {
+    "id": "4032013386",
+    "date": "2026-10-19",
+    "name": "PANERA #6182",
+    "inspector_id": "3367",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032430228",
     "date": "2026-10-19",
     "name": "SECURING RESOURCES FOR CONSUMERS, INC.",
@@ -42,6 +51,15 @@
     "inspector_id": "1838",
     "score": "24",
     "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012154",
+    "date": "2026-10-19",
+    "name": "TROPICAL SMOOTHIE CAFE/ DUKE CANCER CENTER",
+    "inspector_id": "3367",
+    "score": "96.50",
+    "grade": "A",
     "source": "DURHAM"
   },
   {
