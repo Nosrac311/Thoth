@@ -1,5 +1,23 @@
 [
   {
+    "id": "7065011829",
+    "date": "2026-10-19",
+    "name": "BRIXX WOOD FIRED PIZZA",
+    "inspector_id": "1730",
+    "score": "95.50",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065011567",
+    "date": "2026-10-19",
+    "name": "DOCKSIDE RESTAURANT",
+    "inspector_id": "2657",
+    "score": "94",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
     "id": "7065010136",
     "date": "2026-10-19",
     "name": "JIMBOS  RESTAURANT",
