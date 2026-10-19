@@ -9,6 +9,24 @@
     "source": "CUMBERLAND"
   },
   {
+    "id": "5026050019",
+    "date": "2026-10-19",
+    "name": "ALPHA  ACADEMY CAFETERIA",
+    "inspector_id": "3473",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026440017",
+    "date": "2026-10-19",
+    "name": "CORNERSTONE CHRISTIAN ACADEMY",
+    "inspector_id": "3562",
+    "score": "90",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
     "id": "5026010727",
     "date": "2026-10-19",
     "name": "FIRST WATCH (#6034)",
