@@ -9,6 +9,15 @@
     "source": "WAKE"
   },
   {
+    "id": "4092431132",
+    "date": "2026-10-19",
+    "name": "ALPHA HOME CARE SERVICES, INC.",
+    "inspector_id": "2293",
+    "score": "14",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092025277",
     "date": "2026-10-19",
     "name": "APEX HIGH SCHOOL CULINARY ARTS",
@@ -41,6 +50,15 @@
     "name": "FUQUAY VARINA ELEMENTARY SCHOOL CAFETERIA",
     "inspector_id": "2791",
     "score": "100",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092011623",
+    "date": "2026-10-19",
+    "name": "JOSE AND SONS MEXICAN KITCHEN   BAR",
+    "inspector_id": "2703",
+    "score": "97",
     "grade": "A",
     "source": "WAKE"
   },
