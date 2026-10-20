@@ -27,6 +27,15 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041012683",
+    "date": "2026-10-20",
+    "name": "GIACOMOS ITALIAN MARKET NORTH",
+    "inspector_id": "2370",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041430912",
     "date": "2026-10-20",
     "name": "LORETTA'S PLACE",
@@ -41,6 +50,15 @@
     "name": "MAMAPUT AFRIKANA RESTAURANT AND KITCHEN",
     "inspector_id": "1958",
     "score": "99.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013932",
+    "date": "2026-10-20",
+    "name": "REEL SEAFOOD GRILL",
+    "inspector_id": "2370",
+    "score": "98.50",
     "grade": "A",
     "source": "GUILFORD"
   },
