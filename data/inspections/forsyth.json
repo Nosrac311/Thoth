@@ -9,6 +9,15 @@
     "source": "FORSYTH"
   },
   {
+    "id": "3034430430",
+    "date": "2026-10-20",
+    "name": "BEAUTIFUL MINDS OUTREACH",
+    "inspector_id": "2795",
+    "score": "9",
+    "grade": "N/A",
+    "source": "FORSYTH"
+  },
+  {
     "id": "3034012172",
     "date": "2026-10-20",
     "name": "BURGER KING #4002",
@@ -59,6 +68,15 @@
     "name": "MCDONALD'S #10539",
     "inspector_id": "3471",
     "score": "96",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034014121",
+    "date": "2026-10-20",
+    "name": "MI CASA WINSTON SALEM",
+    "inspector_id": "2795",
+    "score": "99.50",
     "grade": "A",
     "source": "FORSYTH"
   },
