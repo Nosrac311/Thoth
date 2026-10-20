@@ -9,6 +9,15 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041530561",
+    "date": "2026-10-20",
+    "name": "EAGLE POINTE WEST",
+    "inspector_id": "1958",
+    "score": "18",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041015264",
     "date": "2026-10-20",
     "name": "FIRST WATCH RESTAURANT",
@@ -24,6 +33,15 @@
     "inspector_id": "2229",
     "score": "6",
     "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015178",
+    "date": "2026-10-20",
+    "name": "MAMAPUT AFRIKANA RESTAURANT AND KITCHEN",
+    "inspector_id": "1958",
+    "score": "99.50",
+    "grade": "A",
     "source": "GUILFORD"
   },
   {
