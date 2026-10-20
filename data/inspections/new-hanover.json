@@ -54,6 +54,24 @@
     "source": "NEW HANOVER"
   },
   {
+    "id": "7065020352",
+    "date": "2026-10-20",
+    "name": "HARRIS TEETER 191 DELI",
+    "inspector_id": "3609",
+    "score": "95.50",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065020351",
+    "date": "2026-10-20",
+    "name": "HARRIS TEETER 191 MM/SF",
+    "inspector_id": "3609",
+    "score": "99",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
     "id": "7065611564",
     "date": "2026-10-20",
     "name": "HOLLY PENLAND - DRAGONFLY PERMANENT MAKEUP",
