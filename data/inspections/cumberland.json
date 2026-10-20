@@ -1,5 +1,32 @@
 [
   {
+    "id": "5026618201",
+    "date": "2026-10-20",
+    "name": "401 NAILS",
+    "inspector_id": "3284",
+    "score": "",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026810818",
+    "date": "2026-10-20",
+    "name": "HAPPY KIDZ",
+    "inspector_id": "2248",
+    "score": "24",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030408",
+    "date": "2026-10-20",
+    "name": "HOUSEHOLD 6 CATERING LLC",
+    "inspector_id": "3288",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
     "id": "5026013963",
     "date": "2026-10-19",
     "name": "ALOHA POKE & SUSHI",
@@ -40,6 +67,15 @@
     "date": "2026-10-19",
     "name": "FIRST WATCH (#6034)",
     "inspector_id": "3257",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026020360",
+    "date": "2026-10-19",
+    "name": "FRESH DELI AND CONVENIENCE STORE",
+    "inspector_id": "1061",
     "score": "98",
     "grade": "A",
     "source": "CUMBERLAND"
