@@ -9,6 +9,24 @@
     "source": "DURHAM"
   },
   {
+    "id": "4032020660",
+    "date": "2026-10-21",
+    "name": "HARRIS TEETER 224 DELI",
+    "inspector_id": "3367",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032300099",
+    "date": "2026-10-21",
+    "name": "HARRIS TEETER 224 MEAT MARKET",
+    "inspector_id": "3367",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032430910",
     "date": "2026-10-20",
     "name": "AVENDELLE ASSISTED LIVING AT SOUTHPOINT",
