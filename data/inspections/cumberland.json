@@ -18,6 +18,15 @@
     "source": "CUMBERLAND"
   },
   {
+    "id": "5026013894",
+    "date": "2026-10-21",
+    "name": "HOUSE OF THAI CUISINE",
+    "inspector_id": "2452",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
     "id": "5026030421",
     "date": "2026-10-21",
     "name": "JENNIE'S SOUTHERN POUTINERIE",
@@ -41,6 +50,15 @@
     "name": "MIKOTO EXPRESS",
     "inspector_id": "3251",
     "score": "93.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013680",
+    "date": "2026-10-21",
+    "name": "PIZZA HUT #2557",
+    "inspector_id": "2452",
+    "score": "100",
     "grade": "A",
     "source": "CUMBERLAND"
   },
