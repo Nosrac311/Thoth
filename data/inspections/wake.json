@@ -9,6 +9,15 @@
     "source": "WAKE"
   },
   {
+    "id": "4092015857",
+    "date": "2026-10-21",
+    "name": "JAVA CITY @ CAMPBELL LAW SCHOOL",
+    "inspector_id": "2995",
+    "score": "98.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092110540",
     "date": "2026-10-21",
     "name": "SOUTH LAKES ELEMENTARY SCHOOL CAFETERIA",
@@ -59,6 +68,15 @@
     "name": "ALDERT ROOT ELEMENTARY PRE-K PROGRAM",
     "inspector_id": "3279",
     "score": "4",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092614045",
+    "date": "2026-10-20",
+    "name": "ALLIE BLOOM TATTOOS - ALLISON SCHWARTZ",
+    "inspector_id": "2587",
+    "score": "",
     "grade": "N/A",
     "source": "WAKE"
   },
