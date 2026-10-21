@@ -18,6 +18,24 @@
     "source": "CATAWBA"
   },
   {
+    "id": "2018011255",
+    "date": "2026-10-21",
+    "name": "POP'S OLD COMPANY STORE",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010856",
+    "date": "2026-10-21",
+    "name": "TACOS EL TIO CHETOS",
+    "inspector_id": "2286",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018010254",
     "date": "2026-10-21",
     "name": "UNTOUCHABLES - DENVER",
