@@ -9,12 +9,30 @@
     "source": "CUMBERLAND"
   },
   {
+    "id": "5026013623",
+    "date": "2026-10-20",
+    "name": "AURA LOUNGE",
+    "inspector_id": "3288",
+    "score": "92",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
     "id": "5026010027",
     "date": "2026-10-20",
     "name": "BAR-B-QUE HUT 2",
     "inspector_id": "3599",
     "score": "98.50",
     "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420783",
+    "date": "2026-10-20",
+    "name": "GRACIE'S CHILD CARE & LEARNING CENTER",
+    "inspector_id": "3110",
+    "score": "20",
+    "grade": "N/A",
     "source": "CUMBERLAND"
   },
   {
@@ -41,6 +59,33 @@
     "name": "MI CASITA",
     "inspector_id": "3251",
     "score": "95.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013849",
+    "date": "2026-10-20",
+    "name": "TACO BELL # 40618",
+    "inspector_id": "3110",
+    "score": "95.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026030302",
+    "date": "2026-10-20",
+    "name": "TASTY EATZ ON THE GEAUX",
+    "inspector_id": "3257",
+    "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014031",
+    "date": "2026-10-20",
+    "name": "TWIN PEAKS",
+    "inspector_id": "3257",
+    "score": "97.50",
     "grade": "A",
     "source": "CUMBERLAND"
   },

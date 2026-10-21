@@ -9,6 +9,51 @@
     "source": "CATAWBA"
   },
   {
+    "id": "2018010860",
+    "date": "2026-10-20",
+    "name": "CAPTAIN DS",
+    "inspector_id": "2286",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011661",
+    "date": "2026-10-20",
+    "name": "CERRO GRANDE MEXICAN RESTAURANT",
+    "inspector_id": "1896",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011228",
+    "date": "2026-10-20",
+    "name": "GRANNY'S COUNTRY KITCHEN/STANDARD OYSTER COMPANY",
+    "inspector_id": "2286",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018420030",
+    "date": "2026-10-20",
+    "name": "LITTLE FOLKS SCHOOL EAST",
+    "inspector_id": "2286",
+    "score": "9",
+    "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020312",
+    "date": "2026-10-20",
+    "name": "PEI WEI EXPRESS",
+    "inspector_id": "2286",
+    "score": "96",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018011483",
     "date": "2026-10-20",
     "name": "PUBLIX #1583 DELI",
