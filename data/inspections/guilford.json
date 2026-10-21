@@ -9,6 +9,15 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041013986",
+    "date": "2026-10-21",
+    "name": "GATE CITY SPORTS GRILLE",
+    "inspector_id": "2924",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041610984",
     "date": "2026-10-21",
     "name": "KYLENE BABSKI - KYLENE BABSKI STUDIOS, LLC",
@@ -21,6 +30,15 @@
     "id": "3041430041",
     "date": "2026-10-21",
     "name": "MEADOWOOD GROUP HOME ICF",
+    "inspector_id": "2229",
+    "score": "3",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041431147",
+    "date": "2026-10-21",
+    "name": "OSINOWO'S PLACE",
     "inspector_id": "2229",
     "score": "3",
     "grade": "N/A",
