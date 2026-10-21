@@ -18,6 +18,24 @@
     "source": "MOORE"
   },
   {
+    "id": "5063011082",
+    "date": "2026-10-21",
+    "name": "THAI FUSION CUISINE",
+    "inspector_id": "3255",
+    "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063030058",
+    "date": "2026-10-21",
+    "name": "THE SOUTHERN JUKEBOX DINER",
+    "inspector_id": "3255",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
     "id": "5063010379",
     "date": "2026-10-20",
     "name": "LIL  DINO DELI",
