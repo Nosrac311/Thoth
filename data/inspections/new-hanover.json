@@ -27,6 +27,15 @@
     "source": "NEW HANOVER"
   },
   {
+    "id": "7065012904",
+    "date": "2026-10-22",
+    "name": "COQUINA FISH BAR",
+    "inspector_id": "2727",
+    "score": "93.50",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
     "id": "7065013222",
     "date": "2026-10-22",
     "name": "EDISON EATERY",
@@ -69,6 +78,15 @@
     "inspector_id": "2911",
     "score": "100",
     "grade": "N/A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065011676",
+    "date": "2026-10-22",
+    "name": "KORNERSTONE BISTRO",
+    "inspector_id": "2910",
+    "score": "97",
+    "grade": "A",
     "source": "NEW HANOVER"
   },
   {
