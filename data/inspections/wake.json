@@ -18,6 +18,33 @@
     "source": "WAKE"
   },
   {
+    "id": "4092200233",
+    "date": "2026-10-22",
+    "name": "HOLIDAY INN EXPRESS & SUITES",
+    "inspector_id": "3060",
+    "score": "98.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092017601",
+    "date": "2026-10-22",
+    "name": "HOLIDAY INN EXPRESS & SUITES BREAKFAST",
+    "inspector_id": "3060",
+    "score": "97.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092420137",
+    "date": "2026-10-22",
+    "name": "LA PETITE ACADEMY",
+    "inspector_id": "3052",
+    "score": "12",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092200351",
     "date": "2026-10-22",
     "name": "WATERWALK RALEIGH",
