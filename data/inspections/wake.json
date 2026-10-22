@@ -27,11 +27,29 @@
     "source": "WAKE"
   },
   {
+    "id": "4092025810",
+    "date": "2026-10-22",
+    "name": "CHICK-FIL-A CRABTREE VALLEY MALL #00060",
+    "inspector_id": "2703",
+    "score": "100",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092021915",
     "date": "2026-10-22",
     "name": "FOOD LION #2638 PRODUCE",
     "inspector_id": "1953",
     "score": "96",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092014650",
+    "date": "2026-10-22",
+    "name": "GREEK FIESTA AT BRIER CREEK",
+    "inspector_id": "2944",
+    "score": "97.50",
     "grade": "A",
     "source": "WAKE"
   },
