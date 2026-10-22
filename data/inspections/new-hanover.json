@@ -18,6 +18,24 @@
     "source": "NEW HANOVER"
   },
   {
+    "id": "7065013345",
+    "date": "2026-10-22",
+    "name": "HOLLYWOOD EAST BREWSEUM",
+    "inspector_id": "1730",
+    "score": "100",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065611315",
+    "date": "2026-10-22",
+    "name": "JARRED WEINSTEIN - GOOD GRACES TATTOO",
+    "inspector_id": "3244",
+    "score": "",
+    "grade": "N/A",
+    "source": "NEW HANOVER"
+  },
+  {
     "id": "7065440188",
     "date": "2026-10-22",
     "name": "JC ROE CENTER",
