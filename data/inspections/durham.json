@@ -1,5 +1,59 @@
 [
   {
+    "id": "4032012346",
+    "date": "2026-10-22",
+    "name": "BLUE RIDGE DELI AND CAFE",
+    "inspector_id": "3457",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420374",
+    "date": "2026-10-22",
+    "name": "BURTON ELEMENTARY SCHOOL PRE K",
+    "inspector_id": "3229",
+    "score": "0",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010491",
+    "date": "2026-10-22",
+    "name": "HARDEE'S",
+    "inspector_id": "3367",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420068",
+    "date": "2026-10-22",
+    "name": "THE LEARNING CIRCLE",
+    "inspector_id": "3457",
+    "score": "3",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530167",
+    "date": "2026-10-22",
+    "name": "YMCA DOWNTOWN LAP POOL",
+    "inspector_id": "3310",
+    "score": "4",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530168",
+    "date": "2026-10-22",
+    "name": "YMCA DOWNTOWN TRAINING",
+    "inspector_id": "2585",
+    "score": "8",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032530280",
     "date": "2026-10-21",
     "name": "605 WEST END APTS",
