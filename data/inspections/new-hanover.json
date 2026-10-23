@@ -1,5 +1,14 @@
 [
   {
+    "id": "7065012941",
+    "date": "2026-10-23",
+    "name": "BIRDIES / SUBWAY",
+    "inspector_id": "3459",
+    "score": "98.50",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
     "id": "7065012829",
     "date": "2026-10-23",
     "name": "COAST AT LIVE OAK",
@@ -23,6 +32,15 @@
     "name": "EKE'S KITCHEN AFRICAN HOT FOOD / OOTW",
     "inspector_id": "2443",
     "score": "99",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065012130",
+    "date": "2026-10-23",
+    "name": "ITALIAN BISTRO",
+    "inspector_id": "2910",
+    "score": "96",
     "grade": "A",
     "source": "NEW HANOVER"
   },
