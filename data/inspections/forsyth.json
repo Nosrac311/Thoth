@@ -36,6 +36,15 @@
     "source": "FORSYTH"
   },
   {
+    "id": "3034012673",
+    "date": "2026-10-22",
+    "name": "CRAFTY CRAB",
+    "inspector_id": "3521",
+    "score": "83.50",
+    "grade": "B",
+    "source": "FORSYTH"
+  },
+  {
     "id": "3034050072",
     "date": "2026-10-22",
     "name": "FORSYTH CHARTER ACADEMY CAFETERIA",
@@ -59,6 +68,15 @@
     "name": "JOHNNY B'S GRILLHOUSE",
     "inspector_id": "2450",
     "score": "98.50",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012465",
+    "date": "2026-10-22",
+    "name": "LASSO GAUCHO BRAZILIAN STEAKHOUSE",
+    "inspector_id": "2795",
+    "score": "94",
     "grade": "A",
     "source": "FORSYTH"
   },

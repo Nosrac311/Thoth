@@ -9,6 +9,24 @@
     "source": "MOORE"
   },
   {
+    "id": "5063011083",
+    "date": "2026-10-22",
+    "name": "VILLAGE CAFE",
+    "inspector_id": "2810",
+    "score": "100",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063012116",
+    "date": "2026-10-22",
+    "name": "VILLAGGIO RISORANTE",
+    "inspector_id": "1929",
+    "score": "99.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
     "id": "5063011160",
     "date": "2026-10-21",
     "name": "BOUNTY FARMHOUSE KITCHEN AND TAP",

@@ -27,6 +27,15 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041014623",
+    "date": "2026-10-22",
+    "name": "OTTO AND BLUE",
+    "inspector_id": "3566",
+    "score": "95.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041431095",
     "date": "2026-10-22",
     "name": "PARAKLETOS HOME CARE",
@@ -36,12 +45,57 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041420752",
+    "date": "2026-10-22",
+    "name": "PRE-K SOUTHERN ELEMENTARY",
+    "inspector_id": "1768",
+    "score": "13",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015254",
+    "date": "2026-10-22",
+    "name": "SALVINO CUCINA ITALIANA",
+    "inspector_id": "2370",
+    "score": "96",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041430873",
     "date": "2026-10-22",
     "name": "SARAH & HATTIES HOME",
     "inspector_id": "1735",
     "score": "5",
     "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041110078",
+    "date": "2026-10-22",
+    "name": "SOUTHERN ELEMENTARY CAFE.",
+    "inspector_id": "1768",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041110077",
+    "date": "2026-10-22",
+    "name": "SOUTHERN GUILFORD H.S.",
+    "inspector_id": "1768",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015210",
+    "date": "2026-10-22",
+    "name": "UNIVERSITY DINER",
+    "inspector_id": "3095",
+    "score": "95",
+    "grade": "A",
     "source": "GUILFORD"
   },
   {

@@ -18,12 +18,30 @@
     "source": "NEW HANOVER"
   },
   {
+    "id": "7065012643",
+    "date": "2026-10-22",
+    "name": "BENNYS BIG TIME PIZZERIA",
+    "inspector_id": "3247",
+    "score": "96",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
     "id": "7065420322",
     "date": "2026-10-22",
     "name": "BUSY BEES CHILDCARE",
     "inspector_id": "2290",
     "score": "2",
     "grade": "N/A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065020749",
+    "date": "2026-10-22",
+    "name": "CIRCLE PIT BBQ / OOTW",
+    "inspector_id": "3244",
+    "score": "99.50",
+    "grade": "A",
     "source": "NEW HANOVER"
   },
   {
@@ -78,6 +96,15 @@
     "inspector_id": "2911",
     "score": "100",
     "grade": "N/A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065013019",
+    "date": "2026-10-22",
+    "name": "KIPOS",
+    "inspector_id": "2947",
+    "score": "98",
+    "grade": "A",
     "source": "NEW HANOVER"
   },
   {
