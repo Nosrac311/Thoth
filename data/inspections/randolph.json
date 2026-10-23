@@ -54,6 +54,24 @@
     "source": "RANDOLPH"
   },
   {
+    "id": "3076011205",
+    "date": "2026-10-22",
+    "name": "TBMNC 803 CAFE",
+    "inspector_id": "2393",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011218",
+    "date": "2026-10-22",
+    "name": "TBMNC 804 CAFE",
+    "inspector_id": "2393",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
     "id": "3076420156",
     "date": "2026-10-21",
     "name": "CHILD CARE NETWORK 146",
