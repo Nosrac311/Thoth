@@ -9,6 +9,15 @@
     "source": "CUMBERLAND"
   },
   {
+    "id": "5026013735",
+    "date": "2026-10-23",
+    "name": "MCDONALD'S",
+    "inspector_id": "3288",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
     "id": "5026013347",
     "date": "2026-10-22",
     "name": "ASIAN CUISINE",
@@ -32,6 +41,15 @@
     "name": "DEEP CREEK GRILL",
     "inspector_id": "2412",
     "score": "99.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013451",
+    "date": "2026-10-22",
+    "name": "GOHAN BISTRO",
+    "inspector_id": "3288",
+    "score": "94",
     "grade": "A",
     "source": "CUMBERLAND"
   },

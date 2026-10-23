@@ -27,6 +27,24 @@
     "source": "WAKE"
   },
   {
+    "id": "4092025269",
+    "date": "2026-10-23",
+    "name": "HARRIS TEETER #495 MEAT/SEAFOOD",
+    "inspector_id": "2918",
+    "score": "98.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092018144",
+    "date": "2026-10-23",
+    "name": "HARRIS TEETER #495 STARBUCKS",
+    "inspector_id": "2918",
+    "score": "100",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092430699",
     "date": "2026-10-23",
     "name": "NEW BEGINNINGS HEALTH CARE",
