@@ -1,5 +1,14 @@
 [
   {
+    "id": "5026011365",
+    "date": "2026-10-23",
+    "name": "KINLAW'S WELCOME GRILL & MEAT MARKET",
+    "inspector_id": "2412",
+    "score": "90.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
     "id": "5026013347",
     "date": "2026-10-22",
     "name": "ASIAN CUISINE",
@@ -14,6 +23,15 @@
     "name": "DAB'S SOUL CAFE'",
     "inspector_id": "3599",
     "score": "96",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013466",
+    "date": "2026-10-22",
+    "name": "DEEP CREEK GRILL",
+    "inspector_id": "2412",
+    "score": "99.50",
     "grade": "A",
     "source": "CUMBERLAND"
   },
@@ -41,6 +59,15 @@
     "name": "KAWALI LUTONG PINOY LLC",
     "inspector_id": "2452",
     "score": "100",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013822",
+    "date": "2026-10-22",
+    "name": "MELVIN'S @RIVERSIDE",
+    "inspector_id": "2412",
+    "score": "95.50",
     "grade": "A",
     "source": "CUMBERLAND"
   },
