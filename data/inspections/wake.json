@@ -63,12 +63,30 @@
     "source": "WAKE"
   },
   {
+    "id": "4092016273",
+    "date": "2026-10-26",
+    "name": "KUMBALA BAR   GRILL",
+    "inspector_id": "2790",
+    "score": "96",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092019827",
     "date": "2026-10-26",
     "name": "LA CUCINA ITALIANA",
     "inspector_id": "2995",
     "score": "95",
     "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092420943",
+    "date": "2026-10-26",
+    "name": "PARKSIDE ELEMENTARY SCHOOL PRE-K",
+    "inspector_id": "3092",
+    "score": "24",
+    "grade": "N/A",
     "source": "WAKE"
   },
   {
