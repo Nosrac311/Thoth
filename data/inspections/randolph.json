@@ -1,5 +1,14 @@
 [
   {
+    "id": "3076010503",
+    "date": "2026-10-26",
+    "name": "CROSSROAD  KITCHEN",
+    "inspector_id": "2487",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
     "id": "3076011158",
     "date": "2026-10-26",
     "name": "FUEL SMART 13",
@@ -14,6 +23,15 @@
     "name": "LIBERTY EARLY CHILDHOOD CENTER",
     "inspector_id": "1133",
     "score": "6",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076440039",
+    "date": "2026-10-26",
+    "name": "SEAGROVE ELEM SCHOOL",
+    "inspector_id": "2487",
+    "score": "96.50",
     "grade": "N/A",
     "source": "RANDOLPH"
   },
