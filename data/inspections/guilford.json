@@ -1,11 +1,29 @@
 [
   {
+    "id": "3041420708",
+    "date": "2026-10-23",
+    "name": "CHILDREN OF POWER ENRICHMENT CHILD CARE CENTER ##",
+    "inspector_id": "1588",
+    "score": "11",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041610987",
     "date": "2026-10-23",
     "name": "DONAVIN HUGHES - BLACK ROSE COLLECTIVE",
     "inspector_id": "2259",
     "score": "",
     "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015132",
+    "date": "2026-10-23",
+    "name": "DUNKIN' DONUTS",
+    "inspector_id": "3136",
+    "score": "98",
+    "grade": "A",
     "source": "GUILFORD"
   },
   {

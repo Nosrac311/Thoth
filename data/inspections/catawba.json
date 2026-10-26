@@ -1,5 +1,14 @@
 [
   {
+    "id": "2018011670",
+    "date": "2026-10-26",
+    "name": "STARBUCK'S #75048 SHERRILLS FORD",
+    "inspector_id": "2174",
+    "score": "99",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018011687",
     "date": "2026-10-23",
     "name": "CAFE GOUDA",
@@ -18,6 +27,15 @@
     "source": "CATAWBA"
   },
   {
+    "id": "2018011609",
+    "date": "2026-10-23",
+    "name": "CHUCK E CHEESE",
+    "inspector_id": "2174",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018011521",
     "date": "2026-10-23",
     "name": "DIANNE'S DAIRY CENTER",
@@ -27,10 +45,37 @@
     "source": "CATAWBA"
   },
   {
+    "id": "2018300301",
+    "date": "2026-10-23",
+    "name": "LOWES FOODS #245",
+    "inspector_id": "1896",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011153",
+    "date": "2026-10-23",
+    "name": "LOWES FOODS DELI #245",
+    "inspector_id": "1896",
+    "score": "96",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018011740",
     "date": "2026-10-23",
     "name": "PIZZA INN BUFFET",
     "inspector_id": "2286",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010228",
+    "date": "2026-10-23",
+    "name": "SKATELAND USA",
+    "inspector_id": "2174",
     "score": "98",
     "grade": "A",
     "source": "CATAWBA"
