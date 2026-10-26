@@ -27,6 +27,24 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041011732",
+    "date": "2026-10-26",
+    "name": "GREEN VALLEY GRILL",
+    "inspector_id": "2924",
+    "score": "97",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041060084",
+    "date": "2026-10-26",
+    "name": "NCA&T - STARBUCKS",
+    "inspector_id": "2924",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041430862",
     "date": "2026-10-26",
     "name": "WATLINGTON ADULT CARE #3",
