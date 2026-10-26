@@ -9,6 +9,15 @@
     "source": "WAKE"
   },
   {
+    "id": "4092440179",
+    "date": "2026-10-26",
+    "name": "FRANKLIN ACADEMY I & II",
+    "inspector_id": "1746",
+    "score": "98.50",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092016252",
     "date": "2026-10-26",
     "name": "HAMPTON INN WAKE FOREST HOT BREAKFAST",
@@ -27,12 +36,30 @@
     "source": "WAKE"
   },
   {
+    "id": "4092018076",
+    "date": "2026-10-26",
+    "name": "JERSEY MIKE'S #3005",
+    "inspector_id": "2945",
+    "score": "97.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092910859",
     "date": "2026-10-26",
     "name": "JUNCTION WEST - KELSEY LEWIS",
     "inspector_id": "2556",
     "score": "",
     "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092015866",
+    "date": "2026-10-26",
+    "name": "TAQUERIA EL TORO #1",
+    "inspector_id": "2048",
+    "score": "92",
+    "grade": "A",
     "source": "WAKE"
   },
   {
