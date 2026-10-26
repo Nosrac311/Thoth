@@ -36,6 +36,15 @@
     "source": "WAKE"
   },
   {
+    "id": "4092019966",
+    "date": "2026-10-26",
+    "name": "FIREHOUSE SUBS #1138",
+    "inspector_id": "2703",
+    "score": "98.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092019376",
     "date": "2026-10-26",
     "name": "FIRST WATCH #6048",
@@ -68,6 +77,15 @@
     "name": "HARDEE'S #1206",
     "inspector_id": "2703",
     "score": "97",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092015607",
+    "date": "2026-10-26",
+    "name": "IL BACIO",
+    "inspector_id": "2917",
+    "score": "98",
     "grade": "A",
     "source": "WAKE"
   },
