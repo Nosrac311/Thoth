@@ -9,6 +9,15 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041013489",
+    "date": "2026-10-26",
+    "name": "BENDERS TAVERN",
+    "inspector_id": "1958",
+    "score": "94.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041013839",
     "date": "2026-10-26",
     "name": "ESPERANZA",
@@ -24,6 +33,15 @@
     "inspector_id": "2229",
     "score": "2",
     "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021055",
+    "date": "2026-10-26",
+    "name": "WHOLE FOODS MARKET MEAT/SEAFOOD",
+    "inspector_id": "1958",
+    "score": "99.50",
+    "grade": "A",
     "source": "GUILFORD"
   },
   {
