@@ -45,11 +45,29 @@
     "source": "CUMBERLAND"
   },
   {
+    "id": "5026013771",
+    "date": "2026-10-26",
+    "name": "ICHI KAKU",
+    "inspector_id": "2932",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
     "id": "5026013988",
     "date": "2026-10-26",
     "name": "K - KITCHEN",
     "inspector_id": "3110",
     "score": "94.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026011528",
+    "date": "2026-10-26",
+    "name": "MI CASITA",
+    "inspector_id": "2932",
+    "score": "98.50",
     "grade": "A",
     "source": "CUMBERLAND"
   },
