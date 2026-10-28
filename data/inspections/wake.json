@@ -45,6 +45,24 @@
     "source": "WAKE"
   },
   {
+    "id": "4092420390",
+    "date": "2026-10-28",
+    "name": "KNIGHTDALE HEADSTART",
+    "inspector_id": "2790",
+    "score": "4",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092050023",
+    "date": "2026-10-28",
+    "name": "KNIGHTDALE HEADSTART KITCHEN",
+    "inspector_id": "2790",
+    "score": "99.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092440483",
     "date": "2026-10-28",
     "name": "LONGLEAF SCHOOL OF THE ARTS",
