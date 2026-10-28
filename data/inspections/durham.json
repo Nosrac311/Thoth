@@ -27,6 +27,24 @@
     "source": "DURHAM"
   },
   {
+    "id": "4032110100",
+    "date": "2026-10-28",
+    "name": "NORTHERN HIGH SCHOOL CAFETERIA",
+    "inspector_id": "3129",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032060205",
+    "date": "2026-10-28",
+    "name": "NORTHERN HIGH SCHOOL CULINARY ARTS PROGRAM",
+    "inspector_id": "3129",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032420323",
     "date": "2026-10-28",
     "name": "SUNSHINE SMILES ACADEMY",
