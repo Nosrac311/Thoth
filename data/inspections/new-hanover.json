@@ -1,5 +1,95 @@
 [
   {
+    "id": "7065110042",
+    "date": "2026-10-28",
+    "name": "CAROLINA BEACH CAFETERIA",
+    "inspector_id": "2727",
+    "score": "100",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065020562",
+    "date": "2026-10-28",
+    "name": "PAPA JOHNS #1698",
+    "inspector_id": "2657",
+    "score": "98",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065110055",
+    "date": "2026-10-28",
+    "name": "SNIPES ACADEMY OF ARTS & DESIGN",
+    "inspector_id": "3610",
+    "score": "99",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065011366",
+    "date": "2026-10-28",
+    "name": "THE COPPER PENNY",
+    "inspector_id": "3395",
+    "score": "98",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065011043",
+    "date": "2026-10-27",
+    "name": "CIRCA 1922",
+    "inspector_id": "3246",
+    "score": "98",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065012584",
+    "date": "2026-10-27",
+    "name": "CIRCLE K",
+    "inspector_id": "3247",
+    "score": "97",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065420259",
+    "date": "2026-10-27",
+    "name": "COLLEGE ROAD EARLY CHILDHOOD CENTER",
+    "inspector_id": "2727",
+    "score": "5",
+    "grade": "N/A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065611565",
+    "date": "2026-10-27",
+    "name": "NICOLE KASSEL - NICE TATTOO CLUB",
+    "inspector_id": "2727",
+    "score": "",
+    "grade": "N/A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065530189",
+    "date": "2026-10-27",
+    "name": "NORTHSIDE POOL",
+    "inspector_id": "3246",
+    "score": "10",
+    "grade": "N/A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065013120",
+    "date": "2026-10-27",
+    "name": "PERLA RAWBAR",
+    "inspector_id": "3244",
+    "score": "96.50",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
     "id": "7065013223",
     "date": "2026-10-26",
     "name": "CAPRICE BISTRO",

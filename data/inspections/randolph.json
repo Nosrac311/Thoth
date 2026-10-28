@@ -1,5 +1,77 @@
 [
   {
+    "id": "3076430017",
+    "date": "2026-10-27",
+    "name": "A TOUCH FROM THE HEART",
+    "inspector_id": "1133",
+    "score": "6",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011182",
+    "date": "2026-10-27",
+    "name": "COLONIAL GRIND",
+    "inspector_id": "3159",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010635",
+    "date": "2026-10-27",
+    "name": "DUGOUT  THE",
+    "inspector_id": "986",
+    "score": "95.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011241",
+    "date": "2026-10-27",
+    "name": "LOS COMPAS SNACK BAR & TACOS",
+    "inspector_id": "2393",
+    "score": "94",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011221",
+    "date": "2026-10-27",
+    "name": "RAMSEUR COUNTRY DINER",
+    "inspector_id": "3514",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010754",
+    "date": "2026-10-27",
+    "name": "SHEETZ 418",
+    "inspector_id": "3159",
+    "score": "99",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020109",
+    "date": "2026-10-27",
+    "name": "SUPERWALMART DELI",
+    "inspector_id": "1133",
+    "score": "98.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011156",
+    "date": "2026-10-27",
+    "name": "TIENDA MEXICANAS LOS POTRILLOS",
+    "inspector_id": "2393",
+    "score": "95",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
     "id": "3076010503",
     "date": "2026-10-26",
     "name": "CROSSROAD  KITCHEN",

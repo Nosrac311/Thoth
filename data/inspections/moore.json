@@ -1,5 +1,86 @@
 [
   {
+    "id": "5063012114",
+    "date": "2026-10-27",
+    "name": "AGORA BAKERY AND CAFE",
+    "inspector_id": "3255",
+    "score": "91.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010016",
+    "date": "2026-10-27",
+    "name": "CASA SANTA ANA",
+    "inspector_id": "2810",
+    "score": "95",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010439",
+    "date": "2026-10-27",
+    "name": "DEWBERRY CAFE",
+    "inspector_id": "2922",
+    "score": "89",
+    "grade": "B",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063011086",
+    "date": "2026-10-27",
+    "name": "MAMA MIA",
+    "inspector_id": "2810",
+    "score": "93",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063012011",
+    "date": "2026-10-27",
+    "name": "NEKO THAI AND SUSHI",
+    "inspector_id": "3255",
+    "score": "91.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010993",
+    "date": "2026-10-27",
+    "name": "NO. 1 CHINA",
+    "inspector_id": "2467",
+    "score": "85.50",
+    "grade": "B",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010319",
+    "date": "2026-10-27",
+    "name": "SWEET BASIL CAFE",
+    "inspector_id": "2750",
+    "score": "97.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063110031",
+    "date": "2026-10-27",
+    "name": "WEST PINE ELEMENTARY CAFETERIA",
+    "inspector_id": "2467",
+    "score": "99.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010438",
+    "date": "2026-10-27",
+    "name": "WOODLAKE COUNTRY CLUB",
+    "inspector_id": "2922",
+    "score": "95",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
     "id": "5063420922",
     "date": "2026-10-26",
     "name": "ANNA'S LITTLE ANGELS",

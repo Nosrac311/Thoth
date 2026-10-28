@@ -1,5 +1,95 @@
 [
   {
+    "id": "4032430245",
+    "date": "2026-10-28",
+    "name": "AMAZING XPERIENCE FAMILY CARE HOME",
+    "inspector_id": "2503",
+    "score": "10",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032400045",
+    "date": "2026-10-28",
+    "name": "ATRIA SOUTHPOINT WALK",
+    "inspector_id": "3457",
+    "score": "99.50",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032110027",
+    "date": "2026-10-28",
+    "name": "NEAL SCHOOL LUNCHROOM",
+    "inspector_id": "3229",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420323",
+    "date": "2026-10-28",
+    "name": "SUNSHINE SMILES ACADEMY",
+    "inspector_id": "3547",
+    "score": "6",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420040",
+    "date": "2026-10-28",
+    "name": "THE WOODCROFT SCHOOL",
+    "inspector_id": "1838",
+    "score": "8",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032530298",
+    "date": "2026-10-27",
+    "name": "AVELLAN SPRINGS",
+    "inspector_id": "2303",
+    "score": "22",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010024",
+    "date": "2026-10-27",
+    "name": "BANH'S CUISINE",
+    "inspector_id": "3367",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012608",
+    "date": "2026-10-27",
+    "name": "BUA THAI",
+    "inspector_id": "3096",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013355",
+    "date": "2026-10-27",
+    "name": "CHICK-FIL-A RESEARCH TRIANGLE",
+    "inspector_id": "3457",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011135",
+    "date": "2026-10-27",
+    "name": "EL CUSCATLECO",
+    "inspector_id": "3096",
+    "score": "95",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032021383",
     "date": "2026-10-26",
     "name": "CORNER YAKI",
