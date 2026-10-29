@@ -9,6 +9,15 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041200229",
+    "date": "2026-10-29",
+    "name": "DAYS INN AIRPORT",
+    "inspector_id": "1948",
+    "score": "90",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041021139",
     "date": "2026-10-29",
     "name": "HARRIS TEETER #64 PRODUCE",
@@ -41,6 +50,15 @@
     "name": "LOWES FOODS #203 MEAT MARKET",
     "inspector_id": "3311",
     "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021534",
+    "date": "2026-10-29",
+    "name": "PIGGLY WIGGLY PRODUCE #359",
+    "inspector_id": "1948",
+    "score": "95.50",
     "grade": "A",
     "source": "GUILFORD"
   },
