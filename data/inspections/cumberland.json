@@ -1,5 +1,23 @@
 [
   {
+    "id": "5026300111",
+    "date": "2026-10-28",
+    "name": "BJ'S WHOLESALE MEAT MARKET",
+    "inspector_id": "3562",
+    "score": "92",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026200172",
+    "date": "2026-10-28",
+    "name": "COMFORT INN & SUITES SPRING LAKE",
+    "inspector_id": "3256",
+    "score": "91",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
     "id": "5026013229",
     "date": "2026-10-28",
     "name": "EATON- CANTEEN COMPASS GROUP",
@@ -27,6 +45,24 @@
     "source": "CUMBERLAND"
   },
   {
+    "id": "5026013785",
+    "date": "2026-10-28",
+    "name": "JAMAICAN VIBEZ",
+    "inspector_id": "3473",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013821",
+    "date": "2026-10-28",
+    "name": "LA ISLA MENOS RESTAURANT",
+    "inspector_id": "3251",
+    "score": "97",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
     "id": "5026810976",
     "date": "2026-10-28",
     "name": "LEE'S ACADEMY CHILDCARE",
@@ -42,6 +78,15 @@
     "inspector_id": "3299",
     "score": "",
     "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013734",
+    "date": "2026-10-28",
+    "name": "MCDONALD'S",
+    "inspector_id": "3473",
+    "score": "98",
+    "grade": "A",
     "source": "CUMBERLAND"
   },
   {

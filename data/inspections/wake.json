@@ -18,6 +18,42 @@
     "source": "WAKE"
   },
   {
+    "id": "4092300288",
+    "date": "2026-10-28",
+    "name": "CARY AFRICAN AND CARIBBEAN MARKET",
+    "inspector_id": "2945",
+    "score": "99",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092025507",
+    "date": "2026-10-28",
+    "name": "CHICKEN BEE",
+    "inspector_id": "3079",
+    "score": "98",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092030745",
+    "date": "2026-10-28",
+    "name": "CHILL MAMA FOOD TRUCK (WCID #1075)",
+    "inspector_id": "3006",
+    "score": "90.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092014627",
+    "date": "2026-10-28",
+    "name": "CHIPOTLE MEXICAN GRILL STORE # 0826",
+    "inspector_id": "2703",
+    "score": "98",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092016956",
     "date": "2026-10-28",
     "name": "CITY BARBEQUE #27",
@@ -41,6 +77,15 @@
     "name": "EL FOGONCITO OAXAQUENO  (WCID #976)",
     "inspector_id": "3279",
     "score": "100",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092018750",
+    "date": "2026-10-28",
+    "name": "FATBOYS KITCHEN",
+    "inspector_id": "2790",
+    "score": "94",
     "grade": "A",
     "source": "WAKE"
   },

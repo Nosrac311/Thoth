@@ -9,11 +9,29 @@
     "source": "IREDELL"
   },
   {
+    "id": "2049011305",
+    "date": "2026-10-28",
+    "name": "CHINA EXPRESS",
+    "inspector_id": "2226",
+    "score": "96.50",
+    "grade": "A",
+    "source": "IREDELL"
+  },
+  {
     "id": "2049430155",
     "date": "2026-10-28",
     "name": "SHIRLEY'S ENRICHMENT HOUSE",
     "inspector_id": "2683",
     "score": "0",
+    "grade": "N/A",
+    "source": "IREDELL"
+  },
+  {
+    "id": "2049420220",
+    "date": "2026-10-28",
+    "name": "THE LEARNING EXPERIENCE MOORESVILLE",
+    "inspector_id": "3391",
+    "score": "7",
     "grade": "N/A",
     "source": "IREDELL"
   },

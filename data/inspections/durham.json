@@ -36,11 +36,29 @@
     "source": "DURHAM"
   },
   {
+    "id": "4032430923",
+    "date": "2026-10-28",
+    "name": "DESTINY HOME INC",
+    "inspector_id": "3129",
+    "score": "2",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032060019",
     "date": "2026-10-28",
     "name": "DUKE EAST UNION",
     "inspector_id": "3328",
     "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012300",
+    "date": "2026-10-28",
+    "name": "ICHIBAN HIBACHI SUPREME BUFFET",
+    "inspector_id": "3547",
+    "score": "93.50",
     "grade": "A",
     "source": "DURHAM"
   },

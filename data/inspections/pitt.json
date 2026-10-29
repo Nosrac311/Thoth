@@ -1,10 +1,64 @@
 [
   {
+    "id": "6074420229",
+    "date": "2026-10-28",
+    "name": "BETHEL ELEMENTARY PRE-K",
+    "inspector_id": "2180",
+    "score": "5",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074440005",
+    "date": "2026-10-28",
+    "name": "BETHEL SCHOOL",
+    "inspector_id": "2180",
+    "score": "92",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011320",
+    "date": "2026-10-28",
+    "name": "CAFE DUO",
+    "inspector_id": "3185",
+    "score": "94",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011581",
+    "date": "2026-10-28",
+    "name": "EC PHO VIETNAMESE NOODLE HOUSE",
+    "inspector_id": "2642",
+    "score": "85.50",
+    "grade": "B",
+    "source": "PITT"
+  },
+  {
+    "id": "6074300074",
+    "date": "2026-10-28",
+    "name": "FOOD LION MEAT MARKET 1657",
+    "inspector_id": "3064",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
     "id": "6074300058",
     "date": "2026-10-28",
     "name": "FOOD LION MEAT MARKET 486",
     "inspector_id": "3064",
     "score": "97.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074020339",
+    "date": "2026-10-28",
+    "name": "FOOD LION PRODUCE # 2635",
+    "inspector_id": "2382",
+    "score": "96.50",
     "grade": "A",
     "source": "PITT"
   },
@@ -24,6 +78,15 @@
     "inspector_id": "2929",
     "score": "96.50",
     "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074420297",
+    "date": "2026-10-28",
+    "name": "KID'S CASTLE LEARNING CENTER, LLC",
+    "inspector_id": "2180",
+    "score": "15",
+    "grade": "N/A",
     "source": "PITT"
   },
   {
