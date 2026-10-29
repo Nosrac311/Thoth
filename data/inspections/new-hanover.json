@@ -9,6 +9,15 @@
     "source": "NEW HANOVER"
   },
   {
+    "id": "7065200159",
+    "date": "2026-10-29",
+    "name": "DOLPHIN LANE MOTEL",
+    "inspector_id": "3244",
+    "score": "94",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
     "id": "7065020400",
     "date": "2026-10-29",
     "name": "HARRIS TEETER 301 PRODUCE",
@@ -59,6 +68,15 @@
     "name": "NEW HANOVER CAFETERIA",
     "inspector_id": "3395",
     "score": "99.50",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065011937",
+    "date": "2026-10-29",
+    "name": "THE HARP BAR",
+    "inspector_id": "3246",
+    "score": "90",
     "grade": "A",
     "source": "NEW HANOVER"
   },
