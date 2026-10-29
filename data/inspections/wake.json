@@ -36,10 +36,28 @@
     "source": "WAKE"
   },
   {
+    "id": "4092431358",
+    "date": "2026-10-29",
+    "name": "SERENITY LIVING CARE",
+    "inspector_id": "2917",
+    "score": "0",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092030636",
     "date": "2026-10-29",
     "name": "TACOS EL COCO LOCO (WCID #956)",
     "inspector_id": "3079",
+    "score": "99.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092025314",
+    "date": "2026-10-29",
+    "name": "THE BUTCHER'S MARKET- CATERING",
+    "inspector_id": "2698",
     "score": "99.50",
     "grade": "A",
     "source": "WAKE"
