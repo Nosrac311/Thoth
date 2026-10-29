@@ -72,6 +72,24 @@
     "source": "WAKE"
   },
   {
+    "id": "4092021412",
+    "date": "2026-10-29",
+    "name": "FRESH MARKET #8 PRODUCE",
+    "inspector_id": "3079",
+    "score": "99",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092021413",
+    "date": "2026-10-29",
+    "name": "FRESH MARKET #8 SEAFOOD",
+    "inspector_id": "3079",
+    "score": "97",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092030747",
     "date": "2026-10-29",
     "name": "HALALGYRO (WCID #1101)",
