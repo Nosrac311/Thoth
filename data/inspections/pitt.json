@@ -1,5 +1,14 @@
 [
   {
+    "id": "6074011316",
+    "date": "2026-10-29",
+    "name": "CHICK-FIL-A #02791",
+    "inspector_id": "3183",
+    "score": "93",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
     "id": "6074300057",
     "date": "2026-10-29",
     "name": "FOOD LION MEAT MARKET #1373",
@@ -23,6 +32,15 @@
     "name": "NATIVE FINE DINER",
     "inspector_id": "2642",
     "score": "94.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011601",
+    "date": "2026-10-29",
+    "name": "PANERA BREAD",
+    "inspector_id": "2929",
+    "score": "98.50",
     "grade": "A",
     "source": "PITT"
   },
