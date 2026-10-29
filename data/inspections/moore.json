@@ -1,5 +1,14 @@
 [
   {
+    "id": "5063012002",
+    "date": "2026-10-29",
+    "name": "SOPIES",
+    "inspector_id": "2750",
+    "score": "96.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
     "id": "5063010695",
     "date": "2026-10-29",
     "name": "STATION 21",
@@ -18,6 +27,15 @@
     "source": "MOORE"
   },
   {
+    "id": "5063011031",
+    "date": "2026-10-29",
+    "name": "THE DRUM & QUILL",
+    "inspector_id": "3255",
+    "score": "86.50",
+    "grade": "B",
+    "source": "MOORE"
+  },
+  {
     "id": "5063011145",
     "date": "2026-10-28",
     "name": "195 AMERICAN FUSION",
@@ -32,6 +50,15 @@
     "name": "ASHTENS",
     "inspector_id": "2750",
     "score": "98",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063010330",
+    "date": "2026-10-28",
+    "name": "BHAWK",
+    "inspector_id": "2750",
+    "score": "96",
     "grade": "A",
     "source": "MOORE"
   },
