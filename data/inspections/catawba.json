@@ -18,6 +18,15 @@
     "source": "CATAWBA"
   },
   {
+    "id": "2018011368",
+    "date": "2026-10-29",
+    "name": "CAFE RULE",
+    "inspector_id": "1896",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018011289",
     "date": "2026-10-29",
     "name": "CHIPOTLE #2101",
@@ -30,6 +39,51 @@
     "id": "2018011371",
     "date": "2026-10-29",
     "name": "FRYE REGIONAL HOSPITAL DINING",
+    "inspector_id": "1654",
+    "score": "96.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011621",
+    "date": "2026-10-29",
+    "name": "LINEBERGER'S CATTLE COMPANY",
+    "inspector_id": "2174",
+    "score": "97.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020481",
+    "date": "2026-10-29",
+    "name": "MARKET FRESH IGA - DELI",
+    "inspector_id": "1654",
+    "score": "97",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018300315",
+    "date": "2026-10-29",
+    "name": "MARKET FRESH IGA - MEAT MARKET",
+    "inspector_id": "1654",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011481",
+    "date": "2026-10-29",
+    "name": "PARKWAY HOUSE",
+    "inspector_id": "1896",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020372",
+    "date": "2026-10-29",
+    "name": "SHREE-HARI EXPRESS",
     "inspector_id": "1654",
     "score": "96.50",
     "grade": "A",

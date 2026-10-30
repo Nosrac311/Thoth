@@ -1,5 +1,14 @@
 [
   {
+    "id": "4032012309",
+    "date": "2026-10-30",
+    "name": "HILTON GARDEN INN",
+    "inspector_id": "3328",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032420231",
     "date": "2026-10-29",
     "name": "KING'S KIDS CHILD DEVELOPMENT CENTER",
@@ -15,6 +24,15 @@
     "inspector_id": "3229",
     "score": "2",
     "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032030527",
+    "date": "2026-10-29",
+    "name": "RICOS TACOS #2/ RICOS TACOS COMMISSARY",
+    "inspector_id": "2574",
+    "score": "99.50",
+    "grade": "A",
     "source": "DURHAM"
   },
   {

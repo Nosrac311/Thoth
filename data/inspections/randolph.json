@@ -1,5 +1,14 @@
 [
   {
+    "id": "3076400016",
+    "date": "2026-10-30",
+    "name": "NORTH POINTE",
+    "inspector_id": "1133",
+    "score": "96",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
     "id": "3076011238",
     "date": "2026-10-29",
     "name": "EL CORRAL MEXICAN GRILL",
@@ -9,11 +18,38 @@
     "source": "RANDOLPH"
   },
   {
+    "id": "3076011025",
+    "date": "2026-10-29",
+    "name": "HURRICANE JANE'S",
+    "inspector_id": "2569",
+    "score": "98",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
     "id": "3076011153",
     "date": "2026-10-29",
     "name": "OG'S SPORTS GRILL, LLC",
     "inspector_id": "3514",
     "score": "96",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076010030",
+    "date": "2026-10-29",
+    "name": "SAM'S DINER",
+    "inspector_id": "2569",
+    "score": "97",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076020188",
+    "date": "2026-10-29",
+    "name": "SAMMY'S GRILL",
+    "inspector_id": "2569",
+    "score": "99",
     "grade": "A",
     "source": "RANDOLPH"
   },
