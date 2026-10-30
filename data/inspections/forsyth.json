@@ -45,11 +45,29 @@
     "source": "FORSYTH"
   },
   {
+    "id": "3034300170",
+    "date": "2026-10-30",
+    "name": "PUBLIX MEAT/SEAFOOD MARKET",
+    "inspector_id": "2826",
+    "score": "100",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
     "id": "3034010371",
     "date": "2026-10-30",
     "name": "RYAN'S",
     "inspector_id": "3316",
     "score": "99",
+    "grade": "A",
+    "source": "FORSYTH"
+  },
+  {
+    "id": "3034012378",
+    "date": "2026-10-30",
+    "name": "THE LOOP",
+    "inspector_id": "2826",
+    "score": "93.50",
     "grade": "A",
     "source": "FORSYTH"
   },
