@@ -45,11 +45,29 @@
     "source": "WAKE"
   },
   {
+    "id": "4092016135",
+    "date": "2026-10-30",
+    "name": "LOS TRES MAGUEYES",
+    "inspector_id": "3092",
+    "score": "94",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092021344",
     "date": "2026-10-30",
     "name": "LOWES FOODS #224 DELI",
     "inspector_id": "2944",
     "score": "95",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092025793",
+    "date": "2026-10-30",
+    "name": "MATTY'S MEATBALLS @ COMMUNITY COMMISSARY",
+    "inspector_id": "2091",
+    "score": "99.50",
     "grade": "A",
     "source": "WAKE"
   },
