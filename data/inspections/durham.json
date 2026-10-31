@@ -1,5 +1,59 @@
 [
   {
+    "id": "4032021089",
+    "date": "2026-10-31",
+    "name": "EAST DUKE CONCESSIONS STAND #109",
+    "inspector_id": "3096",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021088",
+    "date": "2026-10-31",
+    "name": "EAST DUKE CONCESSIONS STAND #110",
+    "inspector_id": "3096",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032060163",
+    "date": "2026-10-31",
+    "name": "WEST DUKE CONCESSIONS  STAND# 122",
+    "inspector_id": "3096",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032060161",
+    "date": "2026-10-31",
+    "name": "WEST DUKE CONCESSIONS STAND #100",
+    "inspector_id": "3096",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032060168",
+    "date": "2026-10-31",
+    "name": "WEST DUKE CONCESSIONS STAND# 107",
+    "inspector_id": "3096",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032060164",
+    "date": "2026-10-31",
+    "name": "WEST DUKE CONCESSIONS STAND# 111",
+    "inspector_id": "3096",
+    "score": "100",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032013713",
     "date": "2026-10-30",
     "name": "BARSA MODERN INDIAN",
