@@ -1,5 +1,59 @@
 [
   {
+    "id": "3041015386",
+    "date": "2026-11-02",
+    "name": "CAVA #699",
+    "inspector_id": "3566",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430802",
+    "date": "2026-11-02",
+    "name": "CLAIRES HOME",
+    "inspector_id": "2229",
+    "score": "3",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430380",
+    "date": "2026-11-02",
+    "name": "GENTLEHANDS",
+    "inspector_id": "2229",
+    "score": "5",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041430603",
+    "date": "2026-11-02",
+    "name": "GENTLEHANDS ADULT HOME",
+    "inspector_id": "2229",
+    "score": "2",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015339",
+    "date": "2026-10-30",
+    "name": "FILL N GO",
+    "inspector_id": "3095",
+    "score": "95",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041021414",
+    "date": "2026-10-30",
+    "name": "GOLD COAST INT. MARKET",
+    "inspector_id": "3095",
+    "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041015026",
     "date": "2026-10-30",
     "name": "HOKKAIDO SUSHI",
@@ -14,6 +68,15 @@
     "name": "HPU - JAMBA JUICE",
     "inspector_id": "2964",
     "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015151",
+    "date": "2026-10-30",
+    "name": "LEBLON BRAZILIAN STEAKHOUSE",
+    "inspector_id": "3136",
+    "score": "96",
     "grade": "A",
     "source": "GUILFORD"
   },

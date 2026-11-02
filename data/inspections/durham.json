@@ -1,5 +1,86 @@
 [
   {
+    "id": "4032615976",
+    "date": "2026-11-02",
+    "name": "CATTAIL TATTOO COLLECTIVE- JARED COLLINS",
+    "inspector_id": "3328",
+    "score": "",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032615977",
+    "date": "2026-11-02",
+    "name": "CATTAIL TATTOO COLLECTIVE- LAUREN COLLINS",
+    "inspector_id": "3328",
+    "score": "",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013095",
+    "date": "2026-11-02",
+    "name": "COMFORT INN MEDICAL PARK FS",
+    "inspector_id": "3367",
+    "score": "95",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032200166",
+    "date": "2026-11-02",
+    "name": "COMFORT INN MEDICAL PARK INN",
+    "inspector_id": "3367",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032440162",
+    "date": "2026-11-02",
+    "name": "HERITAGE LEADERSHIP ACADEMY",
+    "inspector_id": "3129",
+    "score": "97",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011924",
+    "date": "2026-11-02",
+    "name": "MEDITERRA GRILL",
+    "inspector_id": "3367",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420084",
+    "date": "2026-11-02",
+    "name": "MT ZION CHRISTIAN DAY CARE",
+    "inspector_id": "3457",
+    "score": "9",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013478",
+    "date": "2026-11-02",
+    "name": "TAQUERIA JALISCO",
+    "inspector_id": "3229",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013561",
+    "date": "2026-11-02",
+    "name": "TOMMY'S MINI MARTS",
+    "inspector_id": "3229",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032021089",
     "date": "2026-10-31",
     "name": "EAST DUKE CONCESSIONS STAND #109",

@@ -1,5 +1,95 @@
 [
   {
+    "id": "4092420941",
+    "date": "2026-11-02",
+    "name": "ABBOTTS CREEK ELEMENTARY PRE-K",
+    "inspector_id": "2698",
+    "score": "6",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092431298",
+    "date": "2026-11-02",
+    "name": "AGAPE FAMILY CARE HOME AT HARDIMONT",
+    "inspector_id": "2802",
+    "score": "9",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092420836",
+    "date": "2026-11-02",
+    "name": "ALSTON RIDGE ELEMENRARY PRE-K",
+    "inspector_id": "3092",
+    "score": "12",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092420351",
+    "date": "2026-11-02",
+    "name": "BRIGHT HORIZONS FAMILY SOLUTIONS CHILD CARE",
+    "inspector_id": "2587",
+    "score": "14",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092110138",
+    "date": "2026-11-02",
+    "name": "CARY ELEMENTARY CAFETERIA",
+    "inspector_id": "3052",
+    "score": "99.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092110064",
+    "date": "2026-11-02",
+    "name": "COMBS ELEMENTARY CAFETERIA",
+    "inspector_id": "3060",
+    "score": "99.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092019288",
+    "date": "2026-11-02",
+    "name": "DAVE'S HOT CHICKEN",
+    "inspector_id": "2701",
+    "score": "99",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092014194",
+    "date": "2026-11-02",
+    "name": "EL PASEO",
+    "inspector_id": "3006",
+    "score": "96",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092019375",
+    "date": "2026-11-02",
+    "name": "FIRST WATCH #6036",
+    "inspector_id": "2701",
+    "score": "99",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092020995",
+    "date": "2026-11-02",
+    "name": "FOOD LION #572 DELI",
+    "inspector_id": "2178",
+    "score": "97.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092431239",
     "date": "2026-10-30",
     "name": "ABSOLUTE HOME",
