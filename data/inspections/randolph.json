@@ -9,11 +9,29 @@
     "source": "RANDOLPH"
   },
   {
+    "id": "3076020007",
+    "date": "2026-11-02",
+    "name": "DIXIE EXPRESS",
+    "inspector_id": "986",
+    "score": "97.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
     "id": "3076020184",
     "date": "2026-11-02",
     "name": "HARVEST HOUSE & CATERING",
     "inspector_id": "3514",
     "score": "99.50",
+    "grade": "A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076011174",
+    "date": "2026-10-30",
+    "name": "CJ'S OLDE TOWNE RESTAURANT",
+    "inspector_id": "986",
+    "score": "96.50",
     "grade": "A",
     "source": "RANDOLPH"
   },
