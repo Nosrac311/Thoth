@@ -1,5 +1,59 @@
 [
   {
+    "id": "5063420103",
+    "date": "2026-11-03",
+    "name": "AUNT SANDI'S LEARNING CENTER",
+    "inspector_id": "2810",
+    "score": "21",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063012126",
+    "date": "2026-11-03",
+    "name": "HOLLIE & SON CAFE & CATERING",
+    "inspector_id": "2810",
+    "score": "95.50",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063430079",
+    "date": "2026-11-03",
+    "name": "HOPE HOME CARE SERVICES, LLC",
+    "inspector_id": "2750",
+    "score": "10",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063400009",
+    "date": "2026-11-03",
+    "name": "TERRA BELLA  ASSISTED LIVING",
+    "inspector_id": "3255",
+    "score": "94.50",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063400013",
+    "date": "2026-11-03",
+    "name": "TERRA BELLA MEMORY CARE",
+    "inspector_id": "3255",
+    "score": "95",
+    "grade": "N/A",
+    "source": "MOORE"
+  },
+  {
+    "id": "5063030302",
+    "date": "2026-11-03",
+    "name": "WILDFIRE WOOD FIRED PIZZA",
+    "inspector_id": "2750",
+    "score": "99",
+    "grade": "A",
+    "source": "MOORE"
+  },
+  {
     "id": "5063430076",
     "date": "2026-11-02",
     "name": "JACKSON SPRINGS TREATMENT CENTER",

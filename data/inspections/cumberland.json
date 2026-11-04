@@ -1,5 +1,95 @@
 [
   {
+    "id": "5026010168",
+    "date": "2026-11-04",
+    "name": "HARDEE'S #1615",
+    "inspector_id": "3288",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026810094",
+    "date": "2026-11-03",
+    "name": "CARLA'S DAY CARE",
+    "inspector_id": "3473",
+    "score": "4",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420815",
+    "date": "2026-11-03",
+    "name": "CHERUB'S DAY CARE CENTER II",
+    "inspector_id": "3473",
+    "score": "13",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026022319",
+    "date": "2026-11-03",
+    "name": "CIRCLE K #2723013",
+    "inspector_id": "3599",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026014054",
+    "date": "2026-11-03",
+    "name": "FIREHOUSE SUBS #10395",
+    "inspector_id": "3473",
+    "score": "99",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013456",
+    "date": "2026-11-03",
+    "name": "FLAVORS",
+    "inspector_id": "3597",
+    "score": "93.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420797",
+    "date": "2026-11-03",
+    "name": "IT TAKES A VILLAGE CHILD CARE & EDUCATIONAL CENT",
+    "inspector_id": "3428",
+    "score": "10",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420072",
+    "date": "2026-11-03",
+    "name": "KINDERCARE LEARNING CENTER LLC",
+    "inspector_id": "3251",
+    "score": "12",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026420856",
+    "date": "2026-11-03",
+    "name": "LITTLE BLESSINGS #2",
+    "inspector_id": "3428",
+    "score": "11",
+    "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026013641",
+    "date": "2026-11-03",
+    "name": "MEZEH GRILL",
+    "inspector_id": "3257",
+    "score": "93.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
     "id": "5026611278",
     "date": "2026-11-02",
     "name": "ANVIL INK AND ART",

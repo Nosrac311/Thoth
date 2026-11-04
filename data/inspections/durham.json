@@ -1,5 +1,95 @@
 [
   {
+    "id": "4032420133",
+    "date": "2026-11-04",
+    "name": "LOVE N JOY CHILD ACADEMY",
+    "inspector_id": "3367",
+    "score": "7",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420015",
+    "date": "2026-11-03",
+    "name": "CALVARY CHILD CARE",
+    "inspector_id": "3367",
+    "score": "21",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013821",
+    "date": "2026-11-03",
+    "name": "CHICKEN SALAD CHICK",
+    "inspector_id": "3457",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013033",
+    "date": "2026-11-03",
+    "name": "HUTCHINS GARAGE",
+    "inspector_id": "3547",
+    "score": "98.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420625",
+    "date": "2026-11-03",
+    "name": "KIDDIE KOLLEGE EARLY LEARNING CENTER",
+    "inspector_id": "3328",
+    "score": "17",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010702",
+    "date": "2026-11-03",
+    "name": "LAS PALMAS",
+    "inspector_id": "3229",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013667",
+    "date": "2026-11-03",
+    "name": "MOE'S SOUTHWEST GRILL",
+    "inspector_id": "3457",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013052",
+    "date": "2026-11-03",
+    "name": "PUPUSERIA ANITA",
+    "inspector_id": "3547",
+    "score": "97.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032021411",
+    "date": "2026-11-03",
+    "name": "QUEDOGS",
+    "inspector_id": "3367",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032011563",
+    "date": "2026-11-03",
+    "name": "RED MILL GRILL",
+    "inspector_id": "3129",
+    "score": "95.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032615976",
     "date": "2026-11-02",
     "name": "CATTAIL TATTOO COLLECTIVE- JARED COLLINS",

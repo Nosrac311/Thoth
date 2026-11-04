@@ -1,5 +1,95 @@
 [
   {
+    "id": "7065013126",
+    "date": "2026-11-04",
+    "name": "GRATEFUL GRAZE",
+    "inspector_id": "3609",
+    "score": "99",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065012798",
+    "date": "2026-11-04",
+    "name": "NEW HANOVER COUNTY SENIOR CENTER",
+    "inspector_id": "3244",
+    "score": "98",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065440039",
+    "date": "2026-11-04",
+    "name": "SEVENTH DAY SCHOOL BUILDING",
+    "inspector_id": "2947",
+    "score": "98.50",
+    "grade": "N/A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065090013",
+    "date": "2026-11-04",
+    "name": "SRC CONGREGATE SITE",
+    "inspector_id": "3244",
+    "score": "100",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065110046",
+    "date": "2026-11-04",
+    "name": "SUNSET PARK CAFETERIA",
+    "inspector_id": "2657",
+    "score": "99",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065011119",
+    "date": "2026-11-03",
+    "name": "ARBYS #7102",
+    "inspector_id": "3459",
+    "score": "96",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065011381",
+    "date": "2026-11-03",
+    "name": "BDOBO MONGOLIAN GRILL",
+    "inspector_id": "3609",
+    "score": "96.50",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065011950",
+    "date": "2026-11-03",
+    "name": "BOJANGLES #763",
+    "inspector_id": "2910",
+    "score": "95.50",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065013361",
+    "date": "2026-11-03",
+    "name": "CAMBRIDGE VILLAGE",
+    "inspector_id": "3247",
+    "score": "97",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065013307",
+    "date": "2026-11-03",
+    "name": "CHINA WOK",
+    "inspector_id": "3247",
+    "score": "83",
+    "grade": "B",
+    "source": "NEW HANOVER"
+  },
+  {
     "id": "7065013257",
     "date": "2026-11-02",
     "name": "DRIFT COFFEE",

@@ -1,5 +1,59 @@
 [
   {
+    "id": "2018020402",
+    "date": "2026-11-03",
+    "name": "CIRCLE K/KANGAROO EXPRESS #3963",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020390",
+    "date": "2026-11-03",
+    "name": "DOMINO'S PIZZA",
+    "inspector_id": "2286",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011265",
+    "date": "2026-11-03",
+    "name": "WAFFLE HOUSE #1974",
+    "inspector_id": "2031",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010266",
+    "date": "2026-11-03",
+    "name": "WENDYS 16",
+    "inspector_id": "2031",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018010717",
+    "date": "2026-11-02",
+    "name": "DARLENES CATERING",
+    "inspector_id": "2174",
+    "score": "99.50",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011586",
+    "date": "2026-11-02",
+    "name": "PALM BERRIES",
+    "inspector_id": "2174",
+    "score": "97",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018011331",
     "date": "2026-10-30",
     "name": "CHICK FIL A",
