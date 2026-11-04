@@ -1,5 +1,14 @@
 [
   {
+    "id": "6074610074",
+    "date": "2026-11-04",
+    "name": "CAPE FEAR TATTOO (ROBERT JAY EDMONDSON)",
+    "inspector_id": "3506",
+    "score": "",
+    "grade": "N/A",
+    "source": "PITT"
+  },
+  {
     "id": "6074010009",
     "date": "2026-11-03",
     "name": "B'S  BARBECUE #1",
@@ -54,12 +63,30 @@
     "source": "PITT"
   },
   {
+    "id": "6074020416",
+    "date": "2026-11-03",
+    "name": "MARCO'S PIZZA #8690",
+    "inspector_id": "3185",
+    "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
     "id": "6074420174",
     "date": "2026-11-03",
     "name": "OPENDOOR PRESCHOOL, WINTERVILLE",
     "inspector_id": "2180",
     "score": "15",
     "grade": "N/A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074090014",
+    "date": "2026-11-03",
+    "name": "PITT CO COUNCIL ON AGING - WEST GREENVILLE SENIOR",
+    "inspector_id": "3185",
+    "score": "99.50",
+    "grade": "A",
     "source": "PITT"
   },
   {
