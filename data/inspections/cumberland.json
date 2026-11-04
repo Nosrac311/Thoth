@@ -18,6 +18,24 @@
     "source": "CUMBERLAND"
   },
   {
+    "id": "5026022290",
+    "date": "2026-11-04",
+    "name": "FOOD LION DELI #1612",
+    "inspector_id": "3257",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026300072",
+    "date": "2026-11-04",
+    "name": "FOOD LION MEAT MARKET #1612",
+    "inspector_id": "3257",
+    "score": "98.50",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
     "id": "5026010168",
     "date": "2026-11-04",
     "name": "HARDEE'S #1615",
