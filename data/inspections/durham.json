@@ -1,5 +1,77 @@
 [
   {
+    "id": "4032410000",
+    "date": "2026-11-05",
+    "name": "DUKE HOSPITAL NORTH, CHILDREN'S CTR, CENTRAL TOWER",
+    "inspector_id": "3367",
+    "score": "97",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032410001",
+    "date": "2026-11-05",
+    "name": "DUKE HOSPITAL SOUTH & MEDICINE PAVILION",
+    "inspector_id": "2242",
+    "score": "96",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013525",
+    "date": "2026-11-05",
+    "name": "ELI LILLY RTP",
+    "inspector_id": "3457",
+    "score": "99.50",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032010853",
+    "date": "2026-11-05",
+    "name": "ELMO'S DINER",
+    "inspector_id": "3328",
+    "score": "94",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013746",
+    "date": "2026-11-05",
+    "name": "JEAN'S BY THE SEA",
+    "inspector_id": "3328",
+    "score": "97",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013174",
+    "date": "2026-11-05",
+    "name": "KOKYU",
+    "inspector_id": "3457",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032420064",
+    "date": "2026-11-05",
+    "name": "LA PETITE ACADEMY",
+    "inspector_id": "2828",
+    "score": "35",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013351",
+    "date": "2026-11-05",
+    "name": "PRESS COFFEE & CREPES",
+    "inspector_id": "2574",
+    "score": "96",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032430676",
     "date": "2026-11-04",
     "name": "ACCESS HEALTH SYSTEM 3",

@@ -1,5 +1,95 @@
 [
   {
+    "id": "4092420899",
+    "date": "2026-11-05",
+    "name": "ALL STARZ APEX",
+    "inspector_id": "3079",
+    "score": "12",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092019725",
+    "date": "2026-11-05",
+    "name": "AMERICAN AIRLINES ADMIRALS CLUB",
+    "inspector_id": "2944",
+    "score": "99.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092025568",
+    "date": "2026-11-05",
+    "name": "BAKERY STORY @ THE KITCHEN SPACE",
+    "inspector_id": "3274",
+    "score": "96",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092210020",
+    "date": "2026-11-05",
+    "name": "BANKS BED AND BREAKFAST",
+    "inspector_id": "3274",
+    "score": "100",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092019872",
+    "date": "2026-11-05",
+    "name": "BATTLE & BIRDIE",
+    "inspector_id": "2698",
+    "score": "99",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092025694",
+    "date": "2026-11-05",
+    "name": "BUTTERMILK BOUTIQUE @ THE KITCHEN SPACE",
+    "inspector_id": "3274",
+    "score": "100",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092431214",
+    "date": "2026-11-05",
+    "name": "CARE ONE",
+    "inspector_id": "1953",
+    "score": "11",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092025585",
+    "date": "2026-11-05",
+    "name": "CHICK-FIL-A #01466",
+    "inspector_id": "2178",
+    "score": "95.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092019246",
+    "date": "2026-11-05",
+    "name": "CHICKEN SALAD CHICK",
+    "inspector_id": "3279",
+    "score": "98",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092019810",
+    "date": "2026-11-05",
+    "name": "CONNIPTION COCKTAILS & CUISINE",
+    "inspector_id": "2944",
+    "score": "91.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092010018",
     "date": "2026-11-04",
     "name": "ANGUS BARN",
