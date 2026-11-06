@@ -9,6 +9,15 @@
     "source": "WAKE"
   },
   {
+    "id": "4092421025",
+    "date": "2026-11-06",
+    "name": "FUQUAY-VARINA KINDERCARE",
+    "inspector_id": "2701",
+    "score": "0",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092431012",
     "date": "2026-11-06",
     "name": "LIVING WITH AUTISM",
@@ -23,6 +32,15 @@
     "name": "OAK CITY FISH AND CHIPS #2 (WCID #627)",
     "inspector_id": "2944",
     "score": "98",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092110495",
+    "date": "2026-11-06",
+    "name": "WILBURN ELEMENTARY CAFETERIA",
+    "inspector_id": "2790",
+    "score": "100",
     "grade": "A",
     "source": "WAKE"
   },
