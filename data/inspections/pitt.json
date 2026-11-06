@@ -9,6 +9,15 @@
     "source": "PITT"
   },
   {
+    "id": "6074020186",
+    "date": "2026-11-06",
+    "name": "FOOD LION DELI # 1568",
+    "inspector_id": "3185",
+    "score": "98",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
     "id": "6074011848",
     "date": "2026-11-06",
     "name": "GWENDY'S GOODIES",
@@ -50,6 +59,15 @@
     "name": "SONIC DRIVE IN 5449",
     "inspector_id": "3183",
     "score": "97",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011620",
+    "date": "2026-11-06",
+    "name": "TROPICAL SMOOTHIE CAFE",
+    "inspector_id": "3185",
+    "score": "95.50",
     "grade": "A",
     "source": "PITT"
   },
