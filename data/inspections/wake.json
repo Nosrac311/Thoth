@@ -54,6 +54,24 @@
     "source": "WAKE"
   },
   {
+    "id": "4092021190",
+    "date": "2026-11-06",
+    "name": "HARRIS TEETER #112 DELI",
+    "inspector_id": "2945",
+    "score": "96",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092021193",
+    "date": "2026-11-06",
+    "name": "HARRIS TEETER #112 MEAT MARKET/SEAFOOD",
+    "inspector_id": "2945",
+    "score": "99.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092200284",
     "date": "2026-11-06",
     "name": "HILTON GARDEN INN- RALEIGH CRABTREE",
