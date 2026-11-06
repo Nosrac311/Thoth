@@ -27,6 +27,24 @@
     "source": "NEW HANOVER"
   },
   {
+    "id": "7065530267",
+    "date": "2026-11-06",
+    "name": "THE PROMENADE INDOOR POOL",
+    "inspector_id": "2910",
+    "score": "14",
+    "grade": "N/A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065550103",
+    "date": "2026-11-06",
+    "name": "THE PROMENADE INDOOR SPA",
+    "inspector_id": "2910",
+    "score": "12",
+    "grade": "N/A",
+    "source": "NEW HANOVER"
+  },
+  {
     "id": "7065012504",
     "date": "2026-11-05",
     "name": "BOJANGLES #147",
