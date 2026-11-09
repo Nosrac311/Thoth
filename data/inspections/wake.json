@@ -36,6 +36,15 @@
     "source": "WAKE"
   },
   {
+    "id": "4092019910",
+    "date": "2026-11-09",
+    "name": "JIMMY JOHN'S #4642",
+    "inspector_id": "2917",
+    "score": "96",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092421024",
     "date": "2026-11-09",
     "name": "PRIMROSE SCHOOL OF FUQUAY VARINA",
@@ -68,6 +77,15 @@
     "name": "SHAWARMA STOP",
     "inspector_id": "3092",
     "score": "95.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092025438",
+    "date": "2026-11-09",
+    "name": "STEVE'S PLACE",
+    "inspector_id": "2178",
+    "score": "94",
     "grade": "A",
     "source": "WAKE"
   },
