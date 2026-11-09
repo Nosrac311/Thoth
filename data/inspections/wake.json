@@ -45,6 +45,24 @@
     "source": "WAKE"
   },
   {
+    "id": "4092022009",
+    "date": "2026-11-09",
+    "name": "LA BONITA DELI",
+    "inspector_id": "2945",
+    "score": "96",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092300283",
+    "date": "2026-11-09",
+    "name": "LA BONITA MEAT MARKET",
+    "inspector_id": "2945",
+    "score": "98.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092421024",
     "date": "2026-11-09",
     "name": "PRIMROSE SCHOOL OF FUQUAY VARINA",
