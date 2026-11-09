@@ -18,6 +18,15 @@
     "source": "WAKE"
   },
   {
+    "id": "4092019529",
+    "date": "2026-11-09",
+    "name": "BLR FOOD STREET",
+    "inspector_id": "2587",
+    "score": "95.50",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092019502",
     "date": "2026-11-09",
     "name": "CHICK-FIL-A 00868",
@@ -30,6 +39,15 @@
     "id": "4092019439",
     "date": "2026-11-09",
     "name": "DUCK DONUTS 166",
+    "inspector_id": "3279",
+    "score": "97",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092021637",
+    "date": "2026-11-09",
+    "name": "EDIBLE ARRANGEMENTS #1159",
     "inspector_id": "3279",
     "score": "97",
     "grade": "A",
