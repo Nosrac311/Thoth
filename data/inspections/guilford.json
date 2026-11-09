@@ -36,6 +36,15 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041015390",
+    "date": "2026-11-09",
+    "name": "JERSEY MIKE'S SUBS",
+    "inspector_id": "2370",
+    "score": "97.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041013917",
     "date": "2026-11-09",
     "name": "KFC #G195193",
@@ -68,6 +77,15 @@
     "name": "LOWES FOODS #155 SEAFOOD",
     "inspector_id": "3311",
     "score": "99",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015394",
+    "date": "2026-11-09",
+    "name": "MCDONALD'S",
+    "inspector_id": "2370",
+    "score": "97.50",
     "grade": "A",
     "source": "GUILFORD"
   },
