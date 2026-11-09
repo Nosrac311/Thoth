@@ -18,12 +18,30 @@
     "source": "DURHAM"
   },
   {
+    "id": "4032420126",
+    "date": "2026-11-09",
+    "name": "BRYSON CHRISTIAN MONTESSORI  3",
+    "inspector_id": "3367",
+    "score": "27",
+    "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032430085",
     "date": "2026-11-09",
     "name": "DHD GROUP HOME",
     "inspector_id": "3129",
     "score": "3",
     "grade": "N/A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032013660",
+    "date": "2026-11-09",
+    "name": "GYU-KAKU JAPANESE BBQ",
+    "inspector_id": "2503",
+    "score": "97.50",
+    "grade": "A",
     "source": "DURHAM"
   },
   {
