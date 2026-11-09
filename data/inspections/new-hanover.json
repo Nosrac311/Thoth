@@ -18,6 +18,15 @@
     "source": "NEW HANOVER"
   },
   {
+    "id": "7065011204",
+    "date": "2026-11-09",
+    "name": "CAROLINA GIRLS GRILLIN CAFE",
+    "inspector_id": "3247",
+    "score": "96",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
     "id": "7065013247",
     "date": "2026-11-09",
     "name": "COAST BAR & GRILL",
@@ -32,6 +41,15 @@
     "name": "DRIFT CAFE PN",
     "inspector_id": "2443",
     "score": "96",
+    "grade": "A",
+    "source": "NEW HANOVER"
+  },
+  {
+    "id": "7065013300",
+    "date": "2026-11-09",
+    "name": "EL CORRALITO TAQUERIA",
+    "inspector_id": "2910",
+    "score": "97",
     "grade": "A",
     "source": "NEW HANOVER"
   },
