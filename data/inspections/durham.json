@@ -54,6 +54,24 @@
     "source": "DURHAM"
   },
   {
+    "id": "4032012264",
+    "date": "2026-11-09",
+    "name": "JUMBO CHINA",
+    "inspector_id": "3096",
+    "score": "98",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
+    "id": "4032012433",
+    "date": "2026-11-09",
+    "name": "NEW TOKYO",
+    "inspector_id": "3457",
+    "score": "99",
+    "grade": "A",
+    "source": "DURHAM"
+  },
+  {
     "id": "4032420457",
     "date": "2026-11-09",
     "name": "PRIMROSE SCHOOL OF CHAPEL HILL EAST",
