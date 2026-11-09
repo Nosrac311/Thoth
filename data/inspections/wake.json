@@ -27,6 +27,15 @@
     "source": "WAKE"
   },
   {
+    "id": "4092019439",
+    "date": "2026-11-09",
+    "name": "DUCK DONUTS 166",
+    "inspector_id": "3279",
+    "score": "97",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092018826",
     "date": "2026-11-09",
     "name": "FLYING BISCUIT",
@@ -68,6 +77,15 @@
     "name": "HARRIS TEETER #311 MEAT MARKET",
     "inspector_id": "2701",
     "score": "100",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092016791",
+    "date": "2026-11-09",
+    "name": "HOLLY HILL CHILDREN'S HOSPITAL DINING",
+    "inspector_id": "1953",
+    "score": "99.50",
     "grade": "A",
     "source": "WAKE"
   },
