@@ -27,6 +27,24 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041012501",
+    "date": "2026-11-06",
+    "name": "BILLS PIZZA PUB",
+    "inspector_id": "3095",
+    "score": "94",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041014311",
+    "date": "2026-11-06",
+    "name": "CHIPOTLE #2550",
+    "inspector_id": "3095",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041110020",
     "date": "2026-11-06",
     "name": "FLORENCE ELEM. SCHOOL",
