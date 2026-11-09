@@ -1,5 +1,23 @@
 [
   {
+    "id": "3076440016",
+    "date": "2026-11-09",
+    "name": "GRAYS CHAPEL SCHOOL",
+    "inspector_id": "2487",
+    "score": "96.50",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
+    "id": "3076440072",
+    "date": "2026-11-09",
+    "name": "PROVIDENCE GROVE HIGH SCHOOL",
+    "inspector_id": "2487",
+    "score": "94.50",
+    "grade": "N/A",
+    "source": "RANDOLPH"
+  },
+  {
     "id": "3076020225",
     "date": "2026-11-09",
     "name": "SPEEDY WOK",
