@@ -27,6 +27,15 @@
     "source": "WAKE"
   },
   {
+    "id": "4092440253",
+    "date": "2026-11-09",
+    "name": "CARY CHRISTIAN SCHOOL",
+    "inspector_id": "1746",
+    "score": "95",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092019502",
     "date": "2026-11-09",
     "name": "CHICK-FIL-A 00868",
@@ -59,6 +68,15 @@
     "name": "EDIBLE ARRANGEMENTS #1159",
     "inspector_id": "3279",
     "score": "97",
+    "grade": "A",
+    "source": "WAKE"
+  },
+  {
+    "id": "4092200374",
+    "date": "2026-11-09",
+    "name": "EXTENDED STAY AMERICA EAST",
+    "inspector_id": "3006",
+    "score": "90",
     "grade": "A",
     "source": "WAKE"
   },
