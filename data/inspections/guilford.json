@@ -27,6 +27,24 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041014649",
+    "date": "2026-11-09",
+    "name": "VIVA CHICKEN",
+    "inspector_id": "1958",
+    "score": "96.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041015242",
+    "date": "2026-11-09",
+    "name": "WHATABURGER RESTAURANT",
+    "inspector_id": "1958",
+    "score": "98.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041010159",
     "date": "2026-11-06",
     "name": "ARIGATO",
