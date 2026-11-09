@@ -45,6 +45,15 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041420141",
+    "date": "2026-11-09",
+    "name": "KIDS CONNECTION",
+    "inspector_id": "1768",
+    "score": "0",
+    "grade": "N/A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041300083",
     "date": "2026-11-09",
     "name": "LOWES FOODS #155 MARKET",
@@ -67,6 +76,15 @@
     "date": "2026-11-09",
     "name": "MCDONALDS",
     "inspector_id": "3311",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041050003",
+    "date": "2026-11-09",
+    "name": "OUR LADY OF GRACE",
+    "inspector_id": "1768",
     "score": "98",
     "grade": "A",
     "source": "GUILFORD"
