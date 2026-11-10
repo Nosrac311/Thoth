@@ -1,5 +1,23 @@
 [
   {
+    "id": "2018110044",
+    "date": "2026-11-09",
+    "name": "HICKORY CAREER ARTS MAGNET CAFETERIA",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018020426",
+    "date": "2026-11-09",
+    "name": "HICKORY CAREER ARTS MAGNET CULINARY CLASS",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018010542",
     "date": "2026-11-06",
     "name": "GEPPETO'S SPRINGS RD",
