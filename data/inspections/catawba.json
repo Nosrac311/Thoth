@@ -9,6 +9,24 @@
     "source": "CATAWBA"
   },
   {
+    "id": "2018020247",
+    "date": "2026-11-09",
+    "name": "BUFFALO SHOALS IGA DELI",
+    "inspector_id": "2031",
+    "score": "98",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018300053",
+    "date": "2026-11-09",
+    "name": "BUFFALO SHOALS IGA MEAT MARKET",
+    "inspector_id": "2031",
+    "score": "97",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018110044",
     "date": "2026-11-09",
     "name": "HICKORY CAREER ARTS MAGNET CAFETERIA",
