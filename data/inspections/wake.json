@@ -18,6 +18,15 @@
     "source": "WAKE"
   },
   {
+    "id": "4092420991",
+    "date": "2026-11-10",
+    "name": "CHILDCARE NETWORK #60",
+    "inspector_id": "3006",
+    "score": "4",
+    "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
     "id": "4092020848",
     "date": "2026-11-10",
     "name": "DOMINO'S",
@@ -69,6 +78,15 @@
     "inspector_id": "2178",
     "score": "7",
     "grade": "N/A",
+    "source": "WAKE"
+  },
+  {
+    "id": "40920110144",
+    "date": "2026-11-10",
+    "name": "NC BAGELS",
+    "inspector_id": "2701",
+    "score": "99.50",
+    "grade": "A",
     "source": "WAKE"
   },
   {
