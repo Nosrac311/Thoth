@@ -18,11 +18,29 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041010947",
+    "date": "2026-11-10",
+    "name": "CHICK-FIL-A OF WENDOVER",
+    "inspector_id": "1958",
+    "score": "100",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041014997",
     "date": "2026-11-10",
     "name": "INDU INDIAN GROCERY & CAFE #2",
     "inspector_id": "3566",
     "score": "92.50",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041013921",
+    "date": "2026-11-10",
+    "name": "KENTUCKY FRIED CHICKEN",
+    "inspector_id": "1958",
+    "score": "98",
     "grade": "A",
     "source": "GUILFORD"
   },
