@@ -18,12 +18,30 @@
     "source": "CATAWBA"
   },
   {
+    "id": "2018011642",
+    "date": "2026-11-10",
+    "name": "STARBUCK'S #69592 SPRINGS RD",
+    "inspector_id": "2286",
+    "score": "100",
+    "grade": "A",
+    "source": "CATAWBA"
+  },
+  {
     "id": "2018420051",
     "date": "2026-11-10",
     "name": "TENDER CARE CDC",
     "inspector_id": "2286",
     "score": "4",
     "grade": "N/A",
+    "source": "CATAWBA"
+  },
+  {
+    "id": "2018011776",
+    "date": "2026-11-10",
+    "name": "TIE BREAKERS",
+    "inspector_id": "2286",
+    "score": "99",
+    "grade": "A",
     "source": "CATAWBA"
   },
   {
