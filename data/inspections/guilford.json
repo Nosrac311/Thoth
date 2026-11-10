@@ -27,6 +27,15 @@
     "source": "GUILFORD"
   },
   {
+    "id": "3041012962",
+    "date": "2026-11-10",
+    "name": "HILTON GARDEN INN AMERICAN GRILL",
+    "inspector_id": "2924",
+    "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
     "id": "3041014997",
     "date": "2026-11-10",
     "name": "INDU INDIAN GROCERY & CAFE #2",
@@ -41,6 +50,15 @@
     "name": "KENTUCKY FRIED CHICKEN",
     "inspector_id": "1958",
     "score": "98",
+    "grade": "A",
+    "source": "GUILFORD"
+  },
+  {
+    "id": "3041010555",
+    "date": "2026-11-10",
+    "name": "LUCKY 32",
+    "inspector_id": "2924",
+    "score": "96",
     "grade": "A",
     "source": "GUILFORD"
   },
