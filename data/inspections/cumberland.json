@@ -1,5 +1,14 @@
 [
   {
+    "id": "5026013760",
+    "date": "2026-11-10",
+    "name": "ARBY'S",
+    "inspector_id": "3257",
+    "score": "98",
+    "grade": "A",
+    "source": "CUMBERLAND"
+  },
+  {
     "id": "5026612083",
     "date": "2026-11-10",
     "name": "BROW QUEEN MICROBLADING",
@@ -51,6 +60,15 @@
     "inspector_id": "3299",
     "score": "",
     "grade": "N/A",
+    "source": "CUMBERLAND"
+  },
+  {
+    "id": "5026200184",
+    "date": "2026-11-10",
+    "name": "SPARK BY HILTON",
+    "inspector_id": "3599",
+    "score": "87.50",
+    "grade": "B",
     "source": "CUMBERLAND"
   },
   {
