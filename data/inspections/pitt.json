@@ -9,6 +9,15 @@
     "source": "PITT"
   },
   {
+    "id": "6074030178",
+    "date": "2026-11-10",
+    "name": "FATMAN'S SUBS & GRILL MFU",
+    "inspector_id": "3185",
+    "score": "98.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
     "id": "6074530051",
     "date": "2026-11-10",
     "name": "FIRST STREET PLACE SWIMMING POOL",
@@ -50,6 +59,15 @@
     "name": "HCK HOT CHICKEN GREENVILLE NC",
     "inspector_id": "3183",
     "score": "92.50",
+    "grade": "A",
+    "source": "PITT"
+  },
+  {
+    "id": "6074011822",
+    "date": "2026-11-10",
+    "name": "ROYAL FARMS #486",
+    "inspector_id": "3185",
+    "score": "90",
     "grade": "A",
     "source": "PITT"
   },
